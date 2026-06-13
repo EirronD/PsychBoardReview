@@ -1749,6 +1749,706 @@
       "explanation": "Job specification focuses on the required human traits, skills, and abilities.",
       "topic": "I-O Psychology / Job Analysis",
       "difficulty": "easy"
+    },
+    {
+      "id": "q126",
+      "questionText": "Which of the following is NOT considered one of the \"Four Ds\" of abnormality?",
+      "options": {
+        "A": "Deviance",
+        "B": "Distress",
+        "C": "Disability",
+        "D": "Danger"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Four Ds are Deviance, Distress, Dysfunction, and Danger. Disability is not part of the standard model.",
+      "topic": "Abnormal Psychology / Definitions",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q127",
+      "questionText": "The supernatural view of abnormality, which was prominent in the Middle Ages, attributed abnormal behavior to:",
+      "options": {
+        "A": "Bodily humors",
+        "B": "Demonic possession",
+        "C": "Unconscious conflicts",
+        "D": "Learned behaviors"
+      },
+      "correctAnswer": "B",
+      "explanation": "During the Middle Ages, abnormal behavior was often attributed to supernatural causes such as demonic possession.",
+      "topic": "Abnormal Psychology / Historical Perspectives",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q128",
+      "questionText": "Which historical figure is associated with the reform of asylums and the moral treatment movement?",
+      "options": {
+        "A": "Sigmund Freud",
+        "B": "B.F. Skinner",
+        "C": "Philippe Pinel",
+        "D": "Emil Kraepelin"
+      },
+      "correctAnswer": "C",
+      "explanation": "Philippe Pinel is known for humanizing the treatment of mental patients and leading moral reform in asylums.",
+      "topic": "Abnormal Psychology / History",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q129",
+      "questionText": "The biological model of abnormality emphasizes the role of which of the following in mental disorders?",
+      "options": {
+        "A": "Brain structure and neurochemistry",
+        "B": "Early childhood experiences",
+        "C": "Social and cultural factors",
+        "D": "All of the above"
+      },
+      "correctAnswer": "A",
+      "explanation": "The biological model focuses on physical factors such as brain structure, neurotransmitters, and genetics.",
+      "topic": "Abnormal Psychology / Models",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q130",
+      "questionText": "Which neurotransmitter is most commonly associated with depression?",
+      "options": {
+        "A": "Dopamine",
+        "B": "GABA",
+        "C": "Serotonin",
+        "D": "Acetylcholine"
+      },
+      "correctAnswer": "C",
+      "explanation": "Serotonin is strongly linked to mood regulation and is commonly associated with depression.",
+      "topic": "Abnormal Psychology / Biological Bases",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q131",
+      "questionText": "The psychodynamic model, founded by Sigmund Freud, proposes that abnormal behavior results from:",
+      "options": {
+        "A": "Faulty learning",
+        "B": "Unconscious conflicts",
+        "C": "Chemical imbalances",
+        "D": "None of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "Psychodynamic theory emphasizes unconscious conflicts as the root of psychological disorders.",
+      "topic": "Abnormal Psychology / Theories",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q132",
+      "questionText": "Which part of the personality, according to Freud, operates on the \"pleasure principle\"?",
+      "options": {
+        "A": "Id",
+        "B": "Ego",
+        "C": "Superego",
+        "D": "All of the above"
+      },
+      "correctAnswer": "A",
+      "explanation": "The id seeks immediate gratification and operates on the pleasure principle.",
+      "topic": "Abnormal Psychology / Psychoanalysis",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q133",
+      "questionText": "The behavioral model suggests that abnormal behaviors are:",
+      "options": {
+        "A": "Inherited through genes",
+        "B": "Learned through experience",
+        "C": "Caused by irrational thoughts",
+        "D": "A result of a dysfunctional society"
+      },
+      "correctAnswer": "B",
+      "explanation": "Behavioral theory explains abnormal behavior as learned through conditioning and experience.",
+      "topic": "Abnormal Psychology / Learning Theory",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q134",
+      "questionText": "Classical conditioning, a concept developed by Ivan Pavlov, involves learning by:",
+      "options": {
+        "A": "Association",
+        "B": "Consequences",
+        "C": "Observation",
+        "D": "Trial and error"
+      },
+      "correctAnswer": "A",
+      "explanation": "Classical conditioning is learning through association between stimuli.",
+      "topic": "Abnormal Psychology / Learning Theory",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q135",
+      "questionText": "The cognitive model focuses on how ______ contribute(s) to psychological disorders.",
+      "options": {
+        "A": "Genetic predispositions",
+        "B": "Social labels",
+        "C": "Distorted thinking and beliefs",
+        "D": "All of the above"
+      },
+      "correctAnswer": "C",
+      "explanation": "Cognitive theory emphasizes distorted thoughts and beliefs as causes of disorders.",
+      "topic": "Abnormal Psychology / Cognitive Model",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q136",
+      "questionText": "A persistent and irrational fear of a specific object or situation is known as a:",
+      "options": {
+        "A": "Panic attack",
+        "B": "Generalized anxiety",
+        "C": "Phobia",
+        "D": "Obsession"
+      },
+      "correctAnswer": "C",
+      "explanation": "A phobia is an intense, irrational fear of a specific object or situation.",
+      "topic": "Anxiety Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q137",
+      "questionText": "A person who experiences sudden episodes of intense fear with physical symptoms may be diagnosed with:",
+      "options": {
+        "A": "Agoraphobia",
+        "B": "Panic Disorder",
+        "C": "Social Anxiety Disorder",
+        "D": "OCD"
+      },
+      "correctAnswer": "B",
+      "explanation": "Panic disorder involves recurrent unexpected panic attacks.",
+      "topic": "Anxiety Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q138",
+      "questionText": "Which of the following is a core feature of Generalized Anxiety Disorder (GAD)?",
+      "options": {
+        "A": "Fear of specific objects",
+        "B": "Recurrent panic attacks",
+        "C": "Excessive and persistent worry",
+        "D": "None of the above"
+      },
+      "correctAnswer": "C",
+      "explanation": "GAD involves chronic, excessive worry about various life domains.",
+      "topic": "Anxiety Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q139",
+      "questionText": "Obsessions are to ________ as compulsions are to ________.",
+      "options": {
+        "A": "behaviors; thoughts",
+        "B": "thoughts; behaviors",
+        "C": "fears; worries",
+        "D": "worries; fears"
+      },
+      "correctAnswer": "B",
+      "explanation": "Obsessions are intrusive thoughts, while compulsions are repetitive behaviors.",
+      "topic": "OCD",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q140",
+      "questionText": "PTSD can develop after an individual experiences or witnesses:",
+      "options": {
+        "A": "Any stressful event",
+        "B": "A traumatic event",
+        "C": "A minor inconvenience",
+        "D": "None of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "PTSD is triggered by exposure to traumatic events.",
+      "topic": "Trauma and Stress Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q141",
+      "questionText": "Which of the following is a primary characteristic of mood disorders?",
+      "options": {
+        "A": "Disturbances in thought processes",
+        "B": "Disturbances in emotional state",
+        "C": "Disturbances in physical health",
+        "D": "Disturbances in social relationships"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mood disorders primarily involve disturbances in emotional regulation.",
+      "topic": "Mood Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q142",
+      "questionText": "A person with prolonged sadness and loss of interest is likely suffering from:",
+      "options": {
+        "A": "Bipolar Disorder",
+        "B": "Major Depressive Disorder",
+        "C": "Cyclothymic Disorder",
+        "D": "Dysthymia"
+      },
+      "correctAnswer": "B",
+      "explanation": "Major Depressive Disorder includes persistent sadness and anhedonia.",
+      "topic": "Mood Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q143",
+      "questionText": "Bipolar I Disorder is characterized by at least one:",
+      "options": {
+        "A": "Manic episode",
+        "B": "Hypomanic episode",
+        "C": "Major depressive episode",
+        "D": "All of the above"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bipolar I requires at least one manic episode.",
+      "topic": "Bipolar Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q144",
+      "questionText": "A less severe but chronic form of depression is:",
+      "options": {
+        "A": "Persistent Depressive Disorder",
+        "B": "Cyclothymic Disorder",
+        "C": "Bipolar II Disorder",
+        "D": "MDD single episode"
+      },
+      "correctAnswer": "A",
+      "explanation": "Persistent Depressive Disorder (dysthymia) is chronic but less severe depression.",
+      "topic": "Mood Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q145",
+      "questionText": "Which statement about suicide is correct?",
+      "options": {
+        "A": "Talking about suicide is always attention-seeking",
+        "B": "Suicide is most common in lower socioeconomic groups",
+        "C": "Asking about suicide increases risk",
+        "D": "None of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "All listed statements are false or misleading according to research.",
+      "topic": "Clinical Psychology / Suicide",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q146",
+      "questionText": "Schizophrenia is primarily a disorder of:",
+      "options": {
+        "A": "Mood",
+        "B": "Anxiety",
+        "C": "Thought",
+        "D": "Personality"
+      },
+      "correctAnswer": "C",
+      "explanation": "Schizophrenia primarily affects thinking, perception, and cognition.",
+      "topic": "Psychotic Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q147",
+      "questionText": "A false belief held despite evidence to the contrary is a:",
+      "options": {
+        "A": "Hallucination",
+        "B": "Delusion",
+        "C": "Illusion",
+        "D": "Obsession"
+      },
+      "correctAnswer": "B",
+      "explanation": "Delusions are fixed false beliefs resistant to evidence.",
+      "topic": "Psychotic Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q148",
+      "questionText": "A sensory experience without external stimulus is a:",
+      "options": {
+        "A": "Hallucination",
+        "B": "Delusion",
+        "C": "Illusion",
+        "D": "Compulsion"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hallucinations involve perception without external input.",
+      "topic": "Psychotic Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q149",
+      "questionText": "Which is a negative symptom of schizophrenia?",
+      "options": {
+        "A": "Hallucinations",
+        "B": "Delusions",
+        "C": "Disorganized speech",
+        "D": "Flat affect"
+      },
+      "correctAnswer": "D",
+      "explanation": "Flat affect is a reduction in emotional expression (negative symptom).",
+      "topic": "Psychotic Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q150",
+      "questionText": "The diathesis-stress model suggests schizophrenia develops from:",
+      "options": {
+        "A": "Genetic predisposition and environmental stressors",
+        "B": "Biological cause only",
+        "C": "Psychological cause only",
+        "D": "Social cause only"
+      },
+      "correctAnswer": "A",
+      "explanation": "It emphasizes interaction between vulnerability and stress.",
+      "topic": "Psychotic Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q151",
+      "questionText": "Personality disorders are characterized by behavior that is:",
+      "options": {
+        "A": "Flexible and adaptive",
+        "B": "Inflexible and maladaptive",
+        "C": "Episodic",
+        "D": "Medical in origin"
+      },
+      "correctAnswer": "B",
+      "explanation": "Personality disorders involve enduring maladaptive patterns.",
+      "topic": "Personality Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q152",
+      "questionText": "Cluster B personality disorders are described as:",
+      "options": {
+        "A": "Anxious and fearful",
+        "B": "Dramatic and emotional",
+        "C": "Odd and eccentric",
+        "D": "Stable and controlled"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cluster B includes dramatic, emotional, and erratic disorders.",
+      "topic": "Personality Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q153",
+      "questionText": "A person with grandiosity and lack of empathy likely has:",
+      "options": {
+        "A": "Borderline Personality Disorder",
+        "B": "Histrionic Personality Disorder",
+        "C": "Narcissistic Personality Disorder",
+        "D": "Antisocial Personality Disorder"
+      },
+      "correctAnswer": "C",
+      "explanation": "Narcissistic PD involves grandiosity and lack of empathy.",
+      "topic": "Personality Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q154",
+      "questionText": "Antisocial Personality Disorder involves:",
+      "options": {
+        "A": "Attention-seeking",
+        "B": "Disregard for others' rights",
+        "C": "Social fear",
+        "D": "Abandonment fear"
+      },
+      "correctAnswer": "B",
+      "explanation": "ASPD is characterized by disregard for others and lack of remorse.",
+      "topic": "Personality Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q155",
+      "questionText": "Borderline Personality Disorder involves:",
+      "options": {
+        "A": "Stable relationships",
+        "B": "Emotional stability",
+        "C": "Instability in relationships and mood",
+        "D": "Detachment from reality"
+      },
+      "correctAnswer": "C",
+      "explanation": "BPD involves instability in relationships, self-image, and emotions.",
+      "topic": "Personality Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q156",
+      "questionText": "Somatic Symptom Disorder involves:",
+      "options": {
+        "A": "Real medical disease only",
+        "B": "Faking symptoms for gain",
+        "C": "Distressing symptoms with excessive thoughts and behaviors",
+        "D": "Neurological damage only"
+      },
+      "correctAnswer": "C",
+      "explanation": "SSD involves distressing somatic symptoms and excessive concern.",
+      "topic": "Somatic Symptom Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q157",
+      "questionText": "Illness Anxiety Disorder involves:",
+      "options": {
+        "A": "Severe physical symptoms",
+        "B": "Preoccupation with having a serious illness",
+        "C": "Intentional symptom production",
+        "D": "Neurological deficits"
+      },
+      "correctAnswer": "B",
+      "explanation": "IAD involves high health anxiety despite minimal symptoms.",
+      "topic": "Somatic Symptom Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q158",
+      "questionText": "Conversion Disorder is characterized by:",
+      "options": {
+        "A": "Physical symptoms with no neurological cause",
+        "B": "Intentional faking",
+        "C": "Body image distortion",
+        "D": "Medication side effects"
+      },
+      "correctAnswer": "A",
+      "explanation": "Conversion disorder involves neurological-like symptoms without medical cause.",
+      "topic": "Somatic Symptom Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q159",
+      "questionText": "Factitious Disorder involves:",
+      "options": {
+        "A": "External rewards for symptoms",
+        "B": "Intentional symptom production without external rewards",
+        "C": "Unintentional symptoms",
+        "D": "Memory loss"
+      },
+      "correctAnswer": "B",
+      "explanation": "Symptoms are intentionally produced without obvious external gain.",
+      "topic": "Somatic Symptom Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q160",
+      "questionText": "Dissociative disorders involve disruption in:",
+      "options": {
+        "A": "Mood only",
+        "B": "Memory, identity, or consciousness",
+        "C": "Motor function only",
+        "D": "Social behavior only"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dissociation affects integration of consciousness and identity.",
+      "topic": "Dissociative Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q161",
+      "questionText": "Dissociative Amnesia involves:",
+      "options": {
+        "A": "Loss of motor function",
+        "B": "Inability to recall important personal information",
+        "C": "Hallucinations",
+        "D": "Delusions"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dissociative amnesia involves memory loss of personal information.",
+      "topic": "Dissociative Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q162",
+      "questionText": "Depersonalization involves:",
+      "options": {
+        "A": "Feeling detached from oneself",
+        "B": "Loss of identity states",
+        "C": "Memory loss",
+        "D": "Hallucinations"
+      },
+      "correctAnswer": "A",
+      "explanation": "Depersonalization is feeling detached from one's own self.",
+      "topic": "Dissociative Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q163",
+      "questionText": "Dissociative Identity Disorder involves:",
+      "options": {
+        "A": "Mood swings",
+        "B": "Two or more distinct identity states",
+        "C": "Delusions",
+        "D": "Anxiety attacks"
+      },
+      "correctAnswer": "B",
+      "explanation": "DID involves presence of multiple identity states.",
+      "topic": "Dissociative Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q164",
+      "questionText": "Neurodevelopmental disorders typically appear:",
+      "options": {
+        "A": "In adulthood",
+        "B": "In early development",
+        "C": "In old age",
+        "D": "Only after trauma"
+      },
+      "correctAnswer": "B",
+      "explanation": "Neurodevelopmental disorders begin in early development.",
+      "topic": "Neurodevelopmental Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q165",
+      "questionText": "Autism Spectrum Disorder is characterized by deficits in:",
+      "options": {
+        "A": "Motor skills only",
+        "B": "Social communication and interaction",
+        "C": "Memory only",
+        "D": "All cognitive domains equally"
+      },
+      "correctAnswer": "B",
+      "explanation": "ASD primarily affects social communication and interaction.",
+      "topic": "Neurodevelopmental Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q166",
+      "questionText": "ADHD is characterized by:",
+      "options": {
+        "A": "Social withdrawal only",
+        "B": "Inattention and/or hyperactivity-impulsivity",
+        "C": "Delusions",
+        "D": "Memory loss"
+      },
+      "correctAnswer": "B",
+      "explanation": "ADHD involves persistent inattention and/or hyperactivity.",
+      "topic": "Neurodevelopmental Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q167",
+      "questionText": "The Rosenhan experiment demonstrated the impact of:",
+      "options": {
+        "A": "Genetics",
+        "B": "Labeling",
+        "C": "Medication",
+        "D": "Brain imaging"
+      },
+      "correctAnswer": "B",
+      "explanation": "It showed how psychiatric labels influence perception and diagnosis.",
+      "topic": "Abnormal Psychology / History",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q168",
+      "questionText": "Reliability refers to:",
+      "options": {
+        "A": "Accuracy",
+        "B": "Consistency",
+        "C": "Validity",
+        "D": "Diagnosis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Reliability means consistency of measurement.",
+      "topic": "Psychometrics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q169",
+      "questionText": "Validity refers to:",
+      "options": {
+        "A": "Consistency",
+        "B": "Accuracy",
+        "C": "Speed",
+        "D": "Reliability"
+      },
+      "correctAnswer": "B",
+      "explanation": "Validity is whether a test measures what it claims to measure.",
+      "topic": "Psychometrics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q170",
+      "questionText": "A primary goal of psychotherapy is:",
+      "options": {
+        "A": "Diagnose disorders only",
+        "B": "Change maladaptive behaviors, thoughts, and feelings",
+        "C": "Prescribe medication",
+        "D": "Conduct brain scans"
+      },
+      "correctAnswer": "B",
+      "explanation": "Psychotherapy aims to change maladaptive patterns.",
+      "topic": "Psychotherapy",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q171",
+      "questionText": "Cognitive-Behavioral Therapy focuses on:",
+      "options": {
+        "A": "Dream interpretation",
+        "B": "Self-actualization only",
+        "C": "Changing thoughts and behaviors",
+        "D": "Unconscious conflicts"
+      },
+      "correctAnswer": "C",
+      "explanation": "CBT targets maladaptive thoughts and behaviors.",
+      "topic": "Psychotherapy",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q172",
+      "questionText": "Humanistic therapy emphasizes:",
+      "options": {
+        "A": "Unconscious drives",
+        "B": "Learning through reinforcement",
+        "C": "Human potential and self-actualization",
+        "D": "Brain chemistry"
+      },
+      "correctAnswer": "C",
+      "explanation": "Humanistic therapy focuses on growth and self-actualization.",
+      "topic": "Psychotherapy",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q173",
+      "questionText": "Aversion therapy is a form of:",
+      "options": {
+        "A": "Cognitive therapy",
+        "B": "Behavioral therapy",
+        "C": "Humanistic therapy",
+        "D": "Psychodynamic therapy"
+      },
+      "correctAnswer": "B",
+      "explanation": "Aversion therapy uses conditioning principles to reduce unwanted behavior.",
+      "topic": "Psychotherapy",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q174",
+      "questionText": "Unconditional positive regard is a concept in:",
+      "options": {
+        "A": "CBT",
+        "B": "Person-centered therapy",
+        "C": "Behavior therapy",
+        "D": "Psychopharmacology"
+      },
+      "correctAnswer": "B",
+      "explanation": "It is a core concept in Rogers' person-centered therapy.",
+      "topic": "Psychotherapy",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q175",
+      "questionText": "Psychopharmacology refers to:",
+      "options": {
+        "A": "Brain surgery",
+        "B": "Talk therapy",
+        "C": "Use of medications to treat mental disorders",
+        "D": "Behavior modification"
+      },
+      "correctAnswer": "C",
+      "explanation": "Psychopharmacology involves medication-based treatment of mental disorders.",
+      "topic": "Psychotherapy / Biological Treatments",
+      "difficulty": "easy"
     }
   ]
 }
