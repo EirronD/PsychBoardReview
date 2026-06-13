@@ -1399,6 +1399,20 @@
       "explanation": "Fidelity and Responsibility in the APA/PAP ethical framework emphasizes maintaining professional standards, accepting responsibility for one's actions, and establishing trust in professional relationships. Option A reflects Beneficence and Nonmaleficence.",
       "topic": "Ethics in Psychology",
       "difficulty": "easy"
+    },
+    {
+      "id": "q101",
+      "questionText": "What term refers to the consistency or stability of a test's scores?",
+      "options": {
+        "A": "Validity",
+        "B": "Reliability",
+        "C": "Objectivity",
+        "D": "Standardization"
+      },
+      "correctAnswer": "B",
+      "explanation": "Reliability refers to the consistency, stability, or repeatability of test scores across time, items, or raters. A reliable test yields similar results under consistent conditions.",
+      "topic": "Psychometrics / Reliability",
+      "difficulty": "easy"
     }
   ]
 }
