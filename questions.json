@@ -2449,6 +2449,706 @@
       "explanation": "Psychopharmacology involves medication-based treatment of mental disorders.",
       "topic": "Psychotherapy / Biological Treatments",
       "difficulty": "easy"
+    },
+    {
+      "id": "q176",
+      "questionText": "This field of psychology is concerned with the scientific study of how and why human beings change over the course of their life.",
+      "options": {
+        "A": "Social Psychology",
+        "B": "Clinical Psychology",
+        "C": "Developmental Psychology",
+        "D": "None of the above"
+      },
+      "correctAnswer": "C",
+      "explanation": "Developmental psychology studies human growth and changes across the lifespan.",
+      "topic": "Developmental Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q177",
+      "questionText": "Evaluate the following statements regarding the major debates in developmental psychology: Nature refers to environmental influence; Nurture refers to genetics.",
+      "options": {
+        "A": "Only Statement I is correct",
+        "B": "Only Statement II is correct",
+        "C": "Both statements are correct",
+        "D": "Both statements are incorrect"
+      },
+      "correctAnswer": "D",
+      "explanation": "Nature refers to genetics, while nurture refers to environment, so both statements are reversed.",
+      "topic": "Nature vs Nurture",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q178",
+      "questionText": "According to Jean Piaget, which of the following are key processes for cognitive development?",
+      "options": {
+        "A": "Assimilation",
+        "B": "Accommodation",
+        "C": "Equilibration",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "Piaget proposed assimilation, accommodation, and equilibration as core processes.",
+      "topic": "Piaget Theory",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q179",
+      "questionText": "In Erik Erikson's theory, the very first psychosocial crisis an infant must resolve is:",
+      "options": {
+        "A": "Autonomy vs. Shame",
+        "B": "Initiative vs. Guilt",
+        "C": "Trust vs. Mistrust",
+        "D": "Industry vs. Inferiority"
+      },
+      "correctAnswer": "C",
+      "explanation": "The first stage in Erikson's theory is Trust vs. Mistrust in infancy.",
+      "topic": "Erikson Psychosocial Stages",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q180",
+      "questionText": "The understanding that objects continue to exist even when they cannot be perceived is called:",
+      "options": {
+        "A": "Egocentrism",
+        "B": "Object Permanence",
+        "C": "Conservation",
+        "D": "Animism"
+      },
+      "correctAnswer": "B",
+      "explanation": "Object permanence is the awareness that objects exist even when out of sight.",
+      "topic": "Cognitive Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q181",
+      "questionText": "Evaluate the following statements regarding Vygotsky's theory: ZPD is independent task ability; Scaffolding is temporary support.",
+      "options": {
+        "A": "Only Statement I is correct",
+        "B": "Only Statement II is correct",
+        "C": "Both statements are correct",
+        "D": "Both statements are incorrect"
+      },
+      "correctAnswer": "B",
+      "explanation": "ZPD is what a child can do with help, not independently. Scaffolding is correct.",
+      "topic": "Vygotsky Theory",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q182",
+      "questionText": "Which of the following are associated with authoritarian parenting style?",
+      "options": {
+        "A": "Strict rules and high expectations",
+        "B": "Low warmth and responsiveness",
+        "C": "Use of punishment",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "Authoritarian parenting is strict, controlling, and low in warmth.",
+      "topic": "Parenting Styles",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q183",
+      "questionText": "Lawrence Kohlberg's theory is primarily concerned with the development of:",
+      "options": {
+        "A": "Emotional intelligence",
+        "B": "Social skills",
+        "C": "Moral reasoning",
+        "D": "None of the above"
+      },
+      "correctAnswer": "C",
+      "explanation": "Kohlberg focused on how moral reasoning develops in stages.",
+      "topic": "Moral Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q184",
+      "questionText": "A teratogen is best defined as:",
+      "options": {
+        "A": "A fertilized egg during first two weeks",
+        "B": "Developing human organism 2–8 weeks",
+        "C": "Any environmental agent that causes prenatal damage",
+        "D": "A DNA structure"
+      },
+      "correctAnswer": "C",
+      "explanation": "Teratogens are harmful environmental agents during prenatal development.",
+      "topic": "Prenatal Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q185",
+      "questionText": "In which Piaget stage does logical thinking about concrete events emerge?",
+      "options": {
+        "A": "Sensorimotor",
+        "B": "Preoperational",
+        "C": "Concrete Operational",
+        "D": "Formal Operational"
+      },
+      "correctAnswer": "C",
+      "explanation": "Concrete operational stage involves logical thinking about tangible objects.",
+      "topic": "Piaget Stages",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q186",
+      "questionText": "Mary Ainsworth's Strange Situation measures:",
+      "options": {
+        "A": "Intelligence",
+        "B": "Attachment quality",
+        "C": "Temperament",
+        "D": "Motor skills"
+      },
+      "correctAnswer": "B",
+      "explanation": "It assesses infant-caregiver attachment styles.",
+      "topic": "Attachment Theory",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q187",
+      "questionText": "The tendency to focus on one aspect of a situation is called:",
+      "options": {
+        "A": "Reversibility",
+        "B": "Conservation",
+        "C": "Centration",
+        "D": "Seriation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Centration is focusing on one feature while ignoring others.",
+      "topic": "Piaget Cognitive Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q188",
+      "questionText": "Evaluate: Maturation is learning-based; Learning is biological.",
+      "options": {
+        "A": "Only I correct",
+        "B": "Only II correct",
+        "C": "Both correct",
+        "D": "Both incorrect"
+      },
+      "correctAnswer": "D",
+      "explanation": "Maturation is biological; learning is experience-based.",
+      "topic": "Developmental Concepts",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q189",
+      "questionText": "The visual cliff experiment measures:",
+      "options": {
+        "A": "Color vision",
+        "B": "Hearing",
+        "C": "Depth perception",
+        "D": "Attachment"
+      },
+      "correctAnswer": "C",
+      "explanation": "It tests infants' ability to perceive depth.",
+      "topic": "Infant Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q190",
+      "questionText": "Bronfenbrenner's exosystem includes:",
+      "options": {
+        "A": "Direct environment like family",
+        "B": "Interactions between microsystems",
+        "C": "Indirect environments like parent's workplace",
+        "D": "Cultural values"
+      },
+      "correctAnswer": "C",
+      "explanation": "Exosystem affects child indirectly through external settings.",
+      "topic": "Ecological Systems Theory",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q191",
+      "questionText": "Which is a gross motor skill?",
+      "options": {
+        "A": "Drawing a circle",
+        "B": "Stacking blocks",
+        "C": "Tying shoelaces",
+        "D": "Jumping over a puddle"
+      },
+      "correctAnswer": "D",
+      "explanation": "Gross motor skills involve large muscle movements like jumping.",
+      "topic": "Motor Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q192",
+      "questionText": "Adolescent psychosocial task in Erikson's theory:",
+      "options": {
+        "A": "Industry",
+        "B": "Intimacy",
+        "C": "Identity",
+        "D": "Initiative"
+      },
+      "correctAnswer": "C",
+      "explanation": "Adolescence focuses on Identity vs Role Confusion.",
+      "topic": "Erikson Stages",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q193",
+      "questionText": "Conservation refers to:",
+      "options": {
+        "A": "Object permanence",
+        "B": "Gender stability",
+        "C": "Quantity remains same despite appearance change",
+        "D": "All of the above"
+      },
+      "correctAnswer": "C",
+      "explanation": "Conservation is understanding quantity remains constant.",
+      "topic": "Cognitive Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q194",
+      "questionText": "A person's inborn emotional style is called:",
+      "options": {
+        "A": "Personality",
+        "B": "Temperament",
+        "C": "Attachment",
+        "D": "None"
+      },
+      "correctAnswer": "B",
+      "explanation": "Temperament refers to biologically based emotional style.",
+      "topic": "Individual Differences",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q195",
+      "questionText": "Which is NOT a prenatal stage?",
+      "options": {
+        "A": "Germinal",
+        "B": "Embryonic",
+        "C": "Fetal",
+        "D": "Infancy"
+      },
+      "correctAnswer": "D",
+      "explanation": "Infancy is postnatal, not prenatal.",
+      "topic": "Prenatal Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q196",
+      "questionText": "Germinal stage refers to:",
+      "options": {
+        "A": "First two weeks after conception",
+        "B": "2–8 weeks development",
+        "C": "Fetal growth phase",
+        "D": "Birth stage"
+      },
+      "correctAnswer": "A",
+      "explanation": "Germinal stage is from conception to implantation.",
+      "topic": "Prenatal Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q197",
+      "questionText": "Assimilation is:",
+      "options": {
+        "A": "Changing schema",
+        "B": "Fitting new info into existing schema",
+        "C": "Ignoring information",
+        "D": "Deleting schema"
+      },
+      "correctAnswer": "B",
+      "explanation": "Assimilation integrates new information into existing schemas.",
+      "topic": "Piaget Theory",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q198",
+      "questionText": "Piaget's abstract thinking stage is:",
+      "options": {
+        "A": "Concrete operational",
+        "B": "Formal operational",
+        "C": "Preoperational",
+        "D": "Sensorimotor"
+      },
+      "correctAnswer": "B",
+      "explanation": "Formal operational stage involves abstract reasoning.",
+      "topic": "Cognitive Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q199",
+      "questionText": "Cross-sectional research studies:",
+      "options": {
+        "A": "Same group over time",
+        "B": "Different ages at same time",
+        "C": "Experimental manipulation",
+        "D": "Case analysis only"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cross-sectional compares different age groups at one time.",
+      "topic": "Research Methods",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q200",
+      "questionText": "Puberty is:",
+      "options": {
+        "A": "Entire adolescence",
+        "B": "Sexual maturation period",
+        "C": "First menstruation only",
+        "D": "Identity formation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Puberty refers to biological sexual maturation.",
+      "topic": "Adolescent Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q201",
+      "questionText": "NOT a Kübler-Ross stage:",
+      "options": {
+        "A": "Denial",
+        "B": "Bargaining",
+        "C": "Regret",
+        "D": "Acceptance"
+      },
+      "correctAnswer": "C",
+      "explanation": "Regret is not part of Kübler-Ross stages.",
+      "topic": "Grief Theory",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q202",
+      "questionText": "Early adulthood psychosocial crisis:",
+      "options": {
+        "A": "Identity vs Role Confusion",
+        "B": "Intimacy vs Isolation",
+        "C": "Generativity vs Stagnation",
+        "D": "Integrity vs Despair"
+      },
+      "correctAnswer": "B",
+      "explanation": "Early adulthood focuses on intimacy vs isolation.",
+      "topic": "Erikson Stages",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q203",
+      "questionText": "Animism refers to:",
+      "options": {
+        "A": "Logical thinking",
+        "B": "Objects have life and intentions",
+        "C": "Memory loss",
+        "D": "Conservation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Children believe inanimate objects have life.",
+      "topic": "Cognitive Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q204",
+      "questionText": "Preconventional moral reasoning is based on:",
+      "options": {
+        "A": "Social approval",
+        "B": "Punishment and reward",
+        "C": "Laws",
+        "D": "Ethics"
+      },
+      "correctAnswer": "B",
+      "explanation": "It is driven by consequences like punishment/reward.",
+      "topic": "Kohlberg Theory",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q205",
+      "questionText": "Genotype refers to:",
+      "options": {
+        "A": "Physical traits",
+        "B": "Genetic makeup",
+        "C": "Behavior",
+        "D": "Environment"
+      },
+      "correctAnswer": "B",
+      "explanation": "Genotype is the organism's genetic composition.",
+      "topic": "Genetics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q206",
+      "questionText": "Harlow's attachment study showed importance of:",
+      "options": {
+        "A": "Food",
+        "B": "Contact comfort",
+        "C": "Punishment",
+        "D": "Observation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Comfort, not food, drives attachment.",
+      "topic": "Attachment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q207",
+      "questionText": "Middle adulthood crisis:",
+      "options": {
+        "A": "Identity",
+        "B": "Intimacy",
+        "C": "Generativity",
+        "D": "Autonomy"
+      },
+      "correctAnswer": "C",
+      "explanation": "Generativity vs stagnation occurs in middle adulthood.",
+      "topic": "Erikson Stages",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q208",
+      "questionText": "Moro reflex involves:",
+      "options": {
+        "A": "Grasping",
+        "B": "Startle response",
+        "C": "Rooting",
+        "D": "Sucking"
+      },
+      "correctAnswer": "B",
+      "explanation": "Moro reflex is a startle reaction.",
+      "topic": "Infant Reflexes",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q209",
+      "questionText": "Authoritative parenting is:",
+      "options": {
+        "A": "High warmth, high control",
+        "B": "Low warmth, high control",
+        "C": "High warmth, low control",
+        "D": "Low warmth, low control"
+      },
+      "correctAnswer": "A",
+      "explanation": "Authoritative is both warm and structured.",
+      "topic": "Parenting Styles",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q210",
+      "questionText": "Menopause is:",
+      "options": {
+        "A": "First menstruation",
+        "B": "End of reproductive ability",
+        "C": "Puberty onset",
+        "D": "Pregnancy stage"
+      },
+      "correctAnswer": "B",
+      "explanation": "Menopause marks cessation of menstruation.",
+      "topic": "Biological Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q211",
+      "questionText": "More knowledgeable other (MKO) can be:",
+      "options": {
+        "A": "Only teacher",
+        "B": "Only adult",
+        "C": "Peer or even technology",
+        "D": "None"
+      },
+      "correctAnswer": "C",
+      "explanation": "MKO can be anyone more skilled, including peers.",
+      "topic": "Vygotsky Theory",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q212",
+      "questionText": "Attachment in Strange Situation showing high distress and ambivalence:",
+      "options": {
+        "A": "Secure",
+        "B": "Avoidant",
+        "C": "Resistant/Ambivalent",
+        "D": "Disorganized"
+      },
+      "correctAnswer": "C",
+      "explanation": "Resistant attachment shows extreme distress.",
+      "topic": "Attachment Styles",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q213",
+      "questionText": "Adolescent egocentrism includes:",
+      "options": {
+        "A": "Conservation",
+        "B": "Imaginary audience",
+        "C": "Object permanence",
+        "D": "Schema"
+      },
+      "correctAnswer": "B",
+      "explanation": "Imaginary audience is adolescent egocentrism.",
+      "topic": "Adolescent Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q214",
+      "questionText": "Best parenting style overall:",
+      "options": {
+        "A": "Authoritarian",
+        "B": "Permissive",
+        "C": "Uninvolved",
+        "D": "Authoritative"
+      },
+      "correctAnswer": "D",
+      "explanation": "Authoritative parenting yields best outcomes.",
+      "topic": "Parenting Styles",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q215",
+      "questionText": "Postconventional morality is based on:",
+      "options": {
+        "A": "Approval",
+        "B": "Punishment",
+        "C": "Ethical principles",
+        "D": "Law obedience"
+      },
+      "correctAnswer": "C",
+      "explanation": "It is guided by personal ethical principles.",
+      "topic": "Kohlberg Theory",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q216",
+      "questionText": "Erikson's final stage:",
+      "options": {
+        "A": "Identity vs Role Confusion",
+        "B": "Integrity vs Despair",
+        "C": "Generativity vs Stagnation",
+        "D": "Trust vs Mistrust"
+      },
+      "correctAnswer": "B",
+      "explanation": "Late adulthood involves integrity vs despair.",
+      "topic": "Erikson Stages",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q217",
+      "questionText": "Gender identity refers to:",
+      "options": {
+        "A": "Biological sex",
+        "B": "Cultural roles",
+        "C": "Personal sense of gender",
+        "D": "Hormones"
+      },
+      "correctAnswer": "C",
+      "explanation": "Gender identity is internal sense of self.",
+      "topic": "Gender Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q218",
+      "questionText": "Secondary sex characteristic:",
+      "options": {
+        "A": "Testes",
+        "B": "Ovaries",
+        "C": "Deep voice",
+        "D": "Womb"
+      },
+      "correctAnswer": "C",
+      "explanation": "Secondary traits include voice change.",
+      "topic": "Biological Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q219",
+      "questionText": "Longitudinal research design:",
+      "options": {
+        "A": "Different groups",
+        "B": "Same group over time",
+        "C": "One-time survey",
+        "D": "Lab experiment"
+      },
+      "correctAnswer": "B",
+      "explanation": "Tracks same individuals over time.",
+      "topic": "Research Methods",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q220",
+      "questionText": "Holophrastic speech refers to:",
+      "options": {
+        "A": "Babbling",
+        "B": "One-word speech",
+        "C": "Full sentences",
+        "D": "Silent speech"
+      },
+      "correctAnswer": "B",
+      "explanation": "One-word expressions convey full meaning.",
+      "topic": "Language Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q221",
+      "questionText": "Concrete operational stage feature:",
+      "options": {
+        "A": "Abstract thinking",
+        "B": "Logical thinking about concrete objects",
+        "C": "No logic",
+        "D": "Egocentrism"
+      },
+      "correctAnswer": "B",
+      "explanation": "Logic applies to real, tangible objects.",
+      "topic": "Piaget Stages",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q222",
+      "questionText": "Oedipus complex occurs in:",
+      "options": {
+        "A": "Oral stage",
+        "B": "Anal stage",
+        "C": "Phallic stage",
+        "D": "Latency stage"
+      },
+      "correctAnswer": "C",
+      "explanation": "Freud's phallic stage includes Oedipus complex.",
+      "topic": "Freud Psychosexual Stages",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q223",
+      "questionText": "Infant vision is best:",
+      "options": {
+        "A": "Far distance",
+        "B": "Bright light only",
+        "C": "8–12 inches",
+        "D": "No vision at birth"
+      },
+      "correctAnswer": "C",
+      "explanation": "Infants focus best at close range.",
+      "topic": "Infant Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q224",
+      "questionText": "Schema is:",
+      "options": {
+        "A": "Reflex",
+        "B": "Mental framework",
+        "C": "Genetic code",
+        "D": "Attachment bond"
+      },
+      "correctAnswer": "B",
+      "explanation": "Schemas organize and interpret information.",
+      "topic": "Cognitive Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q225",
+      "questionText": "True about late adulthood:",
+      "options": {
+        "A": "All experience severe decline",
+        "B": "All gain wisdom and integrity",
+        "C": "No new learning possible",
+        "D": "All false statements"
+      },
+      "correctAnswer": "D",
+      "explanation": "Aging outcomes vary widely; none of the extreme statements are true.",
+      "topic": "Aging",
+      "difficulty": "easy"
     }
   ]
 }
