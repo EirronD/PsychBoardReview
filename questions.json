@@ -3149,6 +3149,706 @@
       "explanation": "Aging outcomes vary widely; none of the extreme statements are true.",
       "topic": "Aging",
       "difficulty": "easy"
+    },
+    {
+      "id": "q226",
+      "questionText": "Industrial/Organizational Psychology is the branch of psychology that applies psychological principles to:",
+      "options": {
+        "A": "The workplace",
+        "B": "Educational institutions",
+        "C": "Clinical settings",
+        "D": "The study of the brain"
+      },
+      "correctAnswer": "A",
+      "explanation": "I/O psychology applies psychological principles specifically to workplace behavior and organizational settings.",
+      "topic": "Industrial/Organizational Psychology / Foundations",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q227",
+      "questionText": "The 'industrial' side of I/O psychology focuses on:",
+      "options": {
+        "A": "How people work together in organizations",
+        "B": "The management of human resources",
+        "C": "The design of products and workplaces",
+        "D": "All of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "The industrial side focuses on personnel functions such as recruitment, selection, and human resource management.",
+      "topic": "Industrial/Organizational Psychology / Industrial Side",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q228",
+      "questionText": "The 'organizational' side of I/O psychology focuses on:",
+      "options": {
+        "A": "The influence of the organization on the individual",
+        "B": "Topics such as motivation, leadership, and job satisfaction",
+        "C": "Both A and B",
+        "D": "Neither A nor B"
+      },
+      "correctAnswer": "C",
+      "explanation": "Organizational psychology studies behavior within organizations, including motivation, leadership, and organizational influence.",
+      "topic": "Industrial/Organizational Psychology / Organizational Side",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q229",
+      "questionText": "Who is considered the 'Father of Industrial Psychology'?",
+      "options": {
+        "A": "Walter Dill Scott",
+        "B": "Hugo Münsterberg",
+        "C": "Frederick W. Taylor",
+        "D": "Elton Mayo"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hugo Münsterberg is widely recognized as the father of industrial psychology for his early application of psychology to work settings.",
+      "topic": "Industrial/Organizational Psychology / History",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q230",
+      "questionText": "The Hawthorne Studies highlighted the importance of social factors and employee attitudes in which field?",
+      "options": {
+        "A": "Industrial Psychology",
+        "B": "Organizational Psychology",
+        "C": "Human Factors Psychology",
+        "D": "Personnel Psychology"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Hawthorne Studies emphasized human relations and social factors, contributing to organizational psychology.",
+      "topic": "Industrial/Organizational Psychology / Hawthorne Studies",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q231",
+      "questionText": "A systematic process of gathering, analyzing, and documenting information about a job is called:",
+      "options": {
+        "A": "Job evaluation",
+        "B": "Job analysis",
+        "C": "Job design",
+        "D": "Performance appraisal"
+      },
+      "correctAnswer": "B",
+      "explanation": "Job analysis involves collecting detailed information about job tasks and requirements.",
+      "topic": "Industrial/Organizational Psychology / Job Analysis",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q232",
+      "questionText": "A job analysis can be used for which of the following purposes?",
+      "options": {
+        "A": "Recruitment and selection",
+        "B": "Training and development",
+        "C": "Performance appraisal",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "Job analysis supports multiple HR functions including recruitment, training, and performance evaluation.",
+      "topic": "Industrial/Organizational Psychology / Job Analysis",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q233",
+      "questionText": "Which of the following is a common method for conducting a job analysis?",
+      "options": {
+        "A": "Interviews",
+        "B": "Questionnaires",
+        "C": "Observation",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "Job analysis can be conducted using interviews, questionnaires, and direct observation.",
+      "topic": "Industrial/Organizational Psychology / Job Analysis Methods",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q234",
+      "questionText": "The process of attracting qualified candidates to apply for a job is called:",
+      "options": {
+        "A": "Selection",
+        "B": "Recruitment",
+        "C": "Placement",
+        "D": "Orientation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Recruitment involves attracting potential candidates for job openings.",
+      "topic": "Industrial/Organizational Psychology / Recruitment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q235",
+      "questionText": "A job advertisement stating 'men are preferred' is an example of:",
+      "options": {
+        "A": "A legal and acceptable practice",
+        "B": "A potentially discriminatory practice",
+        "C": "A good way to attract qualified candidates",
+        "D": "None of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "Gender preference in hiring can violate equal employment opportunity laws.",
+      "topic": "Industrial/Organizational Psychology / Ethics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q236",
+      "questionText": "The process of choosing the best candidate for a job from a pool of applicants is called:",
+      "options": {
+        "A": "Recruitment",
+        "B": "Selection",
+        "C": "Placement",
+        "D": "Orientation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Selection refers to choosing the most suitable applicant for a job.",
+      "topic": "Industrial/Organizational Psychology / Selection",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q237",
+      "questionText": "Which of the following is a common selection tool?",
+      "options": {
+        "A": "Application forms",
+        "B": "Interviews",
+        "C": "Psychological tests",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "Selection commonly uses applications, interviews, and psychological testing.",
+      "topic": "Industrial/Organizational Psychology / Selection Tools",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q238",
+      "questionText": "An interview in which all candidates are asked the same set of questions is called:",
+      "options": {
+        "A": "Unstructured interview",
+        "B": "Structured interview",
+        "C": "Situational interview",
+        "D": "Behavioral interview"
+      },
+      "correctAnswer": "B",
+      "explanation": "Structured interviews use standardized questions for all applicants.",
+      "topic": "Industrial/Organizational Psychology / Interviews",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q239",
+      "questionText": "The process of helping new employees adjust to their job and organization is called:",
+      "options": {
+        "A": "Training",
+        "B": "Development",
+        "C": "Socialization",
+        "D": "Performance management"
+      },
+      "correctAnswer": "C",
+      "explanation": "Organizational socialization helps new employees adapt to workplace culture.",
+      "topic": "Industrial/Organizational Psychology / Socialization",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q240",
+      "questionText": "A systematic process of providing employees with knowledge and skills for their job is called:",
+      "options": {
+        "A": "Training",
+        "B": "Development",
+        "C": "Education",
+        "D": "Socialization"
+      },
+      "correctAnswer": "A",
+      "explanation": "Training focuses on improving current job performance through skill acquisition.",
+      "topic": "Industrial/Organizational Psychology / Training",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q241",
+      "questionText": "Which of the following is a common training method?",
+      "options": {
+        "A": "On-the-job training",
+        "B": "Classroom lectures",
+        "C": "E-learning",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "Training methods include on-the-job training, lectures, and e-learning.",
+      "topic": "Industrial/Organizational Psychology / Training Methods",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q242",
+      "questionText": "The systematic evaluation of an employee's job performance is called:",
+      "options": {
+        "A": "Performance appraisal",
+        "B": "Job evaluation",
+        "C": "Job analysis",
+        "D": "Feedback session"
+      },
+      "correctAnswer": "A",
+      "explanation": "Performance appraisal assesses employee job performance.",
+      "topic": "Industrial/Organizational Psychology / Performance Appraisal",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q243",
+      "questionText": "A performance appraisal method using statements that best describe performance is:",
+      "options": {
+        "A": "Graphic rating scale",
+        "B": "Behaviorally anchored rating scale (BARS)",
+        "C": "Forced-choice method",
+        "D": "Critical incident method"
+      },
+      "correctAnswer": "C",
+      "explanation": "Forced-choice methods require raters to select descriptive statements about performance.",
+      "topic": "Industrial/Organizational Psychology / Appraisal Methods",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q244",
+      "questionText": "A common appraisal error where all employees are rated similarly is called:",
+      "options": {
+        "A": "Leniency error",
+        "B": "Severity error",
+        "C": "Central tendency error",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "Leniency, severity, and central tendency are all rating errors in performance appraisal.",
+      "topic": "Industrial/Organizational Psychology / Appraisal Errors",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q245",
+      "questionText": "Internal forces that drive individuals to achieve goals are called:",
+      "options": {
+        "A": "Motivation",
+        "B": "Satisfaction",
+        "C": "Commitment",
+        "D": "Engagement"
+      },
+      "correctAnswer": "A",
+      "explanation": "Motivation refers to internal drives that direct behavior toward goals.",
+      "topic": "Industrial/Organizational Psychology / Motivation",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q246",
+      "questionText": "According to Maslow, which is the most basic human need?",
+      "options": {
+        "A": "Safety needs",
+        "B": "Esteem needs",
+        "C": "Physiological needs",
+        "D": "Self-actualization needs"
+      },
+      "correctAnswer": "C",
+      "explanation": "Physiological needs are the most basic in Maslow's hierarchy.",
+      "topic": "Industrial/Organizational Psychology / Motivation Theories",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q247",
+      "questionText": "A motivation theory based on achieving specific and challenging goals is:",
+      "options": {
+        "A": "Expectancy theory",
+        "B": "Equity theory",
+        "C": "Goal-setting theory",
+        "D": "Two-factor theory"
+      },
+      "correctAnswer": "C",
+      "explanation": "Goal-setting theory emphasizes motivation through clear, challenging goals.",
+      "topic": "Industrial/Organizational Psychology / Motivation Theories",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q248",
+      "questionText": "An employee's overall feeling of satisfaction with their job is called:",
+      "options": {
+        "A": "Job satisfaction",
+        "B": "Job involvement",
+        "C": "Organizational commitment",
+        "D": "Employee engagement"
+      },
+      "correctAnswer": "A",
+      "explanation": "Job satisfaction refers to overall contentment with one's job.",
+      "topic": "Industrial/Organizational Psychology / Job Attitudes",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q249",
+      "questionText": "The process of influencing others to achieve a common goal is called:",
+      "options": {
+        "A": "Leadership",
+        "B": "Management",
+        "C": "Power",
+        "D": "Authority"
+      },
+      "correctAnswer": "A",
+      "explanation": "Leadership involves influencing group members toward shared goals.",
+      "topic": "Industrial/Organizational Psychology / Leadership",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q250",
+      "questionText": "A leader who focuses on structure, goals, and rewards is:",
+      "options": {
+        "A": "Transformational",
+        "B": "Transactional",
+        "C": "Charismatic",
+        "D": "Laissez-faire"
+      },
+      "correctAnswer": "B",
+      "explanation": "Transactional leadership emphasizes rewards and structured performance.",
+      "topic": "Industrial/Organizational Psychology / Leadership Styles",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q251",
+      "questionText": "A leader who inspires followers to go beyond self-interest is:",
+      "options": {
+        "A": "Transformational",
+        "B": "Transactional",
+        "C": "Authoritarian",
+        "D": "Democratic"
+      },
+      "correctAnswer": "A",
+      "explanation": "Transformational leaders inspire higher-level motivation and commitment.",
+      "topic": "Industrial/Organizational Psychology / Leadership Styles",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q252",
+      "questionText": "A group of interdependent individuals working toward a goal is called a:",
+      "options": {
+        "A": "Team",
+        "B": "Group",
+        "C": "Organization",
+        "D": "Department"
+      },
+      "correctAnswer": "B",
+      "explanation": "A group consists of individuals interacting and working toward shared objectives.",
+      "topic": "Industrial/Organizational Psychology / Groups",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q253",
+      "questionText": "The group development stage where members are getting acquainted is:",
+      "options": {
+        "A": "Forming",
+        "B": "Storming",
+        "C": "Norming",
+        "D": "Performing"
+      },
+      "correctAnswer": "A",
+      "explanation": "Forming is the initial stage of group development.",
+      "topic": "Industrial/Organizational Psychology / Group Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q254",
+      "questionText": "Unwritten behavioral rules in a group are called:",
+      "options": {
+        "A": "Norms",
+        "B": "Roles",
+        "C": "Status",
+        "D": "Cohesion"
+      },
+      "correctAnswer": "A",
+      "explanation": "Norms are informal rules guiding group behavior.",
+      "topic": "Industrial/Organizational Psychology / Group Behavior",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q255",
+      "questionText": "Shared values and beliefs in an organization are called:",
+      "options": {
+        "A": "Organizational culture",
+        "B": "Organizational climate",
+        "C": "Organizational structure",
+        "D": "Organizational design"
+      },
+      "correctAnswer": "A",
+      "explanation": "Organizational culture refers to shared values and assumptions.",
+      "topic": "Industrial/Organizational Psychology / Organizational Culture",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q256",
+      "questionText": "An innovative, flexible organizational culture is called:",
+      "options": {
+        "A": "Adhocracy culture",
+        "B": "Clan culture",
+        "C": "Hierarchy culture",
+        "D": "Market culture"
+      },
+      "correctAnswer": "A",
+      "explanation": "Adhocracy culture emphasizes innovation and adaptability.",
+      "topic": "Industrial/Organizational Psychology / Organizational Culture",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q257",
+      "questionText": "Planning and implementing organizational change is called:",
+      "options": {
+        "A": "Organizational development",
+        "B": "Organizational change",
+        "C": "Organizational transformation",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "Organizational development and change processes involve planned transformation.",
+      "topic": "Industrial/Organizational Psychology / Change",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q258",
+      "questionText": "The unfreezing–changing–refreezing model was proposed by:",
+      "options": {
+        "A": "Kurt Lewin",
+        "B": "B.F. Skinner",
+        "C": "Abraham Maslow",
+        "D": "Douglas McGregor"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kurt Lewin developed the classic three-stage change model.",
+      "topic": "Industrial/Organizational Psychology / Change Theory",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q259",
+      "questionText": "The field focused on designing tools and workplaces for efficiency and safety is:",
+      "options": {
+        "A": "Human factors psychology",
+        "B": "Ergonomics",
+        "C": "Engineering psychology",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "All listed fields contribute to optimizing human-system interaction.",
+      "topic": "Industrial/Organizational Psychology / Human Factors",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q260",
+      "questionText": "The study of workplace physical arrangement for efficiency is:",
+      "options": {
+        "A": "Ergonomics",
+        "B": "Anthropometry",
+        "C": "Biomechanics",
+        "D": "Kinesiology"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ergonomics focuses on optimizing workplace design for humans.",
+      "topic": "Industrial/Organizational Psychology / Ergonomics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q261",
+      "questionText": "A key ergonomics principle is:",
+      "options": {
+        "A": "Fitting the job to the person",
+        "B": "Designing for the average worker",
+        "C": "Ignoring individual differences",
+        "D": "One-size-fits-all design"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ergonomics emphasizes adapting work to the individual.",
+      "topic": "Industrial/Organizational Psychology / Ergonomics Principles",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q262",
+      "questionText": "A state of exhaustion from prolonged stress is called:",
+      "options": {
+        "A": "Burnout",
+        "B": "Depression",
+        "C": "Anxiety",
+        "D": "Eustress"
+      },
+      "correctAnswer": "A",
+      "explanation": "Burnout results from chronic workplace stress.",
+      "topic": "Industrial/Organizational Psychology / Stress",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q263",
+      "questionText": "A common cause of workplace stress is:",
+      "options": {
+        "A": "Workload",
+        "B": "Role conflict",
+        "C": "Lack of control",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "All listed factors contribute to workplace stress.",
+      "topic": "Industrial/Organizational Psychology / Workplace Stress",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q264",
+      "questionText": "The body's response to demands is called:",
+      "options": {
+        "A": "Stress",
+        "B": "Strain",
+        "C": "Pressure",
+        "D": "Tension"
+      },
+      "correctAnswer": "A",
+      "explanation": "Stress refers to physiological and psychological responses to demands.",
+      "topic": "Industrial/Organizational Psychology / Stress",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q265",
+      "questionText": "Laws prohibiting employment discrimination based on race, sex, and religion include:",
+      "options": {
+        "A": "Statement I is correct",
+        "B": "Statement II is correct",
+        "C": "Both statements are correct",
+        "D": "Neither statement is correct"
+      },
+      "correctAnswer": "C",
+      "explanation": "Both the Civil Rights Act and ADA protect against discrimination.",
+      "topic": "Industrial/Organizational Psychology / Employment Law",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q266",
+      "questionText": "Unwelcome sexual conduct in the workplace is:",
+      "options": {
+        "A": "Sexual harassment",
+        "B": "Hostile work environment",
+        "C": "Quid pro quo harassment",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "Sexual harassment includes multiple forms of unwelcome conduct.",
+      "topic": "Industrial/Organizational Psychology / Workplace Ethics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q267",
+      "questionText": "Job analysis is best described as:",
+      "options": {
+        "A": "One-time process",
+        "B": "Ongoing process",
+        "C": "Irrelevant to HR",
+        "D": "Optional activity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Job analysis should be regularly updated.",
+      "topic": "Industrial/Organizational Psychology / Job Analysis",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q268",
+      "questionText": "Training focuses on:",
+      "options": {
+        "A": "Current job performance",
+        "B": "Future roles",
+        "C": "Career retirement",
+        "D": "None of the above"
+      },
+      "correctAnswer": "A",
+      "explanation": "Training improves current job skills.",
+      "topic": "Industrial/Organizational Psychology / Training",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q269",
+      "questionText": "A manager who assumes employees are lazy follows:",
+      "options": {
+        "A": "Theory X",
+        "B": "Theory Y",
+        "C": "Theory Z",
+        "D": "None of the above"
+      },
+      "correctAnswer": "A",
+      "explanation": "Theory X assumes employees need strict supervision.",
+      "topic": "Industrial/Organizational Psychology / Management Theories",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q270",
+      "questionText": "A manager who trusts employees and supports self-direction follows:",
+      "options": {
+        "A": "Theory X",
+        "B": "Theory Y",
+        "C": "Theory Z",
+        "D": "None of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "Theory Y assumes employees are self-motivated.",
+      "topic": "Industrial/Organizational Psychology / Management Theories",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q271",
+      "questionText": "Which is NOT a protected characteristic under US federal law?",
+      "options": {
+        "A": "Age",
+        "B": "Disability",
+        "C": "Sexual orientation",
+        "D": "Religion"
+      },
+      "correctAnswer": "C",
+      "explanation": "Sexual orientation is not universally protected under older federal frameworks.",
+      "topic": "Industrial/Organizational Psychology / Employment Law",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q272",
+      "questionText": "The consistency of a measurement tool is called:",
+      "options": {
+        "A": "Reliability",
+        "B": "Validity",
+        "C": "Fairness",
+        "D": "Legality"
+      },
+      "correctAnswer": "A",
+      "explanation": "Reliability refers to consistency of measurement.",
+      "topic": "Industrial/Organizational Psychology / Psychometrics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q273",
+      "questionText": "A test measuring what it intends to measure has:",
+      "options": {
+        "A": "Reliability",
+        "B": "Validity",
+        "C": "Fairness",
+        "D": "Legality"
+      },
+      "correctAnswer": "B",
+      "explanation": "Validity refers to accuracy of measurement.",
+      "topic": "Industrial/Organizational Psychology / Psychometrics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q274",
+      "questionText": "Programs helping employees balance work and life include:",
+      "options": {
+        "A": "Work-life balance programs",
+        "B": "Employee assistance programs",
+        "C": "Wellness programs",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "All listed programs support employee well-being.",
+      "topic": "Industrial/Organizational Psychology / Workplace Well-being",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q275",
+      "questionText": "The scientific study of human behavior in the workplace is:",
+      "options": {
+        "A": "Clinical psychology",
+        "B": "Social psychology",
+        "C": "Industrial/Organizational psychology",
+        "D": "None of the above"
+      },
+      "correctAnswer": "C",
+      "explanation": "I/O psychology focuses on workplace behavior and organizational systems.",
+      "topic": "Industrial/Organizational Psychology / Definition",
+      "difficulty": "easy"
     }
   ]
 }
