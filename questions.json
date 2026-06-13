@@ -1410,8 +1410,344 @@
         "D": "Standardization"
       },
       "correctAnswer": "B",
-      "explanation": "Reliability refers to the consistency, stability, or repeatability of test scores across time, items, or raters. A reliable test yields similar results under consistent conditions.",
+      "explanation": "Reliability refers to the consistency, stability, or repeatability of test scores across time, items, or raters.",
       "topic": "Psychometrics / Reliability",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q102",
+      "questionText": "Which concept refers to whether a test measures what it claims to measure?",
+      "options": {
+        "A": "Validity",
+        "B": "Reliability",
+        "C": "Norms",
+        "D": "Scaling"
+      },
+      "correctAnswer": "A",
+      "explanation": "Validity refers to the accuracy of a test in measuring what it is intended to measure.",
+      "topic": "Psychometrics / Validity",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q103",
+      "questionText": "The process of administering a test to a large, representative sample to establish a frame of reference for score interpretation is called:",
+      "options": {
+        "A": "Validation",
+        "B": "Standardization",
+        "C": "Item analysis",
+        "D": "Test construction"
+      },
+      "correctAnswer": "B",
+      "explanation": "Standardization involves administering a test under consistent conditions to a representative sample to create norms.",
+      "topic": "Psychometrics / Standardization",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q104",
+      "questionText": "A raw score, by itself, is:",
+      "options": {
+        "A": "A good indicator of performance.",
+        "B": "The same as a percentile rank.",
+        "C": "Relatively meaningless without being compared to a norm group.",
+        "D": "The final, interpreted result."
+      },
+      "correctAnswer": "C",
+      "explanation": "Raw scores require comparison to norms to be meaningfully interpreted.",
+      "topic": "Psychometrics / Scoring",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q105",
+      "questionText": "A percentile rank of 60 means that the test-taker:",
+      "options": {
+        "A": "Answered 60% of the items correctly.",
+        "B": "Scored higher than 60% of the norm group.",
+        "C": "Scored in the bottom 40% of the norm group.",
+        "D": "Has a T-score of 60."
+      },
+      "correctAnswer": "B",
+      "explanation": "A percentile rank indicates the percentage of people in the norm group that scored below the individual.",
+      "topic": "Psychometrics / Norms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q106",
+      "questionText": "Which of the following is an example of a projective test?",
+      "options": {
+        "A": "Minnesota Multiphasic Personality Inventory (MMPI-2)",
+        "B": "Wechsler Adult Intelligence Scale (WAIS-IV)",
+        "C": "Rorschach Inkblot Method",
+        "D": "Beck Depression Inventory (BDI-II)"
+      },
+      "correctAnswer": "C",
+      "explanation": "Projective tests use ambiguous stimuli like inkblots to elicit projections of personality.",
+      "topic": "Psychological Testing",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q107",
+      "questionText": "A test designed to measure a person's current level of knowledge or skill in a particular subject is called a(n) ________ test.",
+      "options": {
+        "A": "aptitude",
+        "B": "achievement",
+        "C": "personality",
+        "D": "interest"
+      },
+      "correctAnswer": "B",
+      "explanation": "Achievement tests measure learned knowledge or skills.",
+      "topic": "Testing / Types of Tests",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q108",
+      "questionText": "The ethical principle that requires practitioners to obtain voluntary participation from clients after providing them with information about the assessment is:",
+      "options": {
+        "A": "Competence",
+        "B": "Confidentiality",
+        "C": "Integrity",
+        "D": "Informed Consent"
+      },
+      "correctAnswer": "D",
+      "explanation": "Informed consent ensures voluntary participation after full disclosure of test procedures and risks.",
+      "topic": "Ethics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q109",
+      "questionText": "Which scale of measurement involves ranking individuals or items in a specific order, but without equal intervals between the ranks?",
+      "options": {
+        "A": "Nominal",
+        "B": "Ordinal",
+        "C": "Interval",
+        "D": "Ratio"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ordinal scales rank order but do not assume equal spacing between values.",
+      "topic": "Statistics / Measurement",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q110",
+      "questionText": "The ethical principle of keeping client information private and not disclosing it to unauthorized individuals is known as:",
+      "options": {
+        "A": "Integrity",
+        "B": "Test Security",
+        "C": "Competence",
+        "D": "Confidentiality"
+      },
+      "correctAnswer": "D",
+      "explanation": "Confidentiality refers to protecting client information from unauthorized disclosure.",
+      "topic": "Ethics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q111",
+      "questionText": "Who is credited with developing the first successful intelligence test for identifying children with intellectual disabilities?",
+      "options": {
+        "A": "David Wechsler",
+        "B": "Francis Galton",
+        "C": "Alfred Binet",
+        "D": "Charles Spearman"
+      },
+      "correctAnswer": "C",
+      "explanation": "Alfred Binet developed the first practical intelligence test for identifying learning needs in children.",
+      "topic": "History of Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q112",
+      "questionText": "The most frequently occurring score in a distribution is the:",
+      "options": {
+        "A": "Mean",
+        "B": "Median",
+        "C": "Mode",
+        "D": "Range"
+      },
+      "correctAnswer": "C",
+      "explanation": "The mode is the value that appears most frequently in a dataset.",
+      "topic": "Statistics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q113",
+      "questionText": "The \"g-factor\" theory of intelligence was proposed by:",
+      "options": {
+        "A": "Howard Gardner",
+        "B": "Robert Sternberg",
+        "C": "Charles Spearman",
+        "D": "Alfred Binet"
+      },
+      "correctAnswer": "C",
+      "explanation": "Spearman proposed the general intelligence factor (g).",
+      "topic": "Intelligence Theories",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q114",
+      "questionText": "The MMPI-2 is an example of what type of test?",
+      "options": {
+        "A": "A projective personality test",
+        "B": "An objective, structured personality test",
+        "C": "An intelligence test",
+        "D": "A vocational interest inventory"
+      },
+      "correctAnswer": "B",
+      "explanation": "MMPI-2 is an objective personality inventory using structured true/false items.",
+      "topic": "Personality Testing",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q115",
+      "questionText": "What is the average score on a standard IQ test distribution, such as the Wechsler scales?",
+      "options": {
+        "A": "50",
+        "B": "75",
+        "C": "100",
+        "D": "120"
+      },
+      "correctAnswer": "C",
+      "explanation": "IQ tests are standardized with a mean of 100.",
+      "topic": "Intelligence Testing",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q116",
+      "questionText": "Which of the following is a measure of the variability of scores in a distribution?",
+      "options": {
+        "A": "Mean",
+        "B": "Median",
+        "C": "Mode",
+        "D": "Standard Deviation"
+      },
+      "correctAnswer": "D",
+      "explanation": "Standard deviation measures the spread of scores around the mean.",
+      "topic": "Statistics / Variability",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q117",
+      "questionText": "The \"L\" scale on the MMPI-2 is designed to detect:",
+      "options": {
+        "A": "A tendency to \"fake bad\" or exaggerate symptoms.",
+        "B": "A tendency to present oneself in an overly positive or idealized way.",
+        "C": "Confusion or random responding.",
+        "D": "Defensiveness."
+      },
+      "correctAnswer": "B",
+      "explanation": "The L (Lie) scale detects socially desirable responding or faking good.",
+      "topic": "Personality Testing / Validity Scales",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q118",
+      "questionText": "A test that aims to predict a person's potential to succeed in a future endeavor is a(n) ________ test.",
+      "options": {
+        "A": "achievement",
+        "B": "aptitude",
+        "C": "diagnostic",
+        "D": "summative"
+      },
+      "correctAnswer": "B",
+      "explanation": "Aptitude tests assess potential for future performance.",
+      "topic": "Testing / Aptitude",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q119",
+      "questionText": "The ethical principle requiring practitioners to provide only those services for which they are qualified is:",
+      "options": {
+        "A": "Integrity",
+        "B": "Justice",
+        "C": "Competence",
+        "D": "Beneficence"
+      },
+      "correctAnswer": "C",
+      "explanation": "Competence requires psychologists to work only within their areas of training.",
+      "topic": "Ethics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q120",
+      "questionText": "A T-score has a fixed mean of ________ and a standard deviation of ________.",
+      "options": {
+        "A": "100; 15",
+        "B": "50; 10",
+        "C": "0; 1",
+        "D": "10; 3"
+      },
+      "correctAnswer": "B",
+      "explanation": "T-scores are standardized with mean = 50 and SD = 10.",
+      "topic": "Psychometrics / Standard Scores",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q121",
+      "questionText": "The Rorschach test uses what as its stimuli?",
+      "options": {
+        "A": "Ambiguous pictures of people",
+        "B": "Incomplete sentences",
+        "C": "A series of inkblots",
+        "D": "True/False questions"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Rorschach uses inkblots as projective stimuli.",
+      "topic": "Projective Testing",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q122",
+      "questionText": "The Wechsler intelligence scales are known for providing not just a Full Scale IQ but also various ________ scores.",
+      "options": {
+        "A": "personality",
+        "B": "interest",
+        "C": "index",
+        "D": "achievement"
+      },
+      "correctAnswer": "C",
+      "explanation": "Wechsler scales provide index scores (e.g., verbal comprehension, working memory).",
+      "topic": "Intelligence Testing",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q123",
+      "questionText": "What does PAP stand for in the context of the Philippine Code of Ethics for Psychologists?",
+      "options": {
+        "A": "Philippine Association of Practitioners",
+        "B": "Psychological Association of the Philippines",
+        "C": "Professional Association of Psychologists",
+        "D": "Philippine Academy of Psychology"
+      },
+      "correctAnswer": "B",
+      "explanation": "PAP stands for Psychological Association of the Philippines.",
+      "topic": "Ethics / Philippines Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q124",
+      "questionText": "A z-score directly expresses a score's distance from the mean in terms of:",
+      "options": {
+        "A": "Percentile ranks",
+        "B": "Raw score units",
+        "C": "Standard deviation units",
+        "D": "T-score units"
+      },
+      "correctAnswer": "C",
+      "explanation": "A z-score shows how many standard deviations a score is from the mean.",
+      "topic": "Statistics / Standard Scores",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q125",
+      "questionText": "The part of a job analysis that describes the human characteristics needed for the job (e.g., KSAOs) is the:",
+      "options": {
+        "A": "Job description",
+        "B": "Job specification",
+        "C": "Job evaluation",
+        "D": "Job context"
+      },
+      "correctAnswer": "B",
+      "explanation": "Job specification focuses on the required human traits, skills, and abilities.",
+      "topic": "I-O Psychology / Job Analysis",
       "difficulty": "easy"
     }
   ]
