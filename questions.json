@@ -3849,6 +3849,706 @@
       "explanation": "I/O psychology focuses on workplace behavior and organizational systems.",
       "topic": "Industrial/Organizational Psychology / Definition",
       "difficulty": "easy"
+    },
+    {
+      "id": "q276",
+      "questionText": "Which of the following best defines psychological assessment?",
+      "options": {
+        "A": "The process of administering a single psychological test.",
+        "B": "The gathering and integration of psychology-related data for the purpose of making a psychological evaluation.",
+        "C": "A quick and informal way to understand a person's personality.",
+        "D": "The use of psychological tests to diagnose mental disorders."
+      },
+      "correctAnswer": "B",
+      "explanation": "Psychological assessment involves collecting and integrating multiple sources of psychological data to form a comprehensive evaluation of an individual.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q277",
+      "questionText": "What is the primary difference between psychological testing and psychological assessment?",
+      "options": {
+        "A": "Testing is a broader process than assessment.",
+        "B": "Assessment is a more specific process than testing.",
+        "C": "Testing is one component of the assessment process.",
+        "D": "There is no difference; the terms are interchangeable."
+      },
+      "correctAnswer": "C",
+      "explanation": "Psychological testing is one part of the broader psychological assessment process.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q278",
+      "questionText": "Which of the following is a key right of test-takers?",
+      "options": {
+        "A": "The right to know the test results beforehand.",
+        "B": "The right to informed consent.",
+        "C": "The right to change their answers after the test is scored.",
+        "D": "The right to a refund if they are not satisfied with their score."
+      },
+      "correctAnswer": "B",
+      "explanation": "Test-takers have the right to informed consent before participating in psychological testing.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q279",
+      "questionText": "A test is considered 'standardized' if it includes:",
+      "options": {
+        "A": "Clear instructions for administration and scoring.",
+        "B": "Norms to which results can be compared.",
+        "C": "Both a and b.",
+        "D": "None of the above."
+      },
+      "correctAnswer": "C",
+      "explanation": "Standardized tests have consistent administration procedures and normative data for interpretation.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q280",
+      "questionText": "Which scale of measurement has a true zero point, allowing for statements of 'twice as much' or 'half as much'?",
+      "options": {
+        "A": "Nominal",
+        "B": "Ordinal",
+        "C": "Interval",
+        "D": "Ratio"
+      },
+      "correctAnswer": "D",
+      "explanation": "Ratio scales have a true zero point, allowing meaningful ratios between values.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q281",
+      "questionText": "A psychologist ranks her clients from most to least anxious. This is an example of which scale of measurement?",
+      "options": {
+        "A": "Nominal",
+        "B": "Ordinal",
+        "C": "Interval",
+        "D": "Ratio"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ranking data reflects an ordinal scale, which indicates order but not equal intervals.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q282",
+      "questionText": "A frequency distribution is a way of organizing data to show:",
+      "options": {
+        "A": "The average score of a group.",
+        "B": "The spread of scores in a distribution.",
+        "C": "How often each score or category of scores occurs.",
+        "D": "The relationship between two variables."
+      },
+      "correctAnswer": "C",
+      "explanation": "A frequency distribution shows how often each score or category occurs.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q283",
+      "questionText": "In a normal distribution, what percentage of scores falls within one standard deviation of the mean?",
+      "options": {
+        "A": "50%",
+        "B": "68%",
+        "C": "95%",
+        "D": "99%"
+      },
+      "correctAnswer": "B",
+      "explanation": "Approximately 68% of scores fall within one standard deviation in a normal distribution.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q284",
+      "questionText": "A test's reliability refers to its:",
+      "options": {
+        "A": "Accuracy",
+        "B": "Consistency",
+        "C": "Usefulness",
+        "D": "Fairness"
+      },
+      "correctAnswer": "B",
+      "explanation": "Reliability refers to the consistency of test scores over time or across conditions.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q285",
+      "questionText": "A test developer administers the same test to the same group of people on two different occasions. This is an example of which method of estimating reliability?",
+      "options": {
+        "A": "Test-retest",
+        "B": "Split-half",
+        "C": "Internal consistency",
+        "D": "Inter-rater"
+      },
+      "correctAnswer": "A",
+      "explanation": "Test-retest reliability measures consistency over time using repeated administrations.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q286",
+      "questionText": "A test's validity refers to its:",
+      "options": {
+        "A": "Consistency",
+        "B": "Accuracy in measuring what it is supposed to measure",
+        "C": "Length and complexity",
+        "D": "Popularity among psychologists"
+      },
+      "correctAnswer": "B",
+      "explanation": "Validity refers to whether a test measures what it intends to measure.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q287",
+      "questionText": "A new test of anxiety is found to be highly correlated with an established, well-validated test of anxiety. This is evidence of:",
+      "options": {
+        "A": "Content validity",
+        "B": "Criterion-related validity",
+        "C": "Construct validity",
+        "D": "Face validity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correlation with an established test indicates criterion-related validity.",
+      "topic": "Psychological Assessment",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q288",
+      "questionText": "A test is said to have high face validity if:",
+      "options": {
+        "A": "It measures what it purports to measure.",
+        "B": "It appears to measure what it purports to measure.",
+        "C": "It is highly correlated with other tests of the same construct.",
+        "D": "It can predict future behavior."
+      },
+      "correctAnswer": "B",
+      "explanation": "Face validity refers to how much a test appears valid on the surface.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q289",
+      "questionText": "The process of test development begins with:",
+      "options": {
+        "A": "Test construction",
+        "B": "Test tryout",
+        "C": "Item analysis",
+        "D": "Test conceptualization"
+      },
+      "correctAnswer": "D",
+      "explanation": "Test conceptualization is the first step in developing a psychological test.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q290",
+      "questionText": "In item analysis, the item-difficulty index measures:",
+      "options": {
+        "A": "How well an item discriminates between high and low scorers.",
+        "B": "The proportion of test-takers who answered the item correctly.",
+        "C": "The reliability of an item.",
+        "D": "The validity of an item."
+      },
+      "correctAnswer": "B",
+      "explanation": "Item difficulty is the proportion of examinees who answer an item correctly.",
+      "topic": "Psychological Assessment",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q291",
+      "questionText": "An item with an item-difficulty index of .95 would be considered:",
+      "options": {
+        "A": "Very easy",
+        "B": "Very difficult",
+        "C": "Moderately difficult",
+        "D": "Impossible to determine"
+      },
+      "correctAnswer": "A",
+      "explanation": "A high p-value (0.95) means most test-takers got it correct, so it is very easy.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q292",
+      "questionText": "Which of the following is an example of a selected-response item?",
+      "options": {
+        "A": "Essay question",
+        "B": "Short-answer question",
+        "C": "Multiple-choice question",
+        "D": "All of the above"
+      },
+      "correctAnswer": "C",
+      "explanation": "Multiple-choice items are selected-response because answers are chosen from options.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q293",
+      "questionText": "Intelligence is best defined as:",
+      "options": {
+        "A": "The ability to score well on intelligence tests.",
+        "B": "A multifaceted capacity that includes the ability to acquire and apply knowledge, reason logically, and adapt to the environment.",
+        "C": "The amount of knowledge a person has accumulated.",
+        "D": "A single, general ability."
+      },
+      "correctAnswer": "B",
+      "explanation": "Intelligence is a broad capacity involving reasoning, learning, and adaptation.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q294",
+      "questionText": "Which theorist proposed a theory of multiple intelligences, including musical, bodily-kinesthetic, and interpersonal intelligence?",
+      "options": {
+        "A": "Charles Spearman",
+        "B": "Howard Gardner",
+        "C": "Robert Sternberg",
+        "D": "Alfred Binet"
+      },
+      "correctAnswer": "B",
+      "explanation": "Howard Gardner proposed Multiple Intelligences Theory.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q295",
+      "questionText": "The Stanford-Binet Intelligence Scales are known for their use of:",
+      "options": {
+        "A": "A single, global IQ score.",
+        "B": "An age-based standard for comparison.",
+        "C": "A deviation IQ score.",
+        "D": "All of the above."
+      },
+      "correctAnswer": "D",
+      "explanation": "Stanford-Binet includes a global IQ and age-based standardization.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q296",
+      "questionText": "The Wechsler scales of intelligence are known for their use of:",
+      "options": {
+        "A": "A single, global IQ score.",
+        "B": "An age-based standard for comparison.",
+        "C": "A deviation IQ score and separate verbal and performance scores.",
+        "D": "Multiple intelligences."
+      },
+      "correctAnswer": "C",
+      "explanation": "Wechsler scales use deviation IQ and separate verbal/performance scores.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q297",
+      "questionText": "A test designed to measure an individual's potential for learning a specific skill is called a(n):",
+      "options": {
+        "A": "Achievement test",
+        "B": "Aptitude test",
+        "C": "Intelligence test",
+        "D": "Personality test"
+      },
+      "correctAnswer": "B",
+      "explanation": "Aptitude tests measure potential for future learning or performance.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q298",
+      "questionText": "A test designed to measure what a person has already learned is called a(n):",
+      "options": {
+        "A": "Achievement test",
+        "B": "Aptitude test",
+        "C": "Intelligence test",
+        "D": "Personality test"
+      },
+      "correctAnswer": "A",
+      "explanation": "Achievement tests measure learned knowledge or skills.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q299",
+      "questionText": "A projective test is a type of personality test in which the test-taker is presented with:",
+      "options": {
+        "A": "A series of true/false questions.",
+        "B": "A series of multiple-choice questions.",
+        "C": "Ambiguous stimuli, and their responses are interpreted as revealing unconscious aspects of their personality.",
+        "D": "A list of adjectives to describe themselves."
+      },
+      "correctAnswer": "C",
+      "explanation": "Projective tests use ambiguous stimuli to uncover unconscious material.",
+      "topic": "Psychological Assessment",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q300",
+      "questionText": "The Rorschach Inkblot Test is an example of a(n):",
+      "options": {
+        "A": "Objective personality test",
+        "B": "Projective personality test",
+        "C": "Aptitude test",
+        "D": "Achievement test"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rorschach is a classic projective personality test.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q301",
+      "questionText": "The Thematic Apperception Test (TAT) involves:",
+      "options": {
+        "A": "Interpreting a series of inkblots.",
+        "B": "Telling stories about a series of ambiguous pictures.",
+        "C": "Answering true/false questions about oneself.",
+        "D": "Completing sentences."
+      },
+      "correctAnswer": "B",
+      "explanation": "TAT requires storytelling based on ambiguous images.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q302",
+      "questionText": "An objective personality test is a type of test in which the test-taker responds to:",
+      "options": {
+        "A": "Ambiguous stimuli.",
+        "B": "A series of standardized questions with fixed response options.",
+        "C": "Open-ended questions.",
+        "D": "A trained interviewer."
+      },
+      "correctAnswer": "B",
+      "explanation": "Objective tests use structured, fixed-response items.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q303",
+      "questionText": "The Minnesota Multiphasic Personality Inventory (MMPI) is an example of a(n):",
+      "options": {
+        "A": "Objective personality test",
+        "B": "Projective personality test",
+        "C": "Intelligence test",
+        "D": "Aptitude test"
+      },
+      "correctAnswer": "A",
+      "explanation": "MMPI is a standardized objective personality inventory.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q304",
+      "questionText": "The clinical interview is:",
+      "options": {
+        "A": "A highly structured and standardized assessment tool.",
+        "B": "A flexible and conversational method of gathering information about a client.",
+        "C": "The least important part of the assessment process.",
+        "D": "Used only for diagnosing mental disorders."
+      },
+      "correctAnswer": "B",
+      "explanation": "Clinical interviews are flexible and conversational.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q305",
+      "questionText": "A mental status examination is used to assess a client's:",
+      "options": {
+        "A": "Physical health.",
+        "B": "Social relationships.",
+        "C": "Current psychological functioning.",
+        "D": "Academic achievement."
+      },
+      "correctAnswer": "C",
+      "explanation": "MSE evaluates current cognitive and psychological functioning.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q306",
+      "questionText": "Behavioral assessment focuses on:",
+      "options": {
+        "A": "Unconscious conflicts.",
+        "B": "Underlying personality traits.",
+        "C": "Observable behaviors and their environmental determinants.",
+        "D": "All of the above."
+      },
+      "correctAnswer": "C",
+      "explanation": "Behavioral assessment emphasizes observable behavior and environment.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q307",
+      "questionText": "A psychologist who observes a child in their classroom to assess their behavior is using which method of behavioral assessment?",
+      "options": {
+        "A": "Self-monitoring",
+        "B": "Analogue observation",
+        "C": "Naturalistic observation",
+        "D": "Role-playing"
+      },
+      "correctAnswer": "C",
+      "explanation": "Naturalistic observation occurs in real-world settings like classrooms.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q308",
+      "questionText": "Neuropsychological assessment is used to evaluate the relationship between:",
+      "options": {
+        "A": "Brain function and behavior.",
+        "B": "Personality and behavior.",
+        "C": "Intelligence and behavior.",
+        "D": "Mood and behavior."
+      },
+      "correctAnswer": "A",
+      "explanation": "It assesses brain-behavior relationships.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q309",
+      "questionText": "The Bender Visual-Motor Gestalt Test is a neuropsychological test that assesses:",
+      "options": {
+        "A": "Verbal memory.",
+        "B": "Visual-motor skills.",
+        "C": "Executive functioning.",
+        "D": "Attention and concentration."
+      },
+      "correctAnswer": "B",
+      "explanation": "Bender test evaluates visual-motor integration.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q310",
+      "questionText": "The field of health psychology focuses on the role of psychological factors in:",
+      "options": {
+        "A": "Promoting and maintaining health.",
+        "B": "Preventing and treating illness.",
+        "C": "Both a and b.",
+        "D": "Neither a nor b."
+      },
+      "correctAnswer": "C",
+      "explanation": "Health psychology covers both health promotion and illness prevention.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q311",
+      "questionText": "Career counseling often involves the use of:",
+      "options": {
+        "A": "Intelligence tests.",
+        "B": "Personality tests.",
+        "C": "Interest inventories.",
+        "D": "All of the above."
+      },
+      "correctAnswer": "D",
+      "explanation": "Career counseling uses multiple assessment tools including interest and personality measures.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q312",
+      "questionText": "An interest inventory, such as the Strong Interest Inventory, is used to:",
+      "options": {
+        "A": "Measure a person's aptitude for a particular career.",
+        "B": "Measure a person's personality traits.",
+        "C": "Compare a person's interests to those of people who are satisfied in various occupations.",
+        "D": "Diagnose career-related problems."
+      },
+      "correctAnswer": "C",
+      "explanation": "Interest inventories compare individual interests with occupational groups.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q313",
+      "questionText": "The use of computers in psychological assessment has:",
+      "options": {
+        "A": "Increased the efficiency of scoring and administration.",
+        "B": "Raised concerns about test security and the validity of computer-based interpretations.",
+        "C": "Both a and b.",
+        "D": "Had no significant impact on the field."
+      },
+      "correctAnswer": "C",
+      "explanation": "Computerized testing improves efficiency but raises validity/security concerns.",
+      "topic": "Psychological Assessment",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q314",
+      "questionText": "The ethical code of the American Psychological Association (APA) provides guidelines for:",
+      "options": {
+        "A": "The development and use of psychological tests.",
+        "B": "The interpretation of test results.",
+        "C": "The protection of test-taker rights.",
+        "D": "All of the above."
+      },
+      "correctAnswer": "D",
+      "explanation": "APA ethics cover all aspects of psychological testing and assessment.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q315",
+      "questionText": "A psychologist who uses a test that is not appropriate for a particular client is violating the ethical principle of:",
+      "options": {
+        "A": "Competence.",
+        "B": "Integrity.",
+        "C": "Justice.",
+        "D": "Respect for people's rights and dignity."
+      },
+      "correctAnswer": "A",
+      "explanation": "Using inappropriate tests reflects lack of professional competence.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q316",
+      "questionText": "Test bias refers to:",
+      "options": {
+        "A": "The tendency of a test to favor one group of people over another.",
+        "B": "The personal preferences of the test administrator.",
+        "C": "The difficulty of a test.",
+        "D": "The length of a test."
+      },
+      "correctAnswer": "A",
+      "explanation": "Test bias occurs when a test unfairly advantages or disadvantages groups.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q317",
+      "questionText": "A test is considered culturally fair if it:",
+      "options": {
+        "A": "Is translated into multiple languages.",
+        "B": "Is developed and validated with diverse populations.",
+        "C": "Does not contain any culturally specific content.",
+        "D": "All of the above."
+      },
+      "correctAnswer": "C",
+      "explanation": "Cultural fairness requires minimizing cultural bias in content and interpretation.",
+      "topic": "Psychological Assessment",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q318",
+      "questionText": "Forensic psychology involves the application of psychological principles to:",
+      "options": {
+        "A": "Legal issues.",
+        "B": "Educational settings.",
+        "C": "Business and industry.",
+        "D": "All of the above."
+      },
+      "correctAnswer": "A",
+      "explanation": "Forensic psychology applies psychology to legal contexts.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q319",
+      "questionText": "A psychologist who is asked to evaluate a defendant's competency to stand trial is conducting a:",
+      "options": {
+        "A": "Child custody evaluation.",
+        "B": "Personal injury evaluation.",
+        "C": "Forensic assessment.",
+        "D": "Neuropsychological assessment."
+      },
+      "correctAnswer": "C",
+      "explanation": "Competency evaluations are part of forensic psychological assessment.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q320",
+      "questionText": "A raw score is a test score that has not been converted to another type of score. A standard score is a raw score that has been converted to a new scale with a set mean and standard deviation. Which statement is correct?",
+      "options": {
+        "A": "Statement I is correct",
+        "B": "Statement II is correct",
+        "C": "Both statements are correct",
+        "D": "Neither statement is correct"
+      },
+      "correctAnswer": "C",
+      "explanation": "Both definitions are accurate.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q321",
+      "questionText": "The mean is the most frequently occurring score in a distribution. The median is the middle score in a distribution. Which statement is correct?",
+      "options": {
+        "A": "Statement I is correct",
+        "B": "Statement II is correct",
+        "C": "Both statements are correct",
+        "D": "Neither statement is correct"
+      },
+      "correctAnswer": "B",
+      "explanation": "The mean is not the most frequent score (that's the mode). Only the median statement is correct.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q322",
+      "questionText": "A positive correlation indicates that as one variable increases, the other variable also increases. A negative correlation indicates the opposite. Which statement is correct?",
+      "options": {
+        "A": "Statement I is correct",
+        "B": "Statement II is correct",
+        "C": "Both statements are correct",
+        "D": "Neither statement is correct"
+      },
+      "correctAnswer": "C",
+      "explanation": "Both definitions correctly describe positive and negative correlations.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q323",
+      "questionText": "Which of the following is a measure of central tendency?",
+      "options": {
+        "A": "Mean",
+        "B": "Median",
+        "C": "Mode",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "Mean, median, and mode are all measures of central tendency.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q324",
+      "questionText": "Which of the following is a measure of variability?",
+      "options": {
+        "A": "Range",
+        "B": "Standard deviation",
+        "C": "Variance",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "All listed options are measures of variability.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q325",
+      "questionText": "The field of psychometrics is concerned with:",
+      "options": {
+        "A": "The theory and technique of psychological measurement.",
+        "B": "The treatment of mental disorders.",
+        "C": "The study of social behavior.",
+        "D": "The study of the brain."
+      },
+      "correctAnswer": "A",
+      "explanation": "Psychometrics focuses on psychological measurement and test theory.",
+      "topic": "Psychological Assessment",
+      "difficulty": "easy"
     }
   ]
 }
