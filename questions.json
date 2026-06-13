@@ -1035,6 +1035,370 @@
       "explanation": "Rapport refers to the professional, working relationship between examiner and examinee. Establishing good rapport helps ensure cooperation, reduces anxiety, and supports the validity of test results.",
       "topic": "Psychological Testing / Test Administration",
       "difficulty": "easy"
+    },
+    {
+      "id": "q75",
+      "questionText": "During group administration of a standardized test, a test-taker asks if the proctor can clarify the meaning of a word in a question. The proctor should:",
+      "options": {
+        "A": "Provide a dictionary definition to be fair",
+        "B": "Politely decline and advise the test-taker to do their best",
+        "C": "Announce the clarification to the entire group",
+        "D": "Ignore the question to avoid disturbance"
+      },
+      "correctAnswer": "B",
+      "explanation": "In standardized testing, instructions must be uniform for all examinees. Clarifying test item content would compromise standardization and validity, so the proctor should not provide explanations.",
+      "topic": "Test Administration / Standardization",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q76",
+      "questionText": "The standardized instructions for a test must be read verbatim to the test-takers. This is done to:",
+      "options": {
+        "A": "Make the test more difficult",
+        "B": "Ensure that all test-takers are being assessed under the same conditions",
+        "C": "Save time during administration",
+        "D": "Test the reading comprehension of the administrator"
+      },
+      "correctAnswer": "B",
+      "explanation": "Reading standardized instructions verbatim ensures uniform testing conditions across all examinees, which is essential for fairness, reliability, and validity of test scores.",
+      "topic": "Test Administration / Standardization",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q77",
+      "questionText": "Which of the following is NOT a responsibility of the test user before testing begins?",
+      "options": {
+        "A": "Familiarizing oneself with the test manual and procedures",
+        "B": "Ensuring all test materials are complete and ready",
+        "C": "Scoring the test and interpreting the results",
+        "D": "Preparing a comfortable and distraction-free testing environment"
+      },
+      "correctAnswer": "C",
+      "explanation": "Scoring and interpreting results occur after test administration. Before testing begins, responsibilities include preparing materials, environment, and understanding procedures.",
+      "topic": "Test Administration / Ethical Practice",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q78",
+      "questionText": "The ethical principle of \"Respect for People's Rights and Dignity\" most directly underpins the practice of:",
+      "options": {
+        "A": "Using only the most reliable tests available",
+        "B": "Charging reasonable fees for assessment services",
+        "C": "Obtaining informed consent from participants",
+        "D": "Constantly updating one's professional knowledge"
+      },
+      "correctAnswer": "C",
+      "explanation": "Respect for people's rights and dignity includes safeguarding autonomy, privacy, and self-determination. Obtaining informed consent ensures individuals understand and voluntarily agree to assessment procedures.",
+      "topic": "Ethics in Psychological Testing",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q79",
+      "questionText": "A psychologist learns in a therapy session that another psychologist is practicing outside their area of competence. According to the PAP Code of Ethics, the first step should be:",
+      "options": {
+        "A": "Immediately report the colleague to the ethics committee",
+        "B": "Anonymously post about the situation online to warn others",
+        "C": "Attempt an informal resolution by discussing the concern with the colleague directly, if appropriate",
+        "D": "Do nothing, as it is a confidential matter"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ethical guidelines encourage collegial and informal resolution first when appropriate. Direct, professional discussion with the colleague is the initial step before formal reporting mechanisms are considered.",
+      "topic": "Ethics in Psychology / Professional Conduct",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q80",
+      "questionText": "A psychometrician is feeling overwhelmed by personal problems, which are affecting his concentration and judgment. The most ethical course of action would be to:",
+      "options": {
+        "A": "Continue working but try to be extra careful",
+        "B": "Seek personal therapy but continue all professional duties as normal",
+        "C": "Temporarily refrain from professional activities that could be impacted by his personal problems",
+        "D": "Take a vacation without informing his clients or superiors"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ethical practice requires professionals to ensure their personal issues do not impair competence. If functioning is compromised, the appropriate action is to pause or limit professional duties that may be affected.",
+      "topic": "Professional Ethics / Fitness to Practice",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q81",
+      "questionText": "A psychologist receives a court order (subpoena duces tecum) to produce a client's therapy records for a legal proceeding. The most ethical action is to:",
+      "options": {
+        "A": "Ignore the subpoena to protect client confidentiality",
+        "B": "Immediately send all records to the court as requested",
+        "C": "Appear in court with the records, but assert privilege and refuse to turn them over unless ordered by the judge or with client consent",
+        "D": "Contact the client and ask them to retrieve the records themselves"
+      },
+      "correctAnswer": "C",
+      "explanation": "When served with a subpoena, psychologists should not ignore it or automatically release records. The ethical approach is to appear in court, assert confidentiality/privilege where appropriate, and only release records if legally compelled by a judge or with client consent.",
+      "topic": "Ethics in Psychological Practice / Confidentiality",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q82",
+      "questionText": "A psychologist is asked to provide a personality assessment of an individual she has not personally examined, based only on reviewing their social media profile. The psychologist should:",
+      "options": {
+        "A": "Agree to do it, as long as she has enough data",
+        "B": "Agree to do it, but include a disclaimer that the assessment is limited",
+        "C": "Decline, as conducting an assessment without a proper examination is unethical",
+        "D": "Refer the request to a qualified psychometrician"
+      },
+      "correctAnswer": "C",
+      "explanation": "Psychological assessment requires direct, proper examination and standardized procedures. Making diagnostic or personality judgments solely from social media violates ethical and professional standards of validity and responsibility.",
+      "topic": "Ethics in Psychological Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q83",
+      "questionText": "A psychologist is assessing a 17-year-old client. The client's parents demand to see the raw test data, including the answer sheets. The psychologist should:",
+      "options": {
+        "A": "Provide the data immediately, as the client is a minor",
+        "B": "Refuse completely, as test data is always confidential",
+        "C": "Discuss the request with the client to seek their assent and explain the results to the parents in an understandable manner, while generally refraining from releasing raw data to unqualified individuals to prevent misuse",
+        "D": "Tell the parents they need a court order"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ethical guidelines require balancing parental rights, client confidentiality, and professional responsibility. For minors, psychologists should communicate results in an understandable form to guardians while protecting raw test data from misuse and involving the client in the discussion when appropriate.",
+      "topic": "Ethics in Psychological Assessment / Confidentiality",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q84",
+      "questionText": "Can a registered psychometrician undergoing a master's program in psychology administer and score a Level C test like the Rorschach under the direct supervision of a registered psychologist for training purposes?",
+      "options": {
+        "A": "No, only psychologists can ever handle Level C tests",
+        "B": "No, because the Rorschach is not a real test",
+        "C": "Yes, this is an acceptable part of supervised training as stipulated by ethical guidelines",
+        "D": "Yes, but they cannot score it, only administer it"
+      },
+      "correctAnswer": "C",
+      "explanation": "Under supervised training by a qualified psychologist, trainees may be allowed to administer and score advanced Level C instruments as part of competency development, provided ethical guidelines, supervision, and institutional policies are strictly followed.",
+      "topic": "Ethics in Psychological Testing / Supervised Practice",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q85",
+      "questionText": "In a normal distribution of scores, a z-score of 0 is equivalent to a percentile rank of:",
+      "options": {
+        "A": "0",
+        "B": "100",
+        "C": "50",
+        "D": "1"
+      },
+      "correctAnswer": "C",
+      "explanation": "A z-score of 0 represents the mean of a normal distribution. In a normal curve, the mean corresponds to the 50th percentile, meaning the score is higher than 50% of the distribution.",
+      "topic": "Statistics / Norms and Standard Scores",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q86",
+      "questionText": "A test is considered a \"power test\" when:",
+      "options": {
+        "A": "The time limit is so strict that no one is expected to finish",
+        "B": "It measures the upper limits of a person's knowledge or ability",
+        "C": "The items are very easy",
+        "D": "It is administered by computer"
+      },
+      "correctAnswer": "B",
+      "explanation": "A power test is designed to measure a test-taker’s maximum ability or level of knowledge, with sufficient time provided so that performance reflects ability rather than speed.",
+      "topic": "Psychological Testing / Test Types",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q87",
+      "questionText": "The finding that IQ scores have been steadily increasing over the last few decades is known as:",
+      "options": {
+        "A": "The G-factor",
+        "B": "The Halo Effect",
+        "C": "The Flynn Effect",
+        "D": "The Barnum Effect"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Flynn Effect refers to the observed long-term rise in average IQ scores across populations over time, requiring periodic renorming of intelligence tests.",
+      "topic": "Intelligence Testing / Psychometrics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q88",
+      "questionText": "A test item has a difficulty index of .95 and a discrimination index of .05. This item is likely:",
+      "options": {
+        "A": "An excellent item for a norm-referenced test",
+        "B": "Too difficult and not discriminating well",
+        "C": "Too easy and not discriminating well",
+        "D": "Moderately difficult but discriminating well"
+      },
+      "correctAnswer": "C",
+      "explanation": "A difficulty index of .95 means almost all examinees answered correctly, making the item too easy. A low discrimination index (.05) means it poorly differentiates high and low performers.",
+      "topic": "Item Analysis / Test Construction",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q89",
+      "questionText": "A \"ceiling effect\" occurs when:",
+      "options": {
+        "A": "A test is too easy, and many test-takers achieve the highest possible score",
+        "B": "A test is too difficult, and many test-takers score near the bottom",
+        "C": "The test has a very high reliability coefficient",
+        "D": "The test is administered in a room with a low ceiling"
+      },
+      "correctAnswer": "A",
+      "explanation": "A ceiling effect occurs when a test is too easy for the sample, causing many examinees to score at or near the maximum possible score, which reduces the test's ability to discriminate among high performers.",
+      "topic": "Psychometrics / Test Effects",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q90",
+      "questionText": "Which statements about validity scales are correct?\nI. The primary purpose of a validity scale is to assess the test's own validity.\nII. Validity scales help the clinician judge the validity of the test-taker's approach to the test.",
+      "options": {
+        "A": "Only I is true",
+        "B": "Only II is true",
+        "C": "Both are true",
+        "D": "Both are false"
+      },
+      "correctAnswer": "B",
+      "explanation": "Validity scales are used to evaluate the test-taker's response style (e.g., faking good, faking bad, random responding), not the validity of the test itself. Therefore, Statement I is false and Statement II is true.",
+      "topic": "Psychological Testing / Validity Scales",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q91",
+      "questionText": "Which of these is a projective test?",
+      "options": {
+        "A": "BPI (Basic Personality Inventory)",
+        "B": "MCMI (Millon Clinical Multiaxial Inventory)",
+        "C": "DAP (Draw-A-Person)",
+        "D": "16PF (Sixteen Personality Factor Questionnaire)"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Draw-A-Person (DAP) test is a projective technique where individuals express underlying emotions and personality traits through drawings. The other options are objective personality inventories.",
+      "topic": "Personality Assessment / Projective Techniques",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q92",
+      "questionText": "The \"g\" factor in intelligence refers to:",
+      "options": {
+        "A": "Group-specific abilities",
+        "B": "General intelligence that underlies all cognitive tasks",
+        "C": "Genetic influences on intelligence",
+        "D": "Giftedness"
+      },
+      "correctAnswer": "B",
+      "explanation": "The 'g' factor (general intelligence) refers to a broad mental ability that influences performance across various cognitive tasks, rather than being limited to specific skills or genetic factors alone.",
+      "topic": "Intelligence Testing / Theories of Intelligence",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q93",
+      "questionText": "A psychologist wants to see if a new therapy reduces anxiety. She measures anxiety before the therapy and again after. To see if the change is significant, she should use:",
+      "options": {
+        "A": "An independent-samples t-test",
+        "B": "A dependent-samples t-test (paired t-test)",
+        "C": "A Pearson correlation",
+        "D": "A one-way ANOVA"
+      },
+      "correctAnswer": "B",
+      "explanation": "A paired (dependent-samples) t-test is used when the same participants are measured twice, such as pre-test and post-test designs, to determine if there is a significant change in scores.",
+      "topic": "Statistics / Experimental Design",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q94",
+      "questionText": "The concept of \"utility\" in psychological testing refers to:",
+      "options": {
+        "A": "The reliability of the test",
+        "B": "The validity of the test",
+        "C": "The usefulness or practical value of testing to improve decision-making",
+        "D": "The number of items on the test"
+      },
+      "correctAnswer": "C",
+      "explanation": "Utility in psychological testing refers to the practical usefulness of a test in improving decisions, such as selection, diagnosis, or placement, beyond just its reliability or validity.",
+      "topic": "Psychometrics / Test Evaluation",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q95",
+      "questionText": "In the context of the Big Five, \"Conscientiousness\" is most associated with traits like:",
+      "options": {
+        "A": "Curiosity and creativity",
+        "B": "Sociability and assertiveness",
+        "C": "Kindness and empathy",
+        "D": "Organization, self-discipline, and responsibility"
+      },
+      "correctAnswer": "D",
+      "explanation": "Conscientiousness in the Big Five personality model refers to being organized, disciplined, responsible, and goal-directed. Curiosity and creativity are more associated with Openness to Experience.",
+      "topic": "Personality Psychology (Big Five)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q96",
+      "questionText": "A test score that is reported as \"8/10 correct\" is an example of:",
+      "options": {
+        "A": "A norm-referenced score",
+        "B": "A criterion-referenced score",
+        "C": "A standard score",
+        "D": "A percentile rank"
+      },
+      "correctAnswer": "B",
+      "explanation": "A score like '8/10 correct' reflects performance against a set criterion (the number of items answered correctly), not comparison to a norm group. Norm-referenced scores compare performance to others.",
+      "topic": "Measurement and Evaluation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q97",
+      "questionText": "An individual with a T-score of 30 on a neuroticism scale would be interpreted as being:",
+      "options": {
+        "A": "Average in neuroticism",
+        "B": "Very high in neuroticism",
+        "C": "Very low in neuroticism",
+        "D": "Slightly above average in neuroticism"
+      },
+      "correctAnswer": "C",
+      "explanation": "T-scores have a mean of 50 and a standard deviation of 10. A score of 30 is two standard deviations below the mean, indicating very low levels of neuroticism.",
+      "topic": "Psychometrics / Standard Scores",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q98",
+      "questionText": "The first step in the process of test development is:",
+      "options": {
+        "A": "Test construction",
+        "B": "Test tryout",
+        "C": "Item analysis",
+        "D": "Test conceptualization"
+      },
+      "correctAnswer": "D",
+      "explanation": "Test conceptualization is the first step in test development, where the construct is defined, the purpose of the test is clarified, and the target population is identified before items are created.",
+      "topic": "Test Development / Psychometrics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q99",
+      "questionText": "An applicant seems highly qualified, but the HR officer notices he scored very high on the Lie (L) scale and the Correction (K) scale of the MMPI-2. This suggests the applicant was likely:",
+      "options": {
+        "A": "Exaggerating his problems",
+        "B": "Responding randomly to items",
+        "C": "Being highly defensive and attempting to present an unrealistically positive image",
+        "D": "Open and honest in his responses"
+      },
+      "correctAnswer": "C",
+      "explanation": "Elevated L and K scales on the MMPI-2 indicate defensiveness and attempts to present oneself in an overly favorable or socially desirable manner ('faking good').",
+      "topic": "Personality Assessment / Validity Scales",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q100",
+      "questionText": "The ethical principle of \"Fidelity and Responsibility\" means that a psychologist:",
+      "options": {
+        "A": "Strives to benefit those with whom they work and takes care to do no harm",
+        "B": "Upholds professional standards of conduct and accepts responsibility for their behavior",
+        "C": "Promotes accuracy, honesty, and truthfulness in the science and practice of psychology",
+        "D": "Recognizes that all persons are entitled to equal access to the contributions of psychology"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fidelity and Responsibility in the APA/PAP ethical framework emphasizes maintaining professional standards, accepting responsibility for one's actions, and establishing trust in professional relationships. Option A reflects Beneficence and Nonmaleficence.",
+      "topic": "Ethics in Psychology",
+      "difficulty": "easy"
     }
   ]
 }
