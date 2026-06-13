@@ -1,0 +1,1040 @@
+{
+  "general": [
+    {
+      "id": "q1",
+      "questionText": "Validity is primarily concerned with:",
+      "options": {
+        "A": "The consistency and stability of test scores over time",
+        "B": "The degree to which test scores are free from measurement error",
+        "C": "The appropriateness of the inferences made from test scores",
+        "D": "The practicality and cost-effectiveness of a test"
+      },
+      "correctAnswer": "C",
+      "explanation": "Validity refers to how appropriate and meaningful the interpretations and inferences made from test scores are, rather than consistency, error, or cost.",
+      "topic": "Educational Measurement and Evaluation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q2",
+      "questionText": "A new digital thermometer consistently reads 2°C higher than a person's actual body temperature. We can describe this thermometer as being:",
+      "options": {
+        "A": "Valid but not reliable",
+        "B": "Neither reliable nor valid",
+        "C": "Both reliable and valid",
+        "D": "Reliable but not valid"
+      },
+      "correctAnswer": "D",
+      "explanation": "The thermometer gives consistent readings (reliable) but does not measure the true temperature accurately because it is always 2°C too high, making it invalid.",
+      "topic": "Educational Measurement and Evaluation",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q3",
+      "questionText": "Which psychometric theory views reliability as the proportion of total variance that is attributable to true score variance?",
+      "options": {
+        "A": "Generalizability Theory",
+        "B": "Item Response Theory (IRT)",
+        "C": "Classical Test Theory (CTT)",
+        "D": "Factor Analysis"
+      },
+      "correctAnswer": "C",
+      "explanation": "Classical Test Theory defines reliability as the proportion of observed score variance that is due to true score variance rather than measurement error.",
+      "topic": "Psychometrics",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q4",
+      "questionText": "Item Response Theory (IRT) differs from Classical Test Theory (CTT) in that IRT:",
+      "options": {
+        "A": "Focuses on the characteristics of the test as a whole rather than individual items",
+        "B": "Has assumptions that are generally easier to meet in practice",
+        "C": "Provides sample-invariant item parameters",
+        "D": "Assumes test scores are completely free from measurement error"
+      },
+      "correctAnswer": "C",
+      "explanation": "Item Response Theory (IRT) estimates item parameters (such as difficulty and discrimination) that are relatively invariant across different samples, unlike Classical Test Theory which is more test-level and sample-dependent.",
+      "topic": "Psychometrics",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q5",
+      "questionText": "Within the framework of Generalizability Theory, the different conditions under which a test is taken (e.g., different scorers, occasions, or item sets) are referred to as:",
+      "options": {
+        "A": "Universes of generalization",
+        "B": "Facets",
+        "C": "G studies",
+        "D": "True scores"
+      },
+      "correctAnswer": "B",
+      "explanation": "In Generalizability Theory, 'facets' refer to the different sources of measurement variation such as scorers, occasions, or items that can influence test scores.",
+      "topic": "Generalizability Theory",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q6",
+      "questionText": "What is the fundamental relationship between reliability and the standard error of measurement (SEM)?",
+      "options": {
+        "A": "As reliability increases, SEM also increases",
+        "B": "As reliability decreases, SEM also decreases",
+        "C": "As reliability increases, SEM decreases",
+        "D": "There is no direct relationship between reliability and SEM"
+      },
+      "correctAnswer": "C",
+      "explanation": "Reliability and SEM are inversely related. As reliability increases, measurement error decreases, which leads to a lower SEM.",
+      "topic": "Psychometrics",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q7",
+      "questionText": "Which statistic is used to compare the scores of two different individuals on the same test to determine whether the difference between their scores is statistically significant?",
+      "options": {
+        "A": "Standard Error of Measurement (SEM)",
+        "B": "Standard Error of the Mean",
+        "C": "Standard Error of Estimate",
+        "D": "Standard Error of the Difference (SED)"
+      },
+      "correctAnswer": "D",
+      "explanation": "The Standard Error of the Difference (SED) is used to determine whether the difference between two individuals' test scores is statistically significant by accounting for measurement error in both scores.",
+      "topic": "Psychometrics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q8",
+      "questionText": "Kyungsoo obtained a score of 110 on an IQ test with a standard deviation of 15 and a reliability coefficient of 0.91. What is the Standard Error of Measurement (SEM) for this test?",
+      "options": {
+        "A": "3.0",
+        "B": "4.5",
+        "C": "5.0",
+        "D": "1.5"
+      },
+      "correctAnswer": "B",
+      "explanation": "SEM is computed using the formula SEM = SD × √(1 − reliability). Substituting values: 15 × √(1 − 0.91) = 15 × √0.09 = 15 × 0.3 = 4.5.",
+      "topic": "Psychometrics",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q9",
+      "questionText": "Based on the previous item, what is the 95% confidence interval for Kyungsoo’s true score? (z for 95% CI ≈ 1.96)",
+      "options": {
+        "A": "101.2 to 118.8",
+        "B": "105.5 to 114.5",
+        "C": "95.0 to 125.0",
+        "D": "107.0 to 113.0"
+      },
+      "correctAnswer": "A",
+      "explanation": "The SEM is 4.5. For a 95% confidence interval, multiply SEM by 1.96: 1.96 × 4.5 = 8.82. Then compute 110 ± 8.82, giving approximately 101.2 to 118.8.",
+      "topic": "Psychometrics",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q10",
+      "questionText": "A researcher developed a new scale to measure current mood states. He decided to use test-retest reliability with a 6-month interval. Why might this be an inappropriate choice?",
+      "options": {
+        "A": "Mood is a stable trait, so the interval is too short",
+        "B": "Test-retest reliability is only for speed tests",
+        "C": "The construct being measured (mood) is dynamic and expected to change over time",
+        "D": "The sample size would need to be extremely large"
+      },
+      "correctAnswer": "C",
+      "explanation": "Test-retest reliability assumes the construct is stable over time. Mood is a fluctuating state, so over a 6-month interval true changes in mood would confound reliability estimates.",
+      "topic": "Psychometrics",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q11",
+      "questionText": "A psychometrician wants to assess the reliability of a test measuring clerical speed and accuracy, where every item is easy but the time limit is very strict. Which method of reliability is LEAST appropriate?",
+      "options": {
+        "A": "Test-retest reliability",
+        "B": "Alternate forms reliability (administered immediately)",
+        "C": "Split-half reliability",
+        "D": "Scorer reliability"
+      },
+      "correctAnswer": "C",
+      "explanation": "Split-half reliability is least appropriate for speeded tests because item difficulty is uniform and performance is heavily influenced by time pressure, violating the assumption of item homogeneity needed for meaningful split-half comparisons.",
+      "topic": "Psychometrics",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q12",
+      "questionText": "To estimate the reliability of a test with dichotomous (right/wrong) items, which formula is most suitable?",
+      "options": {
+        "A": "Cronbach's Alpha",
+        "B": "Spearman-Brown formula",
+        "C": "Kuder-Richardson 20 (KR-20)",
+        "D": "Pearson's r"
+      },
+      "correctAnswer": "C",
+      "explanation": "KR-20 is specifically designed to estimate internal consistency reliability for tests with dichotomous items (right/wrong scoring).",
+      "topic": "Psychometrics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q13",
+      "questionText": "Measuring the internal consistency of a multidimensional test like the NEO-PI-3 by calculating a single Cronbach's alpha for all items combined will likely result in:",
+      "options": {
+        "A": "An artificially inflated reliability estimate",
+        "B": "An underestimation of the true reliability of the underlying dimensions",
+        "C": "A perfectly accurate reliability estimate",
+        "D": "A validity coefficient instead of a reliability coefficient"
+      },
+      "correctAnswer": "B",
+      "explanation": "For multidimensional tests, combining all items into a single Cronbach's alpha violates the assumption of unidimensionality. This usually reduces item intercorrelations across different constructs, leading to an underestimation of the true reliability of each underlying dimension.",
+      "topic": "Psychometrics",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q14",
+      "questionText": "For a high-stakes certification exam like the Board Licensure Examination for Psychologists and Psychometricians (BLEPP), relying solely on traditional reliability estimates can be problematic. A more modern approach that focuses on the consistency of pass/fail decisions is:",
+      "options": {
+        "A": "Test-retest reliability",
+        "B": "Decision consistency theory",
+        "C": "Scorer reliability",
+        "D": "Content validity ratios"
+      },
+      "correctAnswer": "B",
+      "explanation": "Decision consistency theory evaluates how consistently an assessment classifies individuals into categories (such as pass/fail), making it especially useful for high-stakes licensing exams where classification accuracy matters more than score stability alone.",
+      "topic": "Psychometrics",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q15",
+      "questionText": "In split-half reliability, correlating the scores from the first half of the test with the second half of the test is the best way to split the items. The Spearman-Brown prophecy formula is used to correct for the artificially shortened length of the test in split-half reliability. Which statement is correct?",
+      "options": {
+        "A": "Only I is true",
+        "B": "Only II is true",
+        "C": "Both are true",
+        "D": "Both are false"
+      },
+      "correctAnswer": "B",
+      "explanation": "Statement I is false because the best split is not simply first-half vs second-half; more appropriate methods aim for equivalent halves (e.g., odd-even splitting). Statement II is true because the Spearman-Brown formula adjusts split-half reliability to account for test length reduction.",
+      "topic": "Psychometrics",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q16",
+      "questionText": "Which statement about alternate forms reliability is accurate?",
+      "options": {
+        "A": "It is considered the most practical and widely used method of estimating reliability",
+        "B": "If the two forms are administered on different occasions, it measures both consistency of content and temporal stability",
+        "C": "It completely eliminates the problem of motivation and fatigue effects",
+        "D": "It requires calculating an item-total correlation for each form"
+      },
+      "correctAnswer": "B",
+      "explanation": "When alternate forms are administered at different times, the resulting reliability estimate reflects both equivalence of the test forms (content consistency) and stability over time (temporal stability).",
+      "topic": "Psychometrics",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q17",
+      "questionText": "A test developer is creating a 50-item measure of \"Grit.\" After writing an initial pool of 100 items and pilot testing them, what is the next logical step in the test development process?",
+      "options": {
+        "A": "Test revision",
+        "B": "Test construction",
+        "C": "Item analysis",
+        "D": "Norming the test"
+      },
+      "correctAnswer": "C",
+      "explanation": "After pilot testing an item pool, the next step is item analysis, which evaluates item difficulty, discrimination, and quality to select the best items for the final test.",
+      "topic": "Test Development",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q18",
+      "questionText": "What is a common rule-of-thumb for the sample size during the test tryout or pilot testing phase?",
+      "options": {
+        "A": "A minimum of 50 participants, regardless of test length",
+        "B": "At least 5 to 10 participants for every item on the test",
+        "C": "A fixed number of 100 participants for all types of tests",
+        "D": "As many participants as will be in the final norm group"
+      },
+      "correctAnswer": "B",
+      "explanation": "A common guideline in test development is to use approximately 5–10 respondents per item during pilot testing to ensure stable item statistics for item analysis.",
+      "topic": "Test Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q19",
+      "questionText": "After conducting an item analysis, the developer of the \"Grit\" scale finds several items with poor discrimination indices and extreme difficulty values. What is the next phase of the test development process?",
+      "options": {
+        "A": "Conceptualization",
+        "B": "Construction",
+        "C": "Tryout",
+        "D": "Revision"
+      },
+      "correctAnswer": "D",
+      "explanation": "After item analysis identifies poorly performing items, the next step is test revision, which involves revising or removing weak items before finalizing the test.",
+      "topic": "Test Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q20",
+      "questionText": "What is the most appropriate method for establishing the internal consistency reliability of a newly developed \"Social Anxiety Scale\" that uses a 5-point Likert scale format?",
+      "options": {
+        "A": "KR-20",
+        "B": "KR-21",
+        "C": "Cronbach's Alpha",
+        "D": "Test-retest"
+      },
+      "correctAnswer": "C",
+      "explanation": "Cronbach's Alpha is the appropriate method for estimating internal consistency reliability for Likert-scale (polytomous) items. KR-20 and KR-21 are designed for dichotomous items only.",
+      "topic": "Psychometrics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q21",
+      "questionText": "A test where respondents must choose between two equally desirable statements (e.g., \"I like parties\" vs. \"I enjoy quiet evenings\") to determine their personality profile is using a(n) ________ format with ________ scoring.",
+      "options": {
+        "A": "selected-response; cumulative",
+        "B": "constructed-response; ipsative",
+        "C": "selected-response; ipsative",
+        "D": "constructed-response; cumulative"
+      },
+      "correctAnswer": "C",
+      "explanation": "This format is a forced-choice item type, which is a selected-response format. Because choices are compared within the individual rather than against norms, it produces ipsative scoring.",
+      "topic": "Psychometrics",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q22",
+      "questionText": "An item on a final exam was answered correctly by every single student. From a psychometric standpoint, this item is considered:",
+      "options": {
+        "A": "A very good item because it was easy",
+        "B": "A poor item because it does not differentiate among students",
+        "C": "A good item for assessing content validity",
+        "D": "A good item for establishing test-retest reliability"
+      },
+      "correctAnswer": "B",
+      "explanation": "An item answered correctly by all students has zero variability and no discrimination power, meaning it cannot distinguish between high and low performers, making it a poor item psychometrically.",
+      "topic": "Item Analysis",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q23",
+      "questionText": "In a 100-person sample, 35 people answered item #10 correctly. What is the item difficulty index (p-value) for this item?",
+      "options": {
+        "A": "0.65",
+        "B": "0.35",
+        "C": "3.5",
+        "D": "Insufficient data to determine"
+      },
+      "correctAnswer": "B",
+      "explanation": "The item difficulty index (p-value) is the proportion of students who answered the item correctly. Here, p = 35/100 = 0.35.",
+      "topic": "Item Analysis",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q24",
+      "questionText": "An item with a difficulty index of 0.15 is considered:",
+      "options": {
+        "A": "Very easy",
+        "B": "Very difficult",
+        "C": "Moderately difficult",
+        "D": "Optimal for most tests"
+      },
+      "correctAnswer": "B",
+      "explanation": "The difficulty index (p-value) represents the proportion of correct responses. A value of 0.15 means only 15% answered correctly, indicating a very difficult item.",
+      "topic": "Item Analysis",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q25",
+      "questionText": "The item discrimination index (d-value) for item #15 is calculated to be +0.45. This indicates that:",
+      "options": {
+        "A": "The item is flawed and should be discarded",
+        "B": "More low-scorers than high-scorers got the item correct",
+        "C": "The item is discriminating well between high-scorers and low-scorers",
+        "D": "The item difficulty is too high"
+      },
+      "correctAnswer": "C",
+      "explanation": "A positive discrimination index (especially around +0.30 to +0.50) indicates that high scorers are more likely to answer correctly than low scorers, meaning the item effectively discriminates between ability levels.",
+      "topic": "Item Analysis",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q26",
+      "questionText": "For a five-option multiple-choice item, what is the optimal item difficulty level after correcting for chance?",
+      "options": {
+        "A": "0.50",
+        "B": "0.60",
+        "C": "0.75",
+        "D": "0.80"
+      },
+      "correctAnswer": "B",
+      "explanation": "For multiple-choice items, the optimal difficulty is often adjusted upward from 0.50 due to guessing. With five options (chance level = 0.20), an optimal corrected difficulty is around 0.60, balancing discrimination and item effectiveness.",
+      "topic": "Item Analysis",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q27",
+      "questionText": "An item analysis reveals a discrimination index of -0.30. What is the most likely interpretation?",
+      "options": {
+        "A": "The item is functioning well",
+        "B": "The item is not discriminating at all",
+        "C": "The item may be miskeyed, or the content is confusing, leading high-scorers to answer it incorrectly",
+        "D": "The item is too easy"
+      },
+      "correctAnswer": "C",
+      "explanation": "A negative discrimination index means low scorers are more likely to answer correctly than high scorers. This typically indicates a flawed item, such as a miskeyed answer or confusing wording.",
+      "topic": "Item Analysis",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q28",
+      "questionText": "Face validity refers to:",
+      "options": {
+        "A": "Whether the test adequately samples the content domain",
+        "B": "Whether the test items logically relate to the underlying construct",
+        "C": "Whether the test appears to measure what it purports to measure to the test-taker",
+        "D": "Whether the test can predict a future outcome"
+      },
+      "correctAnswer": "C",
+      "explanation": "Face validity refers to the superficial or surface-level appearance of a test—whether it looks like it measures what it is supposed to measure, from the perspective of test-takers or non-experts.",
+      "topic": "Validity",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q29",
+      "questionText": "Which statement about validity is correct?",
+      "options": {
+        "A": "A test can be valid without being reliable",
+        "B": "Validity is an inherent property of a test itself",
+        "C": "Validity refers to the interpretation of scores from a test for a specific purpose",
+        "D": "High face validity guarantees high construct validity"
+      },
+      "correctAnswer": "C",
+      "explanation": "Validity is not a fixed property of a test but refers to the appropriateness of interpretations and uses of test scores for a specific purpose. Reliability is necessary but not sufficient for validity, and face validity does not guarantee construct validity.",
+      "topic": "Validity",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q30",
+      "questionText": "A psychologist adapts the Thematic Apperception Test (TAT) for use with a remote Filipino indigenous community, changing the images to reflect their culture and lifestyle. This entire process is a form of:",
+      "options": {
+        "A": "Co-validation",
+        "B": "Cross-validation",
+        "C": "Local adaptation and validation",
+        "D": "Co-norming"
+      },
+      "correctAnswer": "C",
+      "explanation": "Modifying a psychological test to fit the cultural context of a specific population and then validating it for that group is called local adaptation and validation. It ensures cultural relevance and appropriate interpretation of results.",
+      "topic": "Test Adaptation and Standardization",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q31",
+      "questionText": "A test publisher decides to develop norms for its new scholastic aptitude test and a new vocational interest inventory at the same time, using the same large sample of high school students. This process is called:",
+      "options": {
+        "A": "Co-validation",
+        "B": "Cross-validation",
+        "C": "Concurrent validation",
+        "D": "Co-norming"
+      },
+      "correctAnswer": "D",
+      "explanation": "Co-norming refers to the process of developing norms for two or more tests using the same sample at the same time, allowing scores from different instruments to be directly comparable.",
+      "topic": "Test Standardization",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q32",
+      "questionText": "A high school history teacher creates a final exam. She ensures that the proportion of questions about World War I, World War II, and the Cold War matches the proportion of time spent teaching each topic. She is primarily concerned with establishing ________ validity.",
+      "options": {
+        "A": "Content",
+        "B": "Construct",
+        "C": "Predictive",
+        "D": "Concurrent"
+      },
+      "correctAnswer": "A",
+      "explanation": "Content validity refers to how well a test represents the full range of the content domain. Matching exam questions to instructional time ensures proportional coverage of the taught material.",
+      "topic": "Validity",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q33",
+      "questionText": "To provide evidence of the ________ validity of a new test for anxiety, a researcher shows that the test scores correlate highly with an established anxiety test (convergent evidence) and have a low correlation with a test of social desirability (discriminant evidence).",
+      "options": {
+        "A": "Content",
+        "B": "Criterion-related",
+        "C": "Face",
+        "D": "Construct"
+      },
+      "correctAnswer": "D",
+      "explanation": "Convergent and discriminant validity are both components of construct validity. High correlations with similar constructs and low correlations with unrelated constructs provide evidence for construct validity.",
+      "topic": "Validity",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q34",
+      "questionText": "A newly developed scale for \"mindfulness\" is administered to a group of Zen Buddhist monks and a group of college students. The monks score significantly higher on the scale. This provides what kind of validity evidence?",
+      "options": {
+        "A": "Evidence from distinct groups",
+        "B": "Predictive evidence",
+        "C": "Content validity evidence",
+        "D": "Factorial validity"
+      },
+      "correctAnswer": "A",
+      "explanation": "This is known as known-groups or contrasting groups evidence, where a test is validated by showing it differentiates between groups expected to differ on the construct.",
+      "topic": "Validity",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q35",
+      "questionText": "A test developer correlates scores on a new \"Sales Aptitude Test\" with the actual sales performance of a group of employees six months after they were hired. This is an example of establishing:",
+      "options": {
+        "A": "Concurrent validity",
+        "B": "Predictive validity",
+        "C": "Content validity",
+        "D": "Convergent validity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Predictive validity is demonstrated when test scores are used to forecast future performance. Here, the sales test predicts job performance six months later.",
+      "topic": "Validity",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q36",
+      "questionText": "An applicant taking a pre-employment test feels that the questions are irrelevant and do not relate to the job she is applying for. This could lead to lower motivation and skewed results. This is a problem related to:",
+      "options": {
+        "A": "Poor construct validity",
+        "B": "Poor content validity",
+        "C": "Poor predictive validity",
+        "D": "Poor face validity"
+      },
+      "correctAnswer": "D",
+      "explanation": "Face validity refers to how relevant and appropriate a test appears to test-takers. If items seem irrelevant to the job, motivation may drop, affecting responses even if the test may still have technical validity.",
+      "topic": "Validity",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q37",
+      "questionText": "A researcher finds that her new depression scale has a validity coefficient of 0.98 with the Beck Depression Inventory (BDI-II). A potential concern with this finding is that:",
+      "options": {
+        "A": "The new test has excellent convergent validity",
+        "B": "The new test may be an unnecessary duplication of the BDI-II",
+        "C": "The criterion used is likely contaminated",
+        "D": "The evidence for validity is too weak"
+      },
+      "correctAnswer": "B",
+      "explanation": "A near-perfect correlation (0.98) suggests the new scale may be measuring exactly the same thing as the BDI-II, raising concerns that it may be redundant rather than offering new or unique measurement value.",
+      "topic": "Validity",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q38",
+      "questionText": "Criterion contamination occurs when:",
+      "options": {
+        "A": "The criterion measure is not relevant to the construct",
+        "B": "The test scores are influenced by the test administrator's knowledge",
+        "C": "The predictor scores influence the data obtained on the criterion",
+        "D": "The test is administered in a non-standardized way"
+      },
+      "correctAnswer": "C",
+      "explanation": "Criterion contamination happens when the predictor (test) influences the criterion (outcome) data, artificially inflating or distorting the relationship between them.",
+      "topic": "Validity",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q39",
+      "questionText": "Which of the following statements is incorrect?",
+      "options": {
+        "A": "Factor analysis can be used to provide evidence of a test's construct validity",
+        "B": "Showing that test scores change after a targeted intervention can be a source of validity evidence",
+        "C": "A test's homogeneity provides evidence for its content validity",
+        "D": "Both convergent and discriminant evidence are crucial for construct validity"
+      },
+      "correctAnswer": "C",
+      "explanation": "Test homogeneity (internal consistency) relates to reliability or construct structure, not content validity. Content validity is about representativeness of the test items relative to the content domain.",
+      "topic": "Validity",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q40",
+      "questionText": "In a class of 50 students, the distribution of scores on an exam is positively skewed. This means:",
+      "options": {
+        "A": "The exam was likely very easy for most students",
+        "B": "The exam was likely very difficult for most students",
+        "C": "Most students scored near the average",
+        "D": "The mean, median, and mode are all the same"
+      },
+      "correctAnswer": "B",
+      "explanation": "A positively skewed distribution has most scores clustered at the lower end with a long tail to the right, indicating that the test was likely difficult for most students.",
+      "topic": "Descriptive Statistics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q41",
+      "questionText": "In a positively skewed distribution, which order of central tendency measures is correct?",
+      "options": {
+        "A": "Mean > Median > Mode",
+        "B": "Mode > Median > Mean",
+        "C": "Mean = Median = Mode",
+        "D": "Median > Mean > Mode"
+      },
+      "correctAnswer": "A",
+      "explanation": "In a positively skewed (right-skewed) distribution, the long tail pulls the mean to the right, making it greater than the median, which is greater than the mode.",
+      "topic": "Descriptive Statistics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q42",
+      "questionText": "The \"peakedness\" or \"flatness\" of a distribution of scores is referred to as its:",
+      "options": {
+        "A": "Skewness",
+        "B": "Modality",
+        "C": "Variability",
+        "D": "Kurtosis"
+      },
+      "correctAnswer": "D",
+      "explanation": "Kurtosis describes the shape of a distribution in terms of its peakedness or flatness compared to a normal distribution.",
+      "topic": "Descriptive Statistics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q43",
+      "questionText": "A distribution that is relatively flat compared to a normal distribution, indicating a high degree of score variability, is called:",
+      "options": {
+        "A": "Mesokurtic",
+        "B": "Leptokurtic",
+        "C": "Platykurtic",
+        "D": "Skewkurtic"
+      },
+      "correctAnswer": "C",
+      "explanation": "A platykurtic distribution is flatter than a normal distribution, indicating more spread-out scores and lower peak.",
+      "topic": "Descriptive Statistics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q44",
+      "questionText": "In a normal distribution, what percentage of scores falls between -1 and +1 standard deviations from the mean?",
+      "options": {
+        "A": "Approximately 34%",
+        "B": "Approximately 50%",
+        "C": "Approximately 68%",
+        "D": "Approximately 95%"
+      },
+      "correctAnswer": "C",
+      "explanation": "In a normal distribution, about 68% of scores lie within one standard deviation of the mean (between -1 and +1 SD), according to the empirical rule.",
+      "topic": "Descriptive Statistics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q45",
+      "questionText": "If a test has a mean of 100 and a standard deviation of 15, approximately 95% of all scores will lie between:",
+      "options": {
+        "A": "85 and 115",
+        "B": "70 and 130",
+        "C": "55 and 145",
+        "D": "100 and 115"
+      },
+      "correctAnswer": "B",
+      "explanation": "Using the empirical rule, about 95% of scores lie within ±2 standard deviations of the mean. So, 100 ± (2 × 15) = 100 ± 30, giving 70 to 130.",
+      "topic": "Descriptive Statistics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q46",
+      "questionText": "In a race with 100 participants, Pia finished in 10th place. Her percentile rank is:",
+      "options": {
+        "A": "10th",
+        "B": "89th",
+        "C": "90th",
+        "D": "91st"
+      },
+      "correctAnswer": "C",
+      "explanation": "Percentile rank is the percentage of scores at or below a given score. Finishing 10th out of 100 means 90 participants are behind her, so her percentile rank is approximately the 90th percentile.",
+      "topic": "Descriptive Statistics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q47",
+      "questionText": "On a standardized test, Gelu's raw score was converted to a T-score of 70. This means her performance was:",
+      "options": {
+        "A": "One standard deviation above the mean",
+        "B": "One standard deviation below the mean",
+        "C": "Two standard deviations above the mean",
+        "D": "Two standard deviations below the mean"
+      },
+      "correctAnswer": "C",
+      "explanation": "T-scores have a mean of 50 and a standard deviation of 10. A score of 70 is 20 points above the mean, which equals 2 standard deviations above the mean.",
+      "topic": "Standard Scores",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q48",
+      "questionText": "If Jayps has a z-score of -1.5, what is his equivalent T-score? (T-score mean = 50, SD = 10)",
+      "options": {
+        "A": "35",
+        "B": "45",
+        "C": "65",
+        "D": "55"
+      },
+      "correctAnswer": "A",
+      "explanation": "T-score is computed using T = 50 + 10z. Substituting z = -1.5 gives T = 50 + (10 × -1.5) = 50 - 15 = 35.",
+      "topic": "Standard Scores",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q49",
+      "questionText": "An industrial psychologist wants to determine if there is a statistically significant relationship between scores on a pre-employment spatial reasoning test and a measure of job performance for architects. The most appropriate statistical tool is:",
+      "options": {
+        "A": "t-test",
+        "B": "ANOVA",
+        "C": "Pearson's r",
+        "D": "Chi-square"
+      },
+      "correctAnswer": "C",
+      "explanation": "Pearson's r is used to measure the strength and direction of the linear relationship between two continuous variables, such as test scores and job performance ratings.",
+      "topic": "Correlation and Inferential Statistics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q50",
+      "questionText": "A researcher wants to examine the relationship between birth order (1st, 2nd, 3rd, etc.) and a continuous measure of academic achievement. Because one variable is ordinal and the other is interval, the appropriate correlation coefficient to use is:",
+      "options": {
+        "A": "Pearson's r",
+        "B": "Phi coefficient",
+        "C": "Point-biserial correlation",
+        "D": "Spearman's Rho"
+      },
+      "correctAnswer": "D",
+      "explanation": "Spearman's Rho is used when at least one variable is ordinal. Since birth order is ordinal and academic achievement is continuous, Spearman's rank correlation is most appropriate.",
+      "topic": "Correlation and Nonparametric Statistics",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q51",
+      "questionText": "What statistical tool should be used to determine the relationship between a true dichotomous variable (e.g., passing vs. failing the bar exam) and a continuous variable (e.g., IQ score)?",
+      "options": {
+        "A": "Biserial correlation",
+        "B": "Point-biserial correlation",
+        "C": "Tetrachoric correlation",
+        "D": "Phi coefficient"
+      },
+      "correctAnswer": "B",
+      "explanation": "Point-biserial correlation is used when one variable is truly dichotomous (e.g., pass/fail) and the other is continuous (e.g., IQ scores).",
+      "topic": "Correlation and Nonparametric Statistics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q52",
+      "questionText": "A researcher wants to know if there is a significant difference in job satisfaction scores among employees in three different departments (Sales, Marketing, and HR). The correct statistical test is:",
+      "options": {
+        "A": "Independent t-test",
+        "B": "Dependent t-test",
+        "C": "Analysis of Variance (ANOVA)",
+        "D": "Correlation"
+      },
+      "correctAnswer": "C",
+      "explanation": "One-way ANOVA is used when comparing the means of three or more independent groups, such as job satisfaction across different departments.",
+      "topic": "Inferential Statistics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q53",
+      "questionText": "If the data in the previous question (comparing three departments) violated the assumption of normality, what non-parametric alternative to ANOVA should be used?",
+      "options": {
+        "A": "Mann-Whitney U test",
+        "B": "Wilcoxon signed-rank test",
+        "C": "Kruskal-Wallis H test",
+        "D": "Friedman test"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Kruskal-Wallis H test is the non-parametric alternative to one-way ANOVA when comparing three or more independent groups with non-normal data.",
+      "topic": "Nonparametric Statistics",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q54",
+      "questionText": "A clinician wants to screen an adult client for a wide range of potential psychopathologies like depression, paranoia, and psychopathy. A comprehensive, objective personality test she might use is the:",
+      "options": {
+        "A": "TAT",
+        "B": "WISC-V",
+        "C": "MMPI-2",
+        "D": "SDS"
+      },
+      "correctAnswer": "C",
+      "explanation": "The MMPI-2 is a widely used objective personality inventory designed to assess a broad range of psychopathological conditions and clinical symptoms in adults.",
+      "topic": "Psychological Testing",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q55",
+      "questionText": "If the primary referral question is to assess for the presence of long-standing, ingrained personality disorders (e.g., Borderline, Narcissistic), the most appropriate instrument is the:",
+      "options": {
+        "A": "MCMI-IV",
+        "B": "BPI",
+        "C": "WAIS-IV",
+        "D": "16PF"
+      },
+      "correctAnswer": "A",
+      "explanation": "The MCMI-IV (Millon Clinical Multiaxial Inventory) is specifically designed to assess personality disorders and clinical syndromes in clinical populations.",
+      "topic": "Personality Assessment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q56",
+      "questionText": "To assess the general intellectual ability of a 25-year-old client, a psychologist would most appropriately use the:",
+      "options": {
+        "A": "WISC-V",
+        "B": "WPPSI-IV",
+        "C": "WAIS-IV",
+        "D": "SB-5"
+      },
+      "correctAnswer": "C",
+      "explanation": "The WAIS-IV (Wechsler Adult Intelligence Scale) is designed for assessing intellectual functioning in individuals aged 16 and older, making it appropriate for a 25-year-old adult.",
+      "topic": "Intelligence Testing",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q57",
+      "questionText": "An MMPI-2 profile with a significant elevation on the F (Infrequency) scale (e.g., T-score > 100) suggests that the individual:",
+      "options": {
+        "A": "Is attempting to present themselves in an overly favorable light",
+        "B": "May be \"faking bad,\" exaggerating symptoms, or responded randomly",
+        "C": "Is being defensive and guarded",
+        "D": "Did not answer a large number of items"
+      },
+      "correctAnswer": "B",
+      "explanation": "An elevated F scale on the MMPI-2 indicates unusual or infrequent responses, which can suggest exaggeration of symptoms, random responding, or a 'faking bad' approach.",
+      "topic": "Personality Assessment / Validity Scales",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q58",
+      "questionText": "According to Holland's RIASEC model, a person who enjoys working with data, has clerical skills, and prefers structured, orderly tasks would likely score high on the ________ type.",
+      "options": {
+        "A": "Realistic",
+        "B": "Investigative",
+        "C": "Artistic",
+        "D": "Conventional"
+      },
+      "correctAnswer": "D",
+      "explanation": "The Conventional type in Holland's RIASEC model is characterized by preference for structured tasks, organization, clerical work, and working with data.",
+      "topic": "Career Assessment (RIASEC)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q59",
+      "questionText": "A person who is talkative, assertive, and energetic would likely score high on which Big Five personality trait?",
+      "options": {
+        "A": "Agreeableness",
+        "B": "Conscientiousness",
+        "C": "Extraversion",
+        "D": "Openness to Experience"
+      },
+      "correctAnswer": "C",
+      "explanation": "Extraversion in the Big Five model is associated with sociability, talkativeness, assertiveness, and high energy levels.",
+      "topic": "Personality Psychology (Big Five)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q60",
+      "questionText": "Someone who scores low on Agreeableness is likely to be described as:",
+      "options": {
+        "A": "Anxious and insecure",
+        "B": "Critical, uncooperative, and suspicious",
+        "C": "Disorganized and careless",
+        "D": "Imaginative and independent"
+      },
+      "correctAnswer": "B",
+      "explanation": "Low Agreeableness is associated with being less cooperative, more skeptical, critical, and sometimes antagonistic or suspicious toward others.",
+      "topic": "Personality Psychology (Big Five)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q61",
+      "questionText": "Which of these is a measure of vocational interests based on the Holland Codes?",
+      "options": {
+        "A": "NEO-PI-3",
+        "B": "Self-Directed Search (SDS)",
+        "C": "Millon Clinical Multiaxial Inventory (MCMI)",
+        "D": "Rorschach Inkblot Method"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Self-Directed Search (SDS) is based on Holland's RIASEC model and is specifically designed to assess vocational interests and career types.",
+      "topic": "Career Assessment (Holland Codes)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q62",
+      "questionText": "A school psychologist needs to conduct a comprehensive intellectual and cognitive assessment for a 10-year-old student referred for learning difficulties. Which test(s) would be appropriate?",
+      "options": {
+        "A": "WAIS-IV only",
+        "B": "SB-5 and/or WISC-V",
+        "C": "MCMI-IV only",
+        "D": "RPM and/or CFIT"
+      },
+      "correctAnswer": "B",
+      "explanation": "The WISC-V is designed for assessing intellectual ability in children, while the Stanford-Binet 5 (SB-5) is also appropriate for evaluating cognitive abilities across a wide age range, including children. WAIS-IV is for adults, MCMI-IV is for personality disorders, and RPM/CFIT are nonverbal screening tools rather than comprehensive assessments.",
+      "topic": "Intelligence Testing",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q63",
+      "questionText": "Which Filipino-developed personality inventory is based on Filipino proverbs and cultural concepts?",
+      "options": {
+        "A": "Panukat ng Pagkataong Pilipino (PPP)",
+        "B": "Panukat ng Ugali at Pagkatao (PUP)",
+        "C": "Masaklaw na Panukat ng Loob (MAPA)",
+        "D": "Philippine Indigenized Personality Test (PIPPIT)"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Panukat ng Ugali at Pagkatao (PUP) is a Filipino-developed personality inventory that incorporates indigenous Filipino values, proverbs, and cultural concepts to assess personality.",
+      "topic": "Cross-Cultural Psychology / Personality Assessment",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q64",
+      "questionText": "The \"Pagkukunwari\" scale on the PUP is a validity scale designed to detect:",
+      "options": {
+        "A": "Inconsistent responding",
+        "B": "Socially desirable responding or faking good",
+        "C": "Faking bad or malingering",
+        "D": "Random responding"
+      },
+      "correctAnswer": "B",
+      "explanation": "The 'Pagkukunwari' scale in Filipino personality assessment tools like the PUP is designed to detect socially desirable responding, where individuals try to present themselves in an overly favorable light.",
+      "topic": "Personality Assessment / Validity Scales",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q65",
+      "questionText": "The Porma K of the Panukat ng Pagkataong Pilipino (PPP) measures personality dimensions relevant to:",
+      "options": {
+        "A": "Interpersonal relations",
+        "B": "Personal competence and integrity",
+        "C": "Intelligence and aptitude",
+        "D": "Vocational interests"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Porma K of the PPP focuses on personality traits related to interpersonal functioning, such as how individuals relate, interact, and maintain relationships with others.",
+      "topic": "Filipino Personality Assessment",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q66",
+      "questionText": "What locally developed test is designed to measure the cognitive abilities and aptitude of Filipino high school students to help with career and academic track decisions?",
+      "options": {
+        "A": "PACT (Philippine Aptitude Classification Test)",
+        "B": "PKP (Panukat ng Katalinuhang Pilipino)",
+        "C": "PPP (Panukat ng Pagkataong Pilipino)",
+        "D": "NAT (National Achievement Test)"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Panukat ng Katalinuhang Pilipino (PKP) is a locally developed cognitive ability test designed to assess Filipino students' intellectual functioning and aptitude for academic and career guidance.",
+      "topic": "Filipino Psychological Testing / Cognitive Assessment",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q67",
+      "questionText": "Friedman and Rosenman's concept of a \"Type A\" personality is characterized by:",
+      "options": {
+        "A": "Patience, relaxation, and an easy-going attitude",
+        "B": "Competitiveness, impatience, and a sense of time urgency",
+        "C": "Social inhibition and negative affectivity",
+        "D": "A tendency to suppress emotions, particularly anger"
+      },
+      "correctAnswer": "B",
+      "explanation": "Type A personality is characterized by competitiveness, urgency, impatience, and high achievement orientation, often linked with stress and cardiovascular risk.",
+      "topic": "Personality Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q68",
+      "questionText": "Projective tests like the Rorschach and TAT are based on which theoretical approach?",
+      "options": {
+        "A": "Trait theory",
+        "B": "Behavioral theory",
+        "C": "Cognitive theory",
+        "D": "Psychodynamic theory"
+      },
+      "correctAnswer": "D",
+      "explanation": "Projective tests such as the Rorschach Inkblot Test and Thematic Apperception Test (TAT) are rooted in psychodynamic theory, which emphasizes unconscious processes and projection of internal conflicts onto ambiguous stimuli.",
+      "topic": "Personality Assessment / Psychological Theories",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q69",
+      "questionText": "According to the PAP Code of Ethics, who is qualified to administer, score, AND interpret a Level C test like the WAIS-IV?",
+      "options": {
+        "A": "A Registered Psychometrician with 2 years of experience",
+        "B": "A Registered Psychologist",
+        "C": "A graduate student in psychology under supervision",
+        "D": "A Registered Guidance Counselor"
+      },
+      "correctAnswer": "B",
+      "explanation": "Level C tests like the WAIS-IV require advanced training in psychological assessment. According to professional standards (including PAP guidelines), only a Registered Psychologist is qualified to fully administer, score, and interpret such tests independently.",
+      "topic": "Psychological Assessment Ethics and Standards",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q70",
+      "questionText": "A psychometrician is asked to use the Philippine Nonverbal Language Test (PNLT). This is appropriate because the PNLT is classified as a:",
+      "options": {
+        "A": "Level A test",
+        "B": "Level B test",
+        "C": "Level C test",
+        "D": "Level D test"
+      },
+      "correctAnswer": "B",
+      "explanation": "Level B tests require some training in psychometrics for administration and scoring. The Philippine Nonverbal Language Test (PNLT) is classified as a Level B instrument, making it appropriate for use by qualified psychometricians.",
+      "topic": "Psychological Testing Classification (Philippine Standards)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q71",
+      "questionText": "A company validates its selection test using only the performance data of employees who were hired and successfully passed their probationary period. This is an example of:",
+      "options": {
+        "A": "Range restriction, which can lead to an underestimation of the validity coefficient",
+        "B": "Range inflation, which can lead to an overestimation of the validity coefficient",
+        "C": "A perfect validation strategy",
+        "D": "Criterion contamination"
+      },
+      "correctAnswer": "A",
+      "explanation": "Using only hired employees who passed probation reduces score variability (restricted range), which can weaken or underestimate the observed validity coefficient compared to the true relationship.",
+      "topic": "Psychometrics / Validity Issues",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q72",
+      "questionText": "A test of American history is administered to a group of new immigrants. The test may be biased against this group because they have not had the same opportunity to learn the material. This is an example of what kind of bias?",
+      "options": {
+        "A": "Intercept bias",
+        "B": "Slope bias",
+        "C": "Content bias",
+        "D": "Predictive bias"
+      },
+      "correctAnswer": "C",
+      "explanation": "Content bias occurs when test items favor one group over another due to differences in exposure or opportunity to learn the material, rather than actual ability.",
+      "topic": "Test Bias and Fairness",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q73",
+      "questionText": "A test user is using the norms from the original 1955 Wechsler Adult Intelligence Scale (WAIS) to interpret scores today. This is problematic due to:",
+      "options": {
+        "A": "The Flynn Effect, which suggests the norms are now too lenient",
+        "B": "The Flynn Effect, which suggests the norms are now too stringent",
+        "C": "The lack of reliability in the original test",
+        "D": "The lack of validity in the original test"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Flynn Effect refers to the observed rise in average IQ scores over time. Using outdated norms makes older tests easier to exceed, causing norms to become too lenient and potentially inflating current interpretations.",
+      "topic": "Psychometrics / Intelligence Testing",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q74",
+      "questionText": "Which of the following statements about rapport is correct?\nI. Rapport is the working relationship between the examiner and the examinee.\nII. It is essential to build rapport to ensure the test scores are valid.",
+      "options": {
+        "A": "Only I is true",
+        "B": "Only II is true",
+        "C": "Both statements are true",
+        "D": "Both statements are false"
+      },
+      "correctAnswer": "C",
+      "explanation": "Rapport refers to the professional, working relationship between examiner and examinee. Establishing good rapport helps ensure cooperation, reduces anxiety, and supports the validity of test results.",
+      "topic": "Psychological Testing / Test Administration",
+      "difficulty": "easy"
+    }
+  ]
+}
