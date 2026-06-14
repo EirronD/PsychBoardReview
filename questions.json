@@ -4549,6 +4549,1406 @@
       "explanation": "Psychometrics focuses on psychological measurement and test theory.",
       "topic": "Psychological Assessment",
       "difficulty": "easy"
+    },
+    {
+      "id": "q326",
+      "questionText": "A set of propositions that explains or predicts how individuals and groups behave in various organizational structures and situations is known as:",
+      "options": {
+        "A": "Structural theory",
+        "B": "Organizational theory",
+        "C": "Motivational theory",
+        "D": "Psychological theory"
+      },
+      "correctAnswer": "B",
+      "explanation": "Organizational theory explains and predicts behavior within organizational settings.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q327",
+      "questionText": "This organizational theory primarily emphasizes the work itself and processes, often neglecting the human or worker element.",
+      "options": {
+        "A": "Classical",
+        "B": "Neoclassical",
+        "C": "Contingency",
+        "D": "Open systems"
+      },
+      "correctAnswer": "A",
+      "explanation": "Classical theory focuses on efficiency, structure, and tasks rather than human factors.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q328",
+      "questionText": "Under which framework is the organization perceived as a machine, with a belief that there is one single best method to perform any job?",
+      "options": {
+        "A": "Administrative",
+        "B": "Scientific Management",
+        "C": "Bureaucratic",
+        "D": "Neoclassical"
+      },
+      "correctAnswer": "B",
+      "explanation": "Scientific Management views organizations mechanistically and seeks the one best way to perform tasks.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q329",
+      "questionText": "This principle allows an organization to capitalize on employee strengths by training them for specific tasks and duties pertinent to their assigned roles.",
+      "options": {
+        "A": "Delegation of authority",
+        "B": "Division of labor",
+        "C": "Span of control",
+        "D": "Centralization"
+      },
+      "correctAnswer": "B",
+      "explanation": "Division of labor increases efficiency by assigning specialized tasks.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q330",
+      "questionText": "What term describes the number of subordinates that a single supervisor is responsible for?",
+      "options": {
+        "A": "Delegation of authority",
+        "B": "Division of labor",
+        "C": "Span of control",
+        "D": "Centralization"
+      },
+      "correctAnswer": "C",
+      "explanation": "Span of control refers to how many subordinates report to a supervisor.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q331",
+      "questionText": "Neoclassical theory asserts that management must acknowledge the presence of informal organizations. It also recognizes that employees often belong to both formal and informal groups.",
+      "options": {
+        "A": "Both statements are false",
+        "B": "Both statements are true",
+        "C": "The first statement is true",
+        "D": "The second statement is true"
+      },
+      "correctAnswer": "B",
+      "explanation": "Neoclassical theory recognizes informal groups and dual membership in formal and informal structures.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q332",
+      "questionText": "A group of coworkers from different departments who join together to campaign for a better company-wide recycling program form what kind of group?",
+      "options": {
+        "A": "Interest group",
+        "B": "Command group",
+        "C": "Task group",
+        "D": "Formal group"
+      },
+      "correctAnswer": "A",
+      "explanation": "Interest groups form based on shared goals or concerns.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q333",
+      "questionText": "This theory posits that there is no single best way to structure an organization or make decisions; instead, the optimal course of action is dependent on situational factors.",
+      "options": {
+        "A": "Motivation",
+        "B": "Contingency",
+        "C": "Open Systems",
+        "D": "Classical"
+      },
+      "correctAnswer": "B",
+      "explanation": "Contingency theory emphasizes situational factors in decision-making.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q334",
+      "questionText": "Which theory maintains that an organization is significantly influenced by its external environment?",
+      "options": {
+        "A": "Motivation",
+        "B": "Systems",
+        "C": "Contingency",
+        "D": "Classical"
+      },
+      "correctAnswer": "B",
+      "explanation": "Systems theory views organizations as open systems influenced by their environment.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q335",
+      "questionText": "A manager who holds high expectations for her team, believing it will lead to increased motivation and better performance, is demonstrating the:",
+      "options": {
+        "A": "Rosenthal effect",
+        "B": "Pygmalion effect",
+        "C": "Both a & b",
+        "D": "None of the above"
+      },
+      "correctAnswer": "C",
+      "explanation": "Rosenthal and Pygmalion effects are the same self-fulfilling prophecy phenomenon.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q336",
+      "questionText": "An employee with a high need for achievement would likely be most satisfied in a job that:",
+      "options": {
+        "A": "is easy",
+        "B": "is challenging",
+        "C": "influences other people",
+        "D": "involves working with others"
+      },
+      "correctAnswer": "B",
+      "explanation": "High achievement individuals prefer moderately challenging tasks.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q337",
+      "questionText": "According to Job Characteristics Theory, for employees to be motivated, their job should ideally:",
+      "options": {
+        "A": "be standardized and routine",
+        "B": "lack feedback mechanisms",
+        "C": "allow for autonomy",
+        "D": "involve working on small parts rather than a whole process"
+      },
+      "correctAnswer": "C",
+      "explanation": "Autonomy increases motivation in Job Characteristics Theory.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q338",
+      "questionText": "Which of the following is a primary criticism of Classical theory?",
+      "options": {
+        "A": "It is concerned with informal groups.",
+        "B": "It disregards the influence of external factors on behavior.",
+        "C": "It does not value the human element.",
+        "D": "Communication is not two-way."
+      },
+      "correctAnswer": "C",
+      "explanation": "Classical theory ignores human and social factors in organizations.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q339",
+      "questionText": "The idea that an employee should receive orders from, and be accountable to, only one superior is known as:",
+      "options": {
+        "A": "Unity of command",
+        "B": "Unity of direction",
+        "C": "Centralization",
+        "D": "Esprit de corps"
+      },
+      "correctAnswer": "A",
+      "explanation": "Unity of command ensures one boss per employee.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q340",
+      "questionText": "An organization that follows this theory can lead to worker dissatisfaction and lack of motivation due to overly simplified, repetitive, and unchallenging tasks.",
+      "options": {
+        "A": "Contingency",
+        "B": "Bureaucracy",
+        "C": "Administrative",
+        "D": "Open systems"
+      },
+      "correctAnswer": "C",
+      "explanation": "Administrative theory can lead to over-specialization and boredom.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q341",
+      "questionText": "Which function is primarily responsible for achieving the main objectives of the organization?",
+      "options": {
+        "A": "Linear function",
+        "B": "Staff function",
+        "C": "Line function",
+        "D": "Authority function"
+      },
+      "correctAnswer": "C",
+      "explanation": "Line functions directly achieve organizational goals.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q342",
+      "questionText": "Which of the following is NOT a core function of an organizational structure?",
+      "options": {
+        "A": "It shows the arrangement of positions and hierarchy.",
+        "B": "It describes roles, responsibilities, and lines of command.",
+        "C": "It is not used as a tool for organizational change.",
+        "D": "It provides clarity and efficiency for employees."
+      },
+      "correctAnswer": "C",
+      "explanation": "Organizational structure is often used for change management.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q343",
+      "questionText": "The two essential processes that form the basis of organizational structures are:",
+      "options": {
+        "A": "span of control and unity of command",
+        "B": "span of control and coordination",
+        "C": "division of labor and coordination",
+        "D": "division of labor and unity of command"
+      },
+      "correctAnswer": "C",
+      "explanation": "Structures are built on division of labor and coordination.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q344",
+      "questionText": "In a situation where job activities are highly complex, a company would most likely standardize:",
+      "options": {
+        "A": "outputs",
+        "B": "skills",
+        "C": "processes",
+        "D": "goals"
+      },
+      "correctAnswer": "B",
+      "explanation": "Complex tasks require standardization of skills.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q345",
+      "questionText": "An organization characterized by formally defined roles, a high degree of rule-adherence, and resistance to change is considered:",
+      "options": {
+        "A": "Traditional",
+        "B": "Nontraditional",
+        "C": "Organismic",
+        "D": "Mid Traditional"
+      },
+      "correctAnswer": "A",
+      "explanation": "Traditional organizations are rigid and rule-based.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q346",
+      "questionText": "The number of authority levels within a specific organization is referred to as the:",
+      "options": {
+        "A": "Span of control",
+        "B": "Chain of command",
+        "C": "Division of labor",
+        "D": "Centralization"
+      },
+      "correctAnswer": "B",
+      "explanation": "Chain of command refers to hierarchy levels.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q347",
+      "questionText": "A flat organizational structure is defined by a:",
+      "options": {
+        "A": "Long chain of command & narrow span of control",
+        "B": "Short chain of command & narrow span of control",
+        "C": "Long chain of command & wide span of control",
+        "D": "Short chain of command & wide span of control"
+      },
+      "correctAnswer": "D",
+      "explanation": "Flat structures have fewer levels and wider spans of control.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q348",
+      "questionText": "A company is organized into a production department, a sales department, and a finance department. This is an example of what kind of structure?",
+      "options": {
+        "A": "Divisional",
+        "B": "Functional",
+        "C": "Matrix",
+        "D": "Team-based"
+      },
+      "correctAnswer": "B",
+      "explanation": "Functional structure groups by job functions.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q349",
+      "questionText": "In which organizational structure do employees report to both a functional manager and a project manager?",
+      "options": {
+        "A": "Divisional",
+        "B": "Matrix",
+        "C": "Team-based",
+        "D": "Project-based"
+      },
+      "correctAnswer": "B",
+      "explanation": "Matrix structures have dual reporting lines.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q350",
+      "questionText": "The degree to which decision-making power is concentrated at the highest levels of an organization is known as:",
+      "options": {
+        "A": "Chain of command",
+        "B": "Centralization",
+        "C": "Decentralization",
+        "D": "Span of Control"
+      },
+      "correctAnswer": "B",
+      "explanation": "Centralization refers to top-level decision authority.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q351",
+      "questionText": "Which of these structures is most associated with centralized decision-making?",
+      "options": {
+        "A": "Bureaucracy",
+        "B": "Team-based",
+        "C": "Matrix",
+        "D": "None of the above"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bureaucracies are highly centralized.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q352",
+      "questionText": "A key weakness of this structure is reduced communication between departments, even though it fosters skill specialization.",
+      "options": {
+        "A": "Divisional",
+        "B": "Functional",
+        "C": "Matrix",
+        "D": "Team-based"
+      },
+      "correctAnswer": "B",
+      "explanation": "Functional structures often create silos.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q353",
+      "questionText": "What is a common disadvantage of flat organizational structures?",
+      "options": {
+        "A": "They offer few promotional opportunities.",
+        "B": "There is a duplication of area expertise.",
+        "C": "They can become “top heavy.”",
+        "D": "They are less suited for routine tasks."
+      },
+      "correctAnswer": "A",
+      "explanation": "Flat structures limit promotion paths.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q354",
+      "questionText": "An advantage of a divisional structure is that it:",
+      "options": {
+        "A": "eliminates the duplication of functions.",
+        "B": "exposes specialists to others within the same specialty.",
+        "C": "ensures greater accountability for each division.",
+        "D": "All of the above"
+      },
+      "correctAnswer": "C",
+      "explanation": "Divisional structures improve accountability.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q355",
+      "questionText": "One significant drawback of this structure is the confusion and potential conflict that can arise from reporting to two different bosses.",
+      "options": {
+        "A": "Divisional",
+        "B": "Matrix",
+        "C": "Functional",
+        "D": "Team-based"
+      },
+      "correctAnswer": "B",
+      "explanation": "Matrix structures create dual-reporting conflicts.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q356",
+      "questionText": "A new startup with a small number of employees who are directly supervised by the owners has what kind of organizational structure?",
+      "options": {
+        "A": "Simple",
+        "B": "Functional",
+        "C": "Divisional",
+        "D": "Tall"
+      },
+      "correctAnswer": "A",
+      "explanation": "Simple structures are common in startups.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q357",
+      "questionText": "What graphically depicts the various levels of authority and the number of employees reporting to each position in an organization?",
+      "options": {
+        "A": "organigram",
+        "B": "organizational chart",
+        "C": "organizational picture",
+        "D": "two of the options are correct"
+      },
+      "correctAnswer": "D",
+      "explanation": "Organigram and organizational chart are the same.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q358",
+      "questionText": "A structure characterized by a narrow span of control, high formalization, and high centralization is known as:",
+      "options": {
+        "A": "mechanistic",
+        "B": "organismic",
+        "C": "mechanic",
+        "D": "organic"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mechanistic structures are rigid and centralized.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q359",
+      "questionText": "The optimal structure for an organization is dependent on its external environment. For dynamic environments, a mechanistic structure is more suitable.",
+      "options": {
+        "A": "The first statement is false",
+        "B": "The second statement is false",
+        "C": "Both statements are not false",
+        "D": "Both statements are false"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dynamic environments require organic, not mechanistic structures.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q360",
+      "questionText": "The more complex the environment, the more __________ the organization should be.",
+      "options": {
+        "A": "centralized",
+        "B": "decentralized",
+        "C": "rigid",
+        "D": "none of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "Complex environments require decentralization.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q361",
+      "questionText": "If an organization operates in a diverse environment, what structure should it ideally employ?",
+      "options": {
+        "A": "functional",
+        "B": "divisional",
+        "C": "matrix",
+        "D": "project-based"
+      },
+      "correctAnswer": "B",
+      "explanation": "Divisional structure suits diverse environments.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q362",
+      "questionText": "An organization's strategy is dependent on its structure.",
+      "options": {
+        "A": "this is least likely false",
+        "B": "this is least likely true",
+        "C": "this is sometimes true",
+        "D": "this is sometimes false"
+      },
+      "correctAnswer": "A",
+      "explanation": "Structure typically follows strategy.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q363",
+      "questionText": "The process by which organizations transition from their present state to a more effective one, often by changing structure, technology, or processes, is called:",
+      "options": {
+        "A": "Organizational change",
+        "B": "Organizational development",
+        "C": "Organizational transformation",
+        "D": "Organizational transition"
+      },
+      "correctAnswer": "A",
+      "explanation": "Organizational change is the transition process.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q364",
+      "questionText": "What is the key difference between organizational change and organizational development?",
+      "options": {
+        "A": "Org change is holistic; org development is focused on specific areas.",
+        "B": "Org change is a longer process than org development.",
+        "C": "Org change focuses on specific situations; org development is holistic.",
+        "D": "Org change is more concerned with individual employee growth."
+      },
+      "correctAnswer": "C",
+      "explanation": "Change is specific; development is holistic.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q365",
+      "questionText": "When a growing company alters its hierarchy and structural characteristics, shifting from a flat to a taller structure, it is undergoing what type of change?",
+      "options": {
+        "A": "Merger",
+        "B": "Structural",
+        "C": "Developmental",
+        "D": "Incremental"
+      },
+      "correctAnswer": "B",
+      "explanation": "Structural change involves hierarchy redesign.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q366",
+      "questionText": "A company lays off employees to remain financially viable. This action is what kind of organizational change?",
+      "options": {
+        "A": "Downsizing",
+        "B": "Upsizing",
+        "C": "De-merger",
+        "D": "Incremental"
+      },
+      "correctAnswer": "A",
+      "explanation": "Downsizing involves reducing workforce size.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q367",
+      "questionText": "A manager presents data on declining sales to her team to create a sense of urgency for change. According to Lewin's model, this is the __________ stage.",
+      "options": {
+        "A": "defreezing",
+        "B": "unfreezing",
+        "C": "moving",
+        "D": "changing"
+      },
+      "correctAnswer": "B",
+      "explanation": "Unfreezing creates readiness for change.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q368",
+      "questionText": "What is the correct sequence of Kurt Lewin's three stages of change?",
+      "options": {
+        "A": "Freezing, Defreezing, Refreezing",
+        "B": "Unfreezing, Changing, Refreezing",
+        "C": "Unfreezing, Refreezing, Changing",
+        "D": "Defreezing, Changing, Freezing"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lewin's model follows unfreeze-change-refreeze.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q369",
+      "questionText": "A group of two or more people who interact, influence each other, and are mutually accountable for achieving common goals is called a:",
+      "options": {
+        "A": "Friend group",
+        "B": "Team",
+        "C": "Family",
+        "D": "None of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "Teams involve shared goals and accountability.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q370",
+      "questionText": "In which stage of team development do members establish roles and work to ease tension from the prior stage?",
+      "options": {
+        "A": "Forming",
+        "B": "Norming",
+        "C": "Storming",
+        "D": "Performing"
+      },
+      "correctAnswer": "B",
+      "explanation": "Norming involves role clarification and cohesion.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q371",
+      "questionText": "This stage of team development is marked by disagreements and resistance to team roles among group members.",
+      "options": {
+        "A": "Forming",
+        "B": "Storming",
+        "C": "Norming",
+        "D": "Adjourning"
+      },
+      "correctAnswer": "B",
+      "explanation": "Storming is the conflict stage.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q372",
+      "questionText": "The additional costs associated with team development and maintenance, rather than direct task work, are known as:",
+      "options": {
+        "A": "Process losses",
+        "B": "Brook’s Law",
+        "C": "Social inhibition",
+        "D": "Resource losses"
+      },
+      "correctAnswer": "A",
+      "explanation": "Process losses are coordination and maintenance costs.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q373",
+      "questionText": "The tendency for individuals to exert less effort when working in a team compared to when working alone is called:",
+      "options": {
+        "A": "Social inhibition",
+        "B": "Social loafing",
+        "C": "Social facilitation",
+        "D": "Social compensation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Social loafing is reduced effort in group settings.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q374",
+      "questionText": "Groupthink is most likely to happen when:",
+      "options": {
+        "A": "the group is not isolated",
+        "B": "the group lacks cohesion",
+        "C": "there is pressure to make a quick decision",
+        "D": "the group allows for dissenters"
+      },
+      "correctAnswer": "C",
+      "explanation": "Time pressure increases groupthink risk.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q375",
+      "questionText": "A team formed for a single, one-time output that disbands upon completion of the task is a:",
+      "options": {
+        "A": "Project team",
+        "B": "Parallel team",
+        "C": "Work team",
+        "D": "Management team"
+      },
+      "correctAnswer": "A",
+      "explanation": "Project teams are temporary and task-specific.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q376",
+      "questionText": "Teams composed of members from different departments within an organization are called:",
+      "options": {
+        "A": "parallel teams",
+        "B": "cross-functional teams",
+        "C": "both a & b",
+        "D": "none of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cross-functional teams include members from multiple departments.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q377",
+      "questionText": "This arises when one individual perceives that another person is obstructing their goals or rights, leading to a psychological and behavioral reaction.",
+      "options": {
+        "A": "Conflict",
+        "B": "Problem",
+        "C": "Dispute",
+        "D": "All of the above"
+      },
+      "correctAnswer": "A",
+      "explanation": "Conflict arises from perceived obstruction.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q378",
+      "questionText": "When a neutral third party is needed to make a binding decision for conflicting parties, the process is called:",
+      "options": {
+        "A": "Mediation",
+        "B": "Arbitration",
+        "C": "Moderation",
+        "D": "Both a & b"
+      },
+      "correctAnswer": "B",
+      "explanation": "Arbitration involves binding third-party decisions.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q379",
+      "questionText": "The conflict style where both parties achieve their desired outcomes, representing a \"win-win\" situation, is known as:",
+      "options": {
+        "A": "Compromising",
+        "B": "Collaborative",
+        "C": "Accommodating",
+        "D": "Forcing"
+      },
+      "correctAnswer": "B",
+      "explanation": "Collaboration aims for win-win solutions.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q380",
+      "questionText": "Which conflict style typically involves negotiation and bargaining?",
+      "options": {
+        "A": "Compromising",
+        "B": "Accommodating",
+        "C": "Collaborative",
+        "D": "Forcing"
+      },
+      "correctAnswer": "A",
+      "explanation": "Compromising involves negotiation and middle-ground solutions.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q381",
+      "questionText": "All of the following are reasons for joining a group EXCEPT:",
+      "options": {
+        "A": "identification",
+        "B": "physical proximity",
+        "C": "assignment",
+        "D": "social proximity"
+      },
+      "correctAnswer": "D",
+      "explanation": "Social proximity is not a standard reason for group formation.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q382",
+      "questionText": "A __________ group is more likely to have better performance.",
+      "options": {
+        "A": "homogenous",
+        "B": "heterogenous",
+        "C": "slightly heterogenous",
+        "D": "uniform"
+      },
+      "correctAnswer": "C",
+      "explanation": "Slight diversity improves creativity and performance.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q383",
+      "questionText": "Which of the following is NOT considered a fundamental business element?",
+      "options": {
+        "A": "market",
+        "B": "money",
+        "C": "people",
+        "D": "environment"
+      },
+      "correctAnswer": "D",
+      "explanation": "Environment is external, not a core internal element.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q384",
+      "questionText": "To succeed, a business must identify and cater to its:",
+      "options": {
+        "A": "market",
+        "B": "people",
+        "C": "money",
+        "D": "environment"
+      },
+      "correctAnswer": "A",
+      "explanation": "Businesses exist to serve a market.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q385",
+      "questionText": "This element is crucial as it makes the business function and operate.",
+      "options": {
+        "A": "market",
+        "B": "people",
+        "C": "money",
+        "D": "environment"
+      },
+      "correctAnswer": "C",
+      "explanation": "Money enables business operations.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q386",
+      "questionText": "The utilization of individuals to achieve organizational objectives is known as:",
+      "options": {
+        "A": "human resource development",
+        "B": "human resource management",
+        "C": "both a & b",
+        "D": "none of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "HRM manages people for organizational goals.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q387",
+      "questionText": "The process of ensuring an organization has the right number of employees with the right competencies in the right jobs is called:",
+      "options": {
+        "A": "HR planning",
+        "B": "workforce planning",
+        "C": "staffing",
+        "D": "recruiting"
+      },
+      "correctAnswer": "A",
+      "explanation": "HR planning ensures proper workforce allocation.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q388",
+      "questionText": "The process where the HR department identifies the organization's current and future hiring needs through supply and demand forecasting is:",
+      "options": {
+        "A": "HR planning",
+        "B": "employee planning",
+        "C": "staff planning",
+        "D": "all of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "All terms refer to forecasting workforce needs.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q389",
+      "questionText": "This refers to the process of choosing an individual with the appropriate qualifications and competencies for a specific job.",
+      "options": {
+        "A": "staffing",
+        "B": "selection",
+        "C": "recruitment",
+        "D": "hiring"
+      },
+      "correctAnswer": "B",
+      "explanation": "Selection is choosing the best candidate.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q390",
+      "questionText": "This system helps managers monitor and evaluate an employee's work.",
+      "options": {
+        "A": "HR planning",
+        "B": "HR evaluation",
+        "C": "employee evaluation",
+        "D": "performance management"
+      },
+      "correctAnswer": "D",
+      "explanation": "Performance management tracks employee performance.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q391",
+      "questionText": "Which of the following is NOT an internal recruitment method?",
+      "options": {
+        "A": "use of HR database",
+        "B": "job posting & bidding",
+        "C": "employee referral",
+        "D": "none of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "All listed are internal recruitment methods.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q392",
+      "questionText": "Financial rewards like paid vacations, sick leave, and medical insurance are considered:",
+      "options": {
+        "A": "core compensation",
+        "B": "indirect financial compensation",
+        "C": "employee benefits",
+        "D": "two options are correct"
+      },
+      "correctAnswer": "D",
+      "explanation": "These fall under benefits and indirect compensation.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q393",
+      "questionText": "All of the following are functions of Human Resource Management EXCEPT:",
+      "options": {
+        "A": "staffing",
+        "B": "training",
+        "C": "employee and labor relations",
+        "D": "compensation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Training is part of HRD, not core HRM function list.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q394",
+      "questionText": "Human Resource Development (HRD) is a major HRM function focused on improving employee performance and organizational effectiveness.",
+      "options": {
+        "A": "The first statement is true",
+        "B": "The second statement is true",
+        "C": "Both statements are true",
+        "D": "Both statements are false"
+      },
+      "correctAnswer": "C",
+      "explanation": "HRD focuses on improving skills and effectiveness.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q395",
+      "questionText": "Which of the following is a function of HRD?",
+      "options": {
+        "A": "training",
+        "B": "career development",
+        "C": "performance management",
+        "D": "all of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "HRD includes training, career development, and performance management.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q396",
+      "questionText": "The planned effort by an organization to facilitate employees' learning of job-related behaviors is called:",
+      "options": {
+        "A": "training",
+        "B": "orientation",
+        "C": "onboarding",
+        "D": "all of the above"
+      },
+      "correctAnswer": "A",
+      "explanation": "Training develops job-related skills and behaviors.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q397",
+      "questionText": "This process aims to provide new employees with the necessary information to function effectively and to initiate their emotional attachment to the organization.",
+      "options": {
+        "A": "employee orientation",
+        "B": "mentoring",
+        "C": "training",
+        "D": "none of the above"
+      },
+      "correctAnswer": "A",
+      "explanation": "Orientation helps new employees adjust and integrate.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q398",
+      "questionText": "What is the first step in developing an employee training system?",
+      "options": {
+        "A": "needs analysis",
+        "B": "organizational analysis",
+        "C": "task analysis",
+        "D": "person analysis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Needs analysis identifies training requirements.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q399",
+      "questionText": "According to Kirkpatrick's model, what is the correct chronological order of the four levels for evaluating training effectiveness?",
+      "options": {
+        "A": "Learning, Reaction, Behavior, Results",
+        "B": "Reaction, Learning, Behavior, Results",
+        "C": "Behavior, Learning, Reaction, Results",
+        "D": "Reaction, Behavior, Learning, Results"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kirkpatrick model: Reaction → Learning → Behavior → Results.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q400",
+      "questionText": "An employee is told that in addition to her current duties, she will now also work in the kitchen and as a cashier, rotating these jobs every two weeks. This is an example of:",
+      "options": {
+        "A": "job enlargement",
+        "B": "job rotation",
+        "C": "job enrichment",
+        "D": "job addition"
+      },
+      "correctAnswer": "B",
+      "explanation": "Job rotation involves switching between jobs.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q401",
+      "questionText": "A social media manager, initially responsible only for replying to inquiries, is now also tasked with content creation and advertising campaigns. This is an example of:",
+      "options": {
+        "A": "job enlargement",
+        "B": "job enrichment",
+        "C": "job rotation",
+        "D": "job addition"
+      },
+      "correctAnswer": "A",
+      "explanation": "Job enlargement adds similar-level tasks.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q402",
+      "questionText": "The lifelong series of activities that contribute to a person's career exploration, establishment, success, and fulfillment is known as:",
+      "options": {
+        "A": "career planning",
+        "B": "career management",
+        "C": "career development",
+        "D": "career retention"
+      },
+      "correctAnswer": "C",
+      "explanation": "Career development covers the entire career lifecycle.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q403",
+      "questionText": "This process enables employees to better understand and develop their skills and interests for use both within the organization and after they leave.",
+      "options": {
+        "A": "career planning",
+        "B": "career management",
+        "C": "career development",
+        "D": "career retention"
+      },
+      "correctAnswer": "A",
+      "explanation": "Career planning involves self-assessment and goal setting.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q404",
+      "questionText": "Improving hygiene factors, according to Herzberg's TwoFactor Theory, will:",
+      "options": {
+        "A": "increase job satisfaction",
+        "B": "decrease job satisfaction",
+        "C": "neutralize job dissatisfaction",
+        "D": "increase job dissatisfaction"
+      },
+      "correctAnswer": "C",
+      "explanation": "Hygiene factors reduce dissatisfaction but don't motivate.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q405",
+      "questionText": "All of the following are considered hygiene factors EXCEPT for:",
+      "options": {
+        "A": "Pay",
+        "B": "Achievement",
+        "C": "Working conditions",
+        "D": "Work schedule"
+      },
+      "correctAnswer": "B",
+      "explanation": "Achievement is a motivator, not hygiene factor.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q406",
+      "questionText": "According to ERG Theory:\nI. It has 3 levels: Existence, Relatedness, & Growth.\nII. An individual must satisfy lower-level needs before moving to higher ones.\nIII. An individual can move back to a lower-level need if a higher-level need is frustrated.",
+      "options": {
+        "A": "Only I is true",
+        "B": "I & III are true",
+        "C": "I & II are true",
+        "D": "Only III is true"
+      },
+      "correctAnswer": "B",
+      "explanation": "ERG allows regression frustration and has 3 levels.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q407",
+      "questionText": "The ERG theory of motivation was developed as a modification of:",
+      "options": {
+        "A": "Hierarchy of Needs",
+        "B": "Two-Factor Theory",
+        "C": "Discrepancy Theory",
+        "D": "Job Characteristics Theory"
+      },
+      "correctAnswer": "A",
+      "explanation": "ERG is a refinement of Maslow's hierarchy.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q408",
+      "questionText": "When an employee's expectations about a job, formed during the hiring process, do not match the reality of the job, the result is likely to be:",
+      "options": {
+        "A": "satisfaction and motivation",
+        "B": "dissatisfaction and demotivation",
+        "C": "dissatisfaction and motivation",
+        "D": "neutrality"
+      },
+      "correctAnswer": "B",
+      "explanation": "Expectation mismatch leads to dissatisfaction.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q409",
+      "questionText": "The principle that states all activities with a shared objective should be overseen by one manager using a single plan is called:",
+      "options": {
+        "A": "unity of direction",
+        "B": "unity of command",
+        "C": "one command",
+        "D": "one direction"
+      },
+      "correctAnswer": "A",
+      "explanation": "Unity of direction ensures coordinated effort.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q410",
+      "questionText": "Which of the following is NOT a principle of management based on administrative theory?",
+      "options": {
+        "A": "Employees should be assigned to tasks they can excel at.",
+        "B": "Everyone in the organization must follow the rules.",
+        "C": "Fair pay is crucial for employee satisfaction.",
+        "D": "Decision-making should be centralized for efficiency."
+      },
+      "correctAnswer": "D",
+      "explanation": "Centralization is situational, not absolute principle.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q411",
+      "questionText": "A manager who meticulously monitors her team to ensure plans and instructions are followed is performing which function of management?",
+      "options": {
+        "A": "organizing",
+        "B": "controlling",
+        "C": "commanding",
+        "D": "directing"
+      },
+      "correctAnswer": "B",
+      "explanation": "Controlling ensures compliance with plans.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q412",
+      "questionText": "Which of the following is NOT part of Henri Fayol's functions of management?",
+      "options": {
+        "A": "organizing",
+        "B": "directing",
+        "C": "commanding",
+        "D": "controlling"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fayol used commanding, not directing.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q413",
+      "questionText": "The production department in a manufacturing company typically has what kind of function?",
+      "options": {
+        "A": "Line function",
+        "B": "Staff function",
+        "C": "Linear function",
+        "D": "Employee function"
+      },
+      "correctAnswer": "A",
+      "explanation": "Production directly contributes to output.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q414",
+      "questionText": "A group of colleagues who regularly meet for coffee after work form what kind of group?",
+      "options": {
+        "A": "formal group",
+        "B": "friendship group",
+        "C": "interest group",
+        "D": "task group"
+      },
+      "correctAnswer": "B",
+      "explanation": "Friendship groups form socially.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q415",
+      "questionText": "The difference between tall and flat organizational structures is that:",
+      "options": {
+        "A": "Flat structures offer many promotional opportunities, while tall structures do not.",
+        "B": "Tall structures offer many promotional opportunities, while flat structures do not.",
+        "C": "There may be inadequate supervision in tall structures, while there is in flat structures.",
+        "D": "None of the above."
+      },
+      "correctAnswer": "B",
+      "explanation": "Tall structures have more hierarchical levels.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q416",
+      "questionText": "Which of these is an advantage of a divisional structure?",
+      "options": {
+        "A": "It eliminates duplication of functions.",
+        "B": "It ensures greater accountability for each division as they function like separate entities.",
+        "C": "It exposes specialists to others within the same specialty.",
+        "D": "All of the above."
+      },
+      "correctAnswer": "B",
+      "explanation": "Divisions improve accountability.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q417",
+      "questionText": "A team formed from members of different departments is known as a:",
+      "options": {
+        "A": "parallel team",
+        "B": "cross-functional team",
+        "C": "management team",
+        "D": "work team"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cross-functional teams integrate departments.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q418",
+      "questionText": "The arbitration process can be:",
+      "options": {
+        "A": "only binding",
+        "B": "only non-binding",
+        "C": "either binding or non-binding",
+        "D": "is never required by an organization"
+      },
+      "correctAnswer": "C",
+      "explanation": "Arbitration may be binding or not.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q419",
+      "questionText": "The best conflict style, which aims for a \"win-win\" outcome where both sides get what they want, is:",
+      "options": {
+        "A": "Compromising",
+        "B": "Accommodating",
+        "C": "Collaborative",
+        "D": "Forcing"
+      },
+      "correctAnswer": "C",
+      "explanation": "Collaboration maximizes joint outcomes.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q420",
+      "questionText": "In a situation where Donato and Bianca perform the same task next to each other, and this causes Bianca's productivity to decrease, this is an example of:",
+      "options": {
+        "A": "social inhibition",
+        "B": "coaction",
+        "C": "social facilitation",
+        "D": "audience effects"
+      },
+      "correctAnswer": "A",
+      "explanation": "Performance declines due to presence of others.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q421",
+      "questionText": "This theory suggests that workers and their organization are like a machine.",
+      "options": {
+        "A": "Scientific Management",
+        "B": "Neoclassical",
+        "C": "Administrative",
+        "D": "Bureaucratic"
+      },
+      "correctAnswer": "A",
+      "explanation": "Scientific management views organizations mechanistically.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q422",
+      "questionText": "The purpose of this theory is to assist organizations in creating the most effective structures to achieve their goals.",
+      "options": {
+        "A": "Classical",
+        "B": "Neoclassical",
+        "C": "Contingency",
+        "D": "Open systems"
+      },
+      "correctAnswer": "C",
+      "explanation": "Contingency theory focuses on effective structuring.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q423",
+      "questionText": "The scalar function pertains to the vertical growth of an organization, while the functional process deals with its horizontal growth.",
+      "options": {
+        "A": "The first statement is least likely true.",
+        "B": "The second statement is least likely true.",
+        "C": "Both statements are least likely false.",
+        "D": "Both statements are least likely true."
+      },
+      "correctAnswer": "C",
+      "explanation": "Both statements correctly describe vertical and horizontal structures.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q424",
+      "questionText": "An ideal span of control, according to Lyndall Urwick, should consist of a maximum of ___ members at higher levels and around ___ members at lower levels.",
+      "options": {
+        "A": "4; 8-12",
+        "B": "4; 6-10",
+        "C": "5; 8-12",
+        "D": "5; 6-10"
+      },
+      "correctAnswer": "A",
+      "explanation": "Urwick suggested 4 at top and 8–12 at lower levels.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q425",
+      "questionText": "All of the following environmental factors can affect an organization EXCEPT:",
+      "options": {
+        "A": "internal communication policies",
+        "B": "demographic factors",
+        "C": "economic factors",
+        "D": "natural factors"
+      },
+      "correctAnswer": "A",
+      "explanation": "Internal policies are not external environmental factors.",
+      "topic": "Industrial-Organizational Psychology",
+      "difficulty": "easy"
     }
   ]
 }
