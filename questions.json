@@ -5949,6 +5949,1406 @@
       "explanation": "Internal policies are not external environmental factors.",
       "topic": "Industrial-Organizational Psychology",
       "difficulty": "easy"
+    },
+    {
+      "id": "q426",
+      "questionText": "Marco, a 35-year-old accountant, has experienced excessive worry for the past 8 months about his job performance, health, and family's safety, even when there is no clear reason. He also has muscle tension, fatigue, difficulty sleeping, and irritability. His father has always been a worrier, and Marco's recent promotion has increased his pressure. Which factor is the precipitating factor?",
+      "options": {
+        "A": "His family history of worry",
+        "B": "His constant irritability",
+        "C": "His recent promotion at work",
+        "D": "The encouragement from his wife"
+      },
+      "correctAnswer": "C",
+      "explanation": "A precipitating factor is the immediate trigger that brings on or worsens symptoms.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q427",
+      "questionText": "Based on Marco's symptoms of chronic excessive worry, muscle tension, fatigue, difficulty sleeping, and irritability for more than 6 months, what is the most likely diagnosis?",
+      "options": {
+        "A": "Illness Anxiety Disorder",
+        "B": "Panic Disorder",
+        "C": "Major Depressive Disorder",
+        "D": "Generalized Anxiety Disorder"
+      },
+      "correctAnswer": "D",
+      "explanation": "Generalized Anxiety Disorder involves excessive worry about multiple areas of life for at least 6 months.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q428",
+      "questionText": "What model explains that a person may have a genetic vulnerability to a disorder, but the disorder develops only when triggered by environmental stress?",
+      "options": {
+        "A": "Diathesis-Stress Model",
+        "B": "Reciprocal Gene-Environment Model",
+        "C": "Biological-Inheritance Model",
+        "D": "HPA Axis Activation Theory"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Diathesis-Stress Model explains how vulnerability and stress interact to produce disorders.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q429",
+      "questionText": "Stacey needs to be the center of attention, dresses provocatively, is overly emotional, and has intense but shallow relationships. Which personality disorder best fits her behavior?",
+      "options": {
+        "A": "Narcissistic Personality Disorder",
+        "B": "Histrionic Personality Disorder",
+        "C": "Borderline Personality Disorder",
+        "D": "Dependent Personality Disorder"
+      },
+      "correctAnswer": "B",
+      "explanation": "Histrionic Personality Disorder is marked by attention-seeking, dramatic emotions, and provocative behavior.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q430",
+      "questionText": "Stacey sees people as either all good or all bad. What cognitive distortion does this represent?",
+      "options": {
+        "A": "Catastrophizing",
+        "B": "Dichotomous Thinking",
+        "C": "Overgeneralization",
+        "D": "Personalization"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dichotomous thinking means viewing people or situations in extreme all-or-nothing terms.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q431",
+      "questionText": "Which of the following is considered a positive symptom of schizophrenia?",
+      "options": {
+        "A": "Avolition",
+        "B": "Alogia",
+        "C": "Hallucinations",
+        "D": "Affective flattening"
+      },
+      "correctAnswer": "C",
+      "explanation": "Positive symptoms add abnormal experiences, such as hallucinations or delusions.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q432",
+      "questionText": "A client believes that a famous celebrity is secretly in love with them. What type of delusion is this?",
+      "options": {
+        "A": "Grandiose",
+        "B": "Somatic",
+        "C": "Jealous",
+        "D": "Erotomanic"
+      },
+      "correctAnswer": "D",
+      "explanation": "An erotomanic delusion is the false belief that another person is in love with the individual.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q433",
+      "questionText": "What is the primary difference between Bipolar I Disorder and Bipolar II Disorder?",
+      "options": {
+        "A": "Bipolar I requires a hypomanic episode; Bipolar II requires a manic episode.",
+        "B": "Bipolar I requires a manic episode; Bipolar II requires a hypomanic episode.",
+        "C": "Bipolar I requires a major depressive episode; Bipolar II requires a cyclothymic episode.",
+        "D": "Bipolar I requires psychotic features; Bipolar II requires a seasonal pattern."
+      },
+      "correctAnswer": "B",
+      "explanation": "Bipolar I requires at least one manic episode, while Bipolar II requires hypomania and depression.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q434",
+      "questionText": "Under Republic Act No. 10029, also known as the Philippine Psychology Act of 2009, who is authorized to conduct psychotherapy?",
+      "options": {
+        "A": "A registered Psychometrician with 5 years of experience",
+        "B": "A registered Guidance Counselor",
+        "C": "A registered Psychologist",
+        "D": "A life coach with international certification"
+      },
+      "correctAnswer": "C",
+      "explanation": "RA 10029 authorizes registered psychologists to provide psychotherapy as a psychological service.",
+      "topic": "Philippine Psychology Law",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q435",
+      "questionText": "Which statement about the 4 Ds of abnormality is most accurate?",
+      "options": {
+        "A": "A behavior must feature all four components to be considered abnormal.",
+        "B": "Deviance is the most important factor because any behavior against cultural norms is a disorder.",
+        "C": "The presence of one or more of the 4 Ds is used as a guideline, but they are not a definitive requirement for diagnosis.",
+        "D": "Danger to self or others is required for all anxiety and mood disorders."
+      },
+      "correctAnswer": "C",
+      "explanation": "The 4 Ds guide clinical judgment but are not a rigid diagnostic checklist.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q436",
+      "questionText": "After being stuck in an elevator for 3 hours, Ryan now has unexpected rushes of fear, heart palpitations, and fear of losing control. He avoids elevators and small rooms because he fears another attack. What is the most likely diagnosis?",
+      "options": {
+        "A": "Agoraphobia",
+        "B": "Specific Phobia, Situational Type",
+        "C": "Panic Disorder",
+        "D": "Claustrophobia"
+      },
+      "correctAnswer": "C",
+      "explanation": "Panic Disorder involves recurrent panic attacks and persistent fear of future attacks.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q437",
+      "questionText": "What is the term for avoiding internal physical sensations, such as avoiding exercise because a rapid heartbeat reminds someone of a panic attack?",
+      "options": {
+        "A": "Interoceptive avoidance",
+        "B": "Exteroceptive avoidance",
+        "C": "Situational avoidance",
+        "D": "Cognitive avoidance"
+      },
+      "correctAnswer": "A",
+      "explanation": "Interoceptive avoidance means avoiding bodily sensations associated with anxiety or panic.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q438",
+      "questionText": "Which statement about Obsessive-Compulsive Disorder is true?",
+      "options": {
+        "A": "Obsessions are repetitive behaviors, while compulsions are intrusive thoughts.",
+        "B": "Compulsions are performed to relieve the anxiety caused by obsessions.",
+        "C": "For diagnosis, the individual must recognize that their obsessions are irrational.",
+        "D": "All individuals with OCD have both obsessions and compulsions."
+      },
+      "correctAnswer": "B",
+      "explanation": "Compulsions are repetitive acts used to reduce anxiety caused by obsessions.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q439",
+      "questionText": "Mang Tony, a 68-year-old widower, has significant memory decline, trouble planning and managing finances, and now needs help with daily tasks like cooking and dressing. What condition is most consistent with this presentation?",
+      "options": {
+        "A": "Delirium",
+        "B": "Major Neurocognitive Disorder",
+        "C": "Mild Neurocognitive Disorder",
+        "D": "Dissociative Amnesia"
+      },
+      "correctAnswer": "B",
+      "explanation": "Major Neurocognitive Disorder involves cognitive decline severe enough to impair independent daily functioning.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q440",
+      "questionText": "In Alzheimer's disease, memory loss typically affects which type of memories first?",
+      "options": {
+        "A": "Procedural",
+        "B": "Semantic",
+        "C": "Episodic",
+        "D": "Long-term childhood"
+      },
+      "correctAnswer": "C",
+      "explanation": "Alzheimer's disease often first affects episodic memory, especially recent personal events.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q441",
+      "questionText": "Which of the following is not part of the diagnostic criteria for Intellectual Disability?",
+      "options": {
+        "A": "Deficits in intellectual functions confirmed by clinical assessment and testing",
+        "B": "The presence of a specific learning disability",
+        "C": "Deficits in adaptive functioning that result in failure to meet developmental standards",
+        "D": "Onset of these deficits during the developmental period"
+      },
+      "correctAnswer": "B",
+      "explanation": "Specific Learning Disorder is separate from Intellectual Disability and is not required for diagnosis.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q442",
+      "questionText": "A 10-year-old child repeatedly makes sniffing sounds and says complex curse words against their will, and this has continued for over a year. What is the most likely diagnosis?",
+      "options": {
+        "A": "Persistent Motor Tic Disorder",
+        "B": "Tourette's Disorder",
+        "C": "Persistent Vocal Tic Disorder",
+        "D": "Stereotypic Movement Disorder"
+      },
+      "correctAnswer": "B",
+      "explanation": "Tourette's Disorder involves multiple motor tics and at least one vocal tic for more than one year.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q443",
+      "questionText": "A therapist treats a snake phobia by teaching relaxation, creating a fear hierarchy, and guiding gradual exposure while the client remains relaxed. What technique is this?",
+      "options": {
+        "A": "Flooding",
+        "B": "Exposure and Response Prevention",
+        "C": "Systematic Desensitization",
+        "D": "Aversion Therapy"
+      },
+      "correctAnswer": "C",
+      "explanation": "Systematic desensitization combines relaxation with gradual exposure to feared stimuli.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q444",
+      "questionText": "Which personality disorder is characterized by grandiosity, need for admiration, and lack of empathy?",
+      "options": {
+        "A": "Antisocial Personality Disorder",
+        "B": "Borderline Personality Disorder",
+        "C": "Histrionic Personality Disorder",
+        "D": "Narcissistic Personality Disorder"
+      },
+      "correctAnswer": "D",
+      "explanation": "Narcissistic Personality Disorder involves grandiosity, admiration-seeking, and limited empathy.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q445",
+      "questionText": "What is the primary motivation for self-starvation in Anorexia Nervosa?",
+      "options": {
+        "A": "An intense fear of gaining weight",
+        "B": "A lack of appetite",
+        "C": "A desire to punish oneself",
+        "D": "A distorted sense of taste"
+      },
+      "correctAnswer": "A",
+      "explanation": "Anorexia Nervosa is driven mainly by intense fear of gaining weight and body image disturbance.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q446",
+      "questionText": "What is the key difference between Anorexia Nervosa and Bulimia Nervosa?",
+      "options": {
+        "A": "The presence of binge eating",
+        "B": "The presence of compensatory behaviors such as purging",
+        "C": "The individual's body weight",
+        "D": "The level of distress about body shape"
+      },
+      "correctAnswer": "C",
+      "explanation": "Anorexia Nervosa requires significantly low body weight; Bulimia Nervosa usually does not.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q447",
+      "questionText": "A client has recurrent episodes of eating large amounts of food with loss of control. They do not purge, exercise excessively, or fast afterward, but feel significant distress and guilt. What is the diagnosis?",
+      "options": {
+        "A": "Bulimia Nervosa, Non-purging Type",
+        "B": "Anorexia Nervosa, Binge-eating/purging Type",
+        "C": "Binge-Eating Disorder",
+        "D": "Other Specified Feeding or Eating Disorder"
+      },
+      "correctAnswer": "C",
+      "explanation": "Binge-Eating Disorder involves binge eating without regular compensatory behaviors.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q448",
+      "questionText": "According to the psychodynamic perspective, which defense mechanism is central to the development of dissociative disorders?",
+      "options": {
+        "A": "Sublimation",
+        "B": "Projection",
+        "C": "Repression",
+        "D": "Reaction Formation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Psychodynamic theory views dissociation as linked to repression of traumatic material.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q449",
+      "questionText": "A person is found wandering in a city far from home and has no memory of their past identity or how they traveled there. What is this phenomenon called?",
+      "options": {
+        "A": "Dissociative amnesia with dissociative fugue",
+        "B": "Generalized amnesia",
+        "C": "Retrograde amnesia",
+        "D": "Depersonalization episode"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dissociative fugue involves amnesia with unexpected travel away from home.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q450",
+      "questionText": "What is the core feature of Somatic Symptom Disorder?",
+      "options": {
+        "A": "Faking an illness for external gain",
+        "B": "A fear of having a serious disease despite medical reassurance",
+        "C": "One or more distressing physical symptoms and excessive thoughts or behaviors related to them",
+        "D": "Loss of a specific motor or sensory function without a neurological cause"
+      },
+      "correctAnswer": "C",
+      "explanation": "Somatic Symptom Disorder centers on distressing physical symptoms and excessive concern about them.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q451",
+      "questionText": "A patient becomes suddenly blind after witnessing a traumatic event. Medical examinations find no organic cause, and the patient appears oddly unconcerned. What is the most likely condition?",
+      "options": {
+        "A": "Illness Anxiety Disorder",
+        "B": "Factitious Disorder",
+        "C": "Malingering",
+        "D": "Functional Neurological Symptom Disorder"
+      },
+      "correctAnswer": "D",
+      "explanation": "Functional Neurological Symptom Disorder involves neurological-like symptoms without a medical cause.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q452",
+      "questionText": "What does the term la belle indifference refer to?",
+      "options": {
+        "A": "The beautiful handwriting sometimes seen in individuals with schizophrenia",
+        "B": "A lack of concern about one's symptoms, sometimes seen in conversion disorder",
+        "C": "The grandiose belief that one possesses special beauty or talent",
+        "D": "The feeling of being detached from one's own body"
+      },
+      "correctAnswer": "B",
+      "explanation": "La belle indifference means unusual lack of concern about serious symptoms.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q453",
+      "questionText": "What is the primary difference between Malingering and Factitious Disorder?",
+      "options": {
+        "A": "The severity of the feigned symptoms",
+        "B": "The presence of an external incentive or goal",
+        "C": "Whether the symptoms are physical or psychological",
+        "D": "Whether the person is faking symptoms in themselves or someone else"
+      },
+      "correctAnswer": "B",
+      "explanation": "Malingering involves external rewards, while Factitious Disorder is motivated by assuming the sick role.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q454",
+      "questionText": "To be diagnosed with Persistent Depressive Disorder, an adult must have chronically depressed mood for at least how long?",
+      "options": {
+        "A": "6 months",
+        "B": "1 year",
+        "C": "2 years",
+        "D": "5 years"
+      },
+      "correctAnswer": "C",
+      "explanation": "Persistent Depressive Disorder requires depressed mood for at least 2 years in adults.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q455",
+      "questionText": "What specifier is used when a patient experiences at least four mood episodes within a one-year period?",
+      "options": {
+        "A": "Rapid Cycling",
+        "B": "Seasonal Pattern",
+        "C": "Atypical Features",
+        "D": "Melancholic Features"
+      },
+      "correctAnswer": "A",
+      "explanation": "Rapid cycling means four or more mood episodes occur within 12 months.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q456",
+      "questionText": "Exposure and Response Prevention is the most effective psychological treatment for which disorder?",
+      "options": {
+        "A": "Generalized Anxiety Disorder",
+        "B": "Obsessive-Compulsive Disorder",
+        "C": "Specific Phobia",
+        "D": "Posttraumatic Stress Disorder"
+      },
+      "correctAnswer": "B",
+      "explanation": "ERP treats OCD by exposing the person to obsessions while preventing compulsive responses.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q457",
+      "questionText": "Which of the following is not a symptom cluster required for a PTSD diagnosis?",
+      "options": {
+        "A": "Intrusion symptoms",
+        "B": "Persistent avoidance",
+        "C": "Negative alterations in cognitions and mood",
+        "D": "Obsessive thoughts and compulsive behaviors"
+      },
+      "correctAnswer": "D",
+      "explanation": "Obsessions and compulsions are features of OCD, not a PTSD symptom cluster.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q458",
+      "questionText": "Duration helps differentiate Acute Stress Disorder from PTSD. For PTSD, symptoms must last for how long?",
+      "options": {
+        "A": "More than 3 days",
+        "B": "More than 2 weeks",
+        "C": "More than 1 month",
+        "D": "More than 6 months"
+      },
+      "correctAnswer": "C",
+      "explanation": "PTSD requires trauma-related symptoms lasting more than 1 month.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q459",
+      "questionText": "A person with Schizoid Personality Disorder is best described as which of the following?",
+      "options": {
+        "A": "A social loner who desires relationships but fears rejection",
+        "B": "A person with eccentric beliefs and odd behaviors",
+        "C": "A detached individual who has no interest in social relationships",
+        "D": "A suspicious and mistrustful person who feels persecuted"
+      },
+      "correctAnswer": "C",
+      "explanation": "Schizoid Personality Disorder involves detachment and little desire for close relationships.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q460",
+      "questionText": "What are ideas of reference?",
+      "options": {
+        "A": "Beliefs that one has special powers or abilities",
+        "B": "Fixed beliefs that are resistant to contrary evidence",
+        "C": "Beliefs that random events or comments are directed at oneself personally",
+        "D": "Experiences of loosening associations in speech"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ideas of reference involve interpreting unrelated events as personally meaningful.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q461",
+      "questionText": "Which neurotransmitter is most closely associated with the brain's reward system and substance use disorders?",
+      "options": {
+        "A": "Serotonin",
+        "B": "GABA",
+        "C": "Dopamine",
+        "D": "Acetylcholine"
+      },
+      "correctAnswer": "C",
+      "explanation": "Dopamine is central to reward, reinforcement, and addiction pathways.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q462",
+      "questionText": "Leo stopped drinking alcohol suddenly after years of heavy use. He now has tremors, sweating, anxiety, and nausea. What is he experiencing?",
+      "options": {
+        "A": "Intoxication",
+        "B": "Withdrawal",
+        "C": "Tolerance",
+        "D": "A craving"
+      },
+      "correctAnswer": "B",
+      "explanation": "Withdrawal occurs when substance use stops and unpleasant symptoms appear.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q463",
+      "questionText": "What is the term for needing to consume increasing amounts of a substance to achieve the desired effect?",
+      "options": {
+        "A": "Dependence",
+        "B": "Tolerance",
+        "C": "Intoxication",
+        "D": "Withdrawal"
+      },
+      "correctAnswer": "B",
+      "explanation": "Tolerance means the body needs more of a substance to produce the same effect.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q464",
+      "questionText": "A 9-year-old boy bullies others, starts fights, is cruel to animals, and shows no remorse. What is the most likely diagnosis?",
+      "options": {
+        "A": "Oppositional Defiant Disorder",
+        "B": "Intermittent Explosive Disorder",
+        "C": "Disruptive Mood Dysregulation Disorder",
+        "D": "Conduct Disorder"
+      },
+      "correctAnswer": "D",
+      "explanation": "Conduct Disorder involves serious violations of others' rights and social norms.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q465",
+      "questionText": "What is the primary difference between Oppositional Defiant Disorder and Conduct Disorder?",
+      "options": {
+        "A": "ODD involves emotional dysregulation, while CD does not.",
+        "B": "ODD involves argumentative or defiant behavior, while CD involves more severe violations of rights.",
+        "C": "CD can only be diagnosed in adults.",
+        "D": "ODD is a precursor to IED, while CD is a precursor to ASPD."
+      },
+      "correctAnswer": "B",
+      "explanation": "Conduct Disorder is more severe because it includes aggression, cruelty, theft, or serious rule violations.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q466",
+      "questionText": "A client reports feeling detached from their own body, as if they are an outside observer of their own life. These experiences are recurrent and distressing. What does this describe?",
+      "options": {
+        "A": "Derealization",
+        "B": "Depersonalization",
+        "C": "Dissociative Fugue",
+        "D": "Identity Alteration"
+      },
+      "correctAnswer": "B",
+      "explanation": "Depersonalization is feeling detached from oneself, body, or mental processes.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q467",
+      "questionText": "In Dissociative Identity Disorder, what are the different identities called?",
+      "options": {
+        "A": "Personalities",
+        "B": "Subtypes",
+        "C": "Alters",
+        "D": "Personas"
+      },
+      "correctAnswer": "C",
+      "explanation": "The distinct identity states in Dissociative Identity Disorder are called alters.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q468",
+      "questionText": "Which of the following is an example of a negative symptom of schizophrenia?",
+      "options": {
+        "A": "Disorganized speech",
+        "B": "Auditory hallucinations",
+        "C": "Avolition",
+        "D": "Grandiose delusions"
+      },
+      "correctAnswer": "C",
+      "explanation": "Avolition is reduced motivation, which is a negative symptom of schizophrenia.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q469",
+      "questionText": "A person has delusions, hallucinations, and disorganized speech for three months, then returns to normal functioning. What diagnosis best fits?",
+      "options": {
+        "A": "Schizophrenia",
+        "B": "Brief Psychotic Disorder",
+        "C": "Schizophreniform Disorder",
+        "D": "Delusional Disorder"
+      },
+      "correctAnswer": "C",
+      "explanation": "Schizophreniform Disorder lasts at least 1 month but less than 6 months.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q470",
+      "questionText": "The dopamine hypothesis of schizophrenia suggests that the disorder is caused by what in certain brain pathways?",
+      "options": {
+        "A": "Excess dopamine",
+        "B": "Insufficient dopamine",
+        "C": "Imbalance of dopamine reuptake",
+        "D": "Enzymatic breakdown of dopamine"
+      },
+      "correctAnswer": "A",
+      "explanation": "The dopamine hypothesis links positive psychotic symptoms to excess dopamine activity.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q471",
+      "questionText": "Which paraphilic disorder involves sexual arousal from observing an unsuspecting person who is naked, disrobing, or engaging in sexual activity?",
+      "options": {
+        "A": "Exhibitionistic Disorder",
+        "B": "Frotteuristic Disorder",
+        "C": "Voyeuristic Disorder",
+        "D": "Pedophilic Disorder"
+      },
+      "correctAnswer": "C",
+      "explanation": "Voyeuristic Disorder involves arousal from secretly observing unsuspecting people.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q472",
+      "questionText": "A paraphilic disorder requires that fantasies, urges, or behaviors cause distress or impairment, or which of the following?",
+      "options": {
+        "A": "The person has a high frequency of these fantasies.",
+        "B": "The urges have been present for more than 6 months.",
+        "C": "The person has acted on these urges with a nonconsenting person.",
+        "D": "The person uses inanimate objects for arousal."
+      },
+      "correctAnswer": "C",
+      "explanation": "A paraphilia becomes a disorder when it causes impairment or involves nonconsenting persons.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q473",
+      "questionText": "A child with Specific Learning Disorder with impairment in reading is also known as having which condition?",
+      "options": {
+        "A": "Dyscalculia",
+        "B": "Dysgraphia",
+        "C": "Dyslexia",
+        "D": "Dyspraxia"
+      },
+      "correctAnswer": "C",
+      "explanation": "Dyslexia refers to learning difficulties involving reading accuracy, fluency, or decoding.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q474",
+      "questionText": "The core features of Autism Spectrum Disorder involve deficits in social communication and what else?",
+      "options": {
+        "A": "The presence of intellectual disability",
+        "B": "Below-average adaptive functioning",
+        "C": "Restricted, repetitive patterns of behavior, interests, or activities",
+        "D": "A delay in language development before age 3"
+      },
+      "correctAnswer": "C",
+      "explanation": "ASD requires social communication deficits and restricted, repetitive behaviors or interests.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q475",
+      "questionText": "The severity levels for Autism Spectrum Disorder are based on what?",
+      "options": {
+        "A": "The person's IQ score",
+        "B": "How much support is required for daily functioning",
+        "C": "The number of repetitive behaviors present",
+        "D": "The age of onset of symptoms"
+      },
+      "correctAnswer": "B",
+      "explanation": "ASD severity levels reflect the amount of support needed for functioning.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q476",
+      "questionText": "Which personality disorder is characterized by social inhibition, feelings of inadequacy, and hypersensitivity to negative evaluation?",
+      "options": {
+        "A": "Schizoid Personality Disorder",
+        "B": "Avoidant Personality Disorder",
+        "C": "Dependent Personality Disorder",
+        "D": "Paranoid Personality Disorder"
+      },
+      "correctAnswer": "B",
+      "explanation": "Avoidant Personality Disorder involves fear of rejection, inadequacy, and social inhibition.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q477",
+      "questionText": "The primary fear in Avoidant Personality Disorder is blank, while the primary fear in Schizoid Personality Disorder is blank.",
+      "options": {
+        "A": "Rejection; intimacy",
+        "B": "Intimacy; rejection",
+        "C": "Abandonment; criticism",
+        "D": "Being alone; being with others"
+      },
+      "correctAnswer": "A",
+      "explanation": "Avoidant PD involves fear of rejection; Schizoid PD involves discomfort with or disinterest in intimacy.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q478",
+      "questionText": "Lithium is a mood-stabilizing medication most commonly used to treat which disorder?",
+      "options": {
+        "A": "Major Depressive Disorder",
+        "B": "Schizophrenia",
+        "C": "Bipolar Disorder",
+        "D": "Generalized Anxiety Disorder"
+      },
+      "correctAnswer": "C",
+      "explanation": "Lithium is a classic mood stabilizer commonly used for Bipolar Disorder.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q479",
+      "questionText": "Aaron Beck's cognitive theory of depression proposes that depression is caused by what?",
+      "options": {
+        "A": "Unresolved childhood conflicts",
+        "B": "A lack of positive reinforcement in the environment",
+        "C": "Maladaptive automatic thoughts and negative schemas",
+        "D": "An imbalance of serotonin and norepinephrine"
+      },
+      "correctAnswer": "C",
+      "explanation": "Beck's theory emphasizes negative automatic thoughts and schemas in depression.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q480",
+      "questionText": "The cognitive triad of depression involves negative views about which three areas?",
+      "options": {
+        "A": "The self, the world, and the future",
+        "B": "The past, the present, and the future",
+        "C": "Oneself, others, and social situations",
+        "D": "Genetics, environment, and behavior"
+      },
+      "correctAnswer": "A",
+      "explanation": "Beck's cognitive triad includes negative views of the self, world, and future.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q481",
+      "questionText": "From a multicultural perspective, what does the existence of disorders like susto in Latin America or koro in Southeast Asia suggest?",
+      "options": {
+        "A": "Biological factors are irrelevant to mental illness.",
+        "B": "Psychological disorders are universal and identical across the globe.",
+        "C": "Culture plays a role in the manifestation and interpretation of psychological distress.",
+        "D": "These are not real disorders and should not be included in diagnostic systems."
+      },
+      "correctAnswer": "C",
+      "explanation": "Culture influences how psychological distress is expressed, understood, and labeled.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q482",
+      "questionText": "A registered psychometrician is asked by a supervising psychologist to administer an intelligence test they have never used before. According to the PAP Code of Ethics, what is the most appropriate first step?",
+      "options": {
+        "A": "Administer the test to the best of their ability.",
+        "B": "Decline to administer the test, stating it is outside their competency.",
+        "C": "Inform the supervisor of their lack of training and seek appropriate training and supervision before administering it.",
+        "D": "Ask the client if they are comfortable with the psychometrician learning the test during the session."
+      },
+      "correctAnswer": "C",
+      "explanation": "Ethical practice requires competence, training, and supervision before using unfamiliar tests.",
+      "topic": "Psychological Ethics",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q483",
+      "questionText": "Which of the following is not a characteristic of a manic episode?",
+      "options": {
+        "A": "Decreased need for sleep",
+        "B": "Inflated self-esteem or grandiosity",
+        "C": "Hypersomnia and increased appetite",
+        "D": "Excessive involvement in activities with high potential for painful consequences"
+      },
+      "correctAnswer": "C",
+      "explanation": "Hypersomnia and increased appetite are more typical of depression, not mania.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q484",
+      "questionText": "A person experiences numerous periods of hypomanic symptoms and depressive symptoms that do not meet full episode criteria for at least two years. What is the diagnosis?",
+      "options": {
+        "A": "Bipolar II Disorder",
+        "B": "Persistent Depressive Disorder",
+        "C": "Cyclothymic Disorder",
+        "D": "Other Specified Bipolar and Related Disorder"
+      },
+      "correctAnswer": "C",
+      "explanation": "Cyclothymic Disorder involves chronic subthreshold hypomanic and depressive symptoms for at least 2 years.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q485",
+      "questionText": "Intermittent Explosive Disorder is characterized by recurrent behavioral outbursts that are what?",
+      "options": {
+        "A": "Premeditated and intended to achieve a tangible objective",
+        "B": "Grossly out of proportion to the provocation or stressor",
+        "C": "Better explained by another mental disorder like ASPD or BPD",
+        "D": "Accompanied by a persistent irritable mood between outbursts"
+      },
+      "correctAnswer": "B",
+      "explanation": "IED involves impulsive aggressive outbursts that are excessive for the trigger.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q486",
+      "questionText": "Body Dysmorphic Disorder involves a preoccupation with what?",
+      "options": {
+        "A": "A fear of gaining weight",
+        "B": "One or more perceived defects or flaws in physical appearance that are not observable to others",
+        "C": "The belief that one's body is emitting a foul odor",
+        "D": "A specific medical illness"
+      },
+      "correctAnswer": "B",
+      "explanation": "BDD involves distressing concern about perceived appearance flaws that others barely notice or do not see.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q487",
+      "questionText": "Trichotillomania involves recurrent blank, while excoriation disorder involves recurrent blank.",
+      "options": {
+        "A": "Skin picking; hair pulling",
+        "B": "Hair pulling; skin picking",
+        "C": "Nail biting; lip chewing",
+        "D": "Object hoarding; muscle tensing"
+      },
+      "correctAnswer": "B",
+      "explanation": "Trichotillomania is hair-pulling disorder, while excoriation disorder is skin-picking disorder.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q488",
+      "questionText": "What does the term ego-syntonic mean?",
+      "options": {
+        "A": "Distressing and unwanted",
+        "B": "Caused by an external force",
+        "C": "Consistent with one's self-image and values",
+        "D": "Changeable with minimal effort"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ego-syntonic symptoms feel acceptable or consistent with the person's identity.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q489",
+      "questionText": "Which disorder is most likely to be considered ego-syntonic?",
+      "options": {
+        "A": "Major Depressive Disorder",
+        "B": "Panic Disorder",
+        "C": "Obsessive-Compulsive Personality Disorder",
+        "D": "Obsessive-Compulsive Disorder"
+      },
+      "correctAnswer": "C",
+      "explanation": "OCPD is often ego-syntonic because the person sees perfectionism and control as appropriate.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q490",
+      "questionText": "What is a key difference between Obsessive-Compulsive Disorder and Obsessive-Compulsive Personality Disorder?",
+      "options": {
+        "A": "OCPD involves true obsessions and compulsions.",
+        "B": "OCPD is characterized by a pervasive pattern of perfectionism and control, not specific obsessions.",
+        "C": "Individuals with OCD see their behaviors as rational and reasonable.",
+        "D": "OCPD is an anxiety disorder, while OCD is a personality disorder."
+      },
+      "correctAnswer": "B",
+      "explanation": "OCPD is a personality pattern of control and perfectionism, while OCD involves obsessions and compulsions.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q491",
+      "questionText": "A therapist using Motivational Interviewing with a client ambivalent about quitting smoking would most likely do what?",
+      "options": {
+        "A": "Directly confront the client about the dangers of smoking.",
+        "B": "Explore and resolve the client's ambivalence in a collaborative, non-judgmental way.",
+        "C": "Teach the client cognitive-behavioral skills to manage cravings.",
+        "D": "Ignore the smoking and focus on other issues."
+      },
+      "correctAnswer": "B",
+      "explanation": "Motivational Interviewing helps clients explore ambivalence and strengthen motivation for change.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q492",
+      "questionText": "Which of the following is an example of a delusion of persecution?",
+      "options": {
+        "A": "I am the secret messenger of God.",
+        "B": "The FBI has planted a tracking device in my tooth.",
+        "C": "A movie star is secretly sending me love letters.",
+        "D": "My liver has turned to stone."
+      },
+      "correctAnswer": "B",
+      "explanation": "Persecutory delusions involve false beliefs of being watched, followed, harmed, or conspired against.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q493",
+      "questionText": "What does the downward drift theory of schizophrenia suggest?",
+      "options": {
+        "A": "Schizophrenia causes individuals to fall to lower socioeconomic levels.",
+        "B": "Being in a lower socioeconomic level is a primary cause of schizophrenia.",
+        "C": "The symptoms of schizophrenia tend to drift from positive to negative over time.",
+        "D": "Genetic drift explains the prevalence of schizophrenia in certain populations."
+      },
+      "correctAnswer": "A",
+      "explanation": "Downward drift suggests schizophrenia impairs functioning, causing movement to lower socioeconomic status.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q494",
+      "questionText": "Under RA 11036, the Philippine Mental Health Act, a service user can be compelled to receive treatment against their will only under what condition?",
+      "options": {
+        "A": "Their family provides written consent.",
+        "B": "A psychiatrist determines it is in their best interest.",
+        "C": "There is a determination of likelihood of serious harm to self or others.",
+        "D": "They have refused treatment on two separate occasions."
+      },
+      "correctAnswer": "C",
+      "explanation": "Involuntary treatment is allowed only when serious harm to self or others is likely.",
+      "topic": "Philippine Mental Health Law",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q495",
+      "questionText": "What does alogia refer to as a symptom of schizophrenia?",
+      "options": {
+        "A": "Inability to experience pleasure",
+        "B": "Lack of motivation",
+        "C": "Poverty of speech or content",
+        "D": "Social withdrawal"
+      },
+      "correctAnswer": "C",
+      "explanation": "Alogia means reduced speech output or reduced meaningful content in speech.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q496",
+      "questionText": "Which Cluster A personality disorder is characterized by pervasive and unjustified mistrust and suspicion of others?",
+      "options": {
+        "A": "Schizoid Personality Disorder",
+        "B": "Schizotypal Personality Disorder",
+        "C": "Paranoid Personality Disorder",
+        "D": "Avoidant Personality Disorder"
+      },
+      "correctAnswer": "C",
+      "explanation": "Paranoid Personality Disorder involves chronic distrust and suspicion of others' motives.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q497",
+      "questionText": "A person with Schizotypal Personality Disorder might show all of the following except which one?",
+      "options": {
+        "A": "Magical thinking and odd beliefs",
+        "B": "A close, intimate relationship with a long-term partner",
+        "C": "Vague, metaphorical, or overly elaborate speech",
+        "D": "Social anxiety related to paranoid fears"
+      },
+      "correctAnswer": "B",
+      "explanation": "Schizotypal Personality Disorder usually includes discomfort with close relationships.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q498",
+      "questionText": "What is the primary goal of Dialectical Behavior Therapy, a common treatment for Borderline Personality Disorder?",
+      "options": {
+        "A": "Uncover unconscious childhood conflicts",
+        "B": "Help clients find a balance between acceptance and change",
+        "C": "Correct irrational cognitive distortions",
+        "D": "Prescribe appropriate mood-stabilizing medication"
+      },
+      "correctAnswer": "B",
+      "explanation": "DBT emphasizes balancing acceptance of oneself with behavioral change.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q499",
+      "questionText": "A person who is overly submissive, has a strong need to be taken care of, and has an intense fear of separation is likely to have which personality disorder?",
+      "options": {
+        "A": "Borderline Personality Disorder",
+        "B": "Histrionic Personality Disorder",
+        "C": "Avoidant Personality Disorder",
+        "D": "Dependent Personality Disorder"
+      },
+      "correctAnswer": "D",
+      "explanation": "Dependent Personality Disorder involves submissiveness, clinging behavior, and fear of separation.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q500",
+      "questionText": "Delirium is primarily characterized by what?",
+      "options": {
+        "A": "A gradual decline in memory and cognitive function",
+        "B": "A disturbance in attention, awareness, and cognition that develops over a short period",
+        "C": "The presence of well-formed, non-bizarre delusions",
+        "D": "A persistent state of depersonalization"
+      },
+      "correctAnswer": "B",
+      "explanation": "Delirium develops acutely and mainly affects attention, awareness, and cognition.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q501",
+      "questionText": "Which of the following is a common reversible cause of delirium?",
+      "options": {
+        "A": "Alzheimer's Disease",
+        "B": "Frontotemporal degeneration",
+        "C": "Medication side effects or intoxication",
+        "D": "Vascular dementia"
+      },
+      "correctAnswer": "C",
+      "explanation": "Delirium can often be reversed when causes like medication effects or intoxication are treated.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q502",
+      "questionText": "Anterograde amnesia is the inability to blank, while retrograde amnesia is the inability to blank.",
+      "options": {
+        "A": "Recall past events; form new memories",
+        "B": "Form new memories; recall past events",
+        "C": "Recall personal information; recall general knowledge",
+        "D": "Recall general knowledge; recall personal information"
+      },
+      "correctAnswer": "B",
+      "explanation": "Anterograde amnesia impairs new memory formation; retrograde amnesia impairs recall of past memories.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q503",
+      "questionText": "A researcher studies children of parents with schizophrenia because they are more likely to develop the disorder themselves. What type of research is this?",
+      "options": {
+        "A": "Longitudinal study",
+        "B": "Case study",
+        "C": "High-risk study",
+        "D": "Experimental study"
+      },
+      "correctAnswer": "C",
+      "explanation": "A high-risk study examines people with elevated risk for developing a disorder.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q504",
+      "questionText": "In families of individuals with schizophrenia, what does expressed emotion refer to?",
+      "options": {
+        "A": "The family's ability to openly share their feelings",
+        "B": "The flat affect commonly expressed by the individual with schizophrenia",
+        "C": "A family communication style involving criticism, hostility, and over-involvement",
+        "D": "The emotional support provided by the family as a protective factor"
+      },
+      "correctAnswer": "C",
+      "explanation": "High expressed emotion includes criticism, hostility, and emotional over-involvement.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q505",
+      "questionText": "A client with psychosis says, 'The car is red. I'm feeling blue. Who are you? Let's go to the zoo.' What type of disorganized speech is this?",
+      "options": {
+        "A": "Tangentiality",
+        "B": "Neologism",
+        "C": "Word Salad",
+        "D": "Clang associations"
+      },
+      "correctAnswer": "D",
+      "explanation": "Clang associations connect words by sound or rhyme instead of meaning.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q506",
+      "questionText": "In the Philippine Code of Ethics for Psychologists, what do multiple relationships refer to?",
+      "options": {
+        "A": "Having more than one client from the same family",
+        "B": "A psychologist having both a professional role and another role with the same person",
+        "C": "Offering multiple types of therapy to one client",
+        "D": "A client having multiple diagnoses"
+      },
+      "correctAnswer": "B",
+      "explanation": "Multiple relationships occur when professional and other roles overlap with the same person.",
+      "topic": "Psychological Ethics",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q507",
+      "questionText": "When are multiple relationships considered unethical?",
+      "options": {
+        "A": "Always; they should be avoided under all circumstances.",
+        "B": "Only if they involve a sexual relationship.",
+        "C": "When there is a risk of exploitation, harm, or impairment of professional judgment.",
+        "D": "Never, as long as the client gives informed consent."
+      },
+      "correctAnswer": "C",
+      "explanation": "Multiple relationships are unethical when they risk harm, exploitation, or impaired judgment.",
+      "topic": "Psychological Ethics",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q508",
+      "questionText": "Which of the following is a specific phobia of the natural environment type?",
+      "options": {
+        "A": "Fear of spiders",
+        "B": "Fear of flying",
+        "C": "Fear of heights",
+        "D": "Fear of injections"
+      },
+      "correctAnswer": "C",
+      "explanation": "Fear of heights is classified under the natural environment type of specific phobia.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q509",
+      "questionText": "Which type of phobia is the most heritable?",
+      "options": {
+        "A": "Animal type",
+        "B": "Natural Environment type",
+        "C": "Situational type",
+        "D": "Blood-Injection-Injury type"
+      },
+      "correctAnswer": "D",
+      "explanation": "Blood-Injection-Injury phobia has the strongest genetic contribution among phobia types.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q510",
+      "questionText": "Which of the following is not a specifier for Major Depressive Disorder?",
+      "options": {
+        "A": "With Psychotic Features",
+        "B": "With Catatonia",
+        "C": "With Anxious Distress",
+        "D": "With Compulsive Behaviors"
+      },
+      "correctAnswer": "D",
+      "explanation": "Compulsive behaviors are associated with OCD, not a standard MDD specifier.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q511",
+      "questionText": "A young child shows no evidence of forming attachments to caregivers, rarely seeks or responds to comfort, and has minimal social and emotional responsiveness. What diagnosis best fits?",
+      "options": {
+        "A": "Autism Spectrum Disorder",
+        "B": "Disinhibited Social Engagement Disorder",
+        "C": "Reactive Attachment Disorder",
+        "D": "Oppositional Defiant Disorder"
+      },
+      "correctAnswer": "C",
+      "explanation": "Reactive Attachment Disorder involves emotionally withdrawn behavior toward caregivers after neglect.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q512",
+      "questionText": "Which theoretical perspective says anxiety results from classical conditioning, where a neutral stimulus becomes paired with a frightening event?",
+      "options": {
+        "A": "Cognitive",
+        "B": "Behavioral",
+        "C": "Psychodynamic",
+        "D": "Humanistic"
+      },
+      "correctAnswer": "B",
+      "explanation": "The behavioral perspective explains anxiety as a learned response through conditioning.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q513",
+      "questionText": "Which psychological disorder is considered one of the most prevalent worldwide?",
+      "options": {
+        "A": "Schizophrenia",
+        "B": "Bipolar Disorder",
+        "C": "Major Depressive Disorder",
+        "D": "Generalized Anxiety Disorder"
+      },
+      "correctAnswer": "C",
+      "explanation": "Major Depressive Disorder is among the most common psychological disorders globally.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q514",
+      "questionText": "A psychologist wants to use a new therapeutic technique from a journal. Ethically, they should ensure the technique has what?",
+      "options": {
+        "A": "Clinical significance",
+        "B": "Empirical support",
+        "C": "Statistical validity",
+        "D": "Popular approval"
+      },
+      "correctAnswer": "B",
+      "explanation": "Empirical support means a technique is backed by scientific research evidence.",
+      "topic": "Psychological Ethics",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q515",
+      "questionText": "What is a no-suicide contract?",
+      "options": {
+        "A": "A tool that legally prevents a client from attempting suicide",
+        "B": "A substitute for thorough risk assessment and safety planning",
+        "C": "A documented agreement where a client states they will not harm themselves and will seek help if urges arise",
+        "D": "A research-proven method that is highly effective in preventing suicide"
+      },
+      "correctAnswer": "C",
+      "explanation": "A no-suicide contract is an agreement to seek help, but it does not replace risk assessment.",
+      "topic": "Psychological Ethics",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q516",
+      "questionText": "A key diagnostic criterion for all personality disorders is that the behavior pattern is what?",
+      "options": {
+        "A": "Fleeting and situation-dependent",
+        "B": "Inflexible and pervasive across a broad range of situations",
+        "C": "Only evident in social situations",
+        "D": "Ego-dystonic and a source of great distress to the individual"
+      },
+      "correctAnswer": "B",
+      "explanation": "Personality disorders involve stable, inflexible, and pervasive patterns across situations.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q517",
+      "questionText": "Someone intentionally produces or fakes physical symptoms in another person, typically a child under their care, to assume the sick role by proxy. What is the diagnosis?",
+      "options": {
+        "A": "Malingering",
+        "B": "Factitious Disorder Imposed on Self",
+        "C": "Factitious Disorder Imposed on Another",
+        "D": "Somatic Symptom Disorder with Predominant Pain"
+      },
+      "correctAnswer": "C",
+      "explanation": "Factitious Disorder Imposed on Another involves falsifying illness in another person under one's care.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q518",
+      "questionText": "What does the Permissive Hypothesis for mood disorders suggest?",
+      "options": {
+        "A": "Permissive parenting leads to higher rates of depression.",
+        "B": "Low levels of serotonin permit other neurotransmitters to become dysregulated.",
+        "C": "Society's permissive attitude toward substance use contributes to comorbidity.",
+        "D": "A permissive ego allows unconscious conflicts to surface as depression."
+      },
+      "correctAnswer": "B",
+      "explanation": "The Permissive Hypothesis says low serotonin allows other neurotransmitters to become dysregulated.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q519",
+      "questionText": "Which part of the brain is critically involved in processing fear and is often implicated in anxiety disorders?",
+      "options": {
+        "A": "Hippocampus",
+        "B": "Thalamus",
+        "C": "Amygdala",
+        "D": "Cerebellum"
+      },
+      "correctAnswer": "C",
+      "explanation": "The amygdala is central to fear processing and emotional threat responses.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q520",
+      "questionText": "A client diagnosed with Schizoaffective Disorder must experience which of the following?",
+      "options": {
+        "A": "A major mood episode concurrent with symptoms of schizophrenia",
+        "B": "A period of delusions or hallucinations for at least 2 weeks in the absence of a major mood episode",
+        "C": "Symptoms that are not attributable to the effects of a substance",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "Schizoaffective Disorder requires mood symptoms, psychosis without mood symptoms, and exclusion of substances.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q521",
+      "questionText": "Pyromania involves deliberate and purposeful fire setting on more than one occasion, accompanied by what?",
+      "options": {
+        "A": "A desire for monetary gain or revenge",
+        "B": "A political or ideological motive",
+        "C": "Tension or affective arousal before the act",
+        "D": "A failure to appreciate the danger of fire"
+      },
+      "correctAnswer": "C",
+      "explanation": "Pyromania includes tension before fire setting and pleasure or relief afterward.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q522",
+      "questionText": "Which statement about Kleptomania is true?",
+      "options": {
+        "A": "The stolen objects are needed for personal use or monetary value.",
+        "B": "The stealing is committed to express anger or vengeance.",
+        "C": "Individuals experience pleasure or relief at the time of committing the theft.",
+        "D": "The act is carefully planned to avoid apprehension."
+      },
+      "correctAnswer": "C",
+      "explanation": "Kleptomania involves tension before theft and pleasure, gratification, or relief during the act.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q523",
+      "questionText": "A psychologist is leaving their current practice. What is their primary ethical responsibility toward current clients?",
+      "options": {
+        "A": "Terminate all clients immediately to avoid abandonment issues.",
+        "B": "Provide reasonable notice and help facilitate transfer of care to another professional.",
+        "C": "Give clients their personal phone number for emergencies.",
+        "D": "There are no specific responsibilities once the psychologist leaves the practice."
+      },
+      "correctAnswer": "B",
+      "explanation": "Ethical termination requires reasonable notice and support for continuity of care.",
+      "topic": "Psychological Ethics",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q524",
+      "questionText": "In treating paraphilic disorders, which technique reduces arousal to inappropriate stimuli by pairing them with unpleasant consequences?",
+      "options": {
+        "A": "Orgasmic reconditioning",
+        "B": "Covert sensitization",
+        "C": "Masturbatory satiation",
+        "D": "Aversion therapy"
+      },
+      "correctAnswer": "B",
+      "explanation": "Covert sensitization pairs imagined inappropriate arousal with imagined unpleasant consequences.",
+      "topic": "Abnormal Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q525",
+      "questionText": "What does the continuity-of-care provision in RA 11036 ensure?",
+      "options": {
+        "A": "A service user has the right to continue treatment even if they can no longer pay.",
+        "B": "Mental health services should be integrated from hospital to community settings.",
+        "C": "A therapist cannot terminate a client for any reason.",
+        "D": "A service user is assigned one mental health professional for life."
+      },
+      "correctAnswer": "B",
+      "explanation": "Continuity of care ensures smooth, integrated mental health services across care settings.",
+      "topic": "Philippine Mental Health Law",
+      "difficulty": "medium"
     }
   ]
 }
