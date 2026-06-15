@@ -8749,6 +8749,1406 @@
       "explanation": "Egocentrism is a key feature of Piaget's preoperational stage.",
       "topic": "Developmental Psychology",
       "difficulty": "easy"
+    },
+    {
+      "id": "q626",
+      "questionText": "A large, established manufacturing company operates with a rigid hierarchy, explicit rules, narrow job specialization, and top-level decision-making. This approach emphasizes efficiency and control through a clear chain of command and formalization. Which theory best fits this approach?",
+      "options": {
+        "A": "Modern Organizational Theory",
+        "B": "Classical Organization Theory, particularly Max Weber's concept of bureaucracy",
+        "C": "Open Systems Theory",
+        "D": "Contingency Theory"
+      },
+      "correctAnswer": "B",
+      "explanation": "Classical bureaucracy emphasizes hierarchy, formal rules, specialization, and centralized authority.",
+      "topic": "Organizational Theory",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q627",
+      "questionText": "A startup tech company uses flexible work arrangements, collaborative project teams, and emphasizes employee morale and social relationships. This focus on the human element and informal groups is a hallmark of which theoretical perspective?",
+      "options": {
+        "A": "Classical Organization Theory",
+        "B": "Neo-Classical Organizational Theory, such as the Human Relations Movement",
+        "C": "Scientific Management",
+        "D": "Bureaucratic Theory"
+      },
+      "correctAnswer": "B",
+      "explanation": "Neo-Classical theory emphasizes morale, informal groups, and social factors in productivity.",
+      "topic": "Organizational Theory",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q628",
+      "questionText": "Contingency Theory suggests that the best way to structure and manage an organization depends on situational factors. Which statement is least likely to be supported by a contingency theorist?",
+      "options": {
+        "A": "A stable, predictable environment may call for a more mechanistic and bureaucratic structure.",
+        "B": "A rapidly changing, innovative industry may benefit from a more organic and flexible structure.",
+        "C": "There is one single best way to design an organization that is universally effective across all situations.",
+        "D": "The effectiveness of a leader's style depends on the characteristics of the situation and followers."
+      },
+      "correctAnswer": "C",
+      "explanation": "Contingency Theory rejects one universal best structure and emphasizes situational fit.",
+      "topic": "Organizational Theory",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q629",
+      "questionText": "An I/O psychologist studies each movement of assembly line workers, times their tasks, and redesigns the workflow to eliminate wasted motion. This scientific approach to optimizing work processes was developed by:",
+      "options": {
+        "A": "Elton Mayo",
+        "B": "Frederick Taylor",
+        "C": "Max Weber",
+        "D": "Douglas McGregor"
+      },
+      "correctAnswer": "B",
+      "explanation": "Frederick Taylor's Scientific Management used time-and-motion studies to improve efficiency.",
+      "topic": "Organizational Theory",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q630",
+      "questionText": "Douglas McGregor's Theory Y presents assumptions about human nature and motivation. Which of the following is NOT an assumption of Theory Y?",
+      "options": {
+        "A": "Employees are naturally lazy, dislike work, and must be coerced and controlled to be productive.",
+        "B": "Work is as natural as play or rest, and employees can be self-directed if committed to objectives.",
+        "C": "The average person can learn to accept and even seek responsibility.",
+        "D": "Creativity and ingenuity are widely distributed in the population."
+      },
+      "correctAnswer": "A",
+      "explanation": "The belief that employees are lazy and need control is an assumption of Theory X, not Theory Y.",
+      "topic": "Organizational Theory",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q631",
+      "questionText": "Open Systems Theory views an organization as taking inputs from the environment, transforming them, and releasing outputs back into the environment. Which is the best example of feedback in this system?",
+      "options": {
+        "A": "A manager giving an employee instructions for a task",
+        "B": "The organization acquiring capital from investors",
+        "C": "Sales data and customer satisfaction surveys showing that a product is not meeting market needs",
+        "D": "The manufacturing process itself"
+      },
+      "correctAnswer": "C",
+      "explanation": "Feedback is information from the environment about how organizational outputs are performing.",
+      "topic": "Organizational Theory",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q632",
+      "questionText": "A call center manager believes employees are motivated mainly by money and job security. He uses bonuses for high call volumes and threatens termination for missed quotas. This style aligns with which of McGregor's theories?",
+      "options": {
+        "A": "Theory Y",
+        "B": "Theory X",
+        "C": "Two-Factor Theory",
+        "D": "Hierarchy of Needs Theory"
+      },
+      "correctAnswer": "B",
+      "explanation": "Theory X assumes employees need external control and are motivated by lower-order needs.",
+      "topic": "Organizational Theory",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q633",
+      "questionText": "According to Herzberg's Two-Factor Theory, which of the following is a hygiene factor rather than a motivator?",
+      "options": {
+        "A": "A sense of achievement from completing a challenging project",
+        "B": "Recognition from management for excellent performance",
+        "C": "A clean, safe, and comfortable working environment",
+        "D": "The opportunity for growth and advancement within the company"
+      },
+      "correctAnswer": "C",
+      "explanation": "Hygiene factors relate to the job environment and prevent dissatisfaction but do not create motivation.",
+      "topic": "Organizational Theory",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q634",
+      "questionText": "A manager wants to apply Herzberg's theory to increase employee motivation, not just reduce dissatisfaction. Which action would be most appropriate?",
+      "options": {
+        "A": "Improving the lighting and air conditioning in the office",
+        "B": "Increasing all employees' salaries by 5%",
+        "C": "Creating a job enrichment program that gives employees more responsibility, autonomy, and challenging tasks",
+        "D": "Strengthening company policies and rules to ensure fairness"
+      },
+      "correctAnswer": "C",
+      "explanation": "Job enrichment adds motivators such as responsibility, achievement, autonomy, and growth.",
+      "topic": "Organizational Theory",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q635",
+      "questionText": "A hospital recognizes that the effectiveness of its emergency room depends on laboratory and radiology departments, and all are affected by external events such as a city-wide accident. This view of interacting subsystems influenced by external factors is central to:",
+      "options": {
+        "A": "Scientific Management",
+        "B": "Bureaucratic Theory",
+        "C": "Open Systems Theory",
+        "D": "Human Relations Theory"
+      },
+      "correctAnswer": "C",
+      "explanation": "Open Systems Theory views organizations as interdependent subsystems interacting with the environment.",
+      "topic": "Organizational Theory",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q636",
+      "questionText": "An I/O psychologist concludes that a company's rigid hierarchical structure hinders its ability to adapt to rapid technological changes and new competitors. This analysis of misfit between structure and environment applies which theory?",
+      "options": {
+        "A": "Theory X",
+        "B": "Motivation Theory",
+        "C": "Contingency Theory",
+        "D": "Classical Theory"
+      },
+      "correctAnswer": "C",
+      "explanation": "Contingency Theory emphasizes matching organizational structure to environmental demands.",
+      "topic": "Organizational Theory",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q637",
+      "questionText": "A key difference between Classical Organization Theory and Neo-Classical Organization Theory is that Neo-Classical Organization Theory:",
+      "options": {
+        "A": "Completely rejects formal organizational structure.",
+        "B": "Focuses exclusively on economic incentives as the sole motivator.",
+        "C": "Introduces a humanistic element by emphasizing individual behavior, social factors, and informal groups.",
+        "D": "Is only applicable to modern technology companies."
+      },
+      "correctAnswer": "C",
+      "explanation": "Neo-Classical theory added attention to people, social relationships, and informal workplace dynamics.",
+      "topic": "Organizational Theory",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q638",
+      "questionText": "According to Maslow's Hierarchy of Needs, a company that provides a stable job with good salary and benefits is satisfying which level of needs before higher-order needs become primary motivators?",
+      "options": {
+        "A": "Physiological and safety needs",
+        "B": "Love and belongingness needs",
+        "C": "Esteem needs",
+        "D": "Self-actualization needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Salary and job security address basic physiological and safety needs.",
+      "topic": "Organizational Theory",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q639",
+      "questionText": "A manager studies communication flow, authority structure, and division of labor to improve organizational efficiency. This focus on formal structure and mechanics is most aligned with which school of thought?",
+      "options": {
+        "A": "The Human Relations Movement",
+        "B": "Classical Organization Theory",
+        "C": "Organizational Culture Theory",
+        "D": "Team Dynamics Theory"
+      },
+      "correctAnswer": "B",
+      "explanation": "Classical Organization Theory focuses on formal structure, authority, and division of labor.",
+      "topic": "Organizational Theory",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q640",
+      "questionText": "Which organizational action would a Theory Y manager most likely take?",
+      "options": {
+        "A": "Implement a strict time-clock system to closely monitor attendance.",
+        "B": "Create detailed, step-by-step instructions for every task.",
+        "C": "Delegate significant responsibility to project teams and encourage participation in decision-making.",
+        "D": "Rely on fear and intimidation to motivate employees."
+      },
+      "correctAnswer": "C",
+      "explanation": "Theory Y managers trust employees to be responsible, self-directed, and creative.",
+      "topic": "Organizational Theory",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q641",
+      "questionText": "The Hawthorne Studies initially examined the effects of physical conditions like lighting on productivity. What was their most significant finding?",
+      "options": {
+        "A": "Productivity is maximized when lighting is very bright.",
+        "B": "Money is the only factor that motivates workers.",
+        "C": "Social factors, such as feeling important and informal group norms, had a greater impact on productivity than physical conditions.",
+        "D": "Workers are inherently lazy and will always do the minimum amount of work possible."
+      },
+      "correctAnswer": "C",
+      "explanation": "The Hawthorne Studies showed that social and psychological factors strongly affect productivity.",
+      "topic": "Organizational Theory",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q642",
+      "questionText": "An organization designs its structure based on the idea that there are no universal principles of management and that the best structure depends on the specific environment, technology, and people. This organization is using:",
+      "options": {
+        "A": "Bureaucratic Theory",
+        "B": "Contingency Theory",
+        "C": "Scientific Management",
+        "D": "Human Relations Theory"
+      },
+      "correctAnswer": "B",
+      "explanation": "Contingency Theory holds that the best organizational structure depends on the situation.",
+      "topic": "Organizational Theory",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q643",
+      "questionText": "Modern organizational theories differ from classical theories because modern theories are more likely to:",
+      "options": {
+        "A": "View the organization as a closed system uninfluenced by the outside world.",
+        "B": "Emphasize a single rigid structure as ideal for all organizations.",
+        "C": "View the organization as an adaptive system that interacts with its environment and has interdependent subsystems.",
+        "D": "Focus solely on the physical efficiency of individual workers."
+      },
+      "correctAnswer": "C",
+      "explanation": "Modern theories often view organizations as adaptive open systems with interdependent parts.",
+      "topic": "Organizational Theory",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q644",
+      "questionText": "Why are organization theories important for managers?",
+      "options": {
+        "A": "They provide a single perfect blueprint for running a company.",
+        "B": "They are purely academic and have no practical application.",
+        "C": "They offer frameworks for understanding and diagnosing problems related to structure, motivation, and environmental fit.",
+        "D": "They are only useful for large manufacturing companies."
+      },
+      "correctAnswer": "C",
+      "explanation": "Organization theories help managers analyze and solve structural, motivational, and environmental problems.",
+      "topic": "Organizational Theory",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q645",
+      "questionText": "A manager wants to understand why a recent pay raise did not lead to sustained job satisfaction and motivation. According to Herzberg's Two-Factor Theory, what is the most likely reason?",
+      "options": {
+        "A": "The manager should have decreased pay to motivate the team.",
+        "B": "Pay is a hygiene factor; adequate salary prevents dissatisfaction but does not create long-term motivation by itself.",
+        "C": "The employees are all Theory X and cannot be motivated.",
+        "D": "The pay raise was not large enough to be a true motivator."
+      },
+      "correctAnswer": "B",
+      "explanation": "Herzberg classified pay as a hygiene factor that prevents dissatisfaction but does not strongly motivate.",
+      "topic": "Organizational Theory",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q646",
+      "questionText": "A multinational corporation is organized into separate business units, each responsible for a different product line and operating with its own marketing, sales, and production teams. What type of structure is this?",
+      "options": {
+        "A": "Functional Structure",
+        "B": "Matrix Structure",
+        "C": "Multi-Divisional Structure",
+        "D": "Flat Structure"
+      },
+      "correctAnswer": "C",
+      "explanation": "A multi-divisional structure separates the organization into semi-autonomous product or market divisions.",
+      "topic": "Organizational Structures and Systems",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q647",
+      "questionText": "A major disadvantage of a highly functional organizational structure, where employees are grouped by specialty, is that:",
+      "options": {
+        "A": "It is very flexible and adapts quickly to change.",
+        "B": "It can create communication silos that hinder cross-functional projects.",
+        "C": "It results in a shallow hierarchy with a wide span of control.",
+        "D": "It is only suitable for very small startup companies."
+      },
+      "correctAnswer": "B",
+      "explanation": "Functional structures can create silos that reduce communication across departments.",
+      "topic": "Organizational Structures and Systems",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q648",
+      "questionText": "A software developer reports to both an Engineering Manager and a Product Manager for a current project. This dual-reporting relationship is characteristic of which structure?",
+      "options": {
+        "A": "Hierarchical Structure",
+        "B": "Functional Structure",
+        "C": "Matrix Structure",
+        "D": "Network Structure"
+      },
+      "correctAnswer": "C",
+      "explanation": "A matrix structure has dual reporting to both functional and project or product managers.",
+      "topic": "Organizational Structures and Systems",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q649",
+      "questionText": "A small innovative startup has very few levels of management between entry-level employees and the CEO. Decision-making is decentralized and communication is fast. What structure does this exemplify?",
+      "options": {
+        "A": "Tall or Hierarchical Structure",
+        "B": "Flat Structure",
+        "C": "Bureaucratic Structure",
+        "D": "Multi-divisional Structure"
+      },
+      "correctAnswer": "B",
+      "explanation": "A flat structure has few management layers and supports faster communication and decentralized decisions.",
+      "topic": "Organizational Structures and Systems",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q650",
+      "questionText": "What does span of control refer to in organizational structure?",
+      "options": {
+        "A": "The number of levels in the organizational hierarchy",
+        "B": "The degree to which jobs are standardized",
+        "C": "The number of employees that a manager can effectively and efficiently supervise",
+        "D": "The process of grouping jobs together into departments"
+      },
+      "correctAnswer": "C",
+      "explanation": "Span of control refers to how many subordinates report directly to one manager.",
+      "topic": "Organizational Structures and Systems",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q651",
+      "questionText": "What does the chain of command in an organization refer to?",
+      "options": {
+        "A": "The unbroken line of authority from the top of the organization to the lowest level, clarifying who reports to whom",
+        "B": "The number of subordinates a manager supervises",
+        "C": "The grouping of employees by specialty",
+        "D": "The degree of flexibility in job roles"
+      },
+      "correctAnswer": "A",
+      "explanation": "The chain of command clarifies formal authority and reporting relationships.",
+      "topic": "Organizational Structures and Systems",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q652",
+      "questionText": "A company outsources manufacturing, IT support, and customer service to specialized firms while keeping a small core of executives for strategic planning. What structure is this?",
+      "options": {
+        "A": "Functional Structure",
+        "B": "Team Structure",
+        "C": "Network Structure",
+        "D": "Hierarchical Structure"
+      },
+      "correctAnswer": "C",
+      "explanation": "A network structure relies on external partners for key functions while keeping a central coordinating core.",
+      "topic": "Organizational Structures and Systems",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q653",
+      "questionText": "What is the process of breaking down a large, complex task into smaller, specialized jobs called?",
+      "options": {
+        "A": "Delegation",
+        "B": "Chain of command",
+        "C": "Job design or work specialization",
+        "D": "Span of control"
+      },
+      "correctAnswer": "C",
+      "explanation": "Work specialization divides complex work into smaller specialized tasks.",
+      "topic": "Organizational Structures and Systems",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q654",
+      "questionText": "Why is choosing the right organizational structure critical?",
+      "options": {
+        "A": "All structures are equally effective regardless of company goals.",
+        "B": "Structure directly affects communication flow, decision-making speed, and responsiveness to market changes.",
+        "C": "Structure is permanent and can never be changed.",
+        "D": "The only important factor is having a charismatic CEO."
+      },
+      "correctAnswer": "B",
+      "explanation": "Organizational structure shapes communication, authority, speed, and adaptability.",
+      "topic": "Organizational Structures and Systems",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q655",
+      "questionText": "What is a key advantage of a functional structure?",
+      "options": {
+        "A": "It facilitates deep skill specialization and development within each functional area.",
+        "B": "It promotes fast communication across different departments.",
+        "C": "It is highly responsive to changes in different product markets.",
+        "D": "It eliminates the need for managers."
+      },
+      "correctAnswer": "A",
+      "explanation": "Functional structures group specialists together, supporting expertise and skill development.",
+      "topic": "Organizational Structures and Systems",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q656",
+      "questionText": "An organization's business strategy focuses on rapid innovation and creativity. Which structure would best align with this strategy?",
+      "options": {
+        "A": "A tall, rigid, hierarchical structure with many layers of approval",
+        "B": "A highly centralized structure where all decisions are made at the top",
+        "C": "A flat, decentralized, and organic structure that empowers employees and encourages collaboration",
+        "D": "A structure with a very narrow span of control"
+      },
+      "correctAnswer": "C",
+      "explanation": "Innovation is supported by flexible, decentralized, and collaborative structures.",
+      "topic": "Organizational Structures and Systems",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q657",
+      "questionText": "What is the process of assigning authority to another person to carry out specific activities called?",
+      "options": {
+        "A": "Departmentation",
+        "B": "Span of control",
+        "C": "Delegation",
+        "D": "Centralization"
+      },
+      "correctAnswer": "C",
+      "explanation": "Delegation assigns authority and responsibility for specific tasks to another person.",
+      "topic": "Organizational Structures and Systems",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q658",
+      "questionText": "Which of the following is NOT a recognized type of organizational structure?",
+      "options": {
+        "A": "Functional Structure",
+        "B": "Matrix Structure",
+        "C": "Random Structure",
+        "D": "Team Structure"
+      },
+      "correctAnswer": "C",
+      "explanation": "Random Structure is not a recognized formal organizational structure.",
+      "topic": "Organizational Structures and Systems",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q659",
+      "questionText": "A manager in a company with a very tall structure and a narrow span of control would likely have:",
+      "options": {
+        "A": "A large number of direct subordinates and close supervision",
+        "B": "A small number of direct subordinates and close supervision",
+        "C": "A large number of direct subordinates and little supervision",
+        "D": "No direct subordinates"
+      },
+      "correctAnswer": "B",
+      "explanation": "A narrow span of control means each manager supervises only a few employees closely.",
+      "topic": "Organizational Structures and Systems",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q660",
+      "questionText": "A company groups employees into sales, marketing, finance, and operations departments. What type of departmentation is this?",
+      "options": {
+        "A": "Geographic",
+        "B": "Product",
+        "C": "Functional",
+        "D": "Customer"
+      },
+      "correctAnswer": "C",
+      "explanation": "Functional departmentation groups employees by the business function they perform.",
+      "topic": "Organizational Structures and Systems",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q661",
+      "questionText": "A significant advantage of a flat structure is agility and fast communication. What is a significant disadvantage?",
+      "options": {
+        "A": "It has too many layers of management.",
+        "B": "It can create unclear career progression and manager burnout due to a wide span of control.",
+        "C": "It promotes deep specialization in a single area.",
+        "D": "Communication is typically very slow."
+      },
+      "correctAnswer": "B",
+      "explanation": "Flat structures can overburden managers and limit traditional promotion paths.",
+      "topic": "Organizational Structures and Systems",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q662",
+      "questionText": "A company implements a rigid bureaucratic structure in a fast-paced, unpredictable tech industry. This violates the principles of:",
+      "options": {
+        "A": "Scientific Management",
+        "B": "Open Systems Theory and Contingency Theory",
+        "C": "Classical Chain of Command",
+        "D": "Human Relations Theory"
+      },
+      "correctAnswer": "B",
+      "explanation": "Open systems and contingency perspectives require organizations to fit their changing environment.",
+      "topic": "Organizational Structures and Systems",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q663",
+      "questionText": "Which element of organizational structure refers to the degree to which decision-making is concentrated at a single point in the organization?",
+      "options": {
+        "A": "Formalization",
+        "B": "Span of control",
+        "C": "Centralization",
+        "D": "Departmentation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Centralization refers to how much decision-making authority is held at the top.",
+      "topic": "Organizational Structures and Systems",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q664",
+      "questionText": "If a company's primary goal is to provide customized solutions to a few major clients, the most effective way to departmentalize would likely be by:",
+      "options": {
+        "A": "Function, such as Sales or Marketing",
+        "B": "Geography, such as North or South",
+        "C": "Process, such as Step 1 or Step 2",
+        "D": "Customer, such as Client A team or Client B team"
+      },
+      "correctAnswer": "D",
+      "explanation": "Customer departmentation supports customized service for specific major clients.",
+      "topic": "Organizational Structures and Systems",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q665",
+      "questionText": "An employee in a matrix organization might experience role conflict and stress because they:",
+      "options": {
+        "A": "Have no one to report to.",
+        "B": "Answer to two bosses, such as a functional manager and a project manager, who may have conflicting priorities.",
+        "C": "Have a very narrow and repetitive job.",
+        "D": "Work in a completely independent and autonomous role."
+      },
+      "correctAnswer": "B",
+      "explanation": "Matrix structures can create conflict because employees report to two managers.",
+      "topic": "Organizational Structures and Systems",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q666",
+      "questionText": "Which activity falls primarily under Human Resource Management rather than Human Resource Development?",
+      "options": {
+        "A": "Conducting a leadership training program for new managers",
+        "B": "Designing a career pathing program for employees",
+        "C": "Administering payroll and managing employee benefits",
+        "D": "Implementing a company-wide mentorship program"
+      },
+      "correctAnswer": "C",
+      "explanation": "Payroll and benefits administration are core HRM maintenance functions.",
+      "topic": "Human Resource Management",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q667",
+      "questionText": "How is Human Resource Development best differentiated from Organizational Development?",
+      "options": {
+        "A": "HRD improves individual and group skills, while OD focuses on system-wide change and organizational effectiveness.",
+        "B": "OD is a sub-function of HRD.",
+        "C": "HRD is concerned with hiring, while OD is concerned with firing.",
+        "D": "There is no difference between the two concepts."
+      },
+      "correctAnswer": "A",
+      "explanation": "HRD develops people, while OD improves the organization as a whole system.",
+      "topic": "Human Resource Development",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q668",
+      "questionText": "A company's HR department analyzes future workforce needs, forecasts labor supply and demand, and creates plans to address gaps. What is this process called?",
+      "options": {
+        "A": "Performance Appraisal",
+        "B": "Manpower Planning or Human Resource Planning",
+        "C": "Employee Training",
+        "D": "Talent Management"
+      },
+      "correctAnswer": "B",
+      "explanation": "Human Resource Planning forecasts workforce needs and prepares staffing strategies.",
+      "topic": "Human Resource Management",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q669",
+      "questionText": "The process of attracting, screening, and selecting qualified people for a job in an organization is known as:",
+      "options": {
+        "A": "Developing",
+        "B": "Monitoring",
+        "C": "Staffing",
+        "D": "Maintaining"
+      },
+      "correctAnswer": "C",
+      "explanation": "Staffing includes recruitment, screening, and selection of employees.",
+      "topic": "Human Resource Management",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q670",
+      "questionText": "A company identifies high-potential employees and gives them specialized training, mentorship, and challenging assignments for future leadership roles. This is a core activity of:",
+      "options": {
+        "A": "Employee engagement",
+        "B": "Performance appraisal",
+        "C": "Talent Management, a key part of HRD",
+        "D": "Human Resource Planning"
+      },
+      "correctAnswer": "C",
+      "explanation": "Talent management develops high-potential employees for future critical roles.",
+      "topic": "Human Resource Development",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q671",
+      "questionText": "Which statement accurately compares an HRM manager and an HRD manager?",
+      "options": {
+        "A": "HRM focuses on administrative and maintenance functions, while HRD focuses on employee growth and learning.",
+        "B": "HRD is responsible for hiring and firing, while HRM is responsible for training.",
+        "C": "Both roles are identical and interchangeable.",
+        "D": "The HRM manager reports to the HRD manager."
+      },
+      "correctAnswer": "A",
+      "explanation": "HRM often manages workforce processes, while HRD focuses on development and learning.",
+      "topic": "Human Resource Management",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q672",
+      "questionText": "What is the systematic process of determining the skills, duties, and knowledge required for performing jobs in an organization called?",
+      "options": {
+        "A": "Job Evaluation",
+        "B": "Job Analysis",
+        "C": "Performance Appraisal",
+        "D": "Job Design"
+      },
+      "correctAnswer": "B",
+      "explanation": "Job analysis identifies job duties, required skills, knowledge, and work conditions.",
+      "topic": "Human Resource Management",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q673",
+      "questionText": "What is the primary purpose of a needs assessment or training needs analysis in HRD?",
+      "options": {
+        "A": "Evaluate the effectiveness of a completed training program.",
+        "B": "Identify performance gaps and determine if training is the appropriate solution.",
+        "C": "Recruit new employees for the organization.",
+        "D": "Discipline employees who are not performing well."
+      },
+      "correctAnswer": "B",
+      "explanation": "A training needs analysis identifies gaps and checks whether training can address them.",
+      "topic": "Human Resource Development",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q674",
+      "questionText": "An organization provides a two-day workshop on effective communication skills for new employees. This is an example of which HRD activity?",
+      "options": {
+        "A": "Career Development",
+        "B": "Organizational Development",
+        "C": "Employee Training",
+        "D": "Performance Management"
+      },
+      "correctAnswer": "C",
+      "explanation": "Employee training builds specific skills needed for work performance.",
+      "topic": "Human Resource Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q675",
+      "questionText": "The performance appraisal process involves all of the following EXCEPT:",
+      "options": {
+        "A": "Setting clear performance standards",
+        "B": "Observing and measuring employee performance",
+        "C": "Providing feedback to the employee",
+        "D": "Determining the company's stock price"
+      },
+      "correctAnswer": "D",
+      "explanation": "Performance appraisal evaluates employee performance, not company stock price.",
+      "topic": "Human Resource Management",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q676",
+      "questionText": "A key difference between training and development is that training is typically focused on ________, while development is focused on ________.",
+      "options": {
+        "A": "preparing employees for future roles; improving performance in the current job",
+        "B": "improving performance in the current job; preparing employees for future roles and responsibilities",
+        "C": "non-exempt employees; exempt employees",
+        "D": "group activities; individual activities"
+      },
+      "correctAnswer": "B",
+      "explanation": "Training improves current job performance, while development prepares employees for future roles.",
+      "topic": "Human Resource Development",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q677",
+      "questionText": "The process of managing relationships in an organization, including labor relations, employee grievances, and disciplinary actions, falls under which area of HRM?",
+      "options": {
+        "A": "Staffing",
+        "B": "Developing",
+        "C": "Monitoring",
+        "D": "Managing relationships or maintaining"
+      },
+      "correctAnswer": "D",
+      "explanation": "Maintaining includes employee relations, grievances, discipline, and labor relations.",
+      "topic": "Human Resource Management",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q678",
+      "questionText": "A company experiencing high turnover conducts exit interviews and attitude surveys to understand why employees are leaving. This is part of which HRM function?",
+      "options": {
+        "A": "Manpower Planning",
+        "B": "Monitoring and Evaluating",
+        "C": "Staffing",
+        "D": "Developing"
+      },
+      "correctAnswer": "B",
+      "explanation": "Monitoring and evaluating uses workforce data to identify problems like turnover.",
+      "topic": "Human Resource Management",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q679",
+      "questionText": "What does employee engagement refer to?",
+      "options": {
+        "A": "The employee's satisfaction with their pay",
+        "B": "The employee's emotional and intellectual commitment to the organization and its goals",
+        "C": "The number of friends an employee has at work",
+        "D": "The process of formally appraising an employee's performance"
+      },
+      "correctAnswer": "B",
+      "explanation": "Employee engagement reflects commitment, involvement, and enthusiasm toward work and organizational goals.",
+      "topic": "Human Resource Management",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q680",
+      "questionText": "Which activity is least likely to be a core Human Resource Management function?",
+      "options": {
+        "A": "Recruiting and hiring new employees",
+        "B": "Developing the company's marketing and advertising strategy",
+        "C": "Ensuring compliance with labor laws",
+        "D": "Administering compensation and benefits programs"
+      },
+      "correctAnswer": "B",
+      "explanation": "Marketing and advertising strategy belongs to marketing, not HRM.",
+      "topic": "Human Resource Management",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q681",
+      "questionText": "Which is an example of an organizational career management activity?",
+      "options": {
+        "A": "An employee deciding on personal career goals",
+        "B": "An employee seeking out a mentor independently",
+        "C": "The organization creating a formal mentorship program and posting internal job openings",
+        "D": "An employee paying for an external workshop"
+      },
+      "correctAnswer": "C",
+      "explanation": "Organizational career management includes formal systems that support employee career growth.",
+      "topic": "Human Resource Development",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q682",
+      "questionText": "An HRD manager would be primarily responsible for which activity?",
+      "options": {
+        "A": "Processing weekly payroll",
+        "B": "Negotiating a contract with a labor union",
+        "C": "Designing and implementing the company's new-hire orientation program",
+        "D": "Hiring a new chief financial officer"
+      },
+      "correctAnswer": "C",
+      "explanation": "New-hire orientation is a development activity focused on learning and integration.",
+      "topic": "Human Resource Development",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q683",
+      "questionText": "The monitoring function of HRM includes which activities?",
+      "options": {
+        "A": "Tracking employee attendance and absenteeism rates",
+        "B": "Conducting performance appraisals",
+        "C": "Analyzing employee turnover data",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "Monitoring includes tracking workforce metrics, appraising performance, and analyzing turnover.",
+      "topic": "Human Resource Management",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q684",
+      "questionText": "Which statement best differentiates Human Resource Development from employee training?",
+      "options": {
+        "A": "HRD is broader and includes training, career development, and talent management, while training focuses on job-related skills.",
+        "B": "Training is long-term focused, while HRD is short-term focused.",
+        "C": "HRD is only for managers, while training is for all employees.",
+        "D": "There is no difference; the terms are synonymous."
+      },
+      "correctAnswer": "A",
+      "explanation": "Training is one activity within the broader HRD function.",
+      "topic": "Human Resource Development",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q685",
+      "questionText": "An organization's system for rewarding employees in line with their performance and contribution is part of:",
+      "options": {
+        "A": "The staffing function",
+        "B": "The performance management and compensation system, a key HRM activity",
+        "C": "The organizational development process",
+        "D": "The HRD function"
+      },
+      "correctAnswer": "B",
+      "explanation": "Compensation and rewards are part of HRM and should align with performance management.",
+      "topic": "Human Resource Management",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q686",
+      "questionText": "What is the primary goal of Human Resource Development?",
+      "options": {
+        "A": "Ensure the organization is compliant with all labor laws",
+        "B": "Enhance human potential and capabilities to improve individual and organizational performance",
+        "C": "Minimize the number of employees in the organization",
+        "D": "Handle administrative paperwork related to employment"
+      },
+      "correctAnswer": "B",
+      "explanation": "HRD develops people to improve both individual capability and organizational effectiveness.",
+      "topic": "Human Resource Development",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q687",
+      "questionText": "A key activity in the staffing process is selection, which involves:",
+      "options": {
+        "A": "Generating a pool of qualified applicants for a job",
+        "B": "Choosing the best candidate from the applicant pool using assessment tools",
+        "C": "Forecasting the organization's future labor needs",
+        "D": "Training the newly hired employee"
+      },
+      "correctAnswer": "B",
+      "explanation": "Selection means choosing the best candidate from the applicant pool.",
+      "topic": "Human Resource Management",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q688",
+      "questionText": "Which of the following is a primary activity of the Human Resource Development function?",
+      "options": {
+        "A": "Job analysis",
+        "B": "Recruitment",
+        "C": "Compensation",
+        "D": "Onboarding and new employee orientation"
+      },
+      "correctAnswer": "D",
+      "explanation": "Onboarding and orientation help develop and integrate new employees.",
+      "topic": "Human Resource Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q689",
+      "questionText": "An HR manager creates a compensation structure that is competitive with other companies in the industry. This activity is part of the ________ function of HRM.",
+      "options": {
+        "A": "developing",
+        "B": "staffing",
+        "C": "maintaining",
+        "D": "monitoring"
+      },
+      "correctAnswer": "C",
+      "explanation": "Maintaining includes compensation and benefits that help retain employees.",
+      "topic": "Human Resource Management",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q690",
+      "questionText": "When comparing functions, Human Resource Management activities are generally more ________, while Organizational Development activities are more ________.",
+      "options": {
+        "A": "system-wide and strategic; individual and administrative",
+        "B": "focused on individuals and processes; focused on culture and system-wide change",
+        "C": "short-term; also short-term",
+        "D": "unplanned; planned"
+      },
+      "correctAnswer": "B",
+      "explanation": "HRM manages people and HR processes, while OD targets culture and system-wide change.",
+      "topic": "Human Resource Management",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q691",
+      "questionText": "A newly formed project team is polite but formal. Members are trying to understand project goals and roles, are cautious, and avoid conflict. According to Tuckman's model, what stage is this?",
+      "options": {
+        "A": "Storming",
+        "B": "Norming",
+        "C": "Forming",
+        "D": "Performing"
+      },
+      "correctAnswer": "C",
+      "explanation": "Forming is the early stage marked by politeness, uncertainty, and role exploration.",
+      "topic": "Team Dynamics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q692",
+      "questionText": "A project team enters a phase of intense conflict, with members disagreeing on task approaches, challenging ideas, and struggling for influence. What stage is this?",
+      "options": {
+        "A": "Forming",
+        "B": "Storming",
+        "C": "Norming",
+        "D": "Adjourning"
+      },
+      "correctAnswer": "B",
+      "explanation": "Storming is characterized by conflict, role struggles, and disagreement.",
+      "topic": "Team Dynamics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q693",
+      "questionText": "A team has resolved major conflicts, established clear roles and norms, and developed cohesion and unity. They are now working collaboratively. What stage is this?",
+      "options": {
+        "A": "Storming",
+        "B": "Norming",
+        "C": "Forming",
+        "D": "Performing"
+      },
+      "correctAnswer": "B",
+      "explanation": "Norming involves clarified roles, shared norms, cohesion, and improved collaboration.",
+      "topic": "Team Dynamics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q694",
+      "questionText": "The degree to which members are attracted to a team and motivated to remain in it is known as:",
+      "options": {
+        "A": "Groupthink",
+        "B": "Team cohesion",
+        "C": "Social loafing",
+        "D": "Team norms"
+      },
+      "correctAnswer": "B",
+      "explanation": "Team cohesion is the attraction and commitment members feel toward the team.",
+      "topic": "Team Dynamics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q695",
+      "questionText": "Team norms are best described as:",
+      "options": {
+        "A": "The formal written rules of the organization",
+        "B": "The assigned roles and responsibilities of each team member",
+        "C": "The informal unwritten rules and shared expectations that guide team member behavior",
+        "D": "The size of the team"
+      },
+      "correctAnswer": "C",
+      "explanation": "Team norms are shared informal expectations about acceptable behavior.",
+      "topic": "Team Dynamics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q696",
+      "questionText": "A team member puts in less effort in a group than when working alone because they assume others will pick up the slack. What is this called?",
+      "options": {
+        "A": "Group cohesion",
+        "B": "Social loafing",
+        "C": "Role ambiguity",
+        "D": "Groupthink"
+      },
+      "correctAnswer": "B",
+      "explanation": "Social loafing occurs when individuals reduce effort in group settings.",
+      "topic": "Team Dynamics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q697",
+      "questionText": "A highly cohesive team suppresses dissenting opinions to maintain harmony and prematurely agrees on a flawed decision. What phenomenon is this?",
+      "options": {
+        "A": "Brainstorming",
+        "B": "Team conflict",
+        "C": "Groupthink",
+        "D": "Social facilitation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Groupthink occurs when pressure for agreement reduces critical evaluation.",
+      "topic": "Team Dynamics",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q698",
+      "questionText": "The Performing stage of team development is characterized by:",
+      "options": {
+        "A": "High levels of conflict and disagreement",
+        "B": "Uncertainty and politeness",
+        "C": "Task accomplishment, with members working together synergistically and effectively",
+        "D": "The team disbanding after the project is complete"
+      },
+      "correctAnswer": "C",
+      "explanation": "Performing is the productive stage where the team works effectively toward goals.",
+      "topic": "Team Dynamics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q699",
+      "questionText": "A team leader ensures every member clearly understands their specific responsibilities and the responsibilities of others. What issue is the leader addressing?",
+      "options": {
+        "A": "Team size",
+        "B": "Role clarity",
+        "C": "Groupthink",
+        "D": "Team cohesion"
+      },
+      "correctAnswer": "B",
+      "explanation": "Role clarity means team members understand their own and others' responsibilities.",
+      "topic": "Team Dynamics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q700",
+      "questionText": "All of the following are common team problems EXCEPT:",
+      "options": {
+        "A": "Poor communication",
+        "B": "Interpersonal conflicts",
+        "C": "Lack of clear goals",
+        "D": "Excessive team cohesion that always leads to better decisions"
+      },
+      "correctAnswer": "D",
+      "explanation": "Excessive cohesion can lead to groupthink, so it does not always improve decisions.",
+      "topic": "Team Dynamics",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q701",
+      "questionText": "Why is understanding team dynamics critical for a manager?",
+      "options": {
+        "A": "Teams are always more effective than individuals, regardless of the task.",
+        "B": "Interpersonal processes and team dynamics can affect success more than individual skills alone.",
+        "C": "Team dynamics are irrelevant to organizational performance.",
+        "D": "Once a team is formed, it does not need management or support."
+      },
+      "correctAnswer": "B",
+      "explanation": "Team success depends heavily on communication, conflict handling, and cooperation.",
+      "topic": "Team Dynamics",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q702",
+      "questionText": "A leader wants to prevent groupthink during an important decision-making meeting. Which action would be most effective?",
+      "options": {
+        "A": "State their own opinion forcefully at the beginning.",
+        "B": "Encourage open criticism and appoint a devil's advocate.",
+        "C": "Make a decision as quickly as possible.",
+        "D": "Invite only team members known to agree with each other."
+      },
+      "correctAnswer": "B",
+      "explanation": "Encouraging dissent and using a devil's advocate helps prevent groupthink.",
+      "topic": "Team Dynamics",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q703",
+      "questionText": "Which factor is most likely to increase team cohesion?",
+      "options": {
+        "A": "Having a very large team size",
+        "B": "Experiencing success and achieving team goals",
+        "C": "Having vague and unclear goals",
+        "D": "Infrequent communication among members"
+      },
+      "correctAnswer": "B",
+      "explanation": "Team success strengthens unity, morale, and members' commitment to the team.",
+      "topic": "Team Dynamics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q704",
+      "questionText": "Production blocking can negatively affect team effectiveness. What does it occur when?",
+      "options": {
+        "A": "Team members build on each other's ideas effectively.",
+        "B": "People in group brainstorming cannot express ideas because they are listening to others talk.",
+        "C": "Team members feel a strong sense of unity.",
+        "D": "All team members contribute equally."
+      },
+      "correctAnswer": "B",
+      "explanation": "Production blocking happens when only one person can speak, causing others to lose or withhold ideas.",
+      "topic": "Team Dynamics",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q705",
+      "questionText": "A team leader is dealing with a team stuck in the storming stage. What is the most appropriate action?",
+      "options": {
+        "A": "Ignore the conflict and hope it goes away.",
+        "B": "Disband the team immediately.",
+        "C": "Facilitate open communication, clarify roles, and establish conflict resolution processes.",
+        "D": "Tell everyone on the team that they are wrong."
+      },
+      "correctAnswer": "C",
+      "explanation": "Storming requires active conflict management, role clarification, and open communication.",
+      "topic": "Team Dynamics",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q706",
+      "questionText": "An organization is implementing a new company-wide software system. Planning, communicating, and managing the transition to minimize employee resistance and disruption falls under:",
+      "options": {
+        "A": "Organizational Development",
+        "B": "Organizational Change Management",
+        "C": "Team Dynamics",
+        "D": "Human Resource Planning"
+      },
+      "correctAnswer": "B",
+      "explanation": "Change management focuses on managing transitions and reducing resistance during change.",
+      "topic": "Organizational Change and Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q707",
+      "questionText": "What is a key distinction between Organizational Change and Organizational Development?",
+      "options": {
+        "A": "Organizational Change is always planned and strategic, while OD is often reactive.",
+        "B": "OD is a broader, long-term, systematic approach to improving organizational effectiveness and health using behavioral science.",
+        "C": "Organizational Change only refers to changes in leadership.",
+        "D": "There is no difference; the terms are synonymous."
+      },
+      "correctAnswer": "B",
+      "explanation": "OD is a planned, long-term approach to improving overall organizational health and effectiveness.",
+      "topic": "Organizational Change and Development",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q708",
+      "questionText": "A company downsizes its workforce because of a severe economic recession and declining sales. This change is primarily driven by which factor?",
+      "options": {
+        "A": "Internal technological factors",
+        "B": "External economic factors",
+        "C": "Internal social factors",
+        "D": "Planned strategic factors"
+      },
+      "correctAnswer": "B",
+      "explanation": "A recession is an external economic pressure that can force organizational change.",
+      "topic": "Organizational Change and Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q709",
+      "questionText": "The rise of the internet and e-commerce forced many traditional retail stores to change their business models or go out of business. This is organizational change driven by:",
+      "options": {
+        "A": "Changes in workforce demographics",
+        "B": "New government regulations",
+        "C": "Technological factors",
+        "D": "Internal political pressures"
+      },
+      "correctAnswer": "C",
+      "explanation": "Internet and e-commerce growth are technological forces driving organizational change.",
+      "topic": "Organizational Change and Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q710",
+      "questionText": "An OD consultant collects anonymous employee survey data about management, job satisfaction, and communication, then feeds the data back to management and employees to diagnose problems and plan change. What intervention is this?",
+      "options": {
+        "A": "Team Building",
+        "B": "Sensitivity Training",
+        "C": "Survey Feedback",
+        "D": "Process Consultation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Survey feedback uses collected survey data as a basis for diagnosis and change planning.",
+      "topic": "Organizational Change and Development",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q711",
+      "questionText": "A company undergoing a major merger has employees who are anxious, uncertain about job security, and resistant to new policies. This is a classic example of:",
+      "options": {
+        "A": "A driver of change",
+        "B": "Resistance to change",
+        "C": "An OD intervention",
+        "D": "A successful transformation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fear, uncertainty, and opposition are common signs of resistance to change.",
+      "topic": "Organizational Change and Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q712",
+      "questionText": "Which of the following is a large-scale organizational change aimed at fundamentally redirecting the organization's mission, culture, and operations?",
+      "options": {
+        "A": "A minor update to the employee dress code",
+        "B": "An Organizational Transformation",
+        "C": "A routine training workshop",
+        "D": "A departmental team-building activity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Organizational transformation is a deep, large-scale change in mission, culture, and operations.",
+      "topic": "Organizational Change and Development",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q713",
+      "questionText": "A consultant observes management team meetings and gives feedback on communication patterns, conflict resolution, and decision-making processes. What OD intervention is this?",
+      "options": {
+        "A": "Survey Feedback",
+        "B": "Process Consultation",
+        "C": "Career Planning",
+        "D": "Job Redesign"
+      },
+      "correctAnswer": "B",
+      "explanation": "Process consultation helps teams improve how they communicate, decide, and resolve conflict.",
+      "topic": "Organizational Change and Development",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q714",
+      "questionText": "Team-building activities as OD interventions are most appropriate for enhancing:",
+      "options": {
+        "A": "The compensation structure of the organization",
+        "B": "The effectiveness of work groups by improving interpersonal relations, goal clarity, and group processes",
+        "C": "The organization's manufacturing efficiency",
+        "D": "The company's financial reporting system"
+      },
+      "correctAnswer": "B",
+      "explanation": "Team building improves group relationships, role clarity, goals, and team processes.",
+      "topic": "Organizational Change and Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q715",
+      "questionText": "What is a common reason for employee resistance to change?",
+      "options": {
+        "A": "A desire for more work",
+        "B": "Fear of the unknown, loss of job security, or disruption of social networks",
+        "C": "The belief that the change is too beneficial for them",
+        "D": "A high level of trust in management"
+      },
+      "correctAnswer": "B",
+      "explanation": "Resistance often comes from uncertainty, fear of loss, and disruption of routines or relationships.",
+      "topic": "Organizational Change and Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q716",
+      "questionText": "Kurt Lewin's three-stage model of planned change involves which steps in the correct order?",
+      "options": {
+        "A": "Changing, Refreezing, Unfreezing",
+        "B": "Unfreezing, Changing, Refreezing",
+        "C": "Refreezing, Unfreezing, Changing",
+        "D": "Planning, Implementing, Evaluating"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lewin's model follows unfreezing, changing, and refreezing.",
+      "topic": "Organizational Change and Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q717",
+      "questionText": "What does the Unfreezing stage in Lewin's model involve?",
+      "options": {
+        "A": "Implementing the desired change",
+        "B": "Stabilizing the change and making it the new norm",
+        "C": "Preparing the organization for change by creating awareness of the need for it and reducing initial resistance",
+        "D": "Evaluating the effectiveness of the change"
+      },
+      "correctAnswer": "C",
+      "explanation": "Unfreezing prepares people for change by challenging the current state and reducing resistance.",
+      "topic": "Organizational Change and Development",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q718",
+      "questionText": "An organization wants to enhance employee well-being and productivity. Which would be considered an OD intervention aimed at this goal?",
+      "options": {
+        "A": "Implementing a new, more punitive attendance policy",
+        "B": "Increasing workload without additional compensation",
+        "C": "Introducing a job enrichment program that gives employees more autonomy and control over their work",
+        "D": "Cutting all funding for training and development"
+      },
+      "correctAnswer": "C",
+      "explanation": "Job enrichment can improve motivation, well-being, and productivity by increasing autonomy and meaningfulness.",
+      "topic": "Organizational Change and Development",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q719",
+      "questionText": "What is the primary goal of most Organizational Development programs?",
+      "options": {
+        "A": "Increase shareholder profit in the short term regardless of employee impact",
+        "B": "Help the organization manage planned change to improve effectiveness and quality of work life",
+        "C": "Downsize the workforce as quickly as possible",
+        "D": "Implement the latest management fads without diagnosis"
+      },
+      "correctAnswer": "B",
+      "explanation": "OD aims to improve both organizational effectiveness and employees' quality of work life.",
+      "topic": "Organizational Change and Development",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q720",
+      "questionText": "All of the following are common factors driving organizational change in the 21st century EXCEPT:",
+      "options": {
+        "A": "Globalization and increased competition",
+        "B": "Rapid technological advancements",
+        "C": "Changes in workforce demographics and values",
+        "D": "A desire to maintain the status quo and resist all forms of change"
+      },
+      "correctAnswer": "D",
+      "explanation": "Maintaining the status quo is resistance to change, not a driver of change.",
+      "topic": "Organizational Change and Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q721",
+      "questionText": "What is a key strategy organizations can use to manage change effectively?",
+      "options": {
+        "A": "Keep the reasons for change secret from employees.",
+        "B": "Involve employees in the change process and maintain open, honest communication.",
+        "C": "Implement change suddenly without warning.",
+        "D": "Ignore resistance and punish those who question the change."
+      },
+      "correctAnswer": "B",
+      "explanation": "Employee involvement and clear communication reduce resistance and build support for change.",
+      "topic": "Organizational Change and Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q722",
+      "questionText": "An organization's shared values, beliefs, and assumptions that govern how people behave are known as its:",
+      "options": {
+        "A": "Organizational Structure",
+        "B": "Organizational Culture",
+        "C": "Organizational Chart",
+        "D": "Organizational Strategy"
+      },
+      "correctAnswer": "B",
+      "explanation": "Organizational culture consists of shared values, beliefs, assumptions, and behavioral norms.",
+      "topic": "Organizational Change and Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q723",
+      "questionText": "Why is changing organizational culture considered one of the most difficult and long-term types of organizational change?",
+      "options": {
+        "A": "It is easy and can be accomplished overnight.",
+        "B": "It involves changing deeply ingrained, often unspoken beliefs and behaviors throughout the organization.",
+        "C": "It only requires changing the company logo.",
+        "D": "Culture has no impact on employee behavior."
+      },
+      "correctAnswer": "B",
+      "explanation": "Culture change is difficult because it targets deeply embedded beliefs, norms, and behaviors.",
+      "topic": "Organizational Change and Development",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q724",
+      "questionText": "When coping with change, what would a proactive approach involve?",
+      "options": {
+        "A": "Waiting for a crisis before making changes",
+        "B": "Continuously scanning the environment for threats and opportunities and adapting accordingly",
+        "C": "Ignoring feedback from customers and employees",
+        "D": "Maintaining a rigid, inflexible business plan"
+      },
+      "correctAnswer": "B",
+      "explanation": "A proactive approach anticipates change by monitoring the environment and adapting early.",
+      "topic": "Organizational Change and Development",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q725",
+      "questionText": "What does evaluating an OD intervention require?",
+      "options": {
+        "A": "Assuming the intervention was successful without collecting data",
+        "B": "Measuring relevant outcomes before and after the intervention to assess its impact",
+        "C": "Only asking the consultant if the intervention worked",
+        "D": "Focusing only on the cost of the intervention"
+      },
+      "correctAnswer": "B",
+      "explanation": "OD evaluation requires data on outcomes such as productivity, turnover, or satisfaction before and after intervention.",
+      "topic": "Organizational Change and Development",
+      "difficulty": "medium"
     }
   ]
 }
