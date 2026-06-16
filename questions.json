@@ -11549,6 +11549,1826 @@
       "explanation": "The pandemic exposed implementation gaps while emphasizing the importance of accessible mental health care.",
       "topic": "Mental Health Law and Global Health Crisis",
       "difficulty": "hard"
+    },
+    {
+      "id": "q826",
+      "questionText": "A newly developed test of anxiety has high internal consistency (Cronbach's alpha = .92) but does not correlate with established anxiety measures or predict anxiety disorder diagnoses. Which statement is the most accurate evaluation of this new test?",
+      "options": {
+        "A": "The test has high validity but low reliability.",
+        "B": "The test has low validity and low reliability.",
+        "C": "The test has high reliability but low validity.",
+        "D": "The test has both high reliability and high validity."
+      },
+      "correctAnswer": "C",
+      "explanation": "High internal consistency shows reliability, but poor correlation and prediction indicate low validity.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q827",
+      "questionText": "A psychometrician gives the same test to job applicants on Monday and again one month later, then correlates the two score sets. This procedure measures which type of reliability?",
+      "options": {
+        "A": "Internal Consistency Reliability",
+        "B": "Split-Half Reliability",
+        "C": "Test-Retest Reliability",
+        "D": "Inter-Rater Reliability"
+      },
+      "correctAnswer": "C",
+      "explanation": "Test-retest reliability measures score stability across repeated administrations over time.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q828",
+      "questionText": "The concept of content validity is best described as:",
+      "options": {
+        "A": "The extent to which scores on a test predict performance on a future criterion.",
+        "B": "The extent to which a test appears to measure what it claims to measure from the test-taker's perspective.",
+        "C": "The extent to which test items represent an adequate sample of the content domain or construct being measured.",
+        "D": "The extent to which a test correlates with other tests measuring the same construct."
+      },
+      "correctAnswer": "C",
+      "explanation": "Content validity concerns whether test items adequately represent the intended content domain.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q829",
+      "questionText": "A university finds a strong positive correlation between engineering entrance exam scores and students' graduating GPAs four years later. This provides evidence for the exam's:",
+      "options": {
+        "A": "Content Validity",
+        "B": "Concurrent Validity",
+        "C": "Predictive Validity",
+        "D": "Face Validity"
+      },
+      "correctAnswer": "C",
+      "explanation": "Predictive validity is shown when a test predicts a future outcome or criterion.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q830",
+      "questionText": "A psychologist validates a new brief depression test by showing it has a high correlation with the Beck Depression Inventory. This is an example of establishing:",
+      "options": {
+        "A": "Predictive validity.",
+        "B": "Convergent validity, a form of construct validity.",
+        "C": "Discriminant validity, a form of construct validity.",
+        "D": "Content validity."
+      },
+      "correctAnswer": "B",
+      "explanation": "Convergent validity is shown when a test correlates strongly with another measure of the same construct.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q831",
+      "questionText": "A psychologist predicts that scores on a depression test will be negatively correlated with scores on a happiness measure. If supported, this establishes:",
+      "options": {
+        "A": "Convergent validity",
+        "B": "Discriminant validity",
+        "C": "Face validity",
+        "D": "Content validity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Discriminant validity shows that a test is not positively related to measures of different or opposing constructs.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q832",
+      "questionText": "A test can be reliable without being valid, but it cannot be valid unless it is reliable. Which statement best justifies this principle?",
+      "options": {
+        "A": "Validity is a prerequisite for reliability.",
+        "B": "Reliability is concerned with what a test measures, while validity is concerned with consistency.",
+        "C": "If a test does not yield consistent, repeatable scores, it cannot accurately measure its target construct.",
+        "D": "Reliability and validity are completely independent concepts."
+      },
+      "correctAnswer": "C",
+      "explanation": "A test must produce consistent scores before those scores can be interpreted as accurate or valid.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q833",
+      "questionText": "A test score of 85 is obtained. The standard error of measurement is 5. What is the 95% confidence interval for the true score, assuming z = 2?",
+      "options": {
+        "A": "80 - 90",
+        "B": "75 - 95",
+        "C": "83 - 87",
+        "D": "The confidence interval cannot be determined with the information given."
+      },
+      "correctAnswer": "B",
+      "explanation": "The interval is 85 ± (2 × 5), which gives a true-score range of 75 to 95.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q834",
+      "questionText": "A norm-referenced test is designed to:",
+      "options": {
+        "A": "Determine if an individual has mastered a specific body of knowledge or skill.",
+        "B": "Compare and rank a test-taker's performance relative to a standardized sample of other individuals.",
+        "C": "Be administered and scored according to flexible, nonstandardized procedures.",
+        "D": "Measure an individual's performance against a pre-set standard or cut-off score."
+      },
+      "correctAnswer": "B",
+      "explanation": "Norm-referenced tests interpret performance by comparing it with a norm group.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q835",
+      "questionText": "A criterion-referenced test is designed to:",
+      "options": {
+        "A": "Compare an individual's score to the scores of a large, representative sample.",
+        "B": "Assess an individual's performance based on how they rank among peers.",
+        "C": "Measure an individual's performance against a specific, predetermined standard or learning objective.",
+        "D": "Have high face validity but low predictive validity."
+      },
+      "correctAnswer": "C",
+      "explanation": "Criterion-referenced tests compare performance to a fixed standard rather than to other people.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q836",
+      "questionText": "A statistics final exam requiring a score of 75% or higher to pass is an example of what kind of test?",
+      "options": {
+        "A": "Norm-referenced test",
+        "B": "Criterion-referenced test",
+        "C": "Projective test",
+        "D": "Speed test"
+      },
+      "correctAnswer": "B",
+      "explanation": "The exam uses a fixed passing standard, making it criterion-referenced.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q837",
+      "questionText": "A test developer is creating a test of maximal physical strength. All of the following are sources of error variance except:",
+      "options": {
+        "A": "Differences in the instructions given by different test administrators.",
+        "B": "The test-taker feeling fatigued on the day of the test.",
+        "C": "The actual, true underlying differences in physical strength among test-takers.",
+        "D": "Inconsistent scoring of the physical performance by raters."
+      },
+      "correctAnswer": "C",
+      "explanation": "True differences in strength are true-score variance, not measurement error.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q838",
+      "questionText": "The standard deviation of a distribution of scores is a measure of:",
+      "options": {
+        "A": "The central tendency of the scores.",
+        "B": "The variability or dispersion of scores around the mean.",
+        "C": "The correlation between two sets of scores.",
+        "D": "The standard error of the mean."
+      },
+      "correctAnswer": "B",
+      "explanation": "Standard deviation describes how spread out scores are around the mean.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q839",
+      "questionText": "A test has a mean of 100 and a standard deviation of 15. A test-taker scores 130. What is the Z-score?",
+      "options": {
+        "A": "Z = -2.0",
+        "B": "Z = +1.0",
+        "C": "Z = +1.5",
+        "D": "Z = +2.0"
+      },
+      "correctAnswer": "D",
+      "explanation": "The Z-score is (130 - 100) / 15 = +2.0.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q840",
+      "questionText": "A percentile rank of 75 means that the individual:",
+      "options": {
+        "A": "Answered 75% of the items correctly.",
+        "B": "Scored better than 75% of the people in the norm group.",
+        "C": "Scored 75 points on the test.",
+        "D": "Is in the 75th standard deviation from the mean."
+      },
+      "correctAnswer": "B",
+      "explanation": "A percentile rank indicates the percentage of the norm group scoring at or below that score.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q841",
+      "questionText": "Which of the following is the least important reason for rejecting a psychological test for use in a clinical setting?",
+      "options": {
+        "A": "The test has a very low test-retest reliability coefficient, such as r = .30.",
+        "B": "There is no evidence of validity for diagnosing the condition of interest.",
+        "C": "The normative sample is outdated and not representative of the current population.",
+        "D": "The test manual is long and difficult to read."
+      },
+      "correctAnswer": "D",
+      "explanation": "A difficult manual is inconvenient, but reliability, validity, and norms are more critical.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q842",
+      "questionText": "Item difficulty index p is the proportion of test-takers who answered an item correctly. An item with p = .95 would be considered:",
+      "options": {
+        "A": "A very difficult item.",
+        "B": "A very easy item.",
+        "C": "An item with high discrimination.",
+        "D": "A poorly constructed item."
+      },
+      "correctAnswer": "B",
+      "explanation": "A p-value of .95 means 95% answered correctly, so the item is very easy.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q843",
+      "questionText": "An item is considered a good discriminator if:",
+      "options": {
+        "A": "Everyone gets the item correct.",
+        "B": "Everyone gets the item incorrect.",
+        "C": "More people in the high-scoring group get it correct than people in the low-scoring group.",
+        "D": "An equal number of high-scoring and low-scoring people get it correct."
+      },
+      "correctAnswer": "C",
+      "explanation": "Good discrimination means the item separates high performers from low performers.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q844",
+      "questionText": "A multiple-choice item has a negative discrimination index. This means that:",
+      "options": {
+        "A": "The item is too easy.",
+        "B": "The item is too difficult.",
+        "C": "More low-scoring individuals got the item correct than high-scoring individuals, indicating a flawed item.",
+        "D": "The item is an excellent discriminator."
+      },
+      "correctAnswer": "C",
+      "explanation": "Negative discrimination suggests the item may be confusing, miskeyed, or otherwise flawed.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q845",
+      "questionText": "A psychometrician must select a test to assess a specific learning disability. Which property is most crucial for justifying diagnostic use?",
+      "options": {
+        "A": "Face validity",
+        "B": "Internal consistency",
+        "C": "Test-retest reliability",
+        "D": "Evidence of diagnostic or criterion-related validity"
+      },
+      "correctAnswer": "D",
+      "explanation": "Diagnostic use requires evidence that the test accurately identifies the condition or predicts relevant criteria.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q846",
+      "questionText": "When interpreting a client's test score, a psychometrician should always consider the standard error of measurement because it:",
+      "options": {
+        "A": "Provides a precise point estimate of true ability, free of error.",
+        "B": "Indicates the percentage of items answered correctly.",
+        "C": "Acknowledges that an observed score estimates a true score and provides a likely range for that true score.",
+        "D": "Helps shorten the time required for test administration."
+      },
+      "correctAnswer": "C",
+      "explanation": "SEM helps estimate the range within which a person's true score likely falls.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q847",
+      "questionText": "A test developed and normed in the United States will be used with a Filipino population. Which step is most essential?",
+      "options": {
+        "A": "Simply translate the test into Filipino.",
+        "B": "Administer the English version but explain the items in Filipino.",
+        "C": "Conduct a new standardization and validation study using a representative Filipino sample.",
+        "D": "Assume the American norms are applicable worldwide."
+      },
+      "correctAnswer": "C",
+      "explanation": "Cultural adaptation requires local validation and norms, not translation alone.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q848",
+      "questionText": "A negatively skewed distribution of test scores means that:",
+      "options": {
+        "A": "The test was likely too difficult, with most scores clustering at the low end.",
+        "B": "The test was likely too easy, with most scores clustering at the high end.",
+        "C": "The scores are perfectly and symmetrically distributed around the mean.",
+        "D": "The test has poor reliability."
+      },
+      "correctAnswer": "B",
+      "explanation": "Negative skew has most scores at the high end and a tail extending left.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q849",
+      "questionText": "In a normal distribution, what percentage of scores falls within one standard deviation of the mean?",
+      "options": {
+        "A": "Approximately 50%",
+        "B": "Approximately 68%",
+        "C": "Approximately 95%",
+        "D": "Approximately 99%"
+      },
+      "correctAnswer": "B",
+      "explanation": "About 68% of scores fall within one standard deviation above and below the mean.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q850",
+      "questionText": "The psychometric principle applied when a test consistently produces similar scores for the same individual over repeated administrations is:",
+      "options": {
+        "A": "Validity",
+        "B": "Standardization",
+        "C": "Reliability",
+        "D": "Norming"
+      },
+      "correctAnswer": "C",
+      "explanation": "Reliability refers to consistency and stability of measurement.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q851",
+      "questionText": "A psychometrician rejects a Leadership Potential Test because its manual provides no data correlating scores with actual on-the-job leadership performance ratings. The main reason is lack of:",
+      "options": {
+        "A": "Internal consistency.",
+        "B": "Predictive validity.",
+        "C": "Content validity.",
+        "D": "Standardization."
+      },
+      "correctAnswer": "B",
+      "explanation": "The test is intended to predict future leadership performance, so predictive validity is required.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q852",
+      "questionText": "You must select an intelligence test to identify gifted children. Test A has reliability of .95 but was normed on a general population. Test B has reliability of .85 and evidence that it identifies children who later succeed in gifted programs. Which should you choose?",
+      "options": {
+        "A": "Test A, because higher reliability is always the most important factor.",
+        "B": "Test B, because specific validity for the intended purpose is more critical than slightly higher reliability.",
+        "C": "Either test is equally good.",
+        "D": "Neither test, because both have a flaw."
+      },
+      "correctAnswer": "B",
+      "explanation": "Validity for the specific decision is more important than a slightly higher reliability coefficient.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q853",
+      "questionText": "The Flynn effect refers to:",
+      "options": {
+        "A": "Scores on intelligence tests gradually decreasing over time in the general population.",
+        "B": "The increase in intelligence test scores over generations, requiring periodic re-norming of tests.",
+        "C": "The tendency for test-takers to perform better the second time they take a test.",
+        "D": "The correlation between intelligence and socioeconomic status."
+      },
+      "correctAnswer": "B",
+      "explanation": "The Flynn effect is the generational rise in intelligence test scores over time.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q854",
+      "questionText": "Which of the following is not a measure of internal consistency reliability?",
+      "options": {
+        "A": "Split-half reliability",
+        "B": "Kuder-Richardson 20 (KR-20)",
+        "C": "Cronbach's alpha",
+        "D": "Alternate-forms reliability"
+      },
+      "correctAnswer": "D",
+      "explanation": "Alternate-forms reliability compares equivalent versions, while the others assess item consistency within a test.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q855",
+      "questionText": "The square of the validity coefficient is called the coefficient of determination. It tells us:",
+      "options": {
+        "A": "The reliability of the test.",
+        "B": "The percentage of variance in the criterion explained by variance in test scores.",
+        "C": "The standard error of measurement.",
+        "D": "The difficulty of the test items."
+      },
+      "correctAnswer": "B",
+      "explanation": "The coefficient of determination shows how much criterion variance is accounted for by test scores.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q856",
+      "questionText": "A test score transformed to a normal distribution with a mean of 50 and standard deviation of 10 is a:",
+      "options": {
+        "A": "Z-score",
+        "B": "Percentile rank",
+        "C": "T-score",
+        "D": "Raw score"
+      },
+      "correctAnswer": "C",
+      "explanation": "A T-score has a mean of 50 and a standard deviation of 10.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q857",
+      "questionText": "A personality test manual reports high test-retest reliability over two weeks. This means that:",
+      "options": {
+        "A": "The test accurately measures personality traits.",
+        "B": "Scores are likely to be stable and consistent if the test is retaken within a short period.",
+        "C": "All items measure the same underlying construct.",
+        "D": "The test is free from cultural bias."
+      },
+      "correctAnswer": "B",
+      "explanation": "Test-retest reliability indicates stability of scores over time.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q858",
+      "questionText": "Which situation would threaten the content validity of a final exam for a history course covering World War I and World War II?",
+      "options": {
+        "A": "All questions are about World War I, with none about World War II.",
+        "B": "The exam includes multiple-choice and essay questions.",
+        "C": "The exam is timed.",
+        "D": "The exam is difficult for most students."
+      },
+      "correctAnswer": "A",
+      "explanation": "A test lacks content validity if it fails to represent the full content domain.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q859",
+      "questionText": "A factor analysis of a workplace effectiveness test reveals three factors: interpersonal skills, task management, and problem-solving. This procedure is often used to gather evidence of:",
+      "options": {
+        "A": "Test-retest reliability",
+        "B": "Content validity",
+        "C": "Construct validity",
+        "D": "Criterion validity"
+      },
+      "correctAnswer": "C",
+      "explanation": "Factor analysis helps identify underlying constructs measured by a test.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q860",
+      "questionText": "Face validity refers to:",
+      "options": {
+        "A": "A robust statistical measure of a test's accuracy.",
+        "B": "The degree to which a test appears to measure what it claims to measure.",
+        "C": "The correlation of a test with a specific criterion.",
+        "D": "The consistency of scores over time."
+      },
+      "correctAnswer": "B",
+      "explanation": "Face validity is about whether the test appears appropriate on the surface.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q861",
+      "questionText": "A hiring test does not correlate with measures of gender, age, or ethnicity. This is evidence for its:",
+      "options": {
+        "A": "Convergent validity",
+        "B": "Predictive validity",
+        "C": "Discriminant validity",
+        "D": "Content validity"
+      },
+      "correctAnswer": "C",
+      "explanation": "Discriminant validity is shown when a test does not correlate with unrelated variables.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q862",
+      "questionText": "A standardized test includes all of the following except:",
+      "options": {
+        "A": "Uniform administration procedures.",
+        "B": "A consistent scoring system.",
+        "C": "Norms based on a representative sample.",
+        "D": "Flexible administration times for all test-takers."
+      },
+      "correctAnswer": "D",
+      "explanation": "Standardization requires uniform procedures, so flexible administration violates standardization.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q863",
+      "questionText": "A speed test is one where:",
+      "options": {
+        "A": "Items are very difficult, and the focus is on how many can be solved.",
+        "B": "There is a generous time limit, and the focus is on the difficulty level mastered.",
+        "C": "Items are relatively easy, and the test is timed to see how many can be completed.",
+        "D": "The speed of the administrator is measured."
+      },
+      "correctAnswer": "C",
+      "explanation": "Speed tests emphasize completing many relatively easy items within a time limit.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q864",
+      "questionText": "A power test is one where:",
+      "options": {
+        "A": "The time limit is strict, and items are easy.",
+        "B": "The focus is on speed of completion.",
+        "C": "The time limit is generous, and items increase in difficulty to find the highest level achieved.",
+        "D": "The physical strength of the test-taker is measured."
+      },
+      "correctAnswer": "C",
+      "explanation": "Power tests measure the upper limit of ability with increasingly difficult items and generous time.",
+      "topic": "Psychometric Properties and Principles",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q865",
+      "questionText": "A researcher studies the relationship between hours spent studying and final exam scores by calculating a correlation coefficient. This is an example of:",
+      "options": {
+        "A": "Experimental research",
+        "B": "Correlational research",
+        "C": "A case study",
+        "D": "Naturalistic observation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correlational research examines relationships between variables without manipulating them.",
+      "topic": "Research Methods and Statistics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q866",
+      "questionText": "If the researcher finds r = +0.80 between hours studied and exam scores, what can be concluded?",
+      "options": {
+        "A": "Studying more hours causes higher exam scores.",
+        "B": "There is a strong positive relationship between hours studied and exam scores.",
+        "C": "There is a strong negative relationship between hours studied and exam scores.",
+        "D": "There is no relationship between the variables."
+      },
+      "correctAnswer": "B",
+      "explanation": "A positive correlation of .80 indicates a strong positive relationship, not causation.",
+      "topic": "Research Methods and Statistics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q867",
+      "questionText": "Employees are randomly assigned to receive a training program or not, and their performance is then measured. This research design is:",
+      "options": {
+        "A": "Correlational",
+        "B": "Experimental",
+        "C": "A survey",
+        "D": "A longitudinal study"
+      },
+      "correctAnswer": "B",
+      "explanation": "The researcher manipulates training and uses random assignment, which defines an experiment.",
+      "topic": "Research Methods and Statistics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q868",
+      "questionText": "In the training study, the training program itself is the:",
+      "options": {
+        "A": "Dependent variable",
+        "B": "Independent variable",
+        "C": "Confounding variable",
+        "D": "Correlation coefficient"
+      },
+      "correctAnswer": "B",
+      "explanation": "The independent variable is the variable manipulated by the researcher.",
+      "topic": "Research Methods and Statistics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q869",
+      "questionText": "In the training study, the employee performance measure is the:",
+      "options": {
+        "A": "Dependent variable",
+        "B": "Independent variable",
+        "C": "Control group",
+        "D": "Random assignment"
+      },
+      "correctAnswer": "A",
+      "explanation": "The dependent variable is the outcome measured to assess the effect of the independent variable.",
+      "topic": "Research Methods and Statistics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q870",
+      "questionText": "A meta-analysis is a statistical technique used to:",
+      "options": {
+        "A": "Study a single individual in great depth.",
+        "B": "Analyze the content of a psychological test.",
+        "C": "Combine and analyze results of multiple studies on a topic to reach an overall conclusion.",
+        "D": "Develop norms for a new psychological test."
+      },
+      "correctAnswer": "C",
+      "explanation": "Meta-analysis statistically combines findings from multiple studies.",
+      "topic": "Research Methods and Statistics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q871",
+      "questionText": "When standardizing a new intelligence test, using a large representative sample ensures that:",
+      "options": {
+        "A": "The test will be perfectly reliable.",
+        "B": "The test items are easy for everyone.",
+        "C": "The resulting norms provide a meaningful basis for comparing individual scores.",
+        "D": "The test can be administered quickly."
+      },
+      "correctAnswer": "C",
+      "explanation": "Representative standardization samples produce norms useful for score interpretation.",
+      "topic": "Research Methods and Statistics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q872",
+      "questionText": "A researcher studies the test-retest reliability of a personality measure. Which statistic is most appropriate?",
+      "options": {
+        "A": "T-test",
+        "B": "ANOVA",
+        "C": "Pearson correlation coefficient",
+        "D": "Chi-square test"
+      },
+      "correctAnswer": "C",
+      "explanation": "Pearson correlation measures the association between scores from two administrations.",
+      "topic": "Research Methods and Statistics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q873",
+      "questionText": "A test developer wants to determine whether male and female test-takers differ in mean test scores. Which statistical test should be used?",
+      "options": {
+        "A": "Correlation",
+        "B": "Independent samples T-test",
+        "C": "Factor analysis",
+        "D": "Regression"
+      },
+      "correctAnswer": "B",
+      "explanation": "An independent samples t-test compares the means of two independent groups.",
+      "topic": "Research Methods and Statistics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q874",
+      "questionText": "A test developer wants to compare mean test scores of three groups: high school, college, and graduate school. Which test is appropriate?",
+      "options": {
+        "A": "T-test",
+        "B": "Analysis of Variance (ANOVA)",
+        "C": "Correlation",
+        "D": "Chi-square"
+      },
+      "correctAnswer": "B",
+      "explanation": "ANOVA is used to compare means across three or more groups.",
+      "topic": "Research Methods and Statistics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q875",
+      "questionText": "Which step is typically first in developing a new test?",
+      "options": {
+        "A": "Administering the test to a standardization sample.",
+        "B": "Conducting an item analysis.",
+        "C": "Defining the purpose of the test and the construct to be measured.",
+        "D": "Publishing the test manual."
+      },
+      "correctAnswer": "C",
+      "explanation": "Test development begins by defining the test purpose and target construct.",
+      "topic": "Research Methods and Statistics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q876",
+      "questionText": "A validation study predicts future GPA from entrance exam scores, both continuous variables. Which statistical technique is most appropriate?",
+      "options": {
+        "A": "Chi-square",
+        "B": "T-test",
+        "C": "Linear Regression",
+        "D": "ANOVA"
+      },
+      "correctAnswer": "C",
+      "explanation": "Linear regression predicts a continuous criterion from a continuous predictor.",
+      "topic": "Research Methods and Statistics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q877",
+      "questionText": "In test development, item analysis is performed to:",
+      "options": {
+        "A": "Determine the overall reliability of the test.",
+        "B": "Evaluate individual test items by examining their difficulty and discrimination.",
+        "C": "Establish the content validity of the test.",
+        "D": "Develop the scoring key."
+      },
+      "correctAnswer": "B",
+      "explanation": "Item analysis evaluates how well individual items function psychometrically.",
+      "topic": "Research Methods and Statistics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q878",
+      "questionText": "A test developer standardizing a test wants to create norms. This involves:",
+      "options": {
+        "A": "Administering the test to a large, representative sample to obtain score distributions.",
+        "B": "Writing clear administration instructions.",
+        "C": "Ensuring the test has high content validity.",
+        "D": "Eliminating all sources of measurement error."
+      },
+      "correctAnswer": "A",
+      "explanation": "Norms are created by collecting scores from a representative standardization sample.",
+      "topic": "Research Methods and Statistics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q879",
+      "questionText": "A researcher analyzes the relationship between two categorical variables, such as gender and pass/fail status. The appropriate method is:",
+      "options": {
+        "A": "Pearson correlation",
+        "B": "T-test",
+        "C": "Chi-Square Test of Independence",
+        "D": "ANOVA"
+      },
+      "correctAnswer": "C",
+      "explanation": "Chi-square tests whether two categorical variables are associated.",
+      "topic": "Research Methods and Statistics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q880",
+      "questionText": "The primary purpose of random assignment in an experimental study is to:",
+      "options": {
+        "A": "Ensure that results can be generalized to the wider population.",
+        "B": "Make statistical analysis easier.",
+        "C": "Make experimental and control groups similar at the start, reducing confounding variables.",
+        "D": "Eliminate the need for a control group."
+      },
+      "correctAnswer": "C",
+      "explanation": "Random assignment helps equalize groups before the intervention.",
+      "topic": "Research Methods and Statistics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q881",
+      "questionText": "In test standardization, stratified sampling might be used to:",
+      "options": {
+        "A": "Select participants purely by chance.",
+        "B": "Ensure key subgroups are represented in the normative sample in correct proportions.",
+        "C": "Select only the highest-scoring individuals for the norm group.",
+        "D": "Recruit participants who are easily accessible."
+      },
+      "correctAnswer": "B",
+      "explanation": "Stratified sampling ensures important population subgroups are proportionally represented.",
+      "topic": "Research Methods and Statistics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q882",
+      "questionText": "When appraising research methods in a test manual, a psychometrician should look for all of the following except:",
+      "options": {
+        "A": "A clear description of validation and standardization samples.",
+        "B": "Appropriate statistical analyses for the research questions.",
+        "C": "Evidence of reliability and validity.",
+        "D": "A guarantee that the test is completely free of measurement error."
+      },
+      "correctAnswer": "D",
+      "explanation": "No psychological test is completely free of measurement error.",
+      "topic": "Research Methods and Statistics",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q883",
+      "questionText": "A statistically significant difference at p < .05 means that:",
+      "options": {
+        "A": "The difference is large and practically important.",
+        "B": "The observed difference is unlikely to be due to random chance.",
+        "C": "The test is perfectly reliable.",
+        "D": "The study has no flaws."
+      },
+      "correctAnswer": "B",
+      "explanation": "Statistical significance indicates the result is unlikely under chance alone.",
+      "topic": "Research Methods and Statistics",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q884",
+      "questionText": "Split-half reliability assesses internal consistency by:",
+      "options": {
+        "A": "Administering the test twice to the same group.",
+        "B": "Having two different raters score the test.",
+        "C": "Correlating scores from two equivalent test forms.",
+        "D": "Splitting the test into two halves and correlating scores on the halves."
+      },
+      "correctAnswer": "D",
+      "explanation": "Split-half reliability compares performance across two parts of the same test.",
+      "topic": "Research Methods and Statistics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q885",
+      "questionText": "An HR manager uses a personality test to help employees understand work styles and team interactions, not for hiring or promotion. This is assessment for:",
+      "options": {
+        "A": "Selection",
+        "B": "Placement",
+        "C": "Development and self-awareness",
+        "D": "Diagnosis"
+      },
+      "correctAnswer": "C",
+      "explanation": "The test is being used for personal growth and workplace self-understanding.",
+      "topic": "Uses, Benefits, and Limitations of Assessment Tools",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q886",
+      "questionText": "A major benefit of standardized tests for organizational selection is that they can:",
+      "options": {
+        "A": "Provide an objective and uniform basis for comparing candidates, potentially reducing bias.",
+        "B": "Guarantee the selected employee will be successful.",
+        "C": "Replace interviews and all other selection tools.",
+        "D": "Be created and administered with very little cost or effort."
+      },
+      "correctAnswer": "A",
+      "explanation": "Standardized tests give all candidates the same measurement conditions and criteria.",
+      "topic": "Uses, Benefits, and Limitations of Assessment Tools",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q887",
+      "questionText": "A significant limitation of projective tests, such as the Rorschach, is that:",
+      "options": {
+        "A": "Scoring and interpretation can be highly subjective and vary between examiners.",
+        "B": "They are too structured and rigid.",
+        "C": "They have universally high test-retest reliability.",
+        "D": "They are very quick to administer and score."
+      },
+      "correctAnswer": "A",
+      "explanation": "Projective tests may suffer from subjectivity and lower inter-rater consistency.",
+      "topic": "Uses, Benefits, and Limitations of Assessment Tools",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q888",
+      "questionText": "An organization uses a cognitive ability test to screen applicants for a complex data analyst job. The primary benefit is that:",
+      "options": {
+        "A": "Cognitive ability predicts performance in jobs requiring complex problem-solving.",
+        "B": "It measures the applicant's personality.",
+        "C": "It is the cheapest selection tool available.",
+        "D": "It ensures a diverse workforce."
+      },
+      "correctAnswer": "A",
+      "explanation": "Cognitive ability is a strong predictor for complex, learning-intensive jobs.",
+      "topic": "Uses, Benefits, and Limitations of Assessment Tools",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q889",
+      "questionText": "A school counselor uses a career interest inventory to help a student explore career paths. The main purpose is:",
+      "options": {
+        "A": "To diagnose a learning disability.",
+        "B": "To measure general intelligence.",
+        "C": "To facilitate self-exploration and guide educational and vocational choices.",
+        "D": "To determine if the student will be successful in college."
+      },
+      "correctAnswer": "C",
+      "explanation": "Career inventories help clarify interests and guide career exploration.",
+      "topic": "Uses, Benefits, and Limitations of Assessment Tools",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q890",
+      "questionText": "A limitation of behavioral observation as an assessment tool is that:",
+      "options": {
+        "A": "It only provides information about thoughts and feelings.",
+        "B": "The presence of an observer can cause the person to act differently than normal.",
+        "C": "It is highly objective and free from bias.",
+        "D": "It is not useful for assessing children."
+      },
+      "correctAnswer": "B",
+      "explanation": "Reactivity occurs when people change behavior because they know they are being observed.",
+      "topic": "Uses, Benefits, and Limitations of Assessment Tools",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q891",
+      "questionText": "A client suspected of malingering is assessed using only self-report personality inventories. What is a limitation of this approach?",
+      "options": {
+        "A": "These tests are immune to faking or response distortion.",
+        "B": "The client can intentionally distort responses to appear more or less pathological.",
+        "C": "These tests are too difficult for most people to understand.",
+        "D": "The tests provide direct, objective evidence of brain function."
+      },
+      "correctAnswer": "B",
+      "explanation": "Self-report tests can be affected by intentional faking or response distortion.",
+      "topic": "Uses, Benefits, and Limitations of Assessment Tools",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q892",
+      "questionText": "A benefit of structured interviews over unstructured interviews in selection is that:",
+      "options": {
+        "A": "Structured interviews are more flexible and natural.",
+        "B": "Structured interviews ask all candidates the same job-related questions, increasing reliability and fairness.",
+        "C": "Unstructured interviews are more legally defensible.",
+        "D": "Structured interviews are quicker to conduct."
+      },
+      "correctAnswer": "B",
+      "explanation": "Standardized questions improve consistency, fairness, and comparability across candidates.",
+      "topic": "Uses, Benefits, and Limitations of Assessment Tools",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q893",
+      "questionText": "A clinical psychologist assessing a child for ADHD uses parent and teacher scales, observation, and interview. The reason for multiple tools is:",
+      "options": {
+        "A": "To make the assessment longer and more expensive.",
+        "B": "No single tool is perfect, and multiple methods provide a more complete picture across settings.",
+        "C": "To satisfy the parents' request for more testing.",
+        "D": "To determine which test is the most reliable."
+      },
+      "correctAnswer": "B",
+      "explanation": "Multi-method assessment increases confidence by gathering converging evidence from different sources.",
+      "topic": "Uses, Benefits, and Limitations of Assessment Tools",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q894",
+      "questionText": "A limitation of ability tests in hiring is adverse impact, which means:",
+      "options": {
+        "A": "The test accurately predicts job performance.",
+        "B": "Scores differ across demographic groups in ways that may lead to unintentional discrimination.",
+        "C": "The test is too easy for all applicants.",
+        "D": "The test is too expensive to administer."
+      },
+      "correctAnswer": "B",
+      "explanation": "Adverse impact occurs when a selection tool disproportionately disadvantages protected groups.",
+      "topic": "Uses, Benefits, and Limitations of Assessment Tools",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q895",
+      "questionText": "The MMPI-2 includes validity scales such as L, F, and K. A primary benefit of these scales is that they:",
+      "options": {
+        "A": "Measure the test-taker's intelligence.",
+        "B": "Provide information about response biases, such as faking good, faking bad, or random responding.",
+        "C": "Shorten test administration time.",
+        "D": "Ensure the test has high content validity."
+      },
+      "correctAnswer": "B",
+      "explanation": "Validity scales help detect distorted or invalid response patterns.",
+      "topic": "Uses, Benefits, and Limitations of Assessment Tools",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q896",
+      "questionText": "When assessing whether a test is appropriate for a client, which limitation is critical to consider?",
+      "options": {
+        "A": "The client's language proficiency and cultural background, especially if they differ from the normative sample.",
+        "B": "The color of the test booklet.",
+        "C": "The brand of pencil used on the answer sheet.",
+        "D": "The time of day the test is administered."
+      },
+      "correctAnswer": "A",
+      "explanation": "Language and cultural mismatch can make norms and interpretations invalid.",
+      "topic": "Uses, Benefits, and Limitations of Assessment Tools",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q897",
+      "questionText": "One main benefit of psychometric tests in organizations is their potential to:",
+      "options": {
+        "A": "Replace all human judgment in decision-making.",
+        "B": "Provide objective data to supplement and improve subjective decisions such as hiring or promotion.",
+        "C": "Create a more stressful work environment.",
+        "D": "Ensure that only one personality type is hired."
+      },
+      "correctAnswer": "B",
+      "explanation": "Tests should supplement, not replace, professional judgment by adding objective data.",
+      "topic": "Uses, Benefits, and Limitations of Assessment Tools",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q898",
+      "questionText": "A company hiring customer service representatives needs interpersonal skills, empathy, and conscientiousness. Which tool is least appropriate?",
+      "options": {
+        "A": "A situational judgment test with customer service scenarios.",
+        "B": "A Big Five personality test measuring conscientiousness and agreeableness.",
+        "C": "A role-play exercise handling a simulated angry customer.",
+        "D": "A test of advanced abstract reasoning and spatial visualization."
+      },
+      "correctAnswer": "D",
+      "explanation": "Advanced spatial reasoning is not closely related to core customer service competencies.",
+      "topic": "Selection of Assessment Methods and Tools",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q899",
+      "questionText": "A school psychologist assesses a child with suspected mathematics learning disability. Which battery is most appropriate?",
+      "options": {
+        "A": "A projective personality test and career interest inventory.",
+        "B": "An intelligence test, an achievement test for math skills, and parent-teacher behavioral rating scales.",
+        "C": "A physical fitness test and artistic ability measure.",
+        "D": "Only an intelligence test."
+      },
+      "correctAnswer": "B",
+      "explanation": "Learning disability assessment should examine cognitive ability, academic achievement, and behavior across settings.",
+      "topic": "Selection of Assessment Methods and Tools",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q900",
+      "questionText": "A clinical psychologist assesses possible personality disorder in a defensive client. Which tool best supplements a clinical interview?",
+      "options": {
+        "A": "A standard intelligence test.",
+        "B": "An objective personality inventory with strong validity scales, such as the MMPI-2 or PAI.",
+        "C": "An achievement test.",
+        "D": "A final exam from a college course."
+      },
+      "correctAnswer": "B",
+      "explanation": "Validity scales help detect defensiveness and other response styles.",
+      "topic": "Selection of Assessment Methods and Tools",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q901",
+      "questionText": "An organization is promoting a manager to a senior executive role requiring strategic thinking, leadership, and pressure handling. The best assessment method is:",
+      "options": {
+        "A": "A simple multiple-choice test on management theory.",
+        "B": "An assessment center with simulations, in-basket exercises, and group discussions.",
+        "C": "A clerical speed and accuracy test.",
+        "D": "Relying solely on previous performance reviews."
+      },
+      "correctAnswer": "B",
+      "explanation": "Assessment centers use realistic exercises to evaluate complex leadership competencies.",
+      "topic": "Selection of Assessment Methods and Tools",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q902",
+      "questionText": "A psychometrician selects a depression test for elderly clients in a nursing home. A crucial factor is:",
+      "options": {
+        "A": "Whether the test was normed on college students.",
+        "B": "Whether it has norms and validity evidence for older adults.",
+        "C": "Whether it is the longest test available.",
+        "D": "Whether it uses complex language and small font."
+      },
+      "correctAnswer": "B",
+      "explanation": "Tests should have evidence supporting use with the specific population being assessed.",
+      "topic": "Selection of Assessment Methods and Tools",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q903",
+      "questionText": "A 3-year-old non-verbal child needs language development assessment. Which method is most appropriate?",
+      "options": {
+        "A": "Administering a standardized written vocabulary test.",
+        "B": "Conducting a structured interview with the child.",
+        "C": "Using observation to assess receptive language and non-verbal communication, plus parent interview.",
+        "D": "Concluding that assessment is impossible."
+      },
+      "correctAnswer": "C",
+      "explanation": "Non-verbal children require assessment methods that do not depend on expressive speech.",
+      "topic": "Selection of Assessment Methods and Tools",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q904",
+      "questionText": "A sales role depends heavily on persuasiveness. Which method likely has the highest predictive validity for this specific role?",
+      "options": {
+        "A": "A test of general cognitive ability.",
+        "B": "A role-play simulation where the applicant sells a product to a customer.",
+        "C": "A measure of artistic ability.",
+        "D": "Checking the applicant's social media profiles."
+      },
+      "correctAnswer": "B",
+      "explanation": "Work sample simulations directly assess job-relevant behavior.",
+      "topic": "Selection of Assessment Methods and Tools",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q905",
+      "questionText": "A therapist tracking social anxiety symptoms at each session needs a brief, easy-to-administer measure. The best choice is:",
+      "options": {
+        "A": "A comprehensive 500-item personality inventory.",
+        "B": "A projective test like the TAT.",
+        "C": "A brief self-report rating scale for social anxiety.",
+        "D": "A full neuropsychological battery."
+      },
+      "correctAnswer": "C",
+      "explanation": "Brief rating scales are practical for repeated progress monitoring.",
+      "topic": "Selection of Assessment Methods and Tools",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q906",
+      "questionText": "When selecting assessment tools for a culturally diverse population, a psychometrician must:",
+      "options": {
+        "A": "Assume all tests are culturally fair.",
+        "B": "Select the cheapest test regardless of properties.",
+        "C": "Evaluate cross-cultural validity evidence and ensure appropriate normative data.",
+        "D": "Use only projective tests because they are culture-free."
+      },
+      "correctAnswer": "C",
+      "explanation": "Culturally appropriate norms and validity evidence are essential for fair assessment.",
+      "topic": "Selection of Assessment Methods and Tools",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q907",
+      "questionText": "A company hiring programmers needs logical reasoning and coding skills. Which tools are most effective?",
+      "options": {
+        "A": "A physical strength test and interview about hobbies.",
+        "B": "A personality test focused on extraversion and a creativity measure.",
+        "C": "A logical reasoning test and a coding work sample requiring candidates to fix errors.",
+        "D": "A projective test and artistic taste measure."
+      },
+      "correctAnswer": "C",
+      "explanation": "The strongest tools directly measure the abilities and tasks required by the job.",
+      "topic": "Selection of Assessment Methods and Tools",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q908",
+      "questionText": "The rationale for using multiple assessment methods is that:",
+      "options": {
+        "A": "It confirms the psychometrician's initial biases.",
+        "B": "Each method provides different information, and convergence across methods increases confidence.",
+        "C": "It is required by law in all situations.",
+        "D": "It makes the assessment report seem more impressive."
+      },
+      "correctAnswer": "B",
+      "explanation": "Converging evidence from different methods strengthens assessment conclusions.",
+      "topic": "Selection of Assessment Methods and Tools",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q909",
+      "questionText": "A psychometrician recommends an assessment method for selecting pilots where safety and decisions under pressure are critical. The best recommendation is:",
+      "options": {
+        "A": "A self-report measure of liking airplanes.",
+        "B": "High-fidelity flight simulations assessing emergency decision-making.",
+        "C": "A vocabulary test.",
+        "D": "An unstructured interview about life goals."
+      },
+      "correctAnswer": "B",
+      "explanation": "High-fidelity simulations directly assess critical pilot performance in realistic conditions.",
+      "topic": "Selection of Assessment Methods and Tools",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q910",
+      "questionText": "A test has very high internal consistency, alpha = .98, but its items are highly redundant. This may illustrate:",
+      "options": {
+        "A": "Attenuation paradox, where high internal consistency at the expense of validity and bandwidth is not ideal.",
+        "B": "Flynn effect.",
+        "C": "Halo effect.",
+        "D": "A perfect test."
+      },
+      "correctAnswer": "A",
+      "explanation": "Excessive item similarity can raise reliability while narrowing the construct being measured.",
+      "topic": "Selection of Assessment Methods and Tools",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q911",
+      "questionText": "When choosing an assessment tool for a specific individual, the psychometrician must consider all of the following except:",
+      "options": {
+        "A": "The client's age, education level, and cultural background.",
+        "B": "The referral question and purpose of the assessment.",
+        "C": "The reliability and validity of the tool.",
+        "D": "The psychometrician's personal preference for a test publisher."
+      },
+      "correctAnswer": "D",
+      "explanation": "Test selection should be based on client needs and psychometric evidence, not personal preference.",
+      "topic": "Selection of Assessment Methods and Tools",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q912",
+      "questionText": "Evaluating whether an assessment battery yields needed information requires the psychometrician to:",
+      "options": {
+        "A": "Choose the tests that are quickest to score.",
+        "B": "Integrate findings from all tools to determine whether they answer the referral question comprehensively.",
+        "C": "Only consider the test with the highest reliability coefficient.",
+        "D": "Ask the client whether they liked the tests."
+      },
+      "correctAnswer": "B",
+      "explanation": "Assessment batteries must be interpreted as an integrated set of findings.",
+      "topic": "Selection of Assessment Methods and Tools",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q913",
+      "questionText": "A school wants to identify students at risk for reading difficulties for early intervention. The most appropriate tool is:",
+      "options": {
+        "A": "A comprehensive diagnostic achievement test for every student.",
+        "B": "A brief, efficient screening tool administered to all students.",
+        "C": "A personality test.",
+        "D": "A measure of mathematical ability."
+      },
+      "correctAnswer": "B",
+      "explanation": "Screening tools quickly identify who needs more detailed assessment.",
+      "topic": "Selection of Assessment Methods and Tools",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q914",
+      "questionText": "A manager wants to use an integrity test to screen out applicants who may steal. The crucial property to examine is:",
+      "options": {
+        "A": "Face validity, to ensure it looks like an integrity test.",
+        "B": "Predictive validity for counterproductive work behaviors such as theft.",
+        "C": "Correlation with general intelligence.",
+        "D": "Test-retest reliability over five years."
+      },
+      "correctAnswer": "B",
+      "explanation": "The test must predict the behavior it is being used to prevent.",
+      "topic": "Selection of Assessment Methods and Tools",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q915",
+      "questionText": "A client has memory complaints after a head injury. The most appropriate tools would involve:",
+      "options": {
+        "A": "A career interest inventory.",
+        "B": "A comprehensive neuropsychological battery focusing on memory, attention, and executive functions.",
+        "C": "A projective personality test.",
+        "D": "A standard academic achievement test."
+      },
+      "correctAnswer": "B",
+      "explanation": "Neuropsychological assessment evaluates cognitive functions affected by brain injury.",
+      "topic": "Selection of Assessment Methods and Tools",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q916",
+      "questionText": "A child custody evaluation requires selecting instruments that:",
+      "options": {
+        "A": "Are designed for legal and forensic purposes.",
+        "B": "Are the newest tests available regardless of properties.",
+        "C": "Can be administered entirely online without supervision.",
+        "D": "Are chosen solely by the lawyer."
+      },
+      "correctAnswer": "A",
+      "explanation": "Forensic evaluations require tools appropriate for legal decision-making contexts.",
+      "topic": "Selection of Assessment Methods and Tools",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q917",
+      "questionText": "During a standardized intelligence test, a fire alarm causes a major disruption. The psychometrician should:",
+      "options": {
+        "A": "Continue the test as if nothing happened.",
+        "B": "Give the test-taker extra points to compensate.",
+        "C": "Note the deviation in the report and interpret results with extreme caution, possibly invalidating the test.",
+        "D": "Make up scores for missed parts."
+      },
+      "correctAnswer": "C",
+      "explanation": "Major deviations from standard procedure must be documented and may invalidate scores.",
+      "topic": "Test Administration, Scoring, Interpretation, and Usage",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q918",
+      "questionText": "A psychometrician administering the WAIS-IV fails to use a stopwatch for timed subtests. This is an error in:",
+      "options": {
+        "A": "Scoring",
+        "B": "Interpretation",
+        "C": "Administration",
+        "D": "Selection"
+      },
+      "correctAnswer": "C",
+      "explanation": "Timed subtests require standardized administration procedures, including accurate timing.",
+      "topic": "Test Administration, Scoring, Interpretation, and Usage",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q919",
+      "questionText": "When scoring a test with subjective components, such as essays or drawings, it is most important to:",
+      "options": {
+        "A": "Score as quickly as possible.",
+        "B": "Adhere strictly to the scoring rubric and manual criteria.",
+        "C": "Give the test-taker the benefit of the doubt on all responses.",
+        "D": "Base the score on the psychometrician's overall impression."
+      },
+      "correctAnswer": "B",
+      "explanation": "Rubrics improve objectivity and reliability in subjective scoring.",
+      "topic": "Test Administration, Scoring, Interpretation, and Usage",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q920",
+      "questionText": "A psychometrician consistently gives one or two extra points on every subtest. This is an example of:",
+      "options": {
+        "A": "A random error.",
+        "B": "A systematic scoring error.",
+        "C": "An error in test administration.",
+        "D": "An error in test selection."
+      },
+      "correctAnswer": "B",
+      "explanation": "A consistent scoring bias in one direction is systematic error.",
+      "topic": "Test Administration, Scoring, Interpretation, and Usage",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q921",
+      "questionText": "A client obtains a Full Scale IQ of 105, and the psychometrician reports this as Average. This is an example of test:",
+      "options": {
+        "A": "Administration",
+        "B": "Scoring",
+        "C": "Interpretation",
+        "D": "Construction"
+      },
+      "correctAnswer": "C",
+      "explanation": "Interpretation assigns meaning to a score using norms and classification ranges.",
+      "topic": "Test Administration, Scoring, Interpretation, and Usage",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q922",
+      "questionText": "The impact of even a small scoring error can be significant because it can:",
+      "options": {
+        "A": "Lead to an incorrect interpretation of ability or functioning.",
+        "B": "Result in an inappropriate diagnosis or educational placement.",
+        "C": "Change a pass/fail outcome.",
+        "D": "All of the above."
+      },
+      "correctAnswer": "D",
+      "explanation": "Scoring errors can affect interpretation, diagnosis, placement, and decisions.",
+      "topic": "Test Administration, Scoring, Interpretation, and Usage",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q923",
+      "questionText": "A test-taker asks for clarification on an item, but the manual says no assistance can be given. The psychometrician should:",
+      "options": {
+        "A": "Explain the question to help them.",
+        "B": "Politely decline and repeat standard instructions such as, Do the best you can.",
+        "C": "Tell the test-taker to skip the item.",
+        "D": "Change the item to make it easier."
+      },
+      "correctAnswer": "B",
+      "explanation": "Standardized administration requires following manual instructions exactly.",
+      "topic": "Test Administration, Scoring, Interpretation, and Usage",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q924",
+      "questionText": "The halo effect is a potential rating error that occurs when:",
+      "options": {
+        "A": "A rater's overall positive or negative impression influences ratings on specific traits.",
+        "B": "A rater scores all items in the middle of the scale.",
+        "C": "A rater is too lenient.",
+        "D": "A rater is too severe."
+      },
+      "correctAnswer": "A",
+      "explanation": "The halo effect occurs when a general impression biases specific ratings.",
+      "topic": "Test Administration, Scoring, Interpretation, and Usage",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q925",
+      "questionText": "A test's results are least likely to be valid if:",
+      "options": {
+        "A": "The test is administered in a quiet, comfortable, well-lit room.",
+        "B": "The test-taker is highly anxious, fatigued, or unmotivated.",
+        "C": "The administrator follows standardized instructions perfectly.",
+        "D": "The scoring is double-checked for accuracy."
+      },
+      "correctAnswer": "B",
+      "explanation": "Anxiety, fatigue, or low motivation can distort performance and reduce validity.",
+      "topic": "Test Administration, Scoring, Interpretation, and Usage",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q926",
+      "questionText": "A client scores superior on vocabulary and verbal comprehension but low average on processing speed. This discrepancy:",
+      "options": {
+        "A": "Should be ignored as random error.",
+        "B": "May be significant and require careful interpretation as a possible processing issue.",
+        "C": "Means the test is invalid.",
+        "D": "Indicates the client was not trying hard."
+      },
+      "correctAnswer": "B",
+      "explanation": "Large score discrepancies can reveal meaningful cognitive strengths and weaknesses.",
+      "topic": "Test Administration, Scoring, Interpretation, and Usage",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q927",
+      "questionText": "When interpreting test results, a psychometrician should:",
+      "options": {
+        "A": "Focus only on numerical scores.",
+        "B": "Interpret scores in context, including background, observations, and referral question.",
+        "C": "Always interpret low scores as lack of effort.",
+        "D": "Provide the client with the scoring key."
+      },
+      "correctAnswer": "B",
+      "explanation": "Responsible interpretation integrates scores with relevant contextual and behavioral information.",
+      "topic": "Test Administration, Scoring, Interpretation, and Usage",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q928",
+      "questionText": "A common interpretation error called over-pathologizing means:",
+      "options": {
+        "A": "Minimizing a client's serious symptoms.",
+        "B": "Interpreting normal variations as signs of a disorder.",
+        "C": "Ignoring test results completely.",
+        "D": "Failing to score the test correctly."
+      },
+      "correctAnswer": "B",
+      "explanation": "Over-pathologizing labels normal variation as abnormal or disordered.",
+      "topic": "Test Administration, Scoring, Interpretation, and Usage",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q929",
+      "questionText": "Proper use of psychological test results in a school setting would involve:",
+      "options": {
+        "A": "Placing results in a file and never using them again.",
+        "B": "Using results to develop an individualized education plan for a student with a learning disability.",
+        "C": "Showing results to all classmates.",
+        "D": "Using a single score as the sole basis for a major educational decision."
+      },
+      "correctAnswer": "B",
+      "explanation": "Assessment results should guide appropriate educational planning and intervention.",
+      "topic": "Test Administration, Scoring, Interpretation, and Usage",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q930",
+      "questionText": "A psychometrician can respond appropriately to test anxiety by:",
+      "options": {
+        "A": "Telling the client the test is easy and not to worry.",
+        "B": "Ignoring the client's anxiety.",
+        "C": "Establishing rapport, explaining procedures clearly, and providing a comfortable environment without altering instructions.",
+        "D": "Allowing the client to skip anxious questions."
+      },
+      "correctAnswer": "C",
+      "explanation": "Supportive rapport and clear procedures help anxiety while preserving standardization.",
+      "topic": "Test Administration, Scoring, Interpretation, and Usage",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q931",
+      "questionText": "Detecting an error in test selection would involve realizing that:",
+      "options": {
+        "A": "The test's normative sample is inappropriate for the client.",
+        "B": "The test does not measure the construct relevant to the referral question.",
+        "C": "The client lacks the language or reading skills needed for the test.",
+        "D": "All of the above."
+      },
+      "correctAnswer": "D",
+      "explanation": "Any mismatch between test, client, and referral purpose can indicate poor test selection.",
+      "topic": "Test Administration, Scoring, Interpretation, and Usage",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q932",
+      "questionText": "An anomaly in test administration would be:",
+      "options": {
+        "A": "Reading instructions verbatim from the manual.",
+        "B": "Starting a timed subtest without using a stopwatch.",
+        "C": "Providing the test-taker with a comfortable chair.",
+        "D": "Ensuring the testing room is quiet."
+      },
+      "correctAnswer": "B",
+      "explanation": "Failing to time a timed subtest violates standardized administration procedures.",
+      "topic": "Test Administration, Scoring, Interpretation, and Usage",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q933",
+      "questionText": "During a group achievement test, a student is clearly copying answers. The appropriate response is to:",
+      "options": {
+        "A": "Ignore the behavior to avoid confrontation.",
+        "B": "Follow test manual procedures, possibly separating students and noting the incident.",
+        "C": "Give both students a score of zero.",
+        "D": "Publicly announce that the student is cheating."
+      },
+      "correctAnswer": "B",
+      "explanation": "Testing irregularities should be handled according to standardized procedures and documented.",
+      "topic": "Test Administration, Scoring, Interpretation, and Usage",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q934",
+      "questionText": "When using test results, confidentiality means that:",
+      "options": {
+        "A": "Results can be shared with anyone who asks.",
+        "B": "Results should only be released to qualified professionals with the client's written consent.",
+        "C": "The psychometrician can discuss results with friends and family.",
+        "D": "Results should be posted online."
+      },
+      "correctAnswer": "B",
+      "explanation": "Confidentiality protects private test information from unauthorized disclosure.",
+      "topic": "Test Administration, Scoring, Interpretation, and Usage",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q935",
+      "questionText": "A non-English-speaking client is tested using an unqualified family member as interpreter. The results are compromised because:",
+      "options": {
+        "A": "The standardization of the test has been violated.",
+        "B": "The interpreter may translate inaccurately or provide extra help.",
+        "C": "The responses may not reflect the client's true ability.",
+        "D": "All of the above."
+      },
+      "correctAnswer": "D",
+      "explanation": "Unqualified interpretation can violate standardization and distort the meaning of responses.",
+      "topic": "Test Administration, Scoring, Interpretation, and Usage",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q936",
+      "questionText": "Exploring an anomaly in test usage would involve questioning whether:",
+      "options": {
+        "A": "A clinical diagnostic test is being used for hiring without proper validation.",
+        "B": "A test is being interpreted by a qualified professional.",
+        "C": "The results are being used to help the client.",
+        "D": "The test was scored correctly."
+      },
+      "correctAnswer": "A",
+      "explanation": "Misusing a test for an unvalidated purpose is an anomaly in test usage.",
+      "topic": "Test Administration, Scoring, Interpretation, and Usage",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q937",
+      "questionText": "The Code of Ethics for Philippine Psychologists and Psychometricians primarily guides professional conduct. A psychometrician's foremost responsibility is to:",
+      "options": {
+        "A": "The organization that employs them.",
+        "B": "The client and the public, by ensuring welfare and protection from harm.",
+        "C": "Themselves, by maximizing income.",
+        "D": "The test publishers."
+      },
+      "correctAnswer": "B",
+      "explanation": "Ethical practice prioritizes client and public welfare over institutional or personal interests.",
+      "topic": "Ethical Principles and Standards of Practice",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q938",
+      "questionText": "A client asks for raw test data and test materials. According to ethical standards, the psychometrician should:",
+      "options": {
+        "A": "Provide all materials immediately.",
+        "B": "Refuse to provide any information.",
+        "C": "Explain that raw data and materials are usually released only to qualified professionals, but offer a clear written report.",
+        "D": "Sell the materials to the client."
+      },
+      "correctAnswer": "C",
+      "explanation": "Test materials require security, but clients should receive understandable feedback or reports.",
+      "topic": "Ethical Principles and Standards of Practice",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q939",
+      "questionText": "The ethical principle of competence requires that a psychometrician:",
+      "options": {
+        "A": "Only provide services and use tools for which they have appropriate education, training, and supervision.",
+        "B": "Use any psychological test, even without training.",
+        "C": "Provide services outside their expertise if a client asks.",
+        "D": "Believe they are competent without formal training."
+      },
+      "correctAnswer": "A",
+      "explanation": "Competence means practicing within one's training, education, and supervised experience.",
+      "topic": "Ethical Principles and Standards of Practice",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q940",
+      "questionText": "A psychologist asks a psychometrician to administer and score a neuropsychological battery requiring specialized doctoral-level training that the psychometrician lacks. Agreeing would violate:",
+      "options": {
+        "A": "Confidentiality",
+        "B": "Competence",
+        "C": "Informed Consent",
+        "D": "Test Security"
+      },
+      "correctAnswer": "B",
+      "explanation": "Performing specialized assessments without proper training violates competence.",
+      "topic": "Ethical Principles and Standards of Practice",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q941",
+      "questionText": "A psychometrician who has both a professional role and another role with the same person, such as close friend or business partner, is in a:",
+      "options": {
+        "A": "Dual relationship",
+        "B": "Therapeutic alliance",
+        "C": "Standard practice",
+        "D": "Consultation"
+      },
+      "correctAnswer": "A",
+      "explanation": "A dual relationship occurs when professional and personal roles overlap.",
+      "topic": "Ethical Principles and Standards of Practice",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q942",
+      "questionText": "Dual relationships are ethically problematic primarily because they can:",
+      "options": {
+        "A": "Make therapy more effective.",
+        "B": "Impair objectivity, competence, and judgment, and create risk of exploitation or harm.",
+        "C": "Save the client money.",
+        "D": "Are encouraged by the code of ethics."
+      },
+      "correctAnswer": "B",
+      "explanation": "Dual roles can cloud judgment and increase the risk of client harm.",
+      "topic": "Ethical Principles and Standards of Practice",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q943",
+      "questionText": "A manager asks a psychometrician to alter a job applicant's test scores so a favored candidate gets hired. Complying would violate:",
+      "options": {
+        "A": "Professional and scientific responsibility, and integrity.",
+        "B": "The duty to obey one's manager at all costs.",
+        "C": "The principle of test security.",
+        "D": "The principle of informed consent."
+      },
+      "correctAnswer": "A",
+      "explanation": "Falsifying scores violates honesty, integrity, and professional responsibility.",
+      "topic": "Ethical Principles and Standards of Practice",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q944",
+      "questionText": "Test security is an ethical principle that involves:",
+      "options": {
+        "A": "Sharing test questions and answers publicly online.",
+        "B": "Protecting test materials from public exposure to maintain validity.",
+        "C": "Allowing clients to take test materials home.",
+        "D": "Using outdated and invalid tests."
+      },
+      "correctAnswer": "B",
+      "explanation": "Test security protects the integrity and future validity of assessment materials.",
+      "topic": "Ethical Principles and Standards of Practice",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q945",
+      "questionText": "A parent of a 17-year-old client demands details of what the child discussed in counseling after an assessment. The psychometrician should:",
+      "options": {
+        "A": "Tell the parent everything the adolescent said.",
+        "B": "Explain confidentiality and its limits to parent and adolescent, and generally maintain the adolescent's confidence unless harm risk exists.",
+        "C": "Refuse to speak to the parent at all.",
+        "D": "Tell the parent to ask the adolescent directly."
+      },
+      "correctAnswer": "B",
+      "explanation": "Confidentiality with adolescents must be explained clearly, including its limits.",
+      "topic": "Ethical Principles and Standards of Practice",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q946",
+      "questionText": "Under which circumstances is it ethically permissible to break confidentiality?",
+      "options": {
+        "A": "A colleague is curious about the case.",
+        "B": "The client gives explicit consent to release information.",
+        "C": "The client poses an imminent serious threat of harm to self or a specific other person.",
+        "D": "Both B and C are correct."
+      },
+      "correctAnswer": "D",
+      "explanation": "Confidentiality may be broken with consent or when serious imminent harm is involved.",
+      "topic": "Ethical Principles and Standards of Practice",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q947",
+      "questionText": "A school psychometrician is assessing a student. Informed consent requires that:",
+      "options": {
+        "A": "The assessment is done secretly.",
+        "B": "The student, if mature enough, and parents or guardians are informed of the nature and purpose and give permission before assessment.",
+        "C": "Consent is obtained only after assessment.",
+        "D": "The student is forced to participate."
+      },
+      "correctAnswer": "B",
+      "explanation": "Informed consent requires explanation and permission before assessment begins.",
+      "topic": "Ethical Principles and Standards of Practice",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q948",
+      "questionText": "A psychometrician discovers a significant scoring error in a report already sent to a school for special education eligibility. The ethical action is to:",
+      "options": {
+        "A": "Ignore the error and hope no one notices.",
+        "B": "Correct the error, inform relevant parties, and provide the corrected report and interpretation.",
+        "C": "Blame the test-taker for causing the error.",
+        "D": "Quit immediately."
+      },
+      "correctAnswer": "B",
+      "explanation": "Integrity requires correcting significant errors and informing affected parties.",
+      "topic": "Ethical Principles and Standards of Practice",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q949",
+      "questionText": "When providing feedback on test results to a client, a psychometrician should:",
+      "options": {
+        "A": "Use complex technical jargon to sound professional.",
+        "B": "Provide information clearly, understandably, and respectfully, allowing questions.",
+        "C": "Focus only on weaknesses.",
+        "D": "Refuse to provide feedback."
+      },
+      "correctAnswer": "B",
+      "explanation": "Ethical feedback should be understandable, respectful, and responsive to client questions.",
+      "topic": "Ethical Principles and Standards of Practice",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q950",
+      "questionText": "A psychometrician is asked to use tools known to be culturally biased against a minority group. Ethically, the psychometrician should:",
+      "options": {
+        "A": "Use the tools without question.",
+        "B": "Note potential bias in interpretation and consider supplemental, culturally appropriate methods.",
+        "C": "Refuse to assess anyone from that minority group.",
+        "D": "Manually adjust scores to what they think they should be."
+      },
+      "correctAnswer": "B",
+      "explanation": "Known bias must be acknowledged and addressed with appropriate supplemental methods.",
+      "topic": "Ethical Principles and Standards of Practice",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q951",
+      "questionText": "A psychometrician in private practice sets a fee for assessment services. The ethical way to handle this is to:",
+      "options": {
+        "A": "Inform the client of fees and payment arrangements before starting service.",
+        "B": "Surprise the client with a large bill at the end.",
+        "C": "Charge different clients different amounts without rationale.",
+        "D": "Offer to change results for a higher fee."
+      },
+      "correctAnswer": "A",
+      "explanation": "Financial arrangements should be transparent before services begin.",
+      "topic": "Ethical Principles and Standards of Practice",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q952",
+      "questionText": "Evaluating the ethical appropriateness of an assessment would involve reviewing all of the following except:",
+      "options": {
+        "A": "Whether informed consent was properly obtained.",
+        "B": "Whether tests were appropriate and valid for the purpose and population.",
+        "C": "Whether confidentiality was maintained.",
+        "D": "Whether the psychometrician's office was nicely decorated."
+      },
+      "correctAnswer": "D",
+      "explanation": "Office decoration is not an ethical standard for assessment practice.",
+      "topic": "Ethical Principles and Standards of Practice",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q953",
+      "questionText": "A psychometrician is leaving a clinic. What is their ethical responsibility regarding former clients' test records?",
+      "options": {
+        "A": "Take all records with them for personal use.",
+        "B": "Destroy all records immediately.",
+        "C": "Ensure records are securely and confidentially maintained by the clinic according to ethical and legal requirements.",
+        "D": "Leave records in an unsecured open filing cabinet."
+      },
+      "correctAnswer": "C",
+      "explanation": "Client records must remain secure, confidential, and properly maintained.",
+      "topic": "Ethical Principles and Standards of Practice",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q954",
+      "questionText": "The use of outdated test norms is ethically problematic because:",
+      "options": {
+        "A": "It can lead to inaccurate interpretation of a client's score relative to the current population.",
+        "B": "It makes the test cheaper to use.",
+        "C": "It is a violation of test security.",
+        "D": "It makes the test more reliable."
+      },
+      "correctAnswer": "A",
+      "explanation": "Outdated norms can misrepresent how a client compares with the current population.",
+      "topic": "Ethical Principles and Standards of Practice",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q955",
+      "questionText": "A psychometrician writes an assessment report. The language in the report should be:",
+      "options": {
+        "A": "Vague and ambiguous.",
+        "B": "Objective, data-based, respectful, and free from stigmatizing labels.",
+        "C": "Filled with personal opinions and biases about the client.",
+        "D": "Identical for every client regardless of results."
+      },
+      "correctAnswer": "B",
+      "explanation": "Assessment reports should be objective, respectful, and based on assessment data.",
+      "topic": "Ethical Principles and Standards of Practice",
+      "difficulty": "easy"
     }
   ]
 }
