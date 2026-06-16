@@ -16869,6 +16869,2106 @@
       "explanation": "Duty to warn requires clinicians to protect identifiable third parties when a client poses a serious threat.",
       "topic": "Mental Health Services: Legal and Ethical Issues",
       "difficulty": "easy"
+    },
+    {
+      "id": "q1206",
+      "questionText": "The scientific study of the systematic processes of change and stability in people is known as what?",
+      "options": {
+        "A": "Psychoanalysis",
+        "B": "Human development",
+        "C": "Sociology",
+        "D": "Anthropology"
+      },
+      "correctAnswer": "B",
+      "explanation": "Human development studies patterns of change and stability across the life span.",
+      "topic": "Study of Human Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1207",
+      "questionText": "Which domain of development involves changes in emotions, personality, and social relationships?",
+      "options": {
+        "A": "Cognitive development",
+        "B": "Physical development",
+        "C": "Psychosocial development",
+        "D": "Maturational development"
+      },
+      "correctAnswer": "C",
+      "explanation": "Psychosocial development covers emotional, personality, and social relationship changes.",
+      "topic": "Study of Human Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1208",
+      "questionText": "The idea that a culture or society creates life-span periods, such as adolescence, is called what?",
+      "options": {
+        "A": "Critical period",
+        "B": "Social construction",
+        "C": "Maturation",
+        "D": "Cohort effect"
+      },
+      "correctAnswer": "B",
+      "explanation": "A social construction is a concept created and accepted by a society or culture.",
+      "topic": "Study of Human Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1209",
+      "questionText": "Normative history-graded influences are significant events that shape the behavior and attitudes of a what?",
+      "options": {
+        "A": "Nuclear family",
+        "B": "Social class",
+        "C": "Historical generation",
+        "D": "Culture"
+      },
+      "correctAnswer": "C",
+      "explanation": "History-graded influences affect people who live through the same historical period.",
+      "topic": "Study of Human Development",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1210",
+      "questionText": "The unfolding of a natural sequence of physical and behavioral changes, such as walking and talking, is called what?",
+      "options": {
+        "A": "Heredity",
+        "B": "Environment",
+        "C": "Maturation",
+        "D": "Plasticity"
+      },
+      "correctAnswer": "C",
+      "explanation": "Maturation is the natural unfolding of biological and behavioral development.",
+      "topic": "Study of Human Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1211",
+      "questionText": "Which of the following is NOT one of the major principles of the life-span developmental approach?",
+      "options": {
+        "A": "Development is lifelong.",
+        "B": "Development is unidirectional.",
+        "C": "Development is multidimensional.",
+        "D": "Development shows plasticity."
+      },
+      "correctAnswer": "B",
+      "explanation": "Life-span development is multidirectional, meaning abilities may improve, decline, or change in different ways.",
+      "topic": "Study of Human Development",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1212",
+      "questionText": "A specific time when an event, or its absence, has a specific impact on development is called what?",
+      "options": {
+        "A": "Sensitive period",
+        "B": "Critical period",
+        "C": "Normative event",
+        "D": "Nonnormative event"
+      },
+      "correctAnswer": "B",
+      "explanation": "A critical period is a limited time when certain experiences strongly affect development.",
+      "topic": "Study of Human Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1213",
+      "questionText": "Inborn traits or characteristics inherited from biological parents are called what?",
+      "options": {
+        "A": "Nurture",
+        "B": "Maturation",
+        "C": "Heredity",
+        "D": "Environment"
+      },
+      "correctAnswer": "C",
+      "explanation": "Heredity refers to genetic traits passed from biological parents to offspring.",
+      "topic": "Study of Human Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1214",
+      "questionText": "Which theoretical perspective views development as shaped by unconscious forces that motivate human behavior?",
+      "options": {
+        "A": "Learning perspective",
+        "B": "Cognitive perspective",
+        "C": "Psychoanalytic perspective",
+        "D": "Evolutionary or sociobiological perspective"
+      },
+      "correctAnswer": "C",
+      "explanation": "The psychoanalytic perspective emphasizes unconscious motives and conflicts.",
+      "topic": "Theory and Research",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1215",
+      "questionText": "According to Freud's psychosexual theory, which stage occurs during early childhood?",
+      "options": {
+        "A": "Oral stage",
+        "B": "Anal stage",
+        "C": "Phallic stage",
+        "D": "Latency stage"
+      },
+      "correctAnswer": "C",
+      "explanation": "The phallic stage occurs in early childhood and focuses on awareness of the genitals.",
+      "topic": "Theory and Research",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1216",
+      "questionText": "Erikson's theory of psychosocial development emphasizes what?",
+      "options": {
+        "A": "The influence of culture and society",
+        "B": "Unconscious conflicts",
+        "C": "Observable behaviors",
+        "D": "Information processing"
+      },
+      "correctAnswer": "A",
+      "explanation": "Erikson emphasized social and cultural influences on personality development across the life span.",
+      "topic": "Theory and Research",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1217",
+      "questionText": "In which Erikson stage do young adults seek to make commitments to others and risk isolation if they fail?",
+      "options": {
+        "A": "Identity vs. Identity Confusion",
+        "B": "Intimacy vs. Isolation",
+        "C": "Generativity vs. Stagnation",
+        "D": "Integrity vs. Despair"
+      },
+      "correctAnswer": "B",
+      "explanation": "Young adulthood centers on forming close committed relationships, or facing isolation.",
+      "topic": "Theory and Research",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1218",
+      "questionText": "Which perspective views development as the result of learning based on experience?",
+      "options": {
+        "A": "Psychoanalytic perspective",
+        "B": "Cognitive perspective",
+        "C": "Learning perspective",
+        "D": "Contextual perspective"
+      },
+      "correctAnswer": "C",
+      "explanation": "The learning perspective explains development through experience, conditioning, reinforcement, and modeling.",
+      "topic": "Theory and Research",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1219",
+      "questionText": "In Piaget's theory, which stage allows children to use mental representations and symbolic thought but not yet logical reasoning?",
+      "options": {
+        "A": "Sensorimotor stage",
+        "B": "Preoperational stage",
+        "C": "Concrete operational stage",
+        "D": "Formal operational stage"
+      },
+      "correctAnswer": "B",
+      "explanation": "Preoperational children use symbols and mental representations but often lack logical operations.",
+      "topic": "Theory and Research",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1220",
+      "questionText": "Vygotsky's sociocultural theory emphasizes what?",
+      "options": {
+        "A": "The child as a solitary learner",
+        "B": "The importance of social interaction and collaboration",
+        "C": "The role of unconscious drives",
+        "D": "The influence of evolutionary processes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Vygotsky emphasized learning through social interaction, culture, language, and guided collaboration.",
+      "topic": "Theory and Research",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1221",
+      "questionText": "In Bronfenbrenner's bioecological theory, which system includes settings where a child interacts directly, such as home and school?",
+      "options": {
+        "A": "Mesosystem",
+        "B": "Exosystem",
+        "C": "Macrosystem",
+        "D": "Microsystem"
+      },
+      "correctAnswer": "D",
+      "explanation": "The microsystem includes direct environments such as family, school, peers, and neighborhood.",
+      "topic": "Theory and Research",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1222",
+      "questionText": "A research design that studies people of different ages at the same time to assess age-related differences is called what?",
+      "options": {
+        "A": "Longitudinal study",
+        "B": "Cross-sectional study",
+        "C": "Sequential study",
+        "D": "Case study"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cross-sectional studies compare different age groups at one point in time.",
+      "topic": "Theory and Research",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1223",
+      "questionText": "A rigorously controlled and replicable procedure in which a researcher manipulates variables to assess effects is called what?",
+      "options": {
+        "A": "Correlational study",
+        "B": "Experiment",
+        "C": "Ethnographic study",
+        "D": "Naturalistic observation"
+      },
+      "correctAnswer": "B",
+      "explanation": "An experiment manipulates an independent variable to test its effect on a dependent variable.",
+      "topic": "Theory and Research",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1224",
+      "questionText": "The union of a sperm and an ovum to produce a zygote is called what?",
+      "options": {
+        "A": "Mitosis",
+        "B": "Meiosis",
+        "C": "Fertilization",
+        "D": "Implantation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Fertilization occurs when a sperm cell and ovum unite to form a zygote.",
+      "topic": "Forming a New Life",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1225",
+      "questionText": "Twins conceived by the union of two different ova with two different sperm cells are called what?",
+      "options": {
+        "A": "Monozygotic twins",
+        "B": "Identical twins",
+        "C": "Dizygotic twins",
+        "D": "Conjoined twins"
+      },
+      "correctAnswer": "C",
+      "explanation": "Dizygotic twins come from two separate eggs fertilized by two different sperm cells.",
+      "topic": "Forming a New Life",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1226",
+      "questionText": "Which chemical carries inherited instructions for the development of all cellular forms of life?",
+      "options": {
+        "A": "RNA",
+        "B": "DNA",
+        "C": "Allele",
+        "D": "Chromosome"
+      },
+      "correctAnswer": "B",
+      "explanation": "DNA carries genetic instructions for development and cellular functioning.",
+      "topic": "Forming a New Life",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1227",
+      "questionText": "A child who receives two different alleles for a trait and expresses only the dominant one is what for that trait?",
+      "options": {
+        "A": "Homozygous",
+        "B": "Heterozygous",
+        "C": "Polygenic",
+        "D": "Recessive"
+      },
+      "correctAnswer": "B",
+      "explanation": "Heterozygous means having two different alleles for a trait.",
+      "topic": "Forming a New Life",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1228",
+      "questionText": "The mechanism that turns genes on or off and determines body cell functions is known as what?",
+      "options": {
+        "A": "Genotype",
+        "B": "Phenotype",
+        "C": "Epigenesis",
+        "D": "Heritability"
+      },
+      "correctAnswer": "C",
+      "explanation": "Epigenesis involves mechanisms that regulate gene expression and influence development.",
+      "topic": "Forming a New Life",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1229",
+      "questionText": "Which chromosomal disorder is characterized by an extra 21st chromosome?",
+      "options": {
+        "A": "Turner syndrome",
+        "B": "Klinefelter syndrome",
+        "C": "Down syndrome",
+        "D": "Fragile X syndrome"
+      },
+      "correctAnswer": "C",
+      "explanation": "Down syndrome, or Trisomy 21, is caused by an extra chromosome 21.",
+      "topic": "Forming a New Life",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1230",
+      "questionText": "The principle that development proceeds from the head to the lower parts of the body is called what?",
+      "options": {
+        "A": "Proximodistal principle",
+        "B": "Cephalocaudal principle",
+        "C": "Medial-lateral principle",
+        "D": "Dorsal-ventral principle"
+      },
+      "correctAnswer": "B",
+      "explanation": "The cephalocaudal principle states that development proceeds from head to toe.",
+      "topic": "Forming a New Life",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1231",
+      "questionText": "Which stage of prenatal development is characterized by rapid growth and development of major body systems and organs?",
+      "options": {
+        "A": "Germinal stage",
+        "B": "Embryonic stage",
+        "C": "Fetal stage",
+        "D": "Zygotic stage"
+      },
+      "correctAnswer": "B",
+      "explanation": "The embryonic stage is when major organs and body systems begin to form.",
+      "topic": "Forming a New Life",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1232",
+      "questionText": "An environmental agent, such as a virus or drug, that can interfere with normal prenatal development is called what?",
+      "options": {
+        "A": "Teratogen",
+        "B": "Pathogen",
+        "C": "Carcinogen",
+        "D": "Allergen"
+      },
+      "correctAnswer": "A",
+      "explanation": "A teratogen is any environmental agent that can harm prenatal development.",
+      "topic": "Forming a New Life",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1233",
+      "questionText": "Fetal alcohol syndrome is a combination of abnormalities affecting offspring of mothers who do what?",
+      "options": {
+        "A": "Smoke heavily during pregnancy",
+        "B": "Drink heavily during pregnancy",
+        "C": "Use illicit drugs during pregnancy",
+        "D": "Have poor nutrition during pregnancy"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fetal alcohol syndrome results from heavy alcohol exposure during pregnancy.",
+      "topic": "Forming a New Life",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1234",
+      "questionText": "The act or process of giving birth is called what?",
+      "options": {
+        "A": "Ovulation",
+        "B": "Parturition",
+        "C": "Gestation",
+        "D": "Involution"
+      },
+      "correctAnswer": "B",
+      "explanation": "Parturition is the biological process of labor and childbirth.",
+      "topic": "Birth and Physical Development in the First Three Years",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1235",
+      "questionText": "A surgical procedure to remove a baby from the uterus is called what?",
+      "options": {
+        "A": "Episiotomy",
+        "B": "Forceps delivery",
+        "C": "Cesarean delivery",
+        "D": "Vacuum extraction"
+      },
+      "correctAnswer": "C",
+      "explanation": "Cesarean delivery removes the baby through surgical incisions in the abdomen and uterus.",
+      "topic": "Birth and Physical Development in the First Three Years",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1236",
+      "questionText": "A newborn baby up to 4 weeks old is called what?",
+      "options": {
+        "A": "Infant",
+        "B": "Toddler",
+        "C": "Neonate",
+        "D": "Zygote"
+      },
+      "correctAnswer": "C",
+      "explanation": "A neonate is a newborn during the first 4 weeks after birth.",
+      "topic": "Birth and Physical Development in the First Three Years",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1237",
+      "questionText": "The Apgar scale assesses a newborn's condition based on all of the following EXCEPT what?",
+      "options": {
+        "A": "Appearance or color",
+        "B": "Pulse or heart rate",
+        "C": "Weight",
+        "D": "Respiration or breathing"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Apgar scale measures appearance, pulse, grimace, activity, and respiration, not weight.",
+      "topic": "Birth and Physical Development in the First Three Years",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1238",
+      "questionText": "Low-birth-weight babies are those who weigh less than how much at birth?",
+      "options": {
+        "A": "3.5 pounds or 1,500 grams",
+        "B": "4.5 pounds or 2,000 grams",
+        "C": "5.5 pounds or 2,500 grams",
+        "D": "6.5 pounds or 3,000 grams"
+      },
+      "correctAnswer": "C",
+      "explanation": "Low birth weight is defined as less than 5.5 pounds, or 2,500 grams.",
+      "topic": "Birth and Physical Development in the First Three Years",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1239",
+      "questionText": "A method of skin-to-skin contact in which a newborn is laid face down between the mother's breasts is known as what care?",
+      "options": {
+        "A": "Kangaroo care",
+        "B": "Womb care",
+        "C": "Incubator care",
+        "D": "Attachment care"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kangaroo care uses skin-to-skin contact to support newborn warmth, bonding, and development.",
+      "topic": "Birth and Physical Development in the First Three Years",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1240",
+      "questionText": "The sudden and unexplained death of an apparently healthy infant is called what?",
+      "options": {
+        "A": "Anoxia",
+        "B": "Apnea",
+        "C": "Sudden infant death syndrome",
+        "D": "Respiratory distress syndrome"
+      },
+      "correctAnswer": "C",
+      "explanation": "Sudden infant death syndrome is the unexplained death of a seemingly healthy infant, usually during sleep.",
+      "topic": "Birth and Physical Development in the First Three Years",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1241",
+      "questionText": "Physical skills that involve the large muscles are called what kind of motor skills?",
+      "options": {
+        "A": "Fine motor skills",
+        "B": "Gross motor skills",
+        "C": "Perceptual motor skills",
+        "D": "Sensorimotor skills"
+      },
+      "correctAnswer": "B",
+      "explanation": "Gross motor skills involve large muscles used for actions such as crawling, walking, and jumping.",
+      "topic": "Birth and Physical Development in the First Three Years",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1242",
+      "questionText": "The ability to perceive objects and surfaces in three dimensions is known as what perception?",
+      "options": {
+        "A": "Haptic perception",
+        "B": "Visual perception",
+        "C": "Depth perception",
+        "D": "Olfactory perception"
+      },
+      "correctAnswer": "C",
+      "explanation": "Depth perception allows people to judge distance and three-dimensional space.",
+      "topic": "Birth and Physical Development in the First Three Years",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1243",
+      "questionText": "Which approach to cognitive development seeks to measure intelligence quantitatively?",
+      "options": {
+        "A": "Behaviorist approach",
+        "B": "Psychometric approach",
+        "C": "Piagetian approach",
+        "D": "Information-processing approach"
+      },
+      "correctAnswer": "B",
+      "explanation": "The psychometric approach uses tests and scores to measure intelligence and abilities.",
+      "topic": "Cognitive Development in the First Three Years",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1244",
+      "questionText": "Learning that associates a neutral stimulus with another stimulus that naturally elicits a response is called what?",
+      "options": {
+        "A": "Operant conditioning",
+        "B": "Classical conditioning",
+        "C": "Habituation",
+        "D": "Dishabituation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Classical conditioning occurs when a neutral stimulus becomes associated with a meaningful stimulus.",
+      "topic": "Cognitive Development in the First Three Years",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1245",
+      "questionText": "Piaget's first cognitive stage, in which infants learn through senses and motor activity, is called what?",
+      "options": {
+        "A": "Sensorimotor stage",
+        "B": "Preoperational stage",
+        "C": "Concrete operational stage",
+        "D": "Formal operational stage"
+      },
+      "correctAnswer": "A",
+      "explanation": "In the sensorimotor stage, infants explore the world through sensory and motor actions.",
+      "topic": "Cognitive Development in the First Three Years",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1246",
+      "questionText": "In Piaget's theory, processes by which infants learn to reproduce desired events originally discovered by chance are called what reactions?",
+      "options": {
+        "A": "Circular reactions",
+        "B": "Reflex reactions",
+        "C": "Scheme-based reactions",
+        "D": "Symbolic reactions"
+      },
+      "correctAnswer": "A",
+      "explanation": "Circular reactions are repeated actions that infants reproduce because they find them interesting or rewarding.",
+      "topic": "Cognitive Development in the First Three Years",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1247",
+      "questionText": "The understanding that a person or object still exists when out of sight is called what?",
+      "options": {
+        "A": "Object identity",
+        "B": "Object permanence",
+        "C": "Representational ability",
+        "D": "Symbolic function"
+      },
+      "correctAnswer": "B",
+      "explanation": "Object permanence is the awareness that objects continue to exist even when unseen.",
+      "topic": "Cognitive Development in the First Three Years",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1248",
+      "questionText": "A type of learning in which familiarity with a stimulus reduces, slows, or stops a response is called what?",
+      "options": {
+        "A": "Dishabituation",
+        "B": "Habituation",
+        "C": "Operant conditioning",
+        "D": "Classical conditioning"
+      },
+      "correctAnswer": "B",
+      "explanation": "Habituation occurs when repeated exposure to a stimulus reduces responsiveness.",
+      "topic": "Cognitive Development in the First Three Years",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1249",
+      "questionText": "The ability to distinguish a familiar visual stimulus from an unfamiliar one when both are shown at the same time is what kind of memory?",
+      "options": {
+        "A": "Explicit memory",
+        "B": "Implicit memory",
+        "C": "Working memory",
+        "D": "Visual recognition memory"
+      },
+      "correctAnswer": "D",
+      "explanation": "Visual recognition memory is shown when an infant recognizes a previously seen visual stimulus.",
+      "topic": "Cognitive Development in the First Three Years",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1250",
+      "questionText": "Vygotsky's concept of an adult helping structure a child's activity and bringing the child's understanding closer to the adult's is called what?",
+      "options": {
+        "A": "Scaffolding",
+        "B": "Zone of proximal development",
+        "C": "Guided participation",
+        "D": "Private speech"
+      },
+      "correctAnswer": "C",
+      "explanation": "Guided participation occurs when adults or skilled partners support children's learning during shared activities.",
+      "topic": "Cognitive Development in the First Three Years",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1251",
+      "questionText": "Sounds that are not words, including crying, cooing, and babbling, are known as what kind of speech?",
+      "options": {
+        "A": "Linguistic speech",
+        "B": "Prelinguistic speech",
+        "C": "Holophrastic speech",
+        "D": "Telegraphic speech"
+      },
+      "correctAnswer": "B",
+      "explanation": "Prelinguistic speech includes early vocalizations before meaningful words appear.",
+      "topic": "Cognitive Development in the First Three Years",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1252",
+      "questionText": "A single word that conveys a complete thought is called what?",
+      "options": {
+        "A": "Phoneme",
+        "B": "Morpheme",
+        "C": "Holophrase",
+        "D": "Syntax"
+      },
+      "correctAnswer": "C",
+      "explanation": "A holophrase is a one-word utterance that communicates a full idea.",
+      "topic": "Cognitive Development in the First Three Years",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1253",
+      "questionText": "The relatively consistent blend of emotions, temperament, thought, and behavior that makes a person unique is called what?",
+      "options": {
+        "A": "Personality",
+        "B": "Mood",
+        "C": "Attachment",
+        "D": "Self-concept"
+      },
+      "correctAnswer": "A",
+      "explanation": "Personality refers to the unique and relatively stable pattern of emotions, thoughts, and behaviors.",
+      "topic": "Psychosocial Development in the First Three Years",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1254",
+      "questionText": "Emotions such as embarrassment, empathy, and envy that depend on self-awareness are called what?",
+      "options": {
+        "A": "Primary emotions",
+        "B": "Basic emotions",
+        "C": "Self-conscious emotions",
+        "D": "Self-evaluative emotions"
+      },
+      "correctAnswer": "C",
+      "explanation": "Self-conscious emotions require awareness of the self in relation to others.",
+      "topic": "Psychosocial Development in the First Three Years",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1255",
+      "questionText": "The ability to put oneself in another person's place and feel what the other person feels is called what?",
+      "options": {
+        "A": "Sympathy",
+        "B": "Empathy",
+        "C": "Altruism",
+        "D": "Compassion"
+      },
+      "correctAnswer": "B",
+      "explanation": "Empathy is the ability to understand and share another person's emotional experience.",
+      "topic": "Psychosocial Development in the First Three Years",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1256",
+      "questionText": "An infant's characteristic disposition or style of approaching and reacting to situations is called what?",
+      "options": {
+        "A": "Personality",
+        "B": "Temperament",
+        "C": "Mood",
+        "D": "Attachment"
+      },
+      "correctAnswer": "B",
+      "explanation": "Temperament refers to biologically based patterns of emotional and behavioral response.",
+      "topic": "Psychosocial Development in the First Three Years",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1257",
+      "questionText": "The appropriateness of environmental demands and constraints to a child's temperament is known as what?",
+      "options": {
+        "A": "Goodness of fit",
+        "B": "Match-mismatch",
+        "C": "Bidirectionality",
+        "D": "Reciprocal determinism"
+      },
+      "correctAnswer": "A",
+      "explanation": "Goodness of fit occurs when the environment matches a child's temperament and needs.",
+      "topic": "Psychosocial Development in the First Three Years",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1258",
+      "questionText": "According to Erikson, the first psychosocial stage in which infants develop a sense of reliability of people and objects is what?",
+      "options": {
+        "A": "Autonomy vs. Shame and Doubt",
+        "B": "Initiative vs. Guilt",
+        "C": "Industry vs. Inferiority",
+        "D": "Trust vs. Mistrust"
+      },
+      "correctAnswer": "D",
+      "explanation": "Trust vs. mistrust develops when caregivers reliably meet an infant's needs.",
+      "topic": "Psychosocial Development in the First Three Years",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1259",
+      "questionText": "Which laboratory technique is used to study infant attachment?",
+      "options": {
+        "A": "Strange Situation",
+        "B": "Visual cliff",
+        "C": "A-not-B task",
+        "D": "Three-mountain task"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Strange Situation assesses attachment patterns through separations and reunions with a caregiver.",
+      "topic": "Psychosocial Development in the First Three Years",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1260",
+      "questionText": "In the Strange Situation, which attachment pattern involves an infant becoming anxious before the caregiver leaves and both seeking and resisting contact on return?",
+      "options": {
+        "A": "Secure attachment",
+        "B": "Avoidant attachment",
+        "C": "Ambivalent or resistant attachment",
+        "D": "Disorganized-disoriented attachment"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ambivalent attachment involves distress and mixed contact-seeking and resistance when the caregiver returns.",
+      "topic": "Psychosocial Development in the First Three Years",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1261",
+      "questionText": "The process by which an infant and caregiver communicate emotional states to each other and respond appropriately is called what?",
+      "options": {
+        "A": "Social referencing",
+        "B": "Mutual regulation",
+        "C": "Attachment",
+        "D": "Scaffolding"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mutual regulation is the back-and-forth emotional communication between infant and caregiver.",
+      "topic": "Psychosocial Development in the First Three Years",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1262",
+      "questionText": "The development of habits, skills, values, and motives shared by responsible members of society is called what?",
+      "options": {
+        "A": "Socialization",
+        "B": "Internalization",
+        "C": "Acculturation",
+        "D": "Enculturation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Socialization is the process of learning culturally expected behaviors, values, and roles.",
+      "topic": "Psychosocial Development in the First Three Years",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1263",
+      "questionText": "Repeated urination in clothing or in bed is called what?",
+      "options": {
+        "A": "Encopresis",
+        "B": "Enuresis",
+        "C": "Somnambulism",
+        "D": "Pavor nocturnus"
+      },
+      "correctAnswer": "B",
+      "explanation": "Enuresis is repeated urination in bed or clothing beyond the expected developmental age.",
+      "topic": "Physical and Cognitive Development in Early Childhood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1264",
+      "questionText": "The preference for using a particular hand is known as what?",
+      "options": {
+        "A": "Laterality",
+        "B": "Dominance",
+        "C": "Handedness",
+        "D": "Preference"
+      },
+      "correctAnswer": "C",
+      "explanation": "Handedness is the tendency to use one hand more skillfully or frequently than the other.",
+      "topic": "Physical and Cognitive Development in Early Childhood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1265",
+      "questionText": "In Piaget's theory, which second major stage is characterized by expansion of symbolic thought?",
+      "options": {
+        "A": "Sensorimotor stage",
+        "B": "Preoperational stage",
+        "C": "Concrete operational stage",
+        "D": "Formal operational stage"
+      },
+      "correctAnswer": "B",
+      "explanation": "The preoperational stage features symbolic thought, pretend play, and language growth.",
+      "topic": "Physical and Cognitive Development in Early Childhood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1266",
+      "questionText": "Play involving imaginary people and situations is called what?",
+      "options": {
+        "A": "Functional play",
+        "B": "Constructive play",
+        "C": "Formal play",
+        "D": "Pretend play"
+      },
+      "correctAnswer": "D",
+      "explanation": "Pretend play uses imagination and symbolic representation.",
+      "topic": "Physical and Cognitive Development in Early Childhood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1267",
+      "questionText": "The tendency of preoperational children to focus on one aspect of a situation and neglect others is called what?",
+      "options": {
+        "A": "Egocentrism",
+        "B": "Conservation",
+        "C": "Centration",
+        "D": "Irreversibility"
+      },
+      "correctAnswer": "C",
+      "explanation": "Centration is focusing on one feature while ignoring other relevant features.",
+      "topic": "Physical and Cognitive Development in Early Childhood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1268",
+      "questionText": "Piaget's term for the inability to consider another person's point of view is what?",
+      "options": {
+        "A": "Centration",
+        "B": "Conservation",
+        "C": "Animism",
+        "D": "Egocentrism"
+      },
+      "correctAnswer": "D",
+      "explanation": "Egocentrism is difficulty seeing a situation from someone else's perspective.",
+      "topic": "Physical and Cognitive Development in Early Childhood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1269",
+      "questionText": "The awareness and understanding of mental processes is called what?",
+      "options": {
+        "A": "Metacognition",
+        "B": "Metamemory",
+        "C": "Theory of mind",
+        "D": "Executive function"
+      },
+      "correctAnswer": "C",
+      "explanation": "Theory of mind is understanding that people have thoughts, beliefs, desires, and emotions.",
+      "topic": "Physical and Cognitive Development in Early Childhood",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1270",
+      "questionText": "Memory that produces scripts of familiar routines to guide behavior is called what kind of memory?",
+      "options": {
+        "A": "Episodic memory",
+        "B": "Autobiographical memory",
+        "C": "Generic memory",
+        "D": "Semantic memory"
+      },
+      "correctAnswer": "C",
+      "explanation": "Generic memory creates scripts for repeated familiar events and routines.",
+      "topic": "Physical and Cognitive Development in Early Childhood",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1271",
+      "questionText": "Vygotsky's term for the difference between what a child can do alone and what the child can do with help is what?",
+      "options": {
+        "A": "Zone of proximal development",
+        "B": "Scaffolding",
+        "C": "Guided participation",
+        "D": "Private speech"
+      },
+      "correctAnswer": "A",
+      "explanation": "The zone of proximal development is the gap between independent ability and assisted performance.",
+      "topic": "Physical and Cognitive Development in Early Childhood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1272",
+      "questionText": "The process by which a child absorbs the meaning of a new word after hearing it once or twice in conversation is called what?",
+      "options": {
+        "A": "Syntactic bootstrapping",
+        "B": "Fast mapping",
+        "C": "Overextension",
+        "D": "Underextension"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fast mapping allows young children to quickly connect new words with meanings.",
+      "topic": "Physical and Cognitive Development in Early Childhood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1273",
+      "questionText": "The judgment a person makes about their own self-worth is called what?",
+      "options": {
+        "A": "Self-concept",
+        "B": "Self-definition",
+        "C": "Self-esteem",
+        "D": "Real self"
+      },
+      "correctAnswer": "C",
+      "explanation": "Self-esteem is a person's evaluation of their own worth or value.",
+      "topic": "Psychosocial Development in Early Childhood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1274",
+      "questionText": "Erikson's third psychosocial stage, in which children balance pursuing goals with reservations about doing so, is what?",
+      "options": {
+        "A": "Autonomy vs. Shame and Doubt",
+        "B": "Trust vs. Mistrust",
+        "C": "Initiative vs. Guilt",
+        "D": "Industry vs. Inferiority"
+      },
+      "correctAnswer": "C",
+      "explanation": "Initiative vs. guilt involves learning to plan and act while managing guilt or limits.",
+      "topic": "Psychosocial Development in Early Childhood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1275",
+      "questionText": "Behaviors, interests, attitudes, and skills that a culture considers appropriate for each sex are called what?",
+      "options": {
+        "A": "Gender roles",
+        "B": "Gender identity",
+        "C": "Gender stereotypes",
+        "D": "Gender typing"
+      },
+      "correctAnswer": "A",
+      "explanation": "Gender roles are culturally defined expectations for behavior based on sex or gender.",
+      "topic": "Psychosocial Development in Early Childhood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1276",
+      "questionText": "Preconceived generalizations about male or female role behavior are called what?",
+      "options": {
+        "A": "Gender roles",
+        "B": "Gender stereotypes",
+        "C": "Gender identity",
+        "D": "Gender typing"
+      },
+      "correctAnswer": "B",
+      "explanation": "Gender stereotypes are broad beliefs or assumptions about males and females.",
+      "topic": "Psychosocial Development in Early Childhood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1277",
+      "questionText": "According to Kohlberg, the awareness that one will always be male or female is called what?",
+      "options": {
+        "A": "Gender identity",
+        "B": "Gender stability",
+        "C": "Gender consistency",
+        "D": "Gender constancy"
+      },
+      "correctAnswer": "D",
+      "explanation": "Gender constancy is understanding that gender remains stable over time and situations.",
+      "topic": "Psychosocial Development in Early Childhood",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1278",
+      "questionText": "In Parten's play categories, children playing independently beside rather than with other children are engaged in what kind of play?",
+      "options": {
+        "A": "Solitary play",
+        "B": "Onlooker play",
+        "C": "Parallel play",
+        "D": "Associative play"
+      },
+      "correctAnswer": "C",
+      "explanation": "Parallel play occurs when children play near each other but do not directly interact.",
+      "topic": "Psychosocial Development in Early Childhood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1279",
+      "questionText": "The use of physical force intended to cause pain, but not injury, to correct or control behavior is called what?",
+      "options": {
+        "A": "Physical abuse",
+        "B": "Power assertion",
+        "C": "Corporal punishment",
+        "D": "Inductive discipline"
+      },
+      "correctAnswer": "C",
+      "explanation": "Corporal punishment uses physical force as discipline with the intention of correcting behavior.",
+      "topic": "Psychosocial Development in Early Childhood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1280",
+      "questionText": "In Baumrind's terminology, which parenting style blends respect for a child's individuality with an effort to instill social values?",
+      "options": {
+        "A": "Authoritarian",
+        "B": "Permissive",
+        "C": "Authoritative",
+        "D": "Neglectful"
+      },
+      "correctAnswer": "C",
+      "explanation": "Authoritative parenting combines warmth, respect, guidance, and reasonable control.",
+      "topic": "Psychosocial Development in Early Childhood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1281",
+      "questionText": "Aggressive behavior used as a means of achieving a goal is called what kind of aggression?",
+      "options": {
+        "A": "Overt aggression",
+        "B": "Relational aggression",
+        "C": "Hostile aggression",
+        "D": "Instrumental aggression"
+      },
+      "correctAnswer": "D",
+      "explanation": "Instrumental aggression is used to obtain something, such as an object, status, or goal.",
+      "topic": "Psychosocial Development in Early Childhood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1282",
+      "questionText": "Vigorous play involving wrestling, hitting, and chasing, often with laughing and screaming, is called what?",
+      "options": {
+        "A": "Aggressive play",
+        "B": "Hostile play",
+        "C": "Rough-and-tumble play",
+        "D": "Instrumental play"
+      },
+      "correctAnswer": "C",
+      "explanation": "Rough-and-tumble play is energetic physical play that is usually playful rather than hostile.",
+      "topic": "Physical and Cognitive Development in Middle Childhood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1283",
+      "questionText": "A descriptive and evaluative belief about one's appearance is called what?",
+      "options": {
+        "A": "Self-concept",
+        "B": "Self-esteem",
+        "C": "Body image",
+        "D": "Self-definition"
+      },
+      "correctAnswer": "C",
+      "explanation": "Body image is how a person perceives and evaluates their physical appearance.",
+      "topic": "Physical and Cognitive Development in Middle Childhood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1284",
+      "questionText": "A chronic respiratory disease marked by sudden attacks of coughing, wheezing, and breathing difficulty is called what?",
+      "options": {
+        "A": "Bronchitis",
+        "B": "Pneumonia",
+        "C": "Asthma",
+        "D": "Emphysema"
+      },
+      "correctAnswer": "C",
+      "explanation": "Asthma involves airway inflammation and episodes of wheezing, coughing, and breathing difficulty.",
+      "topic": "Physical and Cognitive Development in Middle Childhood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1285",
+      "questionText": "Piaget's third cognitive stage, during which children develop logical but not abstract thinking, is what?",
+      "options": {
+        "A": "Sensorimotor stage",
+        "B": "Preoperational stage",
+        "C": "Concrete operational stage",
+        "D": "Formal operational stage"
+      },
+      "correctAnswer": "C",
+      "explanation": "Concrete operational children can reason logically about concrete events and objects.",
+      "topic": "Physical and Cognitive Development in Middle Childhood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1286",
+      "questionText": "The ability to order items along a dimension is known as what?",
+      "options": {
+        "A": "Transitive inference",
+        "B": "Class inclusion",
+        "C": "Seriation",
+        "D": "Conservation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Seriation is arranging objects in order, such as by size, length, or number.",
+      "topic": "Physical and Cognitive Development in Middle Childhood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1287",
+      "questionText": "Understanding the relationship between a whole and its parts is called what?",
+      "options": {
+        "A": "Seriation",
+        "B": "Transitive inference",
+        "C": "Class inclusion",
+        "D": "Conservation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Class inclusion is understanding how subclasses relate to a larger category.",
+      "topic": "Physical and Cognitive Development in Middle Childhood",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1288",
+      "questionText": "Thinking that produces a variety of fresh and diverse possibilities is called what?",
+      "options": {
+        "A": "Convergent thinking",
+        "B": "Divergent thinking",
+        "C": "Creative thinking",
+        "D": "Critical thinking"
+      },
+      "correctAnswer": "B",
+      "explanation": "Divergent thinking generates many possible solutions or ideas.",
+      "topic": "Physical and Cognitive Development in Middle Childhood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1289",
+      "questionText": "The practical knowledge needed to use language for communicative purposes is called what?",
+      "options": {
+        "A": "Syntax",
+        "B": "Semantics",
+        "C": "Phonology",
+        "D": "Pragmatics"
+      },
+      "correctAnswer": "D",
+      "explanation": "Pragmatics concerns the social and practical rules for using language effectively.",
+      "topic": "Physical and Cognitive Development in Middle Childhood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1290",
+      "questionText": "Erikson's fourth psychosocial stage, in which children learn productive skills or feel inferior, is what?",
+      "options": {
+        "A": "Initiative vs. Guilt",
+        "B": "Industry vs. Inferiority",
+        "C": "Identity vs. Identity Confusion",
+        "D": "Autonomy vs. Shame and Doubt"
+      },
+      "correctAnswer": "B",
+      "explanation": "Industry vs. inferiority involves developing competence in school, social, and cultural skills.",
+      "topic": "Psychosocial Development in Middle Childhood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1291",
+      "questionText": "A transitional stage of behavior control in which parents provide general supervision while children regulate moment-to-moment behavior is called what?",
+      "options": {
+        "A": "Coregulation",
+        "B": "Scaffolding",
+        "C": "Guided participation",
+        "D": "Self-efficacy"
+      },
+      "correctAnswer": "A",
+      "explanation": "Coregulation is shared control between parents and children during middle childhood.",
+      "topic": "Psychosocial Development in Middle Childhood",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1292",
+      "questionText": "Behaviors by which a child acts out emotional difficulties, such as aggression or hostility, are called what?",
+      "options": {
+        "A": "Internalizing behaviors",
+        "B": "Externalizing behaviors",
+        "C": "Prosocial behaviors",
+        "D": "Antisocial behaviors"
+      },
+      "correctAnswer": "B",
+      "explanation": "Externalizing behaviors direct emotional problems outward through actions such as aggression or defiance.",
+      "topic": "Psychosocial Development in Middle Childhood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1293",
+      "questionText": "An unfavorable attitude toward members of certain groups outside one's own is called what?",
+      "options": {
+        "A": "Discrimination",
+        "B": "Stereotyping",
+        "C": "Prejudice",
+        "D": "Bigotry"
+      },
+      "correctAnswer": "C",
+      "explanation": "Prejudice is a negative attitude toward members of a group.",
+      "topic": "Psychosocial Development in Middle Childhood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1294",
+      "questionText": "Aggression deliberately and persistently directed against a particular target or victim is called what?",
+      "options": {
+        "A": "Hostile aggression",
+        "B": "Instrumental aggression",
+        "C": "Bullying",
+        "D": "Overt aggression"
+      },
+      "correctAnswer": "C",
+      "explanation": "Bullying involves repeated aggression directed at a specific victim, often with a power imbalance.",
+      "topic": "Psychosocial Development in Middle Childhood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1295",
+      "questionText": "A persistent pattern in middle childhood marked by negativity, hostility, and defiance is called what?",
+      "options": {
+        "A": "Conduct disorder",
+        "B": "Oppositional defiant disorder",
+        "C": "Generalized anxiety disorder",
+        "D": "Social phobia"
+      },
+      "correctAnswer": "B",
+      "explanation": "Oppositional defiant disorder involves persistent defiant, hostile, and negativistic behavior.",
+      "topic": "Psychosocial Development in Middle Childhood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1296",
+      "questionText": "Children who function well despite adverse circumstances or bounce back from trauma are called what?",
+      "options": {
+        "A": "Resilient children",
+        "B": "Invulnerable children",
+        "C": "Hardy children",
+        "D": "Ego-resilient children"
+      },
+      "correctAnswer": "A",
+      "explanation": "Resilient children adapt well despite hardship, stress, or trauma.",
+      "topic": "Psychosocial Development in Middle Childhood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1297",
+      "questionText": "The developmental transition between childhood and adulthood involving major physical, cognitive, and psychosocial changes is called what?",
+      "options": {
+        "A": "Puberty",
+        "B": "Adolescence",
+        "C": "Emerging adulthood",
+        "D": "Young adulthood"
+      },
+      "correctAnswer": "B",
+      "explanation": "Adolescence is the transitional period between childhood and adulthood.",
+      "topic": "Physical and Cognitive Development in Adolescence",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1298",
+      "questionText": "The process by which a person attains sexual maturity and the ability to reproduce is called what?",
+      "options": {
+        "A": "Adolescence",
+        "B": "Menarche",
+        "C": "Spermarche",
+        "D": "Puberty"
+      },
+      "correctAnswer": "D",
+      "explanation": "Puberty is the biological process of sexual maturation and reproductive capability.",
+      "topic": "Physical and Cognitive Development in Adolescence",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1299",
+      "questionText": "Physiological signs of sexual maturation that do not directly involve the sex organs are called what sex characteristics?",
+      "options": {
+        "A": "Primary sex characteristics",
+        "B": "Secondary sex characteristics",
+        "C": "Tertiary sex characteristics",
+        "D": "Ancillary sex characteristics"
+      },
+      "correctAnswer": "B",
+      "explanation": "Secondary sex characteristics include features such as breast development, voice changes, and body hair.",
+      "topic": "Physical and Cognitive Development in Adolescence",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1300",
+      "questionText": "A sharp increase in height and weight that precedes sexual maturity is called what?",
+      "options": {
+        "A": "Growth spurt",
+        "B": "Adolescent growth spurt",
+        "C": "Pubertal growth spurt",
+        "D": "Maturational growth spurt"
+      },
+      "correctAnswer": "B",
+      "explanation": "The adolescent growth spurt is the rapid increase in height and weight before sexual maturity.",
+      "topic": "Physical and Cognitive Development in Adolescence",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1301",
+      "questionText": "Piaget's final stage of cognitive development, marked by abstract thinking, is what?",
+      "options": {
+        "A": "Concrete operations",
+        "B": "Formal operations",
+        "C": "Postformal thought",
+        "D": "Reflective thinking"
+      },
+      "correctAnswer": "B",
+      "explanation": "Formal operations allow abstract, hypothetical, and systematic reasoning.",
+      "topic": "Physical and Cognitive Development in Adolescence",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1302",
+      "questionText": "The ability to develop, consider, and test hypotheses is called what?",
+      "options": {
+        "A": "Inductive reasoning",
+        "B": "Deductive reasoning",
+        "C": "Hypothetical-deductive reasoning",
+        "D": "Transductive reasoning"
+      },
+      "correctAnswer": "C",
+      "explanation": "Hypothetical-deductive reasoning involves forming hypotheses and logically testing them.",
+      "topic": "Physical and Cognitive Development in Adolescence",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1303",
+      "questionText": "Kohlberg's first level of moral reasoning, in which rules are obeyed to gain rewards or avoid punishment, is called what?",
+      "options": {
+        "A": "Preconventional morality",
+        "B": "Conventional morality",
+        "C": "Postconventional morality",
+        "D": "Principled morality"
+      },
+      "correctAnswer": "A",
+      "explanation": "Preconventional morality is externally controlled and based on punishment, reward, or self-interest.",
+      "topic": "Physical and Cognitive Development in Adolescence",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1304",
+      "questionText": "According to Erikson, a coherent conception of the self made up of committed goals, values, and beliefs is called what?",
+      "options": {
+        "A": "Self-concept",
+        "B": "Self-esteem",
+        "C": "Identity",
+        "D": "Individuation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Identity is a coherent sense of self based on commitments to values, beliefs, and goals.",
+      "topic": "Psychosocial Development in Adolescence",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1305",
+      "questionText": "Erikson's fifth stage, in which adolescents seek to develop a coherent sense of self, is called what?",
+      "options": {
+        "A": "Intimacy vs. Isolation",
+        "B": "Identity vs. Identity Confusion",
+        "C": "Generativity vs. Stagnation",
+        "D": "Integrity vs. Despair"
+      },
+      "correctAnswer": "B",
+      "explanation": "Identity vs. identity confusion is the adolescent task of forming a stable identity.",
+      "topic": "Psychosocial Development in Adolescence",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1306",
+      "questionText": "Marcia's term for a period of conscious decision making related to identity formation is what?",
+      "options": {
+        "A": "Crisis",
+        "B": "Commitment",
+        "C": "Moratorium",
+        "D": "Diffusion"
+      },
+      "correctAnswer": "A",
+      "explanation": "In Marcia's theory, crisis refers to active exploration and decision making about identity.",
+      "topic": "Psychosocial Development in Adolescence",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1307",
+      "questionText": "Parental practices that teach children about their racial or ethnic heritage and promote cultural pride are called what?",
+      "options": {
+        "A": "Acculturation",
+        "B": "Enculturation",
+        "C": "Cultural socialization",
+        "D": "Ethnic socialization"
+      },
+      "correctAnswer": "C",
+      "explanation": "Cultural socialization teaches heritage, traditions, customs, and pride in one's cultural background.",
+      "topic": "Psychosocial Development in Adolescence",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1308",
+      "questionText": "A focus of consistent sexual, romantic, and affectionate interest is called a person's what?",
+      "options": {
+        "A": "Sexual identity",
+        "B": "Gender identity",
+        "C": "Sexual orientation",
+        "D": "Gender role"
+      },
+      "correctAnswer": "C",
+      "explanation": "Sexual orientation describes the direction of sexual, romantic, or affectionate attraction.",
+      "topic": "Psychosocial Development in Adolescence",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1309",
+      "questionText": "A pattern of emotional turmoil in a minority of adolescents that may involve family conflict and reckless behavior is called what?",
+      "options": {
+        "A": "Individuation",
+        "B": "Adolescent rebellion",
+        "C": "Identity confusion",
+        "D": "Negative identity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Adolescent rebellion refers to conflict and turmoil sometimes seen during adolescence, though not universal.",
+      "topic": "Psychosocial Development in Adolescence",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1310",
+      "questionText": "A proposed transitional period between adolescence and adulthood commonly found in industrialized countries is called what?",
+      "options": {
+        "A": "Late adolescence",
+        "B": "Post-adolescence",
+        "C": "Pre-adulthood",
+        "D": "Emerging adulthood"
+      },
+      "correctAnswer": "D",
+      "explanation": "Emerging adulthood describes the transition from adolescence to adult roles, often in industrialized societies.",
+      "topic": "Physical and Cognitive Development in Emerging and Young Adulthood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1311",
+      "questionText": "A type of logical thinking that becomes more prominent in adulthood and involves continuous active evaluation of information and beliefs is called what?",
+      "options": {
+        "A": "Formal operational thinking",
+        "B": "Postformal thinking",
+        "C": "Reflective thinking",
+        "D": "Critical thinking"
+      },
+      "correctAnswer": "C",
+      "explanation": "Reflective thinking involves active, persistent evaluation of evidence, assumptions, and beliefs.",
+      "topic": "Physical and Cognitive Development in Emerging and Young Adulthood",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1312",
+      "questionText": "Mature thinking that relies on subjective experience and intuition as well as logic is called what?",
+      "options": {
+        "A": "Formal operational thought",
+        "B": "Postformal thought",
+        "C": "Reflective thought",
+        "D": "Dialectical thought"
+      },
+      "correctAnswer": "B",
+      "explanation": "Postformal thought integrates logic with experience, emotion, ambiguity, and practical judgment.",
+      "topic": "Physical and Cognitive Development in Emerging and Young Adulthood",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1313",
+      "questionText": "Salovey and Mayer's term for the ability to understand and regulate emotions is what?",
+      "options": {
+        "A": "Emotional intelligence",
+        "B": "Affective intelligence",
+        "C": "Social intelligence",
+        "D": "Personal intelligence"
+      },
+      "correctAnswer": "A",
+      "explanation": "Emotional intelligence involves perceiving, understanding, using, and managing emotions effectively.",
+      "topic": "Physical and Cognitive Development in Emerging and Young Adulthood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1314",
+      "questionText": "The inability to conceive a child after 12 months of sexual intercourse without birth control is called what?",
+      "options": {
+        "A": "Sterility",
+        "B": "Infertility",
+        "C": "Impotence",
+        "D": "Dyspareunia"
+      },
+      "correctAnswer": "B",
+      "explanation": "Infertility is commonly defined as inability to conceive after 12 months of unprotected intercourse.",
+      "topic": "Physical and Cognitive Development in Emerging and Young Adulthood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1315",
+      "questionText": "The process that underlies the shift to an adult identity is called what?",
+      "options": {
+        "A": "Recentering",
+        "B": "Centering",
+        "C": "Decentering",
+        "D": "Refocusing"
+      },
+      "correctAnswer": "A",
+      "explanation": "Recentering is the developmental shift toward adult identity and independence.",
+      "topic": "Psychosocial Development in Emerging and Young Adulthood",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1316",
+      "questionText": "Theoretical models that describe psychosocial development as a definite sequence of age-related changes are called what?",
+      "options": {
+        "A": "Trait models",
+        "B": "Typological models",
+        "C": "Timing-of-events models",
+        "D": "Normative-stage models"
+      },
+      "correctAnswer": "D",
+      "explanation": "Normative-stage models propose predictable age-related stages in psychosocial development.",
+      "topic": "Psychosocial Development in Emerging and Young Adulthood",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1317",
+      "questionText": "The set of cultural norms or expectations for when important life events should occur is called what?",
+      "options": {
+        "A": "Social clock",
+        "B": "Cultural timetable",
+        "C": "Developmental schedule",
+        "D": "Life course calendar"
+      },
+      "correctAnswer": "A",
+      "explanation": "The social clock refers to cultural expectations for timing of milestones such as marriage or parenthood.",
+      "topic": "Psychosocial Development in Emerging and Young Adulthood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1318",
+      "questionText": "Sternberg's theory that love depends on intimacy, passion, and commitment is called what?",
+      "options": {
+        "A": "Triangular theory of love",
+        "B": "Three-factor theory of love",
+        "C": "Triarchic theory of love",
+        "D": "Trilateral theory of love"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sternberg's triangular theory explains love through intimacy, passion, and commitment.",
+      "topic": "Psychosocial Development in Emerging and Young Adulthood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1319",
+      "questionText": "Friends who are considered and behave like family members are known as what?",
+      "options": {
+        "A": "Fictive kin",
+        "B": "Pseudo-family",
+        "C": "Social convoy",
+        "D": "Support network"
+      },
+      "correctAnswer": "A",
+      "explanation": "Fictive kin are nonrelatives who are treated as family members.",
+      "topic": "Psychosocial Development in Emerging and Young Adulthood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1320",
+      "questionText": "Age-related progressive loss of the eyes' ability to focus on nearby objects due to reduced lens elasticity is called what?",
+      "options": {
+        "A": "Myopia",
+        "B": "Presbyopia",
+        "C": "Glaucoma",
+        "D": "Cataracts"
+      },
+      "correctAnswer": "B",
+      "explanation": "Presbyopia is the age-related decline in near focusing ability.",
+      "topic": "Physical and Cognitive Development in Middle Adulthood",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1321",
+      "questionText": "Age-related gradual hearing loss that accelerates after age 55 is called what?",
+      "options": {
+        "A": "Presbycusis",
+        "B": "Tinnitus",
+        "C": "Otosclerosis",
+        "D": "Meniere's disease"
+      },
+      "correctAnswer": "A",
+      "explanation": "Presbycusis is age-related hearing loss, especially affecting higher frequencies.",
+      "topic": "Physical and Cognitive Development in Middle Adulthood",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1322",
+      "questionText": "Cessation of menstruation and the ability to bear children is called what?",
+      "options": {
+        "A": "Perimenopause",
+        "B": "Climacteric",
+        "C": "Menopause",
+        "D": "Amenorrhea"
+      },
+      "correctAnswer": "C",
+      "explanation": "Menopause is the permanent end of menstruation and reproductive ability.",
+      "topic": "Physical and Cognitive Development in Middle Adulthood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1323",
+      "questionText": "A man's inability to achieve or maintain an erection sufficient for satisfactory sexual performance is called what?",
+      "options": {
+        "A": "Infertility",
+        "B": "Sterility",
+        "C": "Impotence",
+        "D": "Erectile dysfunction"
+      },
+      "correctAnswer": "D",
+      "explanation": "Erectile dysfunction is difficulty achieving or maintaining an erection sufficient for sexual activity.",
+      "topic": "Physical and Cognitive Development in Middle Adulthood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1324",
+      "questionText": "A condition in which bones become thin and brittle due to rapid calcium depletion is called what?",
+      "options": {
+        "A": "Osteoarthritis",
+        "B": "Osteoporosis",
+        "C": "Osteomalacia",
+        "D": "Rickets"
+      },
+      "correctAnswer": "B",
+      "explanation": "Osteoporosis weakens bones, increasing brittleness and fracture risk.",
+      "topic": "Physical and Cognitive Development in Middle Adulthood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1325",
+      "questionText": "Which type of intelligence is applied to novel problems and is relatively independent of education and culture?",
+      "options": {
+        "A": "Fluid intelligence",
+        "B": "Crystallized intelligence",
+        "C": "Componential intelligence",
+        "D": "Experiential intelligence"
+      },
+      "correctAnswer": "A",
+      "explanation": "Fluid intelligence involves solving new problems and reasoning in unfamiliar situations.",
+      "topic": "Physical and Cognitive Development in Middle Adulthood",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1326",
+      "questionText": "The process that allows expertise to compensate for declines in information processing by bundling relevant knowledge together is called what?",
+      "options": {
+        "A": "Encapsulation",
+        "B": "Integration",
+        "C": "Specialization",
+        "D": "Chunking"
+      },
+      "correctAnswer": "A",
+      "explanation": "Encapsulation allows accumulated expertise to support thinking despite processing declines.",
+      "topic": "Physical and Cognitive Development in Middle Adulthood",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q1327",
+      "questionText": "Erikson's term for mature adults' concern with establishing, guiding, and influencing the next generation is what?",
+      "options": {
+        "A": "Generativity",
+        "B": "Stagnation",
+        "C": "Integrity",
+        "D": "Care"
+      },
+      "correctAnswer": "A",
+      "explanation": "Generativity involves caring for and contributing to future generations.",
+      "topic": "Psychosocial Development in Middle Adulthood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1328",
+      "questionText": "A stressful life period caused by reviewing and reevaluating one's past, typically in the early to middle forties, is called what?",
+      "options": {
+        "A": "Midlife review",
+        "B": "Midlife transition",
+        "C": "Midlife crisis",
+        "D": "Midlife turning point"
+      },
+      "correctAnswer": "C",
+      "explanation": "A midlife crisis involves stressful reevaluation of life, goals, identity, and choices.",
+      "topic": "Psychosocial Development in Middle Adulthood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1329",
+      "questionText": "Whitbourne's theory of identity development based on assimilation and accommodation is called what?",
+      "options": {
+        "A": "Identity process theory",
+        "B": "Identity schema theory",
+        "C": "Identity balance theory",
+        "D": "Identity style theory"
+      },
+      "correctAnswer": "A",
+      "explanation": "Identity process theory explains adult identity through assimilation, accommodation, and balance.",
+      "topic": "Psychosocial Development in Middle Adulthood",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q1330",
+      "questionText": "Which theory says people move through life surrounded by concentric circles of intimate relationships they rely on for assistance?",
+      "options": {
+        "A": "Social convoy theory",
+        "B": "Socioemotional selectivity theory",
+        "C": "Social network theory",
+        "D": "Support system theory"
+      },
+      "correctAnswer": "A",
+      "explanation": "Social convoy theory describes lifelong networks of close relationships that provide support.",
+      "topic": "Psychosocial Development in Middle Adulthood",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1331",
+      "questionText": "The transitional parenting phase after the last child leaves the parents' home is called what?",
+      "options": {
+        "A": "Revolving door syndrome",
+        "B": "Boomerang phenomenon",
+        "C": "Empty nest",
+        "D": "Launching phase"
+      },
+      "correctAnswer": "C",
+      "explanation": "The empty nest is the phase when children have left the parental home.",
+      "topic": "Psychosocial Development in Middle Adulthood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1332",
+      "questionText": "Middle-aged adults squeezed by the competing needs of raising children and caring for elderly parents are in what generation?",
+      "options": {
+        "A": "Sandwich generation",
+        "B": "Bridge generation",
+        "C": "Pivot generation",
+        "D": "Crossover generation"
+      },
+      "correctAnswer": "A",
+      "explanation": "The sandwich generation cares for both younger and older family members.",
+      "topic": "Psychosocial Development in Middle Adulthood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1333",
+      "questionText": "Prejudice or discrimination against a person based on age is called what?",
+      "options": {
+        "A": "Gerontophobia",
+        "B": "Ageism",
+        "C": "Adultism",
+        "D": "Senilism"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ageism is bias, stereotyping, or discrimination based on age.",
+      "topic": "Physical and Cognitive Development in Late Adulthood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1334",
+      "questionText": "Aging processes that result from disease, bodily abuse, or disuse and are often preventable are part of what kind of aging?",
+      "options": {
+        "A": "Primary aging",
+        "B": "Secondary aging",
+        "C": "Tertiary aging",
+        "D": "Pathological aging"
+      },
+      "correctAnswer": "B",
+      "explanation": "Secondary aging results from disease, lifestyle, disuse, or environmental factors.",
+      "topic": "Physical and Cognitive Development in Late Adulthood",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1335",
+      "questionText": "The age to which a person in a particular cohort is statistically likely to live is called what?",
+      "options": {
+        "A": "Longevity",
+        "B": "Life span",
+        "C": "Life expectancy",
+        "D": "Life course"
+      },
+      "correctAnswer": "C",
+      "explanation": "Life expectancy is the statistically expected length of life for a group or cohort.",
+      "topic": "Physical and Cognitive Development in Late Adulthood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1336",
+      "questionText": "Theories that explain biological aging as a result of processes that vary from person to person are called what?",
+      "options": {
+        "A": "Genetic-programming theories",
+        "B": "Variable-rate theories",
+        "C": "Stochastic theories",
+        "D": "Error theories"
+      },
+      "correctAnswer": "B",
+      "explanation": "Variable-rate theories explain aging as the result of processes that differ across individuals.",
+      "topic": "Physical and Cognitive Development in Late Adulthood",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q1337",
+      "questionText": "Cloudy or opaque areas in the lens of the eye that cause blurred vision are called what?",
+      "options": {
+        "A": "Glaucoma",
+        "B": "Macular degeneration",
+        "C": "Diabetic retinopathy",
+        "D": "Cataracts"
+      },
+      "correctAnswer": "D",
+      "explanation": "Cataracts are cloudy areas in the eye's lens that impair vision.",
+      "topic": "Physical and Cognitive Development in Late Adulthood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1338",
+      "questionText": "A progressive, irreversible, degenerative brain disorder involving cognitive deterioration and loss of bodily function control is what disease?",
+      "options": {
+        "A": "Parkinson's disease",
+        "B": "Alzheimer's disease",
+        "C": "Huntington's disease",
+        "D": "Creutzfeldt-Jakob disease"
+      },
+      "correctAnswer": "B",
+      "explanation": "Alzheimer's disease is a degenerative disorder marked by progressive cognitive decline.",
+      "topic": "Physical and Cognitive Development in Late Adulthood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1339",
+      "questionText": "A hypothesized fund of energy that may allow a deteriorating brain to continue functioning normally is called what?",
+      "options": {
+        "A": "Cognitive reserve",
+        "B": "Brain reserve",
+        "C": "Neural reserve",
+        "D": "Mental reserve"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cognitive reserve helps explain why some people maintain function despite brain deterioration.",
+      "topic": "Physical and Cognitive Development in Late Adulthood",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1340",
+      "questionText": "Which adult intelligence test yields verbal and performance scores as well as a combined score?",
+      "options": {
+        "A": "Stanford-Binet Intelligence Scales",
+        "B": "Kaufman Assessment Battery for Children",
+        "C": "Wechsler Adult Intelligence Scale",
+        "D": "Woodcock-Johnson Tests of Cognitive Abilities"
+      },
+      "correctAnswer": "C",
+      "explanation": "The WAIS is a widely used adult intelligence test that provides multiple index and overall scores.",
+      "topic": "Physical and Cognitive Development in Late Adulthood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1341",
+      "questionText": "According to Erikson, the eighth and final psychosocial stage in late adulthood is what?",
+      "options": {
+        "A": "Generativity vs. Stagnation",
+        "B": "Intimacy vs. Isolation",
+        "C": "Ego integrity vs. Despair",
+        "D": "Identity vs. Identity Confusion"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ego integrity vs. despair involves reflecting on life with acceptance or regret.",
+      "topic": "Psychosocial Development in Late Adulthood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1342",
+      "questionText": "Adaptive thinking or behavior aimed at reducing or relieving stress is called what?",
+      "options": {
+        "A": "Coping",
+        "B": "Defense mechanisms",
+        "C": "Adaptation",
+        "D": "Adjustment"
+      },
+      "correctAnswer": "A",
+      "explanation": "Coping refers to cognitive and behavioral efforts to manage stress.",
+      "topic": "Psychosocial Development in Late Adulthood",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1343",
+      "questionText": "In the cognitive-appraisal model, coping aimed at eliminating, managing, or improving a stressful situation is called what?",
+      "options": {
+        "A": "Problem-focused coping",
+        "B": "Emotion-focused coping",
+        "C": "Appraisal-focused coping",
+        "D": "Solution-focused coping"
+      },
+      "correctAnswer": "A",
+      "explanation": "Problem-focused coping directly targets the source of stress or the situation causing it.",
+      "topic": "Psychosocial Development in Late Adulthood",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1344",
+      "questionText": "Which theory of aging says successful aging is characterized by mutual withdrawal between older adults and society?",
+      "options": {
+        "A": "Activity theory",
+        "B": "Continuity theory",
+        "C": "Disengagement theory",
+        "D": "Socioemotional selectivity theory"
+      },
+      "correctAnswer": "C",
+      "explanation": "Disengagement theory proposes that aging involves gradual mutual withdrawal from social roles.",
+      "topic": "Psychosocial Development in Late Adulthood",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1345",
+      "questionText": "Enhancing overall cognitive functioning by using stronger abilities to compensate for weakened ones is called what?",
+      "options": {
+        "A": "Selective optimization with compensation",
+        "B": "Cognitive reserve",
+        "C": "Scaffolding",
+        "D": "Plasticity"
+      },
+      "correctAnswer": "A",
+      "explanation": "Selective optimization with compensation uses strengths and strategies to offset age-related losses.",
+      "topic": "Psychosocial Development in Late Adulthood",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q1346",
+      "questionText": "The tendency for young adults who have left home to return to their parents' household during financial or other trouble is called what syndrome?",
+      "options": {
+        "A": "Revolving door syndrome",
+        "B": "Boomerang syndrome",
+        "C": "Failure to launch syndrome",
+        "D": "Adultolescent syndrome"
+      },
+      "correctAnswer": "A",
+      "explanation": "The revolving door syndrome describes adult children leaving home and later returning.",
+      "topic": "Psychosocial Development in Late Adulthood",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1347",
+      "questionText": "The study of death and dying is called what?",
+      "options": {
+        "A": "Gerontology",
+        "B": "Thanatology",
+        "C": "Necrology",
+        "D": "Mortology"
+      },
+      "correctAnswer": "B",
+      "explanation": "Thanatology is the study of death, dying, and related experiences.",
+      "topic": "Death and Bereavement",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1348",
+      "questionText": "Care aimed at relieving pain and suffering and allowing the terminally ill to die in peace, comfort, and dignity is called what care?",
+      "options": {
+        "A": "Hospice care",
+        "B": "Palliative care",
+        "C": "Curative care",
+        "D": "Terminal care"
+      },
+      "correctAnswer": "B",
+      "explanation": "Palliative care focuses on relief of suffering and quality of life rather than cure.",
+      "topic": "Death and Bereavement",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1349",
+      "questionText": "A frequently observed decline in cognitive abilities near the end of life is called what?",
+      "options": {
+        "A": "Terminal drop",
+        "B": "Cognitive decline",
+        "C": "Senescence",
+        "D": "Brain death"
+      },
+      "correctAnswer": "A",
+      "explanation": "Terminal drop refers to cognitive decline that often occurs shortly before death.",
+      "topic": "Death and Bereavement",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1350",
+      "questionText": "Loss due to death of someone close and the process of adjustment to the loss is called what?",
+      "options": {
+        "A": "Grief",
+        "B": "Mourning",
+        "C": "Bereavement",
+        "D": "Thanatopsis"
+      },
+      "correctAnswer": "C",
+      "explanation": "Bereavement is the state and process of adjusting after the death of a loved one.",
+      "topic": "Death and Bereavement",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1351",
+      "questionText": "The working out of psychological issues connected with grief is called what?",
+      "options": {
+        "A": "Grief work",
+        "B": "Mourning",
+        "C": "Bereavement",
+        "D": "Catharsis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Grief work involves processing and adapting to the emotional impact of loss.",
+      "topic": "Death and Bereavement",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1352",
+      "questionText": "Withholding or discontinuing life-prolonging treatment for a terminally ill person to end suffering is what kind of euthanasia?",
+      "options": {
+        "A": "Active euthanasia",
+        "B": "Passive euthanasia",
+        "C": "Voluntary euthanasia",
+        "D": "Involuntary euthanasia"
+      },
+      "correctAnswer": "B",
+      "explanation": "Passive euthanasia involves allowing death by withholding or stopping life-sustaining treatment.",
+      "topic": "Death and Bereavement",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1353",
+      "questionText": "A document specifying the type of care wanted if the maker becomes incapacitated or terminally ill is called what?",
+      "options": {
+        "A": "Living will",
+        "B": "Advance directive",
+        "C": "Durable power of attorney",
+        "D": "Do-not-resuscitate order"
+      },
+      "correctAnswer": "B",
+      "explanation": "An advance directive states a person's medical care preferences for future incapacity or terminal illness.",
+      "topic": "Death and Bereavement",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1354",
+      "questionText": "Suicide in which a physician or someone else helps a person take their own life is called what?",
+      "options": {
+        "A": "Assisted suicide",
+        "B": "Altruistic suicide",
+        "C": "Anomic suicide",
+        "D": "Egoistic suicide"
+      },
+      "correctAnswer": "A",
+      "explanation": "Assisted suicide occurs when another person helps someone end their own life.",
+      "topic": "Death and Bereavement",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1355",
+      "questionText": "Reminiscence about one's life in order to see its significance is called what?",
+      "options": {
+        "A": "Life review",
+        "B": "Memoir",
+        "C": "Autobiography",
+        "D": "Eulogy"
+      },
+      "correctAnswer": "A",
+      "explanation": "Life review is reflection on one's life to find meaning, coherence, and significance.",
+      "topic": "Death and Bereavement",
+      "difficulty": "easy"
     }
   ]
 }
