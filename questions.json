@@ -10149,6 +10149,1406 @@
       "explanation": "OD evaluation requires data on outcomes such as productivity, turnover, or satisfaction before and after intervention.",
       "topic": "Organizational Change and Development",
       "difficulty": "medium"
+    },
+    {
+      "id": "q726",
+      "questionText": "A man in rural Japan fears that his body odor offends others despite reassurance and good hygiene. In Japan, this pattern is known as taijin kyofusho. What principle does this example illustrate in assessing abnormal behavior?",
+      "options": {
+        "A": "Behavior that is statistically deviant is always pathological.",
+        "B": "The social and cultural context is crucial for determining whether a behavior is abnormal.",
+        "C": "Any behavior that causes personal distress is, by definition, a mental disorder.",
+        "D": "Dysfunction in one's occupational life is the only criterion needed for a diagnosis."
+      },
+      "correctAnswer": "B",
+      "explanation": "Culture strongly influences how symptoms are understood and whether behavior is considered abnormal.",
+      "topic": "Normalcy and Abnormality",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q727",
+      "questionText": "Which scenario best illustrates dysfunction as a criterion for abnormality?",
+      "options": {
+        "A": "A man has a collection of over 5,000 rare stamps, which his friends find unusual.",
+        "B": "A woman experiences deep sadness and cries for several days following the death of her beloved pet.",
+        "C": "An artist lives a reclusive lifestyle and dresses in eccentric clothing.",
+        "D": "A student's intense fear of public speaking prevents her from attending required classes and giving presentations."
+      },
+      "correctAnswer": "D",
+      "explanation": "Dysfunction means the behavior interferes with important daily, academic, social, or occupational functioning.",
+      "topic": "Normalcy and Abnormality",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q728",
+      "questionText": "A man occasionally feels anxious before a big work presentation. Which Four D criterion would this least likely meet?",
+      "options": {
+        "A": "Deviance",
+        "B": "Distress",
+        "C": "Dysfunction",
+        "D": "Danger"
+      },
+      "correctAnswer": "D",
+      "explanation": "Normal presentation anxiety may involve mild distress, but it does not usually involve danger.",
+      "topic": "Normalcy and Abnormality",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q729",
+      "questionText": "Which statement represents a major challenge in recognizing normal versus abnormal behavior?",
+      "options": {
+        "A": "The line between normal and abnormal is often ambiguous and depends on multiple factors.",
+        "B": "All mental disorders have clear biological markers.",
+        "C": "Cultural norms have no impact on diagnosis.",
+        "D": "Behavior considered abnormal in the past is always considered abnormal today."
+      },
+      "correctAnswer": "A",
+      "explanation": "Normality and abnormality exist on a continuum and depend on context, culture, distress, and impairment.",
+      "topic": "Normalcy and Abnormality",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q730",
+      "questionText": "A woman believes the government monitors her through her television. This belief is not culturally shared, causes fear, and leads her to cover windows with foil. Her behavior is abnormal mainly because of:",
+      "options": {
+        "A": "Statistical deviance and personal distress.",
+        "B": "Being a culturally sanctioned response to stress.",
+        "C": "Being a predictable reaction to a common life event.",
+        "D": "All of the above."
+      },
+      "correctAnswer": "A",
+      "explanation": "The belief is unusual in her culture and causes significant distress and impairment.",
+      "topic": "Normalcy and Abnormality",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q731",
+      "questionText": "Anna has unexpected episodes of palpitations, shortness of breath, chest pain, and fear of dying. She now fears future attacks and avoids places where attacks occurred. Which diagnosis best fits?",
+      "options": {
+        "A": "Generalized Anxiety Disorder (GAD)",
+        "B": "Specific Phobia, Situational Type",
+        "C": "Panic Disorder",
+        "D": "Social Anxiety Disorder"
+      },
+      "correctAnswer": "C",
+      "explanation": "Panic disorder involves recurrent unexpected panic attacks and persistent concern or avoidance related to future attacks.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q732",
+      "questionText": "David, a war veteran, has intrusive memories, nightmares, avoidance, emotional numbness, hyperarousal, and exaggerated startle response for over five years. What is the most likely diagnosis?",
+      "options": {
+        "A": "Acute Stress Disorder",
+        "B": "Generalized Anxiety Disorder",
+        "C": "Post-Traumatic Stress Disorder (PTSD)",
+        "D": "Adjustment Disorder with Anxiety"
+      },
+      "correctAnswer": "C",
+      "explanation": "PTSD involves trauma re-experiencing, avoidance, negative mood changes, and hyperarousal lasting more than one month.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q733",
+      "questionText": "Maria fears contamination and washes her hands for exactly 15 minutes after touching surfaces. She knows it is excessive but feels severe anxiety if she stops. What disorder is most likely?",
+      "options": {
+        "A": "Obsessive-Compulsive Personality Disorder (OCPD)",
+        "B": "Specific Phobia, Contamination Type",
+        "C": "Obsessive-Compulsive Disorder (OCD)",
+        "D": "Somatic Symptom Disorder"
+      },
+      "correctAnswer": "C",
+      "explanation": "OCD involves obsessions, such as contamination fears, and compulsions, such as ritualized washing.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q734",
+      "questionText": "A woman has chronic headaches, dizziness, and stomach pain with no medical explanation. She is excessively worried, researches symptoms for hours, and believes she has a serious disease. What is the most appropriate diagnosis?",
+      "options": {
+        "A": "Illness Anxiety Disorder",
+        "B": "Conversion Disorder",
+        "C": "Somatic Symptom Disorder",
+        "D": "Factitious Disorder"
+      },
+      "correctAnswer": "C",
+      "explanation": "Somatic symptom disorder involves distressing physical symptoms plus excessive thoughts or anxiety about them.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q735",
+      "questionText": "After a fatal car accident, a man is found 500 miles from home with no memory of his identity or past and has taken a new name. What condition is this characteristic of?",
+      "options": {
+        "A": "Depersonalization/Derealization Disorder",
+        "B": "Dissociative Amnesia with Dissociative Fugue",
+        "C": "Dissociative Identity Disorder",
+        "D": "Post-Traumatic Stress Disorder"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dissociative fugue involves amnesia with sudden travel or wandering and confusion about identity.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q736",
+      "questionText": "Mark has had a consistently low mood for two years with low energy, poor appetite, hopelessness, and decision-making problems, without manic episodes. What is the most likely diagnosis?",
+      "options": {
+        "A": "Major Depressive Disorder, Single Episode",
+        "B": "Persistent Depressive Disorder (Dysthymia)",
+        "C": "Cyclothymic Disorder",
+        "D": "Bipolar II Disorder"
+      },
+      "correctAnswer": "B",
+      "explanation": "Persistent depressive disorder is chronic, low-grade depression lasting at least two years.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q737",
+      "questionText": "A client alternates between severe depression and elevated periods with little sleep, pressured speech, impulsive spending, and job loss. What disorder is indicated?",
+      "options": {
+        "A": "Major Depressive Disorder",
+        "B": "Cyclothymic Disorder",
+        "C": "Bipolar I Disorder",
+        "D": "Bipolar II Disorder"
+      },
+      "correctAnswer": "C",
+      "explanation": "Bipolar I disorder requires at least one manic episode, which causes marked impairment or hospitalization.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q738",
+      "questionText": "A 16-year-old girl is dangerously underweight due to severe food restriction, fears gaining weight, and sees herself as fat despite being emaciated. What diagnosis fits best?",
+      "options": {
+        "A": "Bulimia Nervosa",
+        "B": "Binge-Eating Disorder",
+        "C": "Anorexia Nervosa, Restricting Type",
+        "D": "Avoidant/Restrictive Food Intake Disorder"
+      },
+      "correctAnswer": "C",
+      "explanation": "Anorexia nervosa involves significantly low weight, fear of weight gain, and distorted body image.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q739",
+      "questionText": "What key feature distinguishes Bulimia Nervosa from Anorexia Nervosa, Binge-Eating/Purging type?",
+      "options": {
+        "A": "In bulimia, the individual engages in purging behaviors; in anorexia, they do not.",
+        "B": "In bulimia, the individual is within a normal weight range or overweight; in anorexia, they are significantly underweight.",
+        "C": "Distress over body shape and weight is present in anorexia but not in bulimia.",
+        "D": "Binge eating occurs in bulimia but not in any form of anorexia."
+      },
+      "correctAnswer": "B",
+      "explanation": "Both can involve bingeing and purging, but anorexia requires significantly low body weight.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q740",
+      "questionText": "A man with schizophrenia believes news anchors are sending him coded personal messages through broadcasts. What symptom is this?",
+      "options": {
+        "A": "Hallucination",
+        "B": "Delusion of reference",
+        "C": "Alogia",
+        "D": "Anhedonia"
+      },
+      "correctAnswer": "B",
+      "explanation": "A delusion of reference is the false belief that ordinary events or messages have special personal meaning.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q741",
+      "questionText": "A client speaks in a jumbled, incoherent mixture of unrelated words and phrases. What is this severe disorganized speech called?",
+      "options": {
+        "A": "Neologism",
+        "B": "Clang association",
+        "C": "Word salad",
+        "D": "Echolalia"
+      },
+      "correctAnswer": "C",
+      "explanation": "Word salad is incoherent speech made of unrelated words and phrases.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q742",
+      "questionText": "A woman shows unstable relationships, unstable self-image, intense emotions, impulsive self-damaging behavior, chronic emptiness, and frantic efforts to avoid abandonment. What disorder is most likely?",
+      "options": {
+        "A": "Histrionic Personality Disorder",
+        "B": "Narcissistic Personality Disorder",
+        "C": "Borderline Personality Disorder",
+        "D": "Dependent Personality Disorder"
+      },
+      "correctAnswer": "C",
+      "explanation": "Borderline personality disorder is marked by instability in relationships, identity, emotions, and impulsivity.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q743",
+      "questionText": "A CEO is grandiose, exploitative, lacks empathy, needs admiration, feels entitled, and reacts with rage to criticism. What disorder is most consistent?",
+      "options": {
+        "A": "Antisocial Personality Disorder",
+        "B": "Narcissistic Personality Disorder",
+        "C": "Obsessive-Compulsive Personality Disorder",
+        "D": "Paranoid Personality Disorder"
+      },
+      "correctAnswer": "B",
+      "explanation": "Narcissistic personality disorder involves grandiosity, need for admiration, entitlement, and lack of empathy.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q744",
+      "questionText": "A man has a lifelong pattern of deceitfulness, impulsivity, fights, irresponsibility, violation of others' rights, and lack of remorse. What diagnosis fits?",
+      "options": {
+        "A": "Borderline Personality Disorder",
+        "B": "Schizoid Personality Disorder",
+        "C": "Antisocial Personality Disorder",
+        "D": "Avoidant Personality Disorder"
+      },
+      "correctAnswer": "C",
+      "explanation": "Antisocial personality disorder involves persistent disregard for and violation of the rights of others.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q745",
+      "questionText": "What is the primary difference between specific phobia and generalized anxiety disorder?",
+      "options": {
+        "A": "Specific phobia involves fear of a particular object or situation, while GAD involves excessive worry about many everyday issues.",
+        "B": "GAD is more common in men, while specific phobias are more common in women.",
+        "C": "Panic attacks only occur in GAD, not in specific phobia.",
+        "D": "Specific phobia is treated with medication, while GAD is treated with therapy."
+      },
+      "correctAnswer": "A",
+      "explanation": "Specific phobia has a focused fear, while GAD involves broad and persistent worry.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q746",
+      "questionText": "A man has intrusive memories, nightmares, avoidance, detachment, and startle response three weeks after a car accident. What diagnosis is most appropriate?",
+      "options": {
+        "A": "Post-Traumatic Stress Disorder",
+        "B": "Acute Stress Disorder",
+        "C": "Adjustment Disorder",
+        "D": "No diagnosis, as this is a normal reaction."
+      },
+      "correctAnswer": "B",
+      "explanation": "Acute stress disorder applies when trauma symptoms occur soon after trauma and last less than one month.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q747",
+      "questionText": "A client with Obsessive-Compulsive Personality Disorder would be least likely to:",
+      "options": {
+        "A": "Be preoccupied with details, rules, lists, and order.",
+        "B": "Show perfectionism that interferes with task completion.",
+        "C": "Be inflexible about morality, ethics, or values.",
+        "D": "Recognize their behavior as irrational and feel compelled to perform rituals to reduce anxiety."
+      },
+      "correctAnswer": "D",
+      "explanation": "Rituals performed to reduce anxiety are typical of OCD, not OCPD.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q748",
+      "questionText": "A patient suddenly cannot walk after trauma, with no neurological explanation and little distress about the paralysis. What is the classic presentation?",
+      "options": {
+        "A": "Somatic Symptom Disorder",
+        "B": "Illness Anxiety Disorder",
+        "C": "Conversion Disorder",
+        "D": "Factitious Disorder Imposed on Self"
+      },
+      "correctAnswer": "C",
+      "explanation": "Conversion disorder involves neurological-like symptoms incompatible with medical findings.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q749",
+      "questionText": "What is the core feature of Dissociative Identity Disorder?",
+      "options": {
+        "A": "Feeling detached from one's body or mental processes.",
+        "B": "Inability to recall important personal information.",
+        "C": "Presence of two or more distinct personality states or possession experience.",
+        "D": "Persistent fear of having a serious illness."
+      },
+      "correctAnswer": "C",
+      "explanation": "DID is defined by disruption of identity involving two or more distinct personality states.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q750",
+      "questionText": "All of the following are recognized DSM-5 depressive disorders except:",
+      "options": {
+        "A": "Major Depressive Disorder",
+        "B": "Persistent Depressive Disorder",
+        "C": "Premenstrual Dysphoric Disorder",
+        "D": "Grief-Related Adjustment Disorder"
+      },
+      "correctAnswer": "D",
+      "explanation": "Grief-related adjustment disorder is not listed as a DSM-5 depressive disorder.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q751",
+      "questionText": "Which clinical history is required for Bipolar II Disorder?",
+      "options": {
+        "A": "At least one full manic episode causing marked impairment.",
+        "B": "At least one hypomanic episode and at least one major depressive episode.",
+        "C": "Chronic low-grade depression without elevated mood episodes.",
+        "D": "Hypomanic and depressive symptoms that never meet full episode criteria."
+      },
+      "correctAnswer": "B",
+      "explanation": "Bipolar II requires at least one hypomanic episode and one major depressive episode, with no full mania.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q752",
+      "questionText": "A person needs increasingly larger amounts of alcohol to feel the same effect. What concept is demonstrated?",
+      "options": {
+        "A": "Withdrawal",
+        "B": "Tolerance",
+        "C": "Intoxication",
+        "D": "Addiction"
+      },
+      "correctAnswer": "B",
+      "explanation": "Tolerance means needing more of a substance to achieve the same effect.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q753",
+      "questionText": "Which is not a Cluster A personality disorder?",
+      "options": {
+        "A": "Paranoid Personality Disorder",
+        "B": "Schizoid Personality Disorder",
+        "C": "Schizotypal Personality Disorder",
+        "D": "Avoidant Personality Disorder"
+      },
+      "correctAnswer": "D",
+      "explanation": "Avoidant personality disorder belongs to Cluster C, not Cluster A.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q754",
+      "questionText": "A child is constantly in motion, cannot remain seated, fidgets, interrupts, struggles to wait, and makes careless mistakes due to inattention at home and school. What is most likely?",
+      "options": {
+        "A": "Oppositional Defiant Disorder",
+        "B": "Conduct Disorder",
+        "C": "Attention-Deficit/Hyperactivity Disorder, Combined Presentation",
+        "D": "Bipolar Disorder"
+      },
+      "correctAnswer": "C",
+      "explanation": "ADHD combined presentation includes both inattentive and hyperactive-impulsive symptoms across settings.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q755",
+      "questionText": "An elderly woman has gradual memory decline, gets lost in familiar places, misplaces items, and struggles with planning and finances over two years. What condition is most likely?",
+      "options": {
+        "A": "Delirium",
+        "B": "Major Neurocognitive Disorder, likely due to Alzheimer's Disease",
+        "C": "Dissociative Amnesia",
+        "D": "Major Depressive Disorder with psychotic features"
+      },
+      "correctAnswer": "B",
+      "explanation": "Alzheimer-type major neurocognitive disorder commonly involves gradual progressive decline in memory and functioning.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q756",
+      "questionText": "Schizoaffective disorder is distinguished from schizophrenia by:",
+      "options": {
+        "A": "The absence of negative symptoms.",
+        "B": "A concurrent major mood episode for a majority of the disorder's total duration.",
+        "C": "Diagnosis only after age 50.",
+        "D": "Complete absence of delusions or hallucinations."
+      },
+      "correctAnswer": "B",
+      "explanation": "Schizoaffective disorder includes schizophrenia symptoms plus prominent mood episodes for much of the illness.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q757",
+      "questionText": "A client fears being scrutinized, embarrassed, or humiliated in parties, public speaking, and eating in front of others. What is the core feature?",
+      "options": {
+        "A": "Agoraphobia",
+        "B": "Social Anxiety Disorder",
+        "C": "Avoidant Personality Disorder",
+        "D": "Schizoid Personality Disorder"
+      },
+      "correctAnswer": "B",
+      "explanation": "Social anxiety disorder involves fear of negative evaluation in social situations.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q758",
+      "questionText": "An individual with Intermittent Explosive Disorder would be characterized by:",
+      "options": {
+        "A": "A pervasive pattern of angry and irritable mood.",
+        "B": "Recurrent behavioral outbursts representing failure to control aggressive impulses.",
+        "C": "Deliberate fire-setting for pleasure or gratification.",
+        "D": "A consistent pattern of violating the rights of others."
+      },
+      "correctAnswer": "B",
+      "explanation": "Intermittent explosive disorder involves recurrent aggressive outbursts that are out of proportion.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q759",
+      "questionText": "Gender Dysphoria is diagnosed based on:",
+      "options": {
+        "A": "The sole presence of cross-gender behaviors.",
+        "B": "Marked incongruence between experienced or expressed gender and assigned gender with significant distress.",
+        "C": "A paraphilic interest in cross-dressing.",
+        "D": "A sexual dysfunction related to gender identity."
+      },
+      "correctAnswer": "B",
+      "explanation": "Gender dysphoria requires gender incongruence associated with clinically significant distress or impairment.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q760",
+      "questionText": "The negative symptoms of schizophrenia include all of the following except:",
+      "options": {
+        "A": "Alogia",
+        "B": "Anhedonia",
+        "C": "Avolition",
+        "D": "Hallucinations and delusions"
+      },
+      "correctAnswer": "D",
+      "explanation": "Hallucinations and delusions are positive symptoms, not negative symptoms.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q761",
+      "questionText": "An individual with schizoid personality disorder is most likely described as:",
+      "options": {
+        "A": "A social chameleon who is the life of the party.",
+        "B": "A detached loner with little interest in social relationships.",
+        "C": "An overly dramatic person who craves attention.",
+        "D": "A suspicious and mistrustful person who feels persecuted."
+      },
+      "correctAnswer": "B",
+      "explanation": "Schizoid personality disorder involves detachment and little desire for close relationships.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q762",
+      "questionText": "Autism Spectrum Disorder involves deficits in social communication and interaction, as well as:",
+      "options": {
+        "A": "A period of mania or hypomania.",
+        "B": "Obsessions and compulsions.",
+        "C": "Restricted, repetitive patterns of behavior, interests, or activities.",
+        "D": "Significant decline from previous functioning."
+      },
+      "correctAnswer": "C",
+      "explanation": "ASD includes social-communication deficits and restricted or repetitive behaviors and interests.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q763",
+      "questionText": "Which statement about the DSM-5 is correct?",
+      "options": {
+        "A": "It explains the causes of all mental disorders.",
+        "B": "It guides classification and diagnosis of mental disorders based on symptoms.",
+        "C": "It provides definitive treatment plans for every diagnosis.",
+        "D": "It has no clinical utility."
+      },
+      "correctAnswer": "B",
+      "explanation": "The DSM-5 provides diagnostic criteria for classifying mental disorders.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q764",
+      "questionText": "Delusional Disorder involves one or more delusions for at least one month without other prominent schizophrenia symptoms. Which is a common subtype?",
+      "options": {
+        "A": "Catatonic type",
+        "B": "Persecutory type",
+        "C": "Residual type",
+        "D": "Disorganized type"
+      },
+      "correctAnswer": "B",
+      "explanation": "Persecutory type involves delusions of being harmed, conspired against, or mistreated.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q765",
+      "questionText": "A client feels unreal, as if watching themselves in a movie from outside their own body and thoughts. What is this experience called?",
+      "options": {
+        "A": "Derealization",
+        "B": "Depersonalization",
+        "C": "Dissociative fugue",
+        "D": "Amnesia"
+      },
+      "correctAnswer": "B",
+      "explanation": "Depersonalization is detachment from oneself, while derealization is detachment from surroundings.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q766",
+      "questionText": "Which situation is least likely to be feared by someone with agoraphobia?",
+      "options": {
+        "A": "Using public transportation.",
+        "B": "Being in open spaces like parking lots.",
+        "C": "Being in enclosed spaces like movie theaters.",
+        "D": "Being in their own home with a trusted family member."
+      },
+      "correctAnswer": "D",
+      "explanation": "Agoraphobia involves fear of places where escape or help may be difficult, not usually one's safe home.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q767",
+      "questionText": "What is the primary difference between Oppositional Defiant Disorder and Conduct Disorder?",
+      "options": {
+        "A": "ODD involves angry or defiant behavior, while CD involves more severe violations of rights or societal norms.",
+        "B": "ODD is diagnosed in adults, while CD is diagnosed in children.",
+        "C": "CD is a precursor to ODD.",
+        "D": "ODD is characterized by impulsivity, while CD is characterized by inattention."
+      },
+      "correctAnswer": "A",
+      "explanation": "Conduct disorder is more severe because it includes aggression, theft, destruction, or serious rule violations.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q768",
+      "questionText": "Which of the following is an example of a paraphilic disorder?",
+      "options": {
+        "A": "Erectile Disorder",
+        "B": "Female Orgasmic Disorder",
+        "C": "Voyeuristic Disorder",
+        "D": "Gender Dysphoria"
+      },
+      "correctAnswer": "C",
+      "explanation": "Voyeuristic disorder is a paraphilic disorder involving arousal from observing unsuspecting people.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q769",
+      "questionText": "A person compulsively steals objects they do not need for personal use or monetary value. What disorder is likely?",
+      "options": {
+        "A": "Antisocial Personality Disorder",
+        "B": "Kleptomania",
+        "C": "Bipolar Disorder, manic episode",
+        "D": "Obsessive-Compulsive Disorder"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kleptomania involves recurrent failure to resist stealing items that are not needed.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q770",
+      "questionText": "A diagnosis of Intellectual Disability requires deficits in intellectual functioning and what else?",
+      "options": {
+        "A": "Deficits in adaptive functioning in conceptual, social, and practical domains.",
+        "B": "The presence of a known genetic syndrome.",
+        "C": "An onset after age 18.",
+        "D": "A history of traumatic brain injury."
+      },
+      "correctAnswer": "A",
+      "explanation": "Intellectual disability requires both intellectual deficits and adaptive functioning deficits beginning during development.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q771",
+      "questionText": "Sleepwalking and sleep terrors are categorized under which sleep-wake disorder group?",
+      "options": {
+        "A": "Insomnia Disorders",
+        "B": "Hypersomnolence Disorders",
+        "C": "Parasomnias",
+        "D": "Circadian Rhythm Sleep-Wake Disorders"
+      },
+      "correctAnswer": "C",
+      "explanation": "Parasomnias involve abnormal behaviors or experiences occurring during sleep.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q772",
+      "questionText": "A client with dependent personality disorder would most likely show which behavior?",
+      "options": {
+        "A": "Unwillingness to get involved unless certain of being liked.",
+        "B": "Need for admiration and entitlement.",
+        "C": "Difficulty making everyday decisions without excessive advice and reassurance.",
+        "D": "Pervasive distrust and suspiciousness."
+      },
+      "correctAnswer": "C",
+      "explanation": "Dependent personality disorder involves excessive need to be cared for and difficulty acting independently.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q773",
+      "questionText": "What is the primary goal of differential diagnosis?",
+      "options": {
+        "A": "Determine the single best diagnosis from possible diagnoses with similar symptoms.",
+        "B": "Identify all the disorders a person has.",
+        "C": "Rule out any medical causes for symptoms.",
+        "D": "Choose the most severe diagnosis possible."
+      },
+      "correctAnswer": "A",
+      "explanation": "Differential diagnosis compares similar conditions to identify the most accurate diagnosis.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q774",
+      "questionText": "A person is preoccupied with having a serious illness, has no or mild somatic symptoms, and performs excessive health-related behaviors. What diagnosis is likely?",
+      "options": {
+        "A": "Somatic Symptom Disorder",
+        "B": "Illness Anxiety Disorder",
+        "C": "Conversion Disorder",
+        "D": "Factitious Disorder"
+      },
+      "correctAnswer": "B",
+      "explanation": "Illness anxiety disorder centers on fear of serious illness despite minimal or no physical symptoms.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q775",
+      "questionText": "What key feature distinguishes GAD from non-pathological anxiety?",
+      "options": {
+        "A": "The worry is focused on a single threat.",
+        "B": "The worry is easily controllable and short-lived.",
+        "C": "The worry is excessive, pervasive, and difficult to control.",
+        "D": "The worry is always accompanied by panic attacks."
+      },
+      "correctAnswer": "C",
+      "explanation": "GAD involves excessive and persistent worry across many areas that feels difficult to control.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q776",
+      "questionText": "A person with pyromania is characterized by:",
+      "options": {
+        "A": "Fascination with fire and deliberate fire-setting more than once for pleasure, gratification, or relief.",
+        "B": "Setting fires for money or to conceal crime.",
+        "C": "Accidentally setting fires due to carelessness.",
+        "D": "A delusion that they are a fire god."
+      },
+      "correctAnswer": "A",
+      "explanation": "Pyromania involves intentional fire-setting driven by tension, fascination, and relief or pleasure.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q777",
+      "questionText": "What distinguishes a hypomanic episode from a manic episode?",
+      "options": {
+        "A": "Hypomania is less severe, does not cause marked impairment, and does not require hospitalization.",
+        "B": "Hypomania lasts longer than mania.",
+        "C": "Psychotic features can be present in hypomania but not mania.",
+        "D": "Hypomania involves depressive symptoms, while mania does not."
+      },
+      "correctAnswer": "A",
+      "explanation": "Hypomania has manic-like symptoms but is less impairing and has no psychosis or hospitalization requirement.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q778",
+      "questionText": "A person with histrionic personality disorder is most likely to be:",
+      "options": {
+        "A": "Socially isolated and emotionally cold.",
+        "B": "Suspicious and argumentative.",
+        "C": "Overly emotional, attention-seeking, and uncomfortable when not the center of attention.",
+        "D": "Perfectionistic, rigid, and controlling."
+      },
+      "correctAnswer": "C",
+      "explanation": "Histrionic personality disorder involves excessive emotionality and attention-seeking behavior.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q779",
+      "questionText": "What does comorbidity mean?",
+      "options": {
+        "A": "The likelihood that a disorder will be fatal.",
+        "B": "The presence of two or more disorders in the same individual.",
+        "C": "The process of distinguishing between two similar disorders.",
+        "D": "The cultural context of a disorder."
+      },
+      "correctAnswer": "B",
+      "explanation": "Comorbidity means two or more disorders occur in the same person.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q780",
+      "questionText": "A diagnosis of Tourette's Disorder requires:",
+      "options": {
+        "A": "Either multiple motor tics or one or more vocal tics, but not both.",
+        "B": "Both multiple motor tics and at least one vocal tic at some time during the illness.",
+        "C": "Tics that emerge in adulthood.",
+        "D": "Tics explainable by a substance or medical condition."
+      },
+      "correctAnswer": "B",
+      "explanation": "Tourette's disorder requires multiple motor tics and at least one vocal tic at some point.",
+      "topic": "Psychological Disorders and DSM-5 Symptoms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q781",
+      "questionText": "Which example best illustrates the diathesis-stress model?",
+      "options": {
+        "A": "A person with genetic vulnerability for schizophrenia develops it after trauma and social isolation.",
+        "B": "A child learns to fear dogs after being bitten.",
+        "C": "A person develops depression due to low serotonin.",
+        "D": "Illogical thinking patterns lead to anxiety."
+      },
+      "correctAnswer": "A",
+      "explanation": "The diathesis-stress model explains disorder as the interaction of vulnerability and environmental stress.",
+      "topic": "Theories of Psychopathology Etiology",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q782",
+      "questionText": "A cognitive explanation of panic attacks focuses on interpreting normal bodily sensations, such as heart rate changes, as catastrophic. What does this explanation emphasize?",
+      "options": {
+        "A": "Unconscious conflicts",
+        "B": "Faulty learning",
+        "C": "Maladaptive thoughts and beliefs",
+        "D": "Neurotransmitter imbalances"
+      },
+      "correctAnswer": "C",
+      "explanation": "The cognitive model emphasizes how distorted thoughts and beliefs shape emotions and symptoms.",
+      "topic": "Theories of Psychopathology Etiology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q783",
+      "questionText": "An undersupply of serotonin is most commonly associated with which disorder?",
+      "options": {
+        "A": "Schizophrenia",
+        "B": "Depression",
+        "C": "Specific Phobia",
+        "D": "Somatization Disorder"
+      },
+      "correctAnswer": "B",
+      "explanation": "Low serotonin activity is commonly associated with depressive symptoms.",
+      "topic": "Theories of Psychopathology Etiology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q784",
+      "questionText": "In classical conditioning, an elevator becomes feared after being paired with being trapped and having a panic attack. What was the elevator paired with?",
+      "options": {
+        "A": "A conditioned response",
+        "B": "An unconditioned stimulus",
+        "C": "A negative reinforcement",
+        "D": "A positive punishment"
+      },
+      "correctAnswer": "B",
+      "explanation": "The traumatic event is the unconditioned stimulus that naturally produces fear.",
+      "topic": "Theories of Psychopathology Etiology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q785",
+      "questionText": "A child develops anxiety by observing and imitating an anxious parent's fearful behavior. What learning principle is this?",
+      "options": {
+        "A": "Operant conditioning",
+        "B": "Classical conditioning",
+        "C": "Observational learning or modeling",
+        "D": "Latent learning"
+      },
+      "correctAnswer": "C",
+      "explanation": "Observational learning occurs when behavior is learned by watching others.",
+      "topic": "Theories of Psychopathology Etiology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q786",
+      "questionText": "Higher concordance for schizophrenia among identical twins than fraternal twins strongly suggests:",
+      "options": {
+        "A": "Schizophrenia is entirely environmental.",
+        "B": "A significant genetic contribution to schizophrenia.",
+        "C": "Parenting style is the primary cause.",
+        "D": "The diathesis-stress model is incorrect."
+      },
+      "correctAnswer": "B",
+      "explanation": "Greater similarity among genetically identical twins supports a genetic contribution.",
+      "topic": "Theories of Psychopathology Etiology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q787",
+      "questionText": "A cognitive therapist helps a depressed client challenge thoughts like \"I'm a failure.\" What idea is this based on?",
+      "options": {
+        "A": "Depression can only be fixed by medication.",
+        "B": "Depression is rooted only in childhood trauma.",
+        "C": "Thoughts, feelings, and behaviors are interconnected.",
+        "D": "Depression is learned only through reinforcement."
+      },
+      "correctAnswer": "C",
+      "explanation": "Cognitive therapy teaches that changing negative thoughts can improve mood and behavior.",
+      "topic": "Theories of Psychopathology Etiology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q788",
+      "questionText": "The dopamine hypothesis of schizophrenia suggests that positive symptoms are related to:",
+      "options": {
+        "A": "Excess dopamine activity in certain brain regions.",
+        "B": "A dopamine deficit throughout the brain.",
+        "C": "An imbalance between serotonin and dopamine.",
+        "D": "Structural damage to the hippocampus."
+      },
+      "correctAnswer": "A",
+      "explanation": "Positive symptoms such as hallucinations and delusions are linked to excess dopamine activity.",
+      "topic": "Theories of Psychopathology Etiology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q789",
+      "questionText": "From a psychodynamic perspective, psychological disorders arise from:",
+      "options": {
+        "A": "Maladaptive learned behaviors.",
+        "B": "Irrational cognitive schemas.",
+        "C": "Unresolved unconscious conflicts and early childhood experiences.",
+        "D": "Genetic predispositions."
+      },
+      "correctAnswer": "C",
+      "explanation": "Psychodynamic theory emphasizes unconscious conflicts and early experiences.",
+      "topic": "Theories of Psychopathology Etiology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q790",
+      "questionText": "A person avoids social situations because avoidance temporarily relieves anxiety. What maintains the avoidance behavior?",
+      "options": {
+        "A": "Positive reinforcement",
+        "B": "Negative reinforcement",
+        "C": "Positive punishment",
+        "D": "Negative punishment"
+      },
+      "correctAnswer": "B",
+      "explanation": "Negative reinforcement strengthens behavior by removing an unpleasant state, such as anxiety.",
+      "topic": "Theories of Psychopathology Etiology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q791",
+      "questionText": "What does gene-environment interaction mean?",
+      "options": {
+        "A": "Genes are the sole determinant of destiny.",
+        "B": "Environment can directly alter genetic code.",
+        "C": "Genetic predispositions and environment influence each other and symptom expression.",
+        "D": "Genes and environment do not influence each other."
+      },
+      "correctAnswer": "C",
+      "explanation": "Genes may affect vulnerability, while environments can influence whether vulnerabilities are expressed.",
+      "topic": "Theories of Psychopathology Etiology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q792",
+      "questionText": "Abnormalities in which brain structure are most associated with fear and anxiety in PTSD and phobias?",
+      "options": {
+        "A": "The cerebellum",
+        "B": "The prefrontal cortex",
+        "C": "The amygdala",
+        "D": "The thalamus"
+      },
+      "correctAnswer": "C",
+      "explanation": "The amygdala is central to processing fear and threat-related emotional memories.",
+      "topic": "Theories of Psychopathology Etiology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q793",
+      "questionText": "Aaron Beck's cognitive triad of depression involves negative views about:",
+      "options": {
+        "A": "The past, present, and future",
+        "B": "Oneself, the world, and the future",
+        "C": "Genetics, family, and society",
+        "D": "Thoughts, feelings, and behaviors"
+      },
+      "correctAnswer": "B",
+      "explanation": "Beck's triad includes negative views of the self, the world, and the future.",
+      "topic": "Theories of Psychopathology Etiology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q794",
+      "questionText": "Which perspective focuses solely on observable behavior and environmental determinants, not subjective thoughts or feelings?",
+      "options": {
+        "A": "Psychodynamic",
+        "B": "Cognitive",
+        "C": "Humanistic",
+        "D": "Radical Behaviorism"
+      },
+      "correctAnswer": "D",
+      "explanation": "Radical behaviorism studies observable behavior and environmental consequences.",
+      "topic": "Theories of Psychopathology Etiology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q795",
+      "questionText": "A sociocultural theorist would explain higher depression rates in women by emphasizing:",
+      "options": {
+        "A": "Hormonal differences.",
+        "B": "Inherent cognitive differences.",
+        "C": "Social roles, economic inequality, discrimination, and objectification.",
+        "D": "Genetic differences on the X chromosome."
+      },
+      "correctAnswer": "C",
+      "explanation": "The sociocultural model emphasizes social conditions, inequality, roles, and discrimination.",
+      "topic": "Theories of Psychopathology Etiology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q796",
+      "questionText": "The biological model emphasizes all of the following except:",
+      "options": {
+        "A": "Neurotransmitter imbalances",
+        "B": "Hormonal abnormalities",
+        "C": "Genetic vulnerabilities",
+        "D": "Unconscious conflicts"
+      },
+      "correctAnswer": "D",
+      "explanation": "Unconscious conflicts belong to the psychodynamic model, not the biological model.",
+      "topic": "Theories of Psychopathology Etiology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q797",
+      "questionText": "Carl Rogers' person-centered theory suggests psychological distress arises from:",
+      "options": {
+        "A": "A lack of positive reinforcement.",
+        "B": "Incongruence between the real self and ideal self, often from conditions of worth.",
+        "C": "Illogical thinking patterns.",
+        "D": "Failure to resolve psychosexual stages."
+      },
+      "correctAnswer": "B",
+      "explanation": "Rogers believed distress occurs when the real self and ideal self are inconsistent.",
+      "topic": "Theories of Psychopathology Etiology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q798",
+      "questionText": "A serotonin transporter gene variant increases depression risk only when stressful life events occur. What is this an example of?",
+      "options": {
+        "A": "A purely genetic model.",
+        "B": "A purely environmental model.",
+        "C": "A gene-environment interaction.",
+        "D": "A cognitive distortion."
+      },
+      "correctAnswer": "C",
+      "explanation": "Gene-environment interaction means genetic risk is expressed depending on environmental conditions.",
+      "topic": "Theories of Psychopathology Etiology",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q799",
+      "questionText": "The fight-or-flight response is initiated by which part of the nervous system?",
+      "options": {
+        "A": "The parasympathetic nervous system",
+        "B": "The somatic nervous system",
+        "C": "The sympathetic nervous system",
+        "D": "The central nervous system"
+      },
+      "correctAnswer": "C",
+      "explanation": "The sympathetic nervous system prepares the body for action during perceived threat.",
+      "topic": "Theories of Psychopathology Etiology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q800",
+      "questionText": "Martin Seligman's theory of learned helplessness was developed to explain which disorder?",
+      "options": {
+        "A": "Schizophrenia",
+        "B": "Depression",
+        "C": "Specific phobia",
+        "D": "OCD"
+      },
+      "correctAnswer": "B",
+      "explanation": "Learned helplessness explains depression as arising from perceived lack of control over outcomes.",
+      "topic": "Theories of Psychopathology Etiology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q801",
+      "questionText": "A therapist teaches relaxation, creates a spider fear hierarchy, and gradually exposes the client to each step while relaxed. What technique is this?",
+      "options": {
+        "A": "Flooding",
+        "B": "Systematic Desensitization",
+        "C": "Aversive conditioning",
+        "D": "Psychoanalysis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Systematic desensitization pairs relaxation with gradual exposure to reduce fear.",
+      "topic": "Therapeutic Interventions",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q802",
+      "questionText": "What is the primary focus of Cognitive Behavioral Therapy?",
+      "options": {
+        "A": "Exploring early childhood and unconscious conflicts.",
+        "B": "Providing unconditional positive regard.",
+        "C": "Identifying and modifying dysfunctional thinking and behavior.",
+        "D": "Using medication to correct chemical imbalances."
+      },
+      "correctAnswer": "C",
+      "explanation": "CBT targets maladaptive thoughts and behaviors to improve emotions and functioning.",
+      "topic": "Therapeutic Interventions",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q803",
+      "questionText": "A client is encouraged to say whatever comes to mind while the therapist listens for themes and slips. Which approach uses free association?",
+      "options": {
+        "A": "Behavior Therapy",
+        "B": "Cognitive Therapy",
+        "C": "Psychodynamic Therapy",
+        "D": "Humanistic Therapy"
+      },
+      "correctAnswer": "C",
+      "explanation": "Free association is a classic psychodynamic technique for uncovering unconscious material.",
+      "topic": "Therapeutic Interventions",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q804",
+      "questionText": "A therapist treats a child's behavior problem by working with the whole family to improve communication, boundaries, and interaction patterns. What approach is this?",
+      "options": {
+        "A": "Person-centered therapy",
+        "B": "Family systems therapy",
+        "C": "Dialectical Behavior Therapy",
+        "D": "Exposure and Response Prevention"
+      },
+      "correctAnswer": "B",
+      "explanation": "Family systems therapy views symptoms as connected to family structure and interaction patterns.",
+      "topic": "Therapeutic Interventions",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q805",
+      "questionText": "In OCD treatment, a client touches a contaminated surface and is prevented from washing. ERP works mainly through:",
+      "options": {
+        "A": "Uncovering unconscious urges.",
+        "B": "Habituation, where anxiety decreases without the compulsion.",
+        "C": "Challenging cognitive distortions.",
+        "D": "Providing positive reinforcement."
+      },
+      "correctAnswer": "B",
+      "explanation": "ERP teaches that anxiety naturally declines without performing the compulsive ritual.",
+      "topic": "Therapeutic Interventions",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q806",
+      "questionText": "Dialectical Behavior Therapy, often used for Borderline Personality Disorder, combines CBT with:",
+      "options": {
+        "A": "Free association and dream analysis.",
+        "B": "Mindfulness, distress tolerance, and emotion regulation.",
+        "C": "Classical and operant conditioning.",
+        "D": "Unconditional positive regard and empathy."
+      },
+      "correctAnswer": "B",
+      "explanation": "DBT teaches mindfulness, distress tolerance, emotion regulation, and interpersonal effectiveness.",
+      "topic": "Therapeutic Interventions",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q807",
+      "questionText": "Which is not a primary goal of psychodynamic therapy?",
+      "options": {
+        "A": "To make the unconscious conscious.",
+        "B": "To gain insight into how past experiences shape present behavior.",
+        "C": "To work through unresolved conflicts.",
+        "D": "To directly change specific maladaptive behaviors through reinforcement schedules."
+      },
+      "correctAnswer": "D",
+      "explanation": "Changing behavior through reinforcement schedules is a behavioral therapy method.",
+      "topic": "Therapeutic Interventions",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q808",
+      "questionText": "Research on therapy efficacy has shown that:",
+      "options": {
+        "A": "Psychodynamic therapy is superior for all disorders.",
+        "B": "CBT is particularly effective for anxiety disorders, depressive disorders, and OCD.",
+        "C": "Behavioral therapies are ineffective for phobias.",
+        "D": "No therapy is better than no therapy."
+      },
+      "correctAnswer": "B",
+      "explanation": "CBT has strong evidence for anxiety, depression, and OCD.",
+      "topic": "Therapeutic Interventions",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q809",
+      "questionText": "A medication blocks dopamine receptors in the brain. This antipsychotic would most likely treat:",
+      "options": {
+        "A": "A specific phobia",
+        "B": "Major depression",
+        "C": "Schizophrenia",
+        "D": "Insomnia"
+      },
+      "correctAnswer": "C",
+      "explanation": "Antipsychotics reduce psychotic symptoms such as hallucinations and delusions by blocking dopamine activity.",
+      "topic": "Therapeutic Interventions",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q810",
+      "questionText": "In Carl Rogers' person-centered therapy, unconditional positive regard means the therapist:",
+      "options": {
+        "A": "Actively challenges irrational thoughts.",
+        "B": "Interprets unconscious motivations.",
+        "C": "Accepts and values the client regardless of behavior or feelings.",
+        "D": "Uses a token economy to reward desired behavior."
+      },
+      "correctAnswer": "C",
+      "explanation": "Unconditional positive regard means nonjudgmental acceptance of the client as a person.",
+      "topic": "Therapeutic Interventions",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q811",
+      "questionText": "A Filipino client reports bangungot, understood locally as sudden death during sleep. A psychologist from another culture may misinterpret it. What does this illustrate?",
+      "options": {
+        "A": "The need to immediately diagnose psychosis.",
+        "B": "The importance of socio-cultural factors in diagnosis and presentation.",
+        "C": "The need for all clients to conform to Western criteria.",
+        "D": "The need to ignore symptoms outside the DSM-5."
+      },
+      "correctAnswer": "B",
+      "explanation": "Cultural competence helps clinicians avoid misinterpreting culturally meaningful symptoms.",
+      "topic": "Sociocultural and Ethical Factors",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q812",
+      "questionText": "A school asks a psychometrician to administer an intelligence test not standardized for the child's cultural background. Which ethical principle is most at risk?",
+      "options": {
+        "A": "Confidentiality",
+        "B": "Competence and culturally appropriate assessment.",
+        "C": "Informed consent",
+        "D": "Avoiding dual relationships"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ethical assessment requires competent use of valid, culturally appropriate tools.",
+      "topic": "Sociocultural and Ethical Factors",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q813",
+      "questionText": "A psychologist in a small town begins providing therapy to their child's teacher. Why is this dual relationship ethically problematic?",
+      "options": {
+        "A": "It violates the teacher's right to privacy.",
+        "B": "It can compromise objectivity and the professional therapeutic relationship.",
+        "C": "The psychologist is not competent to treat teachers.",
+        "D": "It is a form of bartering."
+      },
+      "correctAnswer": "B",
+      "explanation": "Dual relationships can create conflicts of interest, boundary issues, and impaired objectivity.",
+      "topic": "Sociocultural and Ethical Factors",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q814",
+      "questionText": "What does informed consent in therapy and assessment mean?",
+      "options": {
+        "A": "The client must agree to all recommendations without question.",
+        "B": "The client is informed about services, risks, benefits, and the right to refuse or withdraw before agreeing.",
+        "C": "The therapist can share information with anyone they deem appropriate.",
+        "D": "Consent only needs to be obtained once at the beginning."
+      },
+      "correctAnswer": "B",
+      "explanation": "Informed consent requires voluntary agreement after clear information about services and rights.",
+      "topic": "Sociocultural and Ethical Factors",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q815",
+      "questionText": "A client confesses to a past crime for which they were never caught. Confidentiality must be maintained unless:",
+      "options": {
+        "A": "The psychologist believes the client poses an imminent threat of serious harm to another person.",
+        "B": "The psychologist is curious about the details of the crime.",
+        "C": "The police ask for the information without a court order.",
+        "D": "The client's family wants to know."
+      },
+      "correctAnswer": "A",
+      "explanation": "Confidentiality may be broken when there is an imminent risk of serious harm to others.",
+      "topic": "Sociocultural and Ethical Factors",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q816",
+      "questionText": "During the COVID-19 pandemic, which mental health issues most frequently increased in the general population?",
+      "options": {
+        "A": "Schizophrenia",
+        "B": "Anxiety and depressive disorders",
+        "C": "Personality disorders",
+        "D": "Intellectual disabilities"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lockdowns, isolation, grief, and uncertainty increased anxiety and depressive symptoms globally.",
+      "topic": "Mental Health Law and Global Health Crisis",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q817",
+      "questionText": "The Philippine Mental Health Act aims to integrate mental health care into general health care. One key provision requires services in:",
+      "options": {
+        "A": "Only specialized psychiatric hospitals in major cities.",
+        "B": "Community-based settings, including schools and workplaces, and hospitals with psychiatric services.",
+        "C": "Only private clinics for those who can afford it.",
+        "D": "Online platforms exclusively."
+      },
+      "correctAnswer": "B",
+      "explanation": "RA 11036 promotes accessible mental health care in communities, institutions, and general health systems.",
+      "topic": "Mental Health Law and Global Health Crisis",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q818",
+      "questionText": "What major challenge in implementing RA 11036 was highlighted during the COVID-19 pandemic?",
+      "options": {
+        "A": "A surplus of mental health professionals.",
+        "B": "Lack of public interest in mental health.",
+        "C": "Strain on limited mental health resources and professionals due to surging demand.",
+        "D": "The law's focus only on severe mental illness."
+      },
+      "correctAnswer": "C",
+      "explanation": "The pandemic increased demand and exposed limited mental health infrastructure and workforce capacity.",
+      "topic": "Mental Health Law and Global Health Crisis",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q819",
+      "questionText": "Which scenario best reflects RA 11036's principle of dignity and service-user participation in treatment planning?",
+      "options": {
+        "A": "A psychiatrist prescribes medication without explanation.",
+        "B": "A therapist collaborates with a client to set goals and choose the therapeutic approach.",
+        "C": "A client is forced into treatment without due process.",
+        "D": "A hospital refuses admission during a mental health crisis."
+      },
+      "correctAnswer": "B",
+      "explanation": "RA 11036 supports autonomy, dignity, informed care, and participation in treatment decisions.",
+      "topic": "Mental Health Law and Global Health Crisis",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q820",
+      "questionText": "What was a recognized challenge of telemental health during the COVID-19 pandemic, especially in the Philippine context?",
+      "options": {
+        "A": "Universal availability of high-speed internet and private spaces.",
+        "B": "Difficulty maintaining confidentiality and ensuring data privacy.",
+        "C": "Proven ineffectiveness of online therapy for any condition.",
+        "D": "Refusal of all therapists to use technology."
+      },
+      "correctAnswer": "B",
+      "explanation": "Telehealth can raise privacy, confidentiality, access, and data security concerns.",
+      "topic": "Mental Health Law and Global Health Crisis",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q821",
+      "questionText": "Which right is guaranteed by RA 11036 for persons with mental health conditions?",
+      "options": {
+        "A": "The right to be denied employment solely due to a mental health condition.",
+        "B": "The right to access evidence-based treatment.",
+        "C": "The right to be subjected to cruel or inhumane treatment.",
+        "D": "The right to have medical records made public without consent."
+      },
+      "correctAnswer": "B",
+      "explanation": "RA 11036 protects access to evidence-based care, dignity, informed consent, and confidentiality.",
+      "topic": "Mental Health Law and Global Health Crisis",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q822",
+      "questionText": "A common mental health issue faced by healthcare workers during the pandemic was:",
+      "options": {
+        "A": "Lack of work and boredom.",
+        "B": "Burnout, anxiety, and trauma-related stress from front-line work.",
+        "C": "Feeling under-appreciated by the public.",
+        "D": "All of the above."
+      },
+      "correctAnswer": "B",
+      "explanation": "Front-line healthcare workers faced high stress, infection risk, grief, burnout, and trauma exposure.",
+      "topic": "Mental Health Law and Global Health Crisis",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q823",
+      "questionText": "How did the global health crisis impact students' mental health?",
+      "options": {
+        "A": "It universally improved well-being due to less academic pressure.",
+        "B": "It increased stress, anxiety, and isolation due to remote learning and reduced social interaction.",
+        "C": "It had no significant impact.",
+        "D": "It only affected students with diagnosed mental health conditions."
+      },
+      "correctAnswer": "B",
+      "explanation": "Remote learning, routine disruption, and isolation increased stress and anxiety for many students.",
+      "topic": "Mental Health Law and Global Health Crisis",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q824",
+      "questionText": "Which action is inconsistent with RA 11036's goal of destigmatizing mental illness?",
+      "options": {
+        "A": "Promoting mental health education.",
+        "B": "Using derogatory terms like \"loko-loko\" or \"baliw\" for people with mental health conditions.",
+        "C": "Featuring stories of recovery and resilience.",
+        "D": "Creating accessible and affordable mental health services."
+      },
+      "correctAnswer": "B",
+      "explanation": "Derogatory labels reinforce stigma and discrimination against people with mental health conditions.",
+      "topic": "Mental Health Law and Global Health Crisis",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q825",
+      "questionText": "What can be concluded about the impact of COVID-19 on RA 11036 implementation?",
+      "options": {
+        "A": "It rendered the law completely irrelevant.",
+        "B": "It delayed some implementation but highlighted the urgent need for full enforcement and integration into public health responses.",
+        "C": "It proved the law was perfectly implemented and sufficient for any crisis.",
+        "D": "It led to a permanent decrease in demand for mental health services."
+      },
+      "correctAnswer": "B",
+      "explanation": "The pandemic exposed implementation gaps while emphasizing the importance of accessible mental health care.",
+      "topic": "Mental Health Law and Global Health Crisis",
+      "difficulty": "hard"
     }
   ]
 }
