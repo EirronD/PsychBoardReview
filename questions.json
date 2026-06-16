@@ -13369,6 +13369,1406 @@
       "explanation": "Assessment reports should be objective, respectful, and based on assessment data.",
       "topic": "Ethical Principles and Standards of Practice",
       "difficulty": "easy"
+    },
+    {
+      "id": "q956",
+      "questionText": "Identical twins raised in very different environments both show high intelligence and similar temperament, but one scores higher on IQ tests due to a more enriched environment. What is the best interpretation?",
+      "options": {
+        "A": "Nurture alone determines intelligence.",
+        "B": "Nature alone determines temperament and intelligence.",
+        "C": "Genetics sets a reaction range, while environment influences where a person falls within that range.",
+        "D": "Temperament is learned, while intelligence is purely genetic."
+      },
+      "correctAnswer": "C",
+      "explanation": "Reaction range means heredity sets potential limits, while environmental conditions affect actual development within those limits.",
+      "topic": "Nature and Nurture",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q957",
+      "questionText": "Miguel has biological parents with exceptional musical talent, was adopted by nonmusical parents, and later actively excelled in piano after showing strong rhythm and pitch. Which concept is illustrated?",
+      "options": {
+        "A": "Passive gene-environment correlation",
+        "B": "Evocative gene-environment correlation",
+        "C": "Active gene-environment correlation or niche-picking",
+        "D": "Epigenesis without genetic influence"
+      },
+      "correctAnswer": "C",
+      "explanation": "Active gene-environment correlation occurs when a person seeks environments that fit their genetic predispositions.",
+      "topic": "Nature and Nurture",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q958",
+      "questionText": "Which statement does NOT correctly describe the interaction of nature and nurture in language development?",
+      "options": {
+        "A": "Nature provides predispositions that nurture shapes.",
+        "B": "Environmental timing, such as language exposure during a critical period, shows nature-nurture interaction.",
+        "C": "Heredity and environment are mutually exclusive forces that act independently.",
+        "D": "Genetic makeup can influence the environments people seek."
+      },
+      "correctAnswer": "C",
+      "explanation": "Modern developmental psychology views nature and nurture as interacting forces, not separate forces acting independently.",
+      "topic": "Nature and Nurture",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q959",
+      "questionText": "Which characteristic is most likely due to nurture rather than nature in the development of empathy?",
+      "options": {
+        "A": "Brain structures such as mirror neurons linked to emotional sharing",
+        "B": "An infant crying reflexively when another infant cries",
+        "C": "A child offering a toy to a crying friend after being taught to share and be kind",
+        "D": "An evolutionary tendency toward prosocial behavior"
+      },
+      "correctAnswer": "C",
+      "explanation": "Teaching, modeling, and reinforcement are environmental influences, so learned sharing behavior reflects nurture.",
+      "topic": "Nature and Nurture",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q960",
+      "questionText": "Which scenario most clearly shows heredity influencing behavior or development?",
+      "options": {
+        "A": "A child from a reading household becomes an avid reader.",
+        "B": "A toddler uses polite words more after being praised.",
+        "C": "An infant is born with PKU, a genetic disorder that can cause intellectual disability if untreated.",
+        "D": "A teenager struggles to adjust to city life after growing up in a rural area."
+      },
+      "correctAnswer": "C",
+      "explanation": "PKU is inherited genetically, making it a direct example of heredity affecting development.",
+      "topic": "Nature and Nurture",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q961",
+      "questionText": "A 4-year-old boy frequently touches his genital area, says he wants to marry his mother, and shows jealousy toward his father. According to Freud, this behavior reflects which stage or conflict?",
+      "options": {
+        "A": "Oral-stage fixation",
+        "B": "Successful resolution of latency",
+        "C": "Phallic stage and the Oedipus complex",
+        "D": "Anal-stage abnormality"
+      },
+      "correctAnswer": "C",
+      "explanation": "Freud linked the phallic stage with genital awareness and the Oedipus complex in boys.",
+      "topic": "Developmental Theories",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q962",
+      "questionText": "A 45-year-old woman feels stagnant and disconnected despite career success because she has not mentored others or contributed to society. Which Erikson stage is involved?",
+      "options": {
+        "A": "Intimacy vs. Isolation",
+        "B": "Generativity vs. Stagnation",
+        "C": "Ego Integrity vs. Despair",
+        "D": "Identity vs. Role Confusion"
+      },
+      "correctAnswer": "B",
+      "explanation": "Middle adulthood centers on generativity, or contributing to others and future generations; failure leads to stagnation.",
+      "topic": "Developmental Theories",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q963",
+      "questionText": "David is exploring different values, careers, social groups, and beliefs without making a firm commitment. Which Marcia identity status best describes him?",
+      "options": {
+        "A": "Identity Diffusion",
+        "B": "Identity Foreclosure",
+        "C": "Identity Moratorium",
+        "D": "Identity Achievement"
+      },
+      "correctAnswer": "C",
+      "explanation": "Identity moratorium involves active exploration without final commitment.",
+      "topic": "Developmental Theories",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q964",
+      "questionText": "An 18-month-old becomes very distressed when her mother leaves and seeks contact when she returns but also pushes her away. What attachment style is most likely?",
+      "options": {
+        "A": "Secure attachment",
+        "B": "Anxious-avoidant attachment",
+        "C": "Anxious-resistant or ambivalent attachment",
+        "D": "Disorganized attachment"
+      },
+      "correctAnswer": "C",
+      "explanation": "Anxious-resistant attachment involves intense distress and ambivalent behavior toward the returning caregiver.",
+      "topic": "Developmental Theories",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q965",
+      "questionText": "A Vygotsky-based program emphasizes peer tutoring, collaboration, and guided support. Which idea is NOT part of Vygotsky's theory?",
+      "options": {
+        "A": "Zone of Proximal Development",
+        "B": "Scaffolding",
+        "C": "Social interaction and language shape cognitive development",
+        "D": "Cognitive development follows universal invariant stages independent of culture"
+      },
+      "correctAnswer": "D",
+      "explanation": "Universal, culture-independent stages are associated with Piaget, not Vygotsky.",
+      "topic": "Developmental Theories",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q966",
+      "questionText": "In the Heinz dilemma, an adolescent says stealing medicine is justified because human life is worth more than money and law can be broken for higher moral principles. What Kohlberg level is shown?",
+      "options": {
+        "A": "Stage 2: Instrumental Purpose Orientation",
+        "B": "Stage 3: Good Boy-Nice Girl Orientation",
+        "C": "Stage 4: Social-Order-Maintaining Orientation",
+        "D": "Stage 5 or Stage 6 postconventional reasoning"
+      },
+      "correctAnswer": "D",
+      "explanation": "Postconventional reasoning appeals to social contracts or universal ethical principles beyond strict law.",
+      "topic": "Developmental Theories",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q967",
+      "questionText": "A child avoids dogs after being knocked over by one. From a strict operant behaviorist view, how is the avoidance maintained?",
+      "options": {
+        "A": "It results from unresolved unconscious conflict.",
+        "B": "It is caused by genetic anxiety.",
+        "C": "Running away is negatively reinforced because it removes the feared dog.",
+        "D": "The child is in a sensitive period for fear development."
+      },
+      "correctAnswer": "C",
+      "explanation": "Negative reinforcement strengthens avoidance because escaping the dog reduces fear or discomfort.",
+      "topic": "Developmental Theories",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q968",
+      "questionText": "A 5-year-old says a tall thin glass has more water than a short wide glass after equal amounts are poured. Which preoperational limitation is also typical?",
+      "options": {
+        "A": "Object permanence",
+        "B": "Hypothetico-deductive reasoning",
+        "C": "Centration and egocentrism",
+        "D": "Abstract thought"
+      },
+      "correctAnswer": "C",
+      "explanation": "Preoperational children often focus on one feature at a time and struggle to take other perspectives.",
+      "topic": "Developmental Theories",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q969",
+      "questionText": "In Bronfenbrenner's theory, a local government policy that increases funding for parks and libraries in a child's neighborhood belongs to which system?",
+      "options": {
+        "A": "Microsystem",
+        "B": "Mesosystem",
+        "C": "Exosystem",
+        "D": "Macrosystem"
+      },
+      "correctAnswer": "C",
+      "explanation": "The exosystem includes settings and policies that indirectly affect the child.",
+      "topic": "Developmental Theories",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q970",
+      "questionText": "An adult is overly neat, perfectionistic, controlling, frugal, and rigid about how tasks should be done. Freud would most likely link this to fixation at which stage?",
+      "options": {
+        "A": "Oral stage",
+        "B": "Anal stage",
+        "C": "Phallic stage",
+        "D": "Genital stage"
+      },
+      "correctAnswer": "B",
+      "explanation": "Freud associated anal fixation with control, orderliness, stubbornness, and frugality.",
+      "topic": "Developmental Theories",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q971",
+      "questionText": "A 75-year-old man looks back on life with satisfaction, accepts successes and failures, and does not fear death. Which Erikson crisis has he resolved successfully?",
+      "options": {
+        "A": "Generativity vs. Stagnation",
+        "B": "Intimacy vs. Isolation",
+        "C": "Ego Integrity vs. Despair",
+        "D": "Trust vs. Mistrust"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ego integrity involves accepting one's life with a sense of meaning and completion.",
+      "topic": "Developmental Theories",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q972",
+      "questionText": "A young adult takes over the family business because it is expected, without exploring alternatives. Which Marcia identity status is shown?",
+      "options": {
+        "A": "Identity Diffusion",
+        "B": "Identity Foreclosure",
+        "C": "Identity Moratorium",
+        "D": "Identity Achievement"
+      },
+      "correctAnswer": "B",
+      "explanation": "Identity foreclosure means committing to an identity without prior exploration.",
+      "topic": "Developmental Theories",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q973",
+      "questionText": "Which theory places the least emphasis on early childhood experiences as the main source of adult personality?",
+      "options": {
+        "A": "Freud's Psychosexual Theory",
+        "B": "Erikson's Psychosocial Theory",
+        "C": "Behaviorism and Social Learning Theories",
+        "D": "Mahler's Object Relations Theory"
+      },
+      "correctAnswer": "C",
+      "explanation": "Behaviorism and social learning focus more on current learning, reinforcement, and modeling than early unconscious conflicts.",
+      "topic": "Developmental Theories",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q974",
+      "questionText": "A mother helps a toddler stack a third block by holding the lower blocks steady. According to Vygotsky, what is this support called?",
+      "options": {
+        "A": "Operant conditioning",
+        "B": "Classical conditioning",
+        "C": "Scaffolding",
+        "D": "Observational learning"
+      },
+      "correctAnswer": "C",
+      "explanation": "Scaffolding is temporary support that helps a learner complete a task just beyond current ability.",
+      "topic": "Developmental Theories",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q975",
+      "questionText": "A person says laws must be followed because society would collapse if everyone broke laws they disliked. Which Kohlberg stage is reflected?",
+      "options": {
+        "A": "Stage 2: Instrumental Relativist Orientation",
+        "B": "Stage 3: Good Boy-Nice Girl Orientation",
+        "C": "Stage 4: Law and Order Orientation",
+        "D": "Stage 5: Social Contract Orientation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Stage 4 reasoning emphasizes law, duty, and maintaining social order.",
+      "topic": "Developmental Theories",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q976",
+      "questionText": "Which is a common valid criticism of Piaget's cognitive development theory?",
+      "options": {
+        "A": "He overemphasized culture and social interaction.",
+        "B": "His theory was based mainly on observations of his own children.",
+        "C": "He may have underestimated infants' and young children's abilities.",
+        "D": "All of the above."
+      },
+      "correctAnswer": "C",
+      "explanation": "Later research suggests young children can show more cognitive competence than Piaget originally believed.",
+      "topic": "Developmental Theories",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q977",
+      "questionText": "A child says thank you after observing an older sibling being praised for the same behavior. Which theory best explains this?",
+      "options": {
+        "A": "Piaget's Cognitive Theory",
+        "B": "Freud's Psychoanalytic Theory",
+        "C": "Bandura's Social Learning Theory",
+        "D": "Kohlberg's Moral Development Theory"
+      },
+      "correctAnswer": "C",
+      "explanation": "Bandura emphasized observational learning, where behavior is learned by watching models and consequences.",
+      "topic": "Developmental Theories",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q978",
+      "questionText": "Why might humans more easily develop fears of snakes and spiders than modern dangers such as cars?",
+      "options": {
+        "A": "These fears are entirely learned through direct experience.",
+        "B": "They result from unconscious conflicts passed down through generations.",
+        "C": "Avoiding these threats was evolutionarily adaptive for ancestors.",
+        "D": "None of the above."
+      },
+      "correctAnswer": "C",
+      "explanation": "Evolutionary psychology argues that humans are prepared to learn fears that aided ancestral survival.",
+      "topic": "Developmental Theories",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q979",
+      "questionText": "A toddler repeatedly says no and insists on doing tasks independently. According to Erikson, this reflects which stage?",
+      "options": {
+        "A": "Trust vs. Mistrust",
+        "B": "Autonomy vs. Shame and Doubt",
+        "C": "Initiative vs. Guilt",
+        "D": "Industry vs. Inferiority"
+      },
+      "correctAnswer": "B",
+      "explanation": "Toddlers seek independence and self-control during autonomy vs. shame and doubt.",
+      "topic": "Developmental Theories",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q980",
+      "questionText": "In Margaret Mahler's theory, what is the process of developing a sense of self as separate from the mother called?",
+      "options": {
+        "A": "Oedipus Complex",
+        "B": "Separation-Individuation",
+        "C": "Attachment Formation",
+        "D": "Cognitive Disequilibrium"
+      },
+      "correctAnswer": "B",
+      "explanation": "Separation-individuation is the gradual development of a distinct self apart from the caregiver.",
+      "topic": "Developmental Theories",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q981",
+      "questionText": "Which statement correctly compares Freud's and Erikson's theories?",
+      "options": {
+        "A": "Both theories cover the full lifespan from birth to death.",
+        "B": "Freud emphasized psychosocial development, while Erikson emphasized psychosexual development.",
+        "C": "Erikson emphasized social and cultural factors more than Freud.",
+        "D": "Both theories say personality is fixed by adolescence."
+      },
+      "correctAnswer": "C",
+      "explanation": "Erikson expanded development across the lifespan and emphasized social relationships and culture.",
+      "topic": "Developmental Theories",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q982",
+      "questionText": "What can a child in the concrete operational stage do that a preoperational child typically cannot?",
+      "options": {
+        "A": "Think abstractly about justice or freedom",
+        "B": "Use pretend play and symbols",
+        "C": "Reason logically about concrete events and understand conservation",
+        "D": "Form a secure attachment"
+      },
+      "correctAnswer": "C",
+      "explanation": "Concrete operational children can apply logic to real objects and understand conservation.",
+      "topic": "Developmental Theories",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q983",
+      "questionText": "The social clock refers to culturally expected timing for major life milestones. It is most relevant to which period?",
+      "options": {
+        "A": "Infancy",
+        "B": "Early childhood",
+        "C": "Adolescence",
+        "D": "Adulthood"
+      },
+      "correctAnswer": "D",
+      "explanation": "The social clock concerns adult milestones such as marriage, work, parenthood, and retirement.",
+      "topic": "Developmental Theories",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q984",
+      "questionText": "From a behaviorist perspective, which is the least likely explanation for consistently high academic performance?",
+      "options": {
+        "A": "Praise and good grades reinforce studying.",
+        "B": "The student models successful siblings' study habits.",
+        "C": "The student has an innate passion and strong intrinsic motivation.",
+        "D": "Studying reduces anxiety about being unprepared."
+      },
+      "correctAnswer": "C",
+      "explanation": "Strict behaviorism explains behavior through observable learning and reinforcement, not innate internal passion.",
+      "topic": "Developmental Theories",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q985",
+      "questionText": "What is a key difference between Piaget's and Vygotsky's theories?",
+      "options": {
+        "A": "Piaget emphasized interaction with the physical environment, while Vygotsky emphasized social interaction and culture.",
+        "B": "Vygotsky proposed universal stages, while Piaget did not.",
+        "C": "Piaget applies only to children, while Vygotsky applies to the whole lifespan.",
+        "D": "Vygotsky was a behaviorist, while Piaget was a cognitivist."
+      },
+      "correctAnswer": "A",
+      "explanation": "Piaget emphasized individual exploration, while Vygotsky emphasized culture, language, and social learning.",
+      "topic": "Developmental Theories",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q986",
+      "questionText": "A fetus is exposed to heavy smoking and industrial pollution. What are harmful agents that can cause birth defects or developmental problems called?",
+      "options": {
+        "A": "Genotypes",
+        "B": "Phenotypes",
+        "C": "Teratogens",
+        "D": "Zygotes"
+      },
+      "correctAnswer": "C",
+      "explanation": "Teratogens are harmful environmental agents that can damage prenatal development.",
+      "topic": "Developmental Issues and Tasks",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q987",
+      "questionText": "Which critical prenatal task mainly occurs during the embryonic period, around weeks 2 to 8?",
+      "options": {
+        "A": "Rapid increase in size and weight",
+        "B": "Formation of major organs and body systems",
+        "C": "Development of secure attachment",
+        "D": "Refinement of sucking and swallowing reflexes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Organogenesis, or formation of major organs, occurs during the embryonic period.",
+      "topic": "Developmental Issues and Tasks",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q988",
+      "questionText": "According to Havighurst, which is a primary developmental task of middle adulthood?",
+      "options": {
+        "A": "Achieving emotional independence from parents",
+        "B": "Selecting a mate and learning to live with a partner",
+        "C": "Achieving civic and social responsibility and helping teenage children become responsible adults",
+        "D": "Adjusting to decreasing physical strength and health"
+      },
+      "correctAnswer": "C",
+      "explanation": "Middle adulthood includes civic responsibility, productivity, and guiding the next generation.",
+      "topic": "Developmental Issues and Tasks",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q989",
+      "questionText": "A 2-year-old uses two-word phrases such as want milk and go outside. What language stage is this?",
+      "options": {
+        "A": "Babbling",
+        "B": "Holophrastic speech",
+        "C": "Telegraphic speech",
+        "D": "Overregularization"
+      },
+      "correctAnswer": "C",
+      "explanation": "Telegraphic speech uses short, essential word combinations to communicate meaning.",
+      "topic": "Developmental Issues and Tasks",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q990",
+      "questionText": "Which is least likely to be a primary developmental task of adolescence?",
+      "options": {
+        "A": "Adjusting to a maturing body and sexuality",
+        "B": "Developing mature peer relationships",
+        "C": "Achieving a stable and productive career",
+        "D": "Forming personal identity and values"
+      },
+      "correctAnswer": "C",
+      "explanation": "Stable career achievement is more typical of adulthood than adolescence.",
+      "topic": "Developmental Issues and Tasks",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q991",
+      "questionText": "An older adult has difficulty learning new information but retains vocabulary and historical knowledge. What pattern does this reflect?",
+      "options": {
+        "A": "Fluid intelligence declines, while crystallized intelligence remains stable or increases.",
+        "B": "Crystallized intelligence declines, while fluid intelligence remains stable.",
+        "C": "Both fluid and crystallized intelligence decline steeply.",
+        "D": "Sensory memory declines, and long-term memory declines steeply."
+      },
+      "correctAnswer": "A",
+      "explanation": "Fluid intelligence often declines with age, while crystallized knowledge is usually more stable.",
+      "topic": "Developmental Issues and Tasks",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q992",
+      "questionText": "According to Erikson, how is trust primarily developed during infancy?",
+      "options": {
+        "A": "Early and consistent toilet training",
+        "B": "A stimulating educational environment",
+        "C": "Responsive and consistent caregiving that meets needs",
+        "D": "Encouraging independence and exploration"
+      },
+      "correctAnswer": "C",
+      "explanation": "Infants develop trust when caregivers reliably respond to their needs.",
+      "topic": "Developmental Issues and Tasks",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q993",
+      "questionText": "Which statement about prenatal development is incorrect?",
+      "options": {
+        "A": "The germinal stage covers the first two weeks after conception.",
+        "B": "The fetal stage is when major organs and body systems are formed.",
+        "C": "The embryonic stage is highly vulnerable to teratogens.",
+        "D": "A zygote is the single cell formed at conception."
+      },
+      "correctAnswer": "B",
+      "explanation": "Major organs form during the embryonic stage; the fetal stage mainly involves growth and refinement.",
+      "topic": "Developmental Issues and Tasks",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q994",
+      "questionText": "A couple in their late 20s is adjusting to marriage, careers, and decisions about starting a family. According to Havighurst, this fits which stage?",
+      "options": {
+        "A": "Adolescence",
+        "B": "Early adulthood",
+        "C": "Middle adulthood",
+        "D": "Late maturity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Early adulthood includes mate selection, family formation, and career establishment.",
+      "topic": "Developmental Issues and Tasks",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q995",
+      "questionText": "Physical development in early childhood, ages 2 to 6, includes all of the following except:",
+      "options": {
+        "A": "Improvement in gross motor skills",
+        "B": "Development of fine motor skills",
+        "C": "Onset of puberty and secondary sex characteristics",
+        "D": "Slower growth than in infancy"
+      },
+      "correctAnswer": "C",
+      "explanation": "Puberty and secondary sex characteristics are features of adolescence, not early childhood.",
+      "topic": "Developmental Issues and Tasks",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q996",
+      "questionText": "Socio-emotional development in middle childhood is characterized by which feature?",
+      "options": {
+        "A": "Emergence of the social smile",
+        "B": "Strong focus on stable identity separate from parents",
+        "C": "Increased importance of peer groups and social comparison",
+        "D": "Peak separation anxiety"
+      },
+      "correctAnswer": "C",
+      "explanation": "Peer relationships and social comparison become especially important during middle childhood.",
+      "topic": "Developmental Issues and Tasks",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q997",
+      "questionText": "Which ability is a hallmark of formal operational thought in adolescence?",
+      "options": {
+        "A": "Thinking abstractly, hypothetically, and contrary to fact",
+        "B": "Knowing objects exist when unseen",
+        "C": "Logical operations only on concrete objects",
+        "D": "Developing object permanence"
+      },
+      "correctAnswer": "A",
+      "explanation": "Formal operational thinking allows abstract, hypothetical, and systematic reasoning.",
+      "topic": "Developmental Issues and Tasks",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q998",
+      "questionText": "Which is a critical developmental task of late adulthood?",
+      "options": {
+        "A": "Establishing a career and family",
+        "B": "Adjusting to retirement and reduced income",
+        "C": "Developing personal identity",
+        "D": "Mastering reading, writing, and arithmetic"
+      },
+      "correctAnswer": "B",
+      "explanation": "Late adulthood often requires adapting to retirement, health changes, and financial changes.",
+      "topic": "Developmental Issues and Tasks",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q999",
+      "questionText": "Empty nest syndrome is most commonly associated with which developmental period?",
+      "options": {
+        "A": "Early adulthood",
+        "B": "Middle adulthood",
+        "C": "Late adulthood",
+        "D": "Adolescence"
+      },
+      "correctAnswer": "B",
+      "explanation": "Empty nest feelings commonly arise in middle adulthood when children leave home.",
+      "topic": "Developmental Issues and Tasks",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1000",
+      "questionText": "What is the correct sequence in Kübler-Ross's five-stage model of grief?",
+      "options": {
+        "A": "Anger, Bargaining, Denial, Depression, Acceptance",
+        "B": "Denial, Anger, Bargaining, Depression, Acceptance",
+        "C": "Depression, Anger, Denial, Bargaining, Acceptance",
+        "D": "Bargaining, Denial, Acceptance, Anger, Depression"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kübler-Ross proposed the sequence denial, anger, bargaining, depression, and acceptance.",
+      "topic": "Developmental Issues and Tasks",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1001",
+      "questionText": "Which statement about physical development in adulthood is most accurate?",
+      "options": {
+        "A": "Physical abilities peak in late adulthood.",
+        "B": "Aging changes occur at the same rate for everyone.",
+        "C": "Primary aging is inevitable, while secondary aging results from illness or lifestyle.",
+        "D": "Menopause and andropause have no biological basis."
+      },
+      "correctAnswer": "C",
+      "explanation": "Primary aging reflects normal biological aging; secondary aging reflects disease or lifestyle effects.",
+      "topic": "Developmental Issues and Tasks",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1002",
+      "questionText": "A 4-year-old says his teddy bear is sad because it was left in the rain. What is this called?",
+      "options": {
+        "A": "Egocentrism",
+        "B": "Animism",
+        "C": "Conservation",
+        "D": "Centration"
+      },
+      "correctAnswer": "B",
+      "explanation": "Animism is attributing life, feelings, or intentions to inanimate objects.",
+      "topic": "Developmental Issues and Tasks",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1003",
+      "questionText": "Which parental behavior best supports toddler autonomy?",
+      "options": {
+        "A": "Doing feeding and dressing for the toddler to ensure correctness",
+        "B": "Allowing simple choices and attempts at independence, even if messy",
+        "C": "Punishing the toddler for saying no",
+        "D": "Ignoring attempts to be independent"
+      },
+      "correctAnswer": "B",
+      "explanation": "Toddlers develop autonomy when given safe opportunities to choose and try tasks independently.",
+      "topic": "Developmental Issues and Tasks",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1004",
+      "questionText": "What is social referencing in socio-emotional development?",
+      "options": {
+        "A": "An infant looks to a caregiver's expression to decide how to respond to an unfamiliar situation.",
+        "B": "A child compares abilities with peers.",
+        "C": "An adolescent forms identity through social groups.",
+        "D": "An adult uses past experiences to guide decisions."
+      },
+      "correctAnswer": "A",
+      "explanation": "Social referencing helps infants interpret uncertain situations through caregiver emotional cues.",
+      "topic": "Developmental Issues and Tasks",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1005",
+      "questionText": "Successfully resolving Erikson's intimacy vs. isolation crisis in early adulthood involves what?",
+      "options": {
+        "A": "Finding personal identity",
+        "B": "Forming deep, committed relationships",
+        "C": "Contributing to the next generation",
+        "D": "Reviewing life with fulfillment"
+      },
+      "correctAnswer": "B",
+      "explanation": "The intimacy stage centers on forming close, committed adult relationships.",
+      "topic": "Developmental Issues and Tasks",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1006",
+      "questionText": "The visual cliff experiment was designed to study which infant ability?",
+      "options": {
+        "A": "Object permanence",
+        "B": "Depth perception",
+        "C": "Attachment",
+        "D": "Language comprehension"
+      },
+      "correctAnswer": "B",
+      "explanation": "The visual cliff tests whether infants perceive depth and avoid an apparent drop.",
+      "topic": "Developmental Issues and Tasks",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1007",
+      "questionText": "Why is myelination important for development?",
+      "options": {
+        "A": "It increases the speed and efficiency of neural communication.",
+        "B": "It is the primary cause of puberty.",
+        "C": "It helps infants distinguish parents from strangers.",
+        "D": "It directly creates object permanence."
+      },
+      "correctAnswer": "A",
+      "explanation": "Myelin insulates nerve fibers, allowing faster and more efficient neural transmission.",
+      "topic": "Developmental Issues and Tasks",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1008",
+      "questionText": "A teenager believes everyone is watching them and that their experiences are unique and special. What is this known as?",
+      "options": {
+        "A": "Personal fable and imaginary audience",
+        "B": "Oedipus complex",
+        "C": "Zone of proximal development",
+        "D": "Concept of conservation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Adolescent egocentrism includes the imaginary audience and personal fable.",
+      "topic": "Developmental Issues and Tasks",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1009",
+      "questionText": "Why is synaptic pruning important in cognitive development?",
+      "options": {
+        "A": "It is a sign of developmental delay.",
+        "B": "It improves brain efficiency by strengthening frequently used connections.",
+        "C": "It occurs only during prenatal development.",
+        "D": "It is the main cause of memory loss in old age."
+      },
+      "correctAnswer": "B",
+      "explanation": "Pruning removes unused connections and makes neural processing more efficient.",
+      "topic": "Developmental Issues and Tasks",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1010",
+      "questionText": "Which parenting style is most consistently linked to high self-esteem, independence, and academic success?",
+      "options": {
+        "A": "Authoritarian",
+        "B": "Permissive",
+        "C": "Uninvolved or neglectful",
+        "D": "Authoritative"
+      },
+      "correctAnswer": "D",
+      "explanation": "Authoritative parenting combines warmth with reasonable limits and is linked to positive outcomes.",
+      "topic": "Developmental Issues and Tasks",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1011",
+      "questionText": "Which is NOT a potential critical issue during prenatal development?",
+      "options": {
+        "A": "Maternal malnutrition",
+        "B": "Exposure to alcohol or radiation",
+        "C": "Maternal stress",
+        "D": "Development of telegraphic speech"
+      },
+      "correctAnswer": "D",
+      "explanation": "Telegraphic speech is a toddler language milestone, not a prenatal issue.",
+      "topic": "Developmental Issues and Tasks",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1012",
+      "questionText": "The Sandwich Generation refers to middle-aged adults who are:",
+      "options": {
+        "A": "Caught between financial needs and leisure",
+        "B": "Caring for aging parents and their own children at the same time",
+        "C": "Choosing between career advancement and relationships",
+        "D": "Experiencing a mid-life crisis"
+      },
+      "correctAnswer": "B",
+      "explanation": "The term describes adults caring for both older parents and younger or dependent children.",
+      "topic": "Developmental Issues and Tasks",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1013",
+      "questionText": "Which developmental task is associated with school age or middle childhood?",
+      "options": {
+        "A": "Developing trust in caregivers",
+        "B": "Learning autonomy",
+        "C": "Developing industry by mastering academic and social skills",
+        "D": "Forming an intimate partnership"
+      },
+      "correctAnswer": "C",
+      "explanation": "Middle childhood centers on industry, competence, and mastery of school and social tasks.",
+      "topic": "Developmental Issues and Tasks",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1014",
+      "questionText": "Bereavement is the experience of losing a loved one. What is the emotional response to this loss called?",
+      "options": {
+        "A": "Grief",
+        "B": "Mourning",
+        "C": "Denial",
+        "D": "Stagnation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Grief is the internal emotional response to loss.",
+      "topic": "Developmental Issues and Tasks",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1015",
+      "questionText": "Excessive screen time in early childhood is associated with all of the following except:",
+      "options": {
+        "A": "Language delays",
+        "B": "Attention problems",
+        "C": "Enhanced gross motor skill development",
+        "D": "Obesity"
+      },
+      "correctAnswer": "C",
+      "explanation": "Excessive screen time is sedentary and does not enhance gross motor development.",
+      "topic": "Developmental Issues and Tasks",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1016",
+      "questionText": "A 7-year-old completes a 100-piece jigsaw puzzle requiring planning, visual-spatial skills, and fine motor control. This mainly reflects a milestone in which domain?",
+      "options": {
+        "A": "Socio-emotional development",
+        "B": "Cognitive development",
+        "C": "Physical development, specifically fine motor",
+        "D": "Moral development"
+      },
+      "correctAnswer": "B",
+      "explanation": "Planning and visual-spatial reasoning make puzzle completion primarily a cognitive milestone.",
+      "topic": "Developmental Challenges and Milestones",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1017",
+      "questionText": "A 14-year-old worries that everyone at school will stare at a minor pimple. What adolescent challenge does this show?",
+      "options": {
+        "A": "Personal fable",
+        "B": "Imaginary audience",
+        "C": "Identity crisis",
+        "D": "Oedipus complex"
+      },
+      "correctAnswer": "B",
+      "explanation": "The imaginary audience is the belief that others are constantly watching and judging oneself.",
+      "topic": "Developmental Challenges and Milestones",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1018",
+      "questionText": "Which is a key developmental milestone of infancy during the first year of life?",
+      "options": {
+        "A": "Speaking in full complex sentences",
+        "B": "Walking independently",
+        "C": "Abstract philosophical thinking",
+        "D": "All of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "Independent walking typically emerges around the end of infancy or shortly after.",
+      "topic": "Developmental Challenges and Milestones",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1019",
+      "questionText": "A retired 68-year-old volunteers, takes classes, and stays socially active. Which late-adulthood challenge is he navigating successfully?",
+      "options": {
+        "A": "Overcoming role confusion",
+        "B": "Avoiding physical decline entirely",
+        "C": "Redefining identity and roles outside a career",
+        "D": "Developing object permanence"
+      },
+      "correctAnswer": "C",
+      "explanation": "Retirement often requires new sources of identity, purpose, and social engagement.",
+      "topic": "Developmental Challenges and Milestones",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1020",
+      "questionText": "A toddler has tantrums because the desire for independence exceeds verbal and physical ability. What is the best parental response?",
+      "options": {
+        "A": "Give in to every demand",
+        "B": "Severely punish anger",
+        "C": "Acknowledge feelings while maintaining clear boundaries and safety",
+        "D": "Ignore the child completely in all situations"
+      },
+      "correctAnswer": "C",
+      "explanation": "Effective responses validate emotion while keeping limits consistent and safe.",
+      "topic": "Developmental Challenges and Milestones",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1021",
+      "questionText": "Which statement best differentiates early adulthood from middle adulthood challenges?",
+      "options": {
+        "A": "Early adulthood centers on generativity, while middle adulthood centers on identity formation.",
+        "B": "Early adulthood is mainly physical decline, while middle adulthood is intimacy.",
+        "C": "Early adulthood often involves career establishment and intimacy; middle adulthood often involves reevaluation and aging parents.",
+        "D": "There are no significant differences."
+      },
+      "correctAnswer": "C",
+      "explanation": "Early adulthood focuses on launching relationships and careers, while middle adulthood often brings reevaluation and caregiving responsibilities.",
+      "topic": "Developmental Challenges and Milestones",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1022",
+      "questionText": "Which is the best example of prosocial behavior in preschool socio-emotional development?",
+      "options": {
+        "A": "A child grabs another child's toy.",
+        "B": "A child cries when a parent leaves.",
+        "C": "A child shares a snack with a classmate who has none.",
+        "D": "A child recognizes their reflection."
+      },
+      "correctAnswer": "C",
+      "explanation": "Prosocial behavior is voluntary action intended to help or benefit others.",
+      "topic": "Developmental Challenges and Milestones",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1023",
+      "questionText": "Which is NOT a typical challenge faced by a surviving spouse after the death of a partner?",
+      "options": {
+        "A": "Intense grief and loneliness",
+        "B": "Renegotiating social roles and relationships",
+        "C": "Managing finances or household tasks alone",
+        "D": "A sudden and complete absence of stress"
+      },
+      "correctAnswer": "D",
+      "explanation": "Spousal loss is highly stressful and usually involves emotional, social, and practical challenges.",
+      "topic": "Developmental Challenges and Milestones",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1024",
+      "questionText": "A middle-childhood milestone is decentering. What does this mean?",
+      "options": {
+        "A": "Focusing on several aspects of a problem at once",
+        "B": "Thinking only in abstract terms",
+        "C": "Knowing objects exist when out of sight",
+        "D": "Forming secure attachment"
+      },
+      "correctAnswer": "A",
+      "explanation": "Decentering allows children to consider multiple features of a situation simultaneously.",
+      "topic": "Developmental Challenges and Milestones",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1025",
+      "questionText": "Exposure to a harmful substance during the embryonic period is most likely to cause what?",
+      "options": {
+        "A": "Minor cosmetic flaws only",
+        "B": "Major structural abnormalities in organs",
+        "C": "Only stunted growth in the last trimester",
+        "D": "No significant effect"
+      },
+      "correctAnswer": "B",
+      "explanation": "Because organs form during the embryonic period, teratogens then can cause major structural defects.",
+      "topic": "Developmental Challenges and Milestones",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1026",
+      "questionText": "Saying cat when pointing to a cat picture is a milestone in one domain, while hopping on one foot is a milestone in another. Which pairing is correct?",
+      "options": {
+        "A": "Cognitive; socio-emotional",
+        "B": "Language; gross motor skills",
+        "C": "Fine motor skills; language",
+        "D": "Socio-emotional; cognitive"
+      },
+      "correctAnswer": "B",
+      "explanation": "Naming pictures reflects language development; hopping uses large muscles and balance.",
+      "topic": "Developmental Challenges and Milestones",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1027",
+      "questionText": "An adolescent repeatedly conflicts with parents over rules and curfews while seeking independence. What challenge is this most related to?",
+      "options": {
+        "A": "Autonomy vs. Shame and Doubt",
+        "B": "Industry vs. Inferiority",
+        "C": "Intimacy vs. Isolation",
+        "D": "Identity formation and the push for independence"
+      },
+      "correctAnswer": "D",
+      "explanation": "Adolescence involves identity development and increasing independence from parents.",
+      "topic": "Developmental Challenges and Milestones",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1028",
+      "questionText": "Which scenario correctly illustrates a developmental milestone?",
+      "options": {
+        "A": "An 18-month-old uses a pincer grasp to pick up a small object.",
+        "B": "A 4-year-old solves complex algebra.",
+        "C": "A 70-year-old runs a 4-minute mile.",
+        "D": "A 1-month-old speaks in three-word sentences."
+      },
+      "correctAnswer": "A",
+      "explanation": "The pincer grasp is a fine motor milestone that develops in infancy and toddlerhood.",
+      "topic": "Developmental Challenges and Milestones",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1029",
+      "questionText": "An adult feels overwhelmed by job and family demands and believes they are failing at both. This reflects a challenge in which area?",
+      "options": {
+        "A": "Cognitive development",
+        "B": "Physical development",
+        "C": "Socio-emotional and practical life management",
+        "D": "Moral development"
+      },
+      "correctAnswer": "C",
+      "explanation": "Work-life balance involves emotional stress, role management, and practical responsibilities.",
+      "topic": "Developmental Challenges and Milestones",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1030",
+      "questionText": "What is the ability to understand that others have beliefs, desires, and perspectives different from one's own called?",
+      "options": {
+        "A": "Theory of Mind",
+        "B": "Egocentrism",
+        "C": "Object Permanence",
+        "D": "Conservation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Theory of Mind is understanding that other people have their own mental states.",
+      "topic": "Developmental Challenges and Milestones",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1031",
+      "questionText": "A 50-year-old woman cares for her ailing mother, supports her adult son, and manages a full-time job. This best illustrates which challenge?",
+      "options": {
+        "A": "Empty Nest Syndrome",
+        "B": "Sandwich Generation",
+        "C": "Age of Identity Exploration",
+        "D": "Crisis of Integrity"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Sandwich Generation is caught between caregiving for older parents and children.",
+      "topic": "Developmental Challenges and Milestones",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1032",
+      "questionText": "A 2-year-old insists on wearing a superhero costume to a formal dinner because social norms are still developing. This is common in which period?",
+      "options": {
+        "A": "Late adulthood",
+        "B": "Adolescence",
+        "C": "Early childhood",
+        "D": "Infancy"
+      },
+      "correctAnswer": "C",
+      "explanation": "Early childhood includes developing understanding of social contexts, rules, and expectations.",
+      "topic": "Developmental Challenges and Milestones",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1033",
+      "questionText": "Which statement best differentiates childhood challenges from adolescent challenges?",
+      "options": {
+        "A": "Childhood focuses on basic motor and language skills; adolescence focuses on identity and peer relationships.",
+        "B": "Childhood challenges are biological, while adolescent challenges are purely social.",
+        "C": "The challenges are the same.",
+        "D": "Adolescence is about trust, while childhood is about integrity."
+      },
+      "correctAnswer": "A",
+      "explanation": "Childhood emphasizes foundational skills, while adolescence emphasizes identity, autonomy, and peers.",
+      "topic": "Developmental Challenges and Milestones",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1034",
+      "questionText": "An elderly man must decide whether risky surgery might extend life but reduce quality of life. This illustrates issues in what area?",
+      "options": {
+        "A": "Career development",
+        "B": "End-of-life decisions",
+        "C": "Identity formation",
+        "D": "Attachment"
+      },
+      "correctAnswer": "B",
+      "explanation": "The scenario involves medical choice, mortality, and quality of life near the end of life.",
+      "topic": "Developmental Challenges and Milestones",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1035",
+      "questionText": "A preschool milestone is gender identity. What does this mean?",
+      "options": {
+        "A": "Understanding that gender is permanent",
+        "B": "A sense of being male or female",
+        "C": "Learning culturally appropriate gender roles",
+        "D": "Developing secondary sexual characteristics"
+      },
+      "correctAnswer": "B",
+      "explanation": "Gender identity is a person's internal sense of gender.",
+      "topic": "Developmental Challenges and Milestones",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1036",
+      "questionText": "A child can follow a two-step command such as pick up the ball and bring it to me. This is a milestone in what area?",
+      "options": {
+        "A": "Gross motor skills",
+        "B": "Fine motor skills",
+        "C": "Receptive language",
+        "D": "Moral reasoning"
+      },
+      "correctAnswer": "C",
+      "explanation": "Receptive language is the ability to understand spoken instructions.",
+      "topic": "Developmental Challenges and Milestones",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1037",
+      "questionText": "A mid-life crisis, though not universal, typically involves what?",
+      "options": {
+        "A": "Struggling to form a first intimate relationship",
+        "B": "Reevaluating life, goals, and identity",
+        "C": "Adjusting to retirement",
+        "D": "Separation anxiety from parents"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mid-life reflection often involves reassessing choices, goals, and identity.",
+      "topic": "Developmental Challenges and Milestones",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1038",
+      "questionText": "Which milestone is expected of a typical 5-year-old?",
+      "options": {
+        "A": "Can tell a simple story using full sentences",
+        "B": "Can think hypothetically and deduce consequences",
+        "C": "Has full ego integrity",
+        "D": "Can live independently"
+      },
+      "correctAnswer": "A",
+      "explanation": "By age 5, many children can use full sentences and narrate simple stories.",
+      "topic": "Developmental Challenges and Milestones",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1039",
+      "questionText": "Which challenge is especially acute during adolescence compared with childhood?",
+      "options": {
+        "A": "Learning to walk",
+        "B": "Learning to talk",
+        "C": "Managing peer pressure and risks such as substance use",
+        "D": "Developing trust in a caregiver"
+      },
+      "correctAnswer": "C",
+      "explanation": "Adolescents face increased independence and peer influence, which can increase risk-taking pressures.",
+      "topic": "Developmental Challenges and Milestones",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1040",
+      "questionText": "For a young child coping with the death of a parent, what is a major developmental challenge?",
+      "options": {
+        "A": "Understanding the permanence and universality of death",
+        "B": "Managing the parent's estate",
+        "C": "Renegotiating career plans",
+        "D": "Regretting things left unsaid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Young children may struggle to understand that death is permanent and universal.",
+      "topic": "Developmental Challenges and Milestones",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1041",
+      "questionText": "The ability to sit still for a period and pay attention is a school-readiness milestone related to what?",
+      "options": {
+        "A": "Self-regulation",
+        "B": "Gross motor skills",
+        "C": "Object permanence",
+        "D": "Attachment"
+      },
+      "correctAnswer": "A",
+      "explanation": "Self-regulation includes controlling attention, impulses, and behavior.",
+      "topic": "Developmental Challenges and Milestones",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1042",
+      "questionText": "Which scenario best illustrates a prenatal developmental challenge?",
+      "options": {
+        "A": "A teenager struggles with acne.",
+        "B": "A toddler has a tantrum.",
+        "C": "A fetus is exposed to high lead levels through the mother's drinking water.",
+        "D": "A 40-year-old feels dissatisfied with a career."
+      },
+      "correctAnswer": "C",
+      "explanation": "Lead is a teratogenic hazard that can harm prenatal development.",
+      "topic": "Developmental Challenges and Milestones",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1043",
+      "questionText": "Running, jumping, and climbing are milestones in which category?",
+      "options": {
+        "A": "Fine motor skills",
+        "B": "Gross motor skills",
+        "C": "Cognitive skills",
+        "D": "Socio-emotional skills"
+      },
+      "correctAnswer": "B",
+      "explanation": "Gross motor skills use large muscle groups for whole-body movement.",
+      "topic": "Developmental Challenges and Milestones",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1044",
+      "questionText": "Which behavior shows that an infant has developed object permanence?",
+      "options": {
+        "A": "Smiling when seeing the mother",
+        "B": "Searching for a toy hidden under a blanket",
+        "C": "Stacking two blocks",
+        "D": "Crying when a stranger approaches"
+      },
+      "correctAnswer": "B",
+      "explanation": "Searching for a hidden toy shows the child knows the object still exists when unseen.",
+      "topic": "Developmental Challenges and Milestones",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1045",
+      "questionText": "An older adult creates an advance directive or living will. This addresses which developmental challenge?",
+      "options": {
+        "A": "Career planning",
+        "B": "Starting a family",
+        "C": "Autonomy in end-of-life care and decisions about death",
+        "D": "Forming a peer group"
+      },
+      "correctAnswer": "C",
+      "explanation": "Advance directives help preserve personal autonomy in end-of-life medical decisions.",
+      "topic": "Developmental Challenges and Milestones",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1046",
+      "questionText": "A researcher tests separate groups of 20-, 40-, and 60-year-olds at the same time to compare problem-solving skills. What design is this?",
+      "options": {
+        "A": "Longitudinal study",
+        "B": "Cross-sectional study",
+        "C": "Case study",
+        "D": "Experimental study"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cross-sectional studies compare different age groups at one point in time.",
+      "topic": "Research Methods and Lifespan Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1047",
+      "questionText": "In cross-sectional research, what is a cohort effect?",
+      "options": {
+        "A": "Participants drop out over time.",
+        "B": "Results are influenced by the life experiences of a particular generation.",
+        "C": "The researcher's expectations influence results.",
+        "D": "The study lacks a control group."
+      },
+      "correctAnswer": "B",
+      "explanation": "Cohort effects occur when age-group differences reflect generational experiences rather than development itself.",
+      "topic": "Research Methods and Lifespan Development",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1048",
+      "questionText": "What is a longitudinal study?",
+      "options": {
+        "A": "Different age groups are studied at the same time.",
+        "B": "One individual is studied in great depth.",
+        "C": "The same group is studied repeatedly over a long period.",
+        "D": "A researcher manipulates one variable to test its effect."
+      },
+      "correctAnswer": "C",
+      "explanation": "Longitudinal studies follow the same participants across time to observe developmental change.",
+      "topic": "Research Methods and Lifespan Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1049",
+      "questionText": "What is the most important ethical consideration when conducting research with children?",
+      "options": {
+        "A": "Publishing in a prestigious journal",
+        "B": "Obtaining informed consent or assent and ensuring the child is not harmed",
+        "C": "Completing the study quickly",
+        "D": "Paying children a large amount"
+      },
+      "correctAnswer": "B",
+      "explanation": "Child research requires parent consent, child assent when possible, and protection from harm.",
+      "topic": "Research Methods and Lifespan Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1050",
+      "questionText": "What does plasticity in development mean?",
+      "options": {
+        "A": "Development follows one predetermined path.",
+        "B": "Human characteristics can change and remain malleable at any age.",
+        "C": "A passed stage is fixed forever.",
+        "D": "Development is determined only by genetics."
+      },
+      "correctAnswer": "B",
+      "explanation": "Plasticity means development can change in response to experience and intervention.",
+      "topic": "Research Methods and Lifespan Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1051",
+      "questionText": "A child is born with an extra chromosome on the 21st pair, causing intellectual disability and distinct physical features. What condition is this?",
+      "options": {
+        "A": "Phenylketonuria or PKU",
+        "B": "Klinefelter syndrome",
+        "C": "Turner syndrome",
+        "D": "Down syndrome or Trisomy 21"
+      },
+      "correctAnswer": "D",
+      "explanation": "Down syndrome, or Trisomy 21, is caused by an extra copy of chromosome 21.",
+      "topic": "Research Methods and Lifespan Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1052",
+      "questionText": "The Apgar scale assesses newborn condition at one and five minutes after birth. Which is NOT assessed by Apgar?",
+      "options": {
+        "A": "Heart rate",
+        "B": "Respiration",
+        "C": "Muscle tone",
+        "D": "Birth weight"
+      },
+      "correctAnswer": "D",
+      "explanation": "Apgar assesses appearance, pulse, grimace, activity, and respiration, not birth weight.",
+      "topic": "Research Methods and Lifespan Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1053",
+      "questionText": "Which statement about lifespan development is correct?",
+      "options": {
+        "A": "Development is lifelong.",
+        "B": "Development is multidimensional.",
+        "C": "Development is influenced by biological, social, and individual factors.",
+        "D": "All of the above."
+      },
+      "correctAnswer": "D",
+      "explanation": "Lifespan development is lifelong, multidimensional, and shaped by multiple interacting influences.",
+      "topic": "Research Methods and Lifespan Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1054",
+      "questionText": "A researcher randomly assigns students to a new teaching method or standard method, then compares reading scores. What type of study is this?",
+      "options": {
+        "A": "Correlational study",
+        "B": "Experimental study",
+        "C": "Naturalistic observation",
+        "D": "Case study"
+      },
+      "correctAnswer": "B",
+      "explanation": "Random assignment and manipulation of a teaching method indicate an experimental design.",
+      "topic": "Research Methods and Lifespan Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1055",
+      "questionText": "What principle states that each person follows a unique developmental path rather than exactly matching average timelines?",
+      "options": {
+        "A": "Normative development",
+        "B": "Idiographic development",
+        "C": "Cohort effect",
+        "D": "Plasticity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Idiographic development emphasizes each individual's unique developmental pathway.",
+      "topic": "Research Methods and Lifespan Development",
+      "difficulty": "medium"
     }
   ]
 }
