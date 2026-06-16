@@ -14769,6 +14769,2106 @@
       "explanation": "Idiographic development emphasizes each individual's unique developmental pathway.",
       "topic": "Research Methods and Lifespan Development",
       "difficulty": "medium"
+    },
+    {
+      "id": "q1056",
+      "questionText": "Which of the following is NOT one of the three basic criteria used to define a psychological disorder?",
+      "options": {
+        "A": "Psychological dysfunction",
+        "B": "Distress or impairment",
+        "C": "A response that is atypical or not culturally expected",
+        "D": "A behavior that is universally condemned by society"
+      },
+      "correctAnswer": "D",
+      "explanation": "A psychological disorder is defined by dysfunction, distress or impairment, and atypical or culturally unexpected response, not universal condemnation.",
+      "topic": "Abnormal Behavior in Historical Context",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1057",
+      "questionText": "The scientific study of psychological disorders is called what?",
+      "options": {
+        "A": "Psychoanalysis",
+        "B": "Psychopathology",
+        "C": "Psychiatry",
+        "D": "Life-span developmental psychology"
+      },
+      "correctAnswer": "B",
+      "explanation": "Psychopathology is the scientific study of psychological disorders, including their causes, symptoms, and treatment.",
+      "topic": "Abnormal Behavior in Historical Context",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1058",
+      "questionText": "A mental health professional who keeps up with research, uses scientific data to evaluate practice, and conducts research is called a what?",
+      "options": {
+        "A": "Clinical psychologist",
+        "B": "Psychiatrist",
+        "C": "Scientist-practitioner",
+        "D": "Psychoanalyst"
+      },
+      "correctAnswer": "C",
+      "explanation": "A scientist-practitioner integrates clinical practice with scientific research and evidence-based evaluation.",
+      "topic": "Abnormal Behavior in Historical Context",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1059",
+      "questionText": "Which historical model explained abnormal behavior as a battle between good and evil, including causes such as demonic possession or witchcraft?",
+      "options": {
+        "A": "Biological model",
+        "B": "Psychological model",
+        "C": "Supernatural model",
+        "D": "Moral model"
+      },
+      "correctAnswer": "C",
+      "explanation": "The supernatural model attributed abnormal behavior to forces such as demons, spirits, or evil influences.",
+      "topic": "Abnormal Behavior in Historical Context",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1060",
+      "questionText": "During the Middle Ages, large-scale outbreaks of bizarre behavior, such as Saint Vitus's Dance, were known as what?",
+      "options": {
+        "A": "Emotion contagion",
+        "B": "The Golem effect",
+        "C": "Mass hysteria",
+        "D": "Modern mesmerism"
+      },
+      "correctAnswer": "C",
+      "explanation": "Mass hysteria refers to widespread unusual behavior or symptoms spreading through a group without a clear physical cause.",
+      "topic": "Abnormal Behavior in Historical Context",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1061",
+      "questionText": "Who is considered the father of modern Western medicine and suggested that psychological disorders could be treated like other diseases?",
+      "options": {
+        "A": "Galen",
+        "B": "Paracelsus",
+        "C": "Hippocrates",
+        "D": "John P. Grey"
+      },
+      "correctAnswer": "C",
+      "explanation": "Hippocrates argued that disorders had natural causes and could be understood through medical observation.",
+      "topic": "Abnormal Behavior in Historical Context",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1062",
+      "questionText": "Humoral theory linked psychological problems to imbalances in bodily fluids such as blood and black bile. This was an early example of which tradition?",
+      "options": {
+        "A": "Supernatural tradition",
+        "B": "Biological tradition",
+        "C": "Psychological tradition",
+        "D": "Moral tradition"
+      },
+      "correctAnswer": "B",
+      "explanation": "Humoral theory explained disorders through bodily processes, making it part of the biological tradition.",
+      "topic": "Abnormal Behavior in Historical Context",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1063",
+      "questionText": "Dorothea Dix helped improve 19th-century standards of care for people with mental illness through which movement?",
+      "options": {
+        "A": "Mental hygiene movement",
+        "B": "Psychoanalytic movement",
+        "C": "Scientist-practitioner movement",
+        "D": "Deinstitutionalization movement"
+      },
+      "correctAnswer": "A",
+      "explanation": "The mental hygiene movement promoted humane treatment and better institutional care for people with mental illness.",
+      "topic": "Abnormal Behavior in Historical Context",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1064",
+      "questionText": "The psychoanalytic model is based on the work of which theorist, who emphasized unconscious processes?",
+      "options": {
+        "A": "Carl Jung",
+        "B": "John B. Watson",
+        "C": "B. F. Skinner",
+        "D": "Sigmund Freud"
+      },
+      "correctAnswer": "D",
+      "explanation": "Sigmund Freud developed psychoanalysis, which emphasized unconscious conflict and the structure of the mind.",
+      "topic": "Abnormal Behavior in Historical Context",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1065",
+      "questionText": "According to Freud, what is the release of emotional material after recalling and reliving emotional trauma called?",
+      "options": {
+        "A": "Transference",
+        "B": "Catharsis",
+        "C": "Defense mechanism",
+        "D": "Fixation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Catharsis is the emotional release that occurs when repressed traumatic material is brought into awareness.",
+      "topic": "Abnormal Behavior in Historical Context",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1066",
+      "questionText": "Which model says abnormal behavior results from multiple influences, including biological, behavioral, emotional, and social factors?",
+      "options": {
+        "A": "One-dimensional model",
+        "B": "Multidimensional integrative model",
+        "C": "Psychoanalytic model",
+        "D": "Biological model"
+      },
+      "correctAnswer": "B",
+      "explanation": "The multidimensional integrative model explains psychopathology through interacting biological, psychological, and social influences.",
+      "topic": "Integrative Approach to Psychopathology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1067",
+      "questionText": "According to the diathesis-stress model, a person inherits what, which may be activated under stressful conditions?",
+      "options": {
+        "A": "Phobia",
+        "B": "Recessive gene",
+        "C": "Vulnerability",
+        "D": "Genotype"
+      },
+      "correctAnswer": "C",
+      "explanation": "A diathesis is a vulnerability or predisposition that may lead to disorder when combined with stress.",
+      "topic": "Integrative Approach to Psychopathology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1068",
+      "questionText": "Which model describes the idea that inherited genetic tendencies can increase the probability of experiencing stressful life events?",
+      "options": {
+        "A": "Diathesis-stress model",
+        "B": "Reciprocal gene-environment model",
+        "C": "Epigenetic model",
+        "D": "Polygenic model"
+      },
+      "correctAnswer": "B",
+      "explanation": "The reciprocal gene-environment model explains how genes can influence the environments and stressors a person experiences.",
+      "topic": "Integrative Approach to Psychopathology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1069",
+      "questionText": "Which field studies how the nervous system and brain function in relation to behavior, emotions, and cognition?",
+      "options": {
+        "A": "Genetics",
+        "B": "Psychopathology",
+        "C": "Neuroscience",
+        "D": "Behavioral science"
+      },
+      "correctAnswer": "C",
+      "explanation": "Neuroscience studies the brain and nervous system and their role in behavior and mental processes.",
+      "topic": "Integrative Approach to Psychopathology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1070",
+      "questionText": "Which part of the brain is most advanced and responsible for human qualities such as planning and reasoning?",
+      "options": {
+        "A": "Brain stem",
+        "B": "Hindbrain",
+        "C": "Midbrain",
+        "D": "Forebrain"
+      },
+      "correctAnswer": "D",
+      "explanation": "The forebrain includes higher brain structures involved in reasoning, planning, memory, and emotion.",
+      "topic": "Integrative Approach to Psychopathology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1071",
+      "questionText": "Which neurotransmitter is inhibitory and primarily regulates the transmission of information and action potentials?",
+      "options": {
+        "A": "Norepinephrine",
+        "B": "Dopamine",
+        "C": "Glutamate",
+        "D": "GABA"
+      },
+      "correctAnswer": "D",
+      "explanation": "GABA is the brain's major inhibitory neurotransmitter and helps reduce neural activity.",
+      "topic": "Integrative Approach to Psychopathology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1072",
+      "questionText": "Low levels of which neurotransmitter are associated with instability, impulsivity, aggression, and overreactivity?",
+      "options": {
+        "A": "Serotonin",
+        "B": "GABA",
+        "C": "Dopamine",
+        "D": "Norepinephrine"
+      },
+      "correctAnswer": "A",
+      "explanation": "Low serotonin activity has been linked to impulsivity, aggression, and emotional instability.",
+      "topic": "Integrative Approach to Psychopathology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1073",
+      "questionText": "Rhesus monkeys reacted differently to an anxiety-provoking drug depending on their sense of control. This illustrates what phenomenon?",
+      "options": {
+        "A": "Learned helplessness",
+        "B": "The placebo effect",
+        "C": "The interaction of psychosocial factors and neurotransmitter systems",
+        "D": "Classical conditioning"
+      },
+      "correctAnswer": "C",
+      "explanation": "Psychosocial factors can directly affect neurotransmitter systems and influence emotional reactions.",
+      "topic": "Integrative Approach to Psychopathology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1074",
+      "questionText": "What is the tendency to more easily learn fears of evolutionarily relevant threats, such as snakes or spiders, called?",
+      "options": {
+        "A": "Modeling",
+        "B": "Implicit memory",
+        "C": "Learned helplessness",
+        "D": "Prepared learning"
+      },
+      "correctAnswer": "D",
+      "explanation": "Prepared learning means humans are biologically prepared to learn certain survival-related fears more easily.",
+      "topic": "Integrative Approach to Psychopathology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1075",
+      "questionText": "The immediate alarm reaction to danger, often called the fight-or-flight response, is which emotion?",
+      "options": {
+        "A": "Anxiety",
+        "B": "Fear",
+        "C": "Panic",
+        "D": "Excitement"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fear is an immediate emotional response to present danger and prepares the body for fight or flight.",
+      "topic": "Integrative Approach to Psychopathology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1076",
+      "questionText": "The systematic evaluation and measurement of psychological, biological, and social factors in a person with a possible psychological disorder is called what?",
+      "options": {
+        "A": "Diagnosis",
+        "B": "Standardization",
+        "C": "Clinical assessment",
+        "D": "Mental status exam"
+      },
+      "correctAnswer": "C",
+      "explanation": "Clinical assessment gathers and evaluates information needed to understand and diagnose psychological problems.",
+      "topic": "Clinical Assessment and Diagnosis",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1077",
+      "questionText": "A psychologist gives the same test to a client on two separate occasions and obtains consistent results. This shows good what?",
+      "options": {
+        "A": "Validity",
+        "B": "Standardization",
+        "C": "Clinical significance",
+        "D": "Test-retest reliability"
+      },
+      "correctAnswer": "D",
+      "explanation": "Test-retest reliability means a measure produces stable results across repeated administrations.",
+      "topic": "Clinical Assessment and Diagnosis",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1078",
+      "questionText": "Which part of the clinical interview involves systematic observation of appearance, thought processes, mood, and related behavior?",
+      "options": {
+        "A": "Semistructured interview",
+        "B": "Mental status exam",
+        "C": "Physical examination",
+        "D": "Behavioral assessment"
+      },
+      "correctAnswer": "B",
+      "explanation": "A mental status exam evaluates current functioning through observations of behavior, mood, thought, and cognition.",
+      "topic": "Clinical Assessment and Diagnosis",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1079",
+      "questionText": "A clinician notes that a client laughs inappropriately while discussing a sad event. Which area is inappropriate?",
+      "options": {
+        "A": "Mood",
+        "B": "Sensorium",
+        "C": "Affect",
+        "D": "Intellectual functioning"
+      },
+      "correctAnswer": "C",
+      "explanation": "Affect is the outward expression of emotion, such as facial expression or emotional tone.",
+      "topic": "Clinical Assessment and Diagnosis",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1080",
+      "questionText": "In behavioral assessment, what do the ABCs of observation stand for?",
+      "options": {
+        "A": "Appearance, Behavior, Cognition",
+        "B": "Antecedent, Behavior, Consequence",
+        "C": "Assessment, Baseline, Conclusion",
+        "D": "Affect, Behavior, Cognition"
+      },
+      "correctAnswer": "B",
+      "explanation": "The ABC model examines what happens before a behavior, the behavior itself, and what follows it.",
+      "topic": "Clinical Assessment and Diagnosis",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1081",
+      "questionText": "The Rorschach inkblot test is an example of which type of assessment measure?",
+      "options": {
+        "A": "Personality inventory",
+        "B": "Neuropsychological test",
+        "C": "Intelligence test",
+        "D": "Projective test"
+      },
+      "correctAnswer": "D",
+      "explanation": "Projective tests use ambiguous stimuli to elicit responses believed to reveal personality or unconscious processes.",
+      "topic": "Clinical Assessment and Diagnosis",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1082",
+      "questionText": "Which personality inventory uses an empirical approach in which response patterns predict specific disorders?",
+      "options": {
+        "A": "Thematic Apperception Test",
+        "B": "Bender Visual-Motor Gestalt Test",
+        "C": "Minnesota Multiphasic Personality Inventory",
+        "D": "Stanford-Binet Test"
+      },
+      "correctAnswer": "C",
+      "explanation": "The MMPI was developed empirically by comparing response patterns across clinical and nonclinical groups.",
+      "topic": "Clinical Assessment and Diagnosis",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1083",
+      "questionText": "Procedures such as CT scans and MRIs, which provide images of brain structure, are examples of what?",
+      "options": {
+        "A": "Psychophysiological assessment",
+        "B": "Neuropsychological testing",
+        "C": "Neuroimaging",
+        "D": "Electroencephalogram"
+      },
+      "correctAnswer": "C",
+      "explanation": "Neuroimaging techniques produce images of the brain's structure or function.",
+      "topic": "Clinical Assessment and Diagnosis",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1084",
+      "questionText": "Which classification strategy identifies essential characteristics of a disorder while allowing nonessential variations?",
+      "options": {
+        "A": "Classical categorical approach",
+        "B": "Dimensional approach",
+        "C": "Prototypical approach",
+        "D": "Nomothetic approach"
+      },
+      "correctAnswer": "C",
+      "explanation": "A prototypical approach defines disorders by typical features while allowing individual variation.",
+      "topic": "Clinical Assessment and Diagnosis",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1085",
+      "questionText": "What is the co-occurrence of two or more disorders in a single individual called?",
+      "options": {
+        "A": "Comorbidity",
+        "B": "Complication",
+        "C": "Covariance",
+        "D": "Correlation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Comorbidity means that two or more disorders are present in the same person at the same time.",
+      "topic": "Clinical Assessment and Diagnosis",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1086",
+      "questionText": "A researcher's educated guess about what a study might find is called what?",
+      "options": {
+        "A": "Dependent variable",
+        "B": "Research design",
+        "C": "Hypothesis",
+        "D": "Confound"
+      },
+      "correctAnswer": "C",
+      "explanation": "A hypothesis is a testable prediction about the expected outcome of a study.",
+      "topic": "Research Methods",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1087",
+      "questionText": "The extent to which study results can be attributed to the independent variable is called what?",
+      "options": {
+        "A": "External validity",
+        "B": "Generalizability",
+        "C": "Internal validity",
+        "D": "Reliability"
+      },
+      "correctAnswer": "C",
+      "explanation": "Internal validity concerns whether the independent variable caused the observed outcome.",
+      "topic": "Research Methods",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1088",
+      "questionText": "To improve internal validity, researchers use strategies such as a control group, randomization, and what else?",
+      "options": {
+        "A": "Case studies",
+        "B": "Analogue models",
+        "C": "Correlational methods",
+        "D": "Longitudinal designs"
+      },
+      "correctAnswer": "B",
+      "explanation": "Analogue models can increase control over variables and help test causal hypotheses.",
+      "topic": "Research Methods",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1089",
+      "questionText": "What concept distinguishes statistical significance from whether a difference is meaningful for those affected?",
+      "options": {
+        "A": "Social validity",
+        "B": "The patient uniformity myth",
+        "C": "Clinical significance",
+        "D": "Effect size"
+      },
+      "correctAnswer": "C",
+      "explanation": "Clinical significance asks whether a result has real practical value for clients or patients.",
+      "topic": "Research Methods",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1090",
+      "questionText": "A researcher observes marital problems and child behavior problems as they naturally occur to study their relationship. What type of research is this?",
+      "options": {
+        "A": "Experiment",
+        "B": "Research by correlation",
+        "C": "Case study",
+        "D": "Single-case experimental design"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correlational research studies relationships between variables without manipulating them.",
+      "topic": "Research Methods",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1091",
+      "questionText": "An experiment involves manipulating what and observing its effect on what?",
+      "options": {
+        "A": "Dependent variable; independent variable",
+        "B": "Independent variable; dependent variable",
+        "C": "Confound; hypothesis",
+        "D": "Hypothesis; confound"
+      },
+      "correctAnswer": "B",
+      "explanation": "Researchers manipulate the independent variable and measure the dependent variable.",
+      "topic": "Research Methods",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1092",
+      "questionText": "What is a placebo-control method in which both participants and researchers do not know group assignments?",
+      "options": {
+        "A": "Single-blind control",
+        "B": "Double-blind control",
+        "C": "Comparative treatment design",
+        "D": "Randomized clinical trial"
+      },
+      "correctAnswer": "B",
+      "explanation": "A double-blind design reduces bias because neither participants nor researchers know who receives which condition.",
+      "topic": "Research Methods",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1093",
+      "questionText": "A researcher repeatedly measures one person's behavior before, during, and after a treatment is applied and then removed. What design is this?",
+      "options": {
+        "A": "Case study",
+        "B": "Withdrawal design",
+        "C": "Multiple baseline design",
+        "D": "Correlational study"
+      },
+      "correctAnswer": "B",
+      "explanation": "A withdrawal design tests treatment effects by introducing and removing the intervention.",
+      "topic": "Research Methods",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1094",
+      "questionText": "Observable characteristics or behavior are called what, while unique genetic makeup is called what?",
+      "options": {
+        "A": "Genotype; phenotype",
+        "B": "Phenotype; genotype",
+        "C": "Endophenotype; phenotype",
+        "D": "Genotype; endophenotype"
+      },
+      "correctAnswer": "B",
+      "explanation": "Phenotype refers to observable traits, while genotype refers to genetic makeup.",
+      "topic": "Research Methods",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1095",
+      "questionText": "A researcher compares 10-year-olds, 15-year-olds, and 20-year-olds at the same point in time. What design is this?",
+      "options": {
+        "A": "Longitudinal design",
+        "B": "Cross-sectional design",
+        "C": "Sequential design",
+        "D": "Case study"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cross-sectional designs compare different age groups at one time point.",
+      "topic": "Research Methods",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1096",
+      "questionText": "A future-oriented mood state involving apprehension because upcoming events cannot be predicted or controlled is called what?",
+      "options": {
+        "A": "Fear",
+        "B": "Panic",
+        "C": "Anxiety",
+        "D": "Stress"
+      },
+      "correctAnswer": "C",
+      "explanation": "Anxiety is future-oriented apprehension about possible threats or uncertainty.",
+      "topic": "Anxiety, Trauma- and Stressor-Related, and Obsessive-Compulsive Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1097",
+      "questionText": "An abrupt experience of intense fear or discomfort with symptoms such as palpitations and shortness of breath is called what?",
+      "options": {
+        "A": "Anxiety attack",
+        "B": "Panic attack",
+        "C": "Phobic reaction",
+        "D": "Stress response"
+      },
+      "correctAnswer": "B",
+      "explanation": "A panic attack is a sudden surge of intense fear or discomfort with physical and cognitive symptoms.",
+      "topic": "Anxiety, Trauma- and Stressor-Related, and Obsessive-Compulsive Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1098",
+      "questionText": "According to triple vulnerability theory, which is NOT one of the vulnerabilities that contributes to anxiety disorders?",
+      "options": {
+        "A": "Generalized biological vulnerability",
+        "B": "Specific psychological vulnerability",
+        "C": "Generalized psychological vulnerability",
+        "D": "Specific cultural vulnerability"
+      },
+      "correctAnswer": "D",
+      "explanation": "Triple vulnerability theory includes biological, generalized psychological, and specific psychological vulnerabilities.",
+      "topic": "Anxiety, Trauma- and Stressor-Related, and Obsessive-Compulsive Disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1099",
+      "questionText": "Which disorder involves at least 6 months of excessive anxiety and worry about many events or activities, with worry that is difficult to control?",
+      "options": {
+        "A": "Panic Disorder",
+        "B": "Social Anxiety Disorder",
+        "C": "Generalized Anxiety Disorder",
+        "D": "Specific Phobia"
+      },
+      "correctAnswer": "C",
+      "explanation": "Generalized Anxiety Disorder involves persistent, excessive, and hard-to-control worry across multiple areas.",
+      "topic": "Anxiety, Trauma- and Stressor-Related, and Obsessive-Compulsive Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1100",
+      "questionText": "Which anxiety disorder is most common in older adults over age 45?",
+      "options": {
+        "A": "Panic Disorder",
+        "B": "Specific Phobia",
+        "C": "Social Anxiety Disorder",
+        "D": "Generalized Anxiety Disorder"
+      },
+      "correctAnswer": "D",
+      "explanation": "Generalized Anxiety Disorder is commonly reported among older adults compared with other anxiety disorders.",
+      "topic": "Anxiety, Trauma- and Stressor-Related, and Obsessive-Compulsive Disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1101",
+      "questionText": "What percentage of patients with panic disorder have attempted suicide, according to the source material?",
+      "options": {
+        "A": "5%",
+        "B": "10%",
+        "C": "20%",
+        "D": "40%"
+      },
+      "correctAnswer": "C",
+      "explanation": "The source identifies 20% as the percentage associated with suicide attempts among patients with panic disorder.",
+      "topic": "Anxiety, Trauma- and Stressor-Related, and Obsessive-Compulsive Disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1102",
+      "questionText": "A person has unexpected panic attacks and develops substantial anxiety about having another attack. Which diagnosis may apply?",
+      "options": {
+        "A": "Agoraphobia",
+        "B": "Generalized Anxiety Disorder",
+        "C": "Panic Disorder",
+        "D": "Specific Phobia"
+      },
+      "correctAnswer": "C",
+      "explanation": "Panic Disorder involves recurrent unexpected panic attacks and persistent concern about future attacks.",
+      "topic": "Anxiety, Trauma- and Stressor-Related, and Obsessive-Compulsive Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1103",
+      "questionText": "Marked fear or anxiety about two or more situations, such as public transportation, open spaces, or enclosed places, is characteristic of what?",
+      "options": {
+        "A": "Panic Disorder",
+        "B": "Agoraphobia",
+        "C": "Social Anxiety Disorder",
+        "D": "Claustrophobia"
+      },
+      "correctAnswer": "B",
+      "explanation": "Agoraphobia involves fear of situations where escape may be difficult or help may be unavailable.",
+      "topic": "Anxiety, Trauma- and Stressor-Related, and Obsessive-Compulsive Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1104",
+      "questionText": "An irrational fear of a specific object or situation that significantly interferes with functioning is called what?",
+      "options": {
+        "A": "Panic attack",
+        "B": "Specific Phobia",
+        "C": "Generalized anxiety",
+        "D": "Social anxiety"
+      },
+      "correctAnswer": "B",
+      "explanation": "Specific Phobia is marked fear of a specific object or situation that causes avoidance or impairment.",
+      "topic": "Anxiety, Trauma- and Stressor-Related, and Obsessive-Compulsive Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1105",
+      "questionText": "A person avoids situations where they might be scrutinized by others, such as public speaking or eating in a restaurant. Which disorder may be present?",
+      "options": {
+        "A": "Agoraphobia",
+        "B": "Specific Phobia",
+        "C": "Panic Disorder",
+        "D": "Social Anxiety Disorder"
+      },
+      "correctAnswer": "D",
+      "explanation": "Social Anxiety Disorder involves fear of social evaluation, embarrassment, or scrutiny.",
+      "topic": "Anxiety, Trauma- and Stressor-Related, and Obsessive-Compulsive Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1106",
+      "questionText": "Which disorder involves emotional and behavioral symptoms after a traumatic event when the disturbance lasts more than one month?",
+      "options": {
+        "A": "Acute Stress Disorder",
+        "B": "Adjustment Disorder",
+        "C": "Posttraumatic Stress Disorder",
+        "D": "Generalized Anxiety Disorder"
+      },
+      "correctAnswer": "C",
+      "explanation": "PTSD involves trauma-related symptoms that persist for more than one month.",
+      "topic": "Anxiety, Trauma- and Stressor-Related, and Obsessive-Compulsive Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1107",
+      "questionText": "Recurrent, intrusive, and nonsensical thoughts, images, or urges that a person tries to resist or eliminate are called what?",
+      "options": {
+        "A": "Compulsions",
+        "B": "Ruminations",
+        "C": "Obsessions",
+        "D": "Delusions"
+      },
+      "correctAnswer": "C",
+      "explanation": "Obsessions are intrusive unwanted thoughts, images, or urges that cause distress.",
+      "topic": "Anxiety, Trauma- and Stressor-Related, and Obsessive-Compulsive Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1108",
+      "questionText": "Repetitive, ritualistic, time-consuming behaviors or mental acts performed to suppress obsessions are called what?",
+      "options": {
+        "A": "Compulsions",
+        "B": "Tics",
+        "C": "Habits",
+        "D": "Delusions"
+      },
+      "correctAnswer": "A",
+      "explanation": "Compulsions are repetitive behaviors or mental acts performed to reduce distress from obsessions.",
+      "topic": "Anxiety, Trauma- and Stressor-Related, and Obsessive-Compulsive Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1109",
+      "questionText": "A person is preoccupied with an imagined defect in appearance and repeatedly checks mirrors. Which disorder may be present?",
+      "options": {
+        "A": "Social Anxiety Disorder",
+        "B": "Body Dysmorphic Disorder",
+        "C": "Hoarding Disorder",
+        "D": "Obsessive-Compulsive Disorder"
+      },
+      "correctAnswer": "B",
+      "explanation": "Body Dysmorphic Disorder involves preoccupation with perceived defects in appearance and repetitive checking behaviors.",
+      "topic": "Anxiety, Trauma- and Stressor-Related, and Obsessive-Compulsive Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1110",
+      "questionText": "The urge to pull out one's own hair from anywhere on the body is characteristic of which disorder?",
+      "options": {
+        "A": "Excoriation",
+        "B": "Trichotillomania",
+        "C": "Hoarding Disorder",
+        "D": "Body Dysmorphic Disorder"
+      },
+      "correctAnswer": "B",
+      "explanation": "Trichotillomania is hair-pulling disorder and involves recurrent urges to pull out hair.",
+      "topic": "Anxiety, Trauma- and Stressor-Related, and Obsessive-Compulsive Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1111",
+      "questionText": "Disorders involving apparent physical illness without an organic basis are called what?",
+      "options": {
+        "A": "Somatic Symptom and Related Disorders",
+        "B": "Dissociative Disorders",
+        "C": "Anxiety Disorders",
+        "D": "Mood Disorders"
+      },
+      "correctAnswer": "A",
+      "explanation": "Somatic Symptom and Related Disorders involve distressing physical symptoms or health concerns without sufficient medical explanation.",
+      "topic": "Somatic Symptom and Dissociative Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1112",
+      "questionText": "A person has severe anxiety about having a serious disease despite medical reassurance, with no or only mild somatic symptoms. Which diagnosis may apply?",
+      "options": {
+        "A": "Somatic Symptom Disorder",
+        "B": "Illness Anxiety Disorder",
+        "C": "Conversion Disorder",
+        "D": "Factitious Disorder"
+      },
+      "correctAnswer": "B",
+      "explanation": "Illness Anxiety Disorder involves excessive fear of illness even when physical symptoms are absent or mild.",
+      "topic": "Somatic Symptom and Dissociative Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1113",
+      "questionText": "Which disorder involves physical malfunctioning, such as paralysis or blindness, without physical pathology to explain it?",
+      "options": {
+        "A": "Somatic Symptom Disorder",
+        "B": "Illness Anxiety Disorder",
+        "C": "Conversion Disorder",
+        "D": "Depersonalization-Derealization Disorder"
+      },
+      "correctAnswer": "C",
+      "explanation": "Conversion Disorder involves neurological-like symptoms that are incompatible with recognized medical conditions.",
+      "topic": "Somatic Symptom and Dissociative Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1114",
+      "questionText": "When a person feels detached from themselves or their own body, as if in a dream, what are they experiencing?",
+      "options": {
+        "A": "Derealization",
+        "B": "Depersonalization",
+        "C": "Dissociative fugue",
+        "D": "Dissociative amnesia"
+      },
+      "correctAnswer": "B",
+      "explanation": "Depersonalization is a feeling of detachment from oneself, one's body, or one's mental processes.",
+      "topic": "Somatic Symptom and Dissociative Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1115",
+      "questionText": "An inability to recall important autobiographical information, usually traumatic and inconsistent with ordinary forgetting, is called what?",
+      "options": {
+        "A": "Dissociative Identity Disorder",
+        "B": "Depersonalization-Derealization Disorder",
+        "C": "Dissociative Amnesia",
+        "D": "Retrograde amnesia"
+      },
+      "correctAnswer": "C",
+      "explanation": "Dissociative Amnesia involves memory loss for important personal information, often related to trauma.",
+      "topic": "Somatic Symptom and Dissociative Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1116",
+      "questionText": "Which subtype of dissociative amnesia involves traveling or wandering and sometimes assuming a new identity?",
+      "options": {
+        "A": "Dissociative fugue",
+        "B": "Generalized amnesia",
+        "C": "Localized amnesia",
+        "D": "Selective amnesia"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dissociative fugue involves unexpected travel or wandering with amnesia and possible identity confusion.",
+      "topic": "Somatic Symptom and Dissociative Disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1117",
+      "questionText": "Which disorder involves multiple identities or personality states coexisting within one body and mind?",
+      "options": {
+        "A": "Schizophrenia",
+        "B": "Dissociative Amnesia",
+        "C": "Dissociative Identity Disorder",
+        "D": "Depersonalization-Derealization Disorder"
+      },
+      "correctAnswer": "C",
+      "explanation": "Dissociative Identity Disorder involves disruption of identity with two or more distinct personality states.",
+      "topic": "Somatic Symptom and Dissociative Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1118",
+      "questionText": "The different identities or personalities in Dissociative Identity Disorder are called what?",
+      "options": {
+        "A": "Facets",
+        "B": "Alters",
+        "C": "Fragments",
+        "D": "Personas"
+      },
+      "correctAnswer": "B",
+      "explanation": "Alters are the distinct identity states or personalities seen in Dissociative Identity Disorder.",
+      "topic": "Somatic Symptom and Dissociative Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1119",
+      "questionText": "Research suggests that Dissociative Identity Disorder is often linked to what history?",
+      "options": {
+        "A": "Severe, chronic trauma or abuse in childhood",
+        "B": "Genetic predisposition",
+        "C": "Substance abuse",
+        "D": "Neurological damage"
+      },
+      "correctAnswer": "A",
+      "explanation": "DID is often associated with severe and chronic childhood trauma or abuse.",
+      "topic": "Somatic Symptom and Dissociative Disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1120",
+      "questionText": "What is the primary treatment goal for Dissociative Identity Disorder according to the source material?",
+      "options": {
+        "A": "To strengthen the dominant personality",
+        "B": "To eliminate all but one personality",
+        "C": "To integrate the different personalities into a single identity",
+        "D": "To help the personalities coexist peacefully"
+      },
+      "correctAnswer": "C",
+      "explanation": "Treatment often aims to integrate dissociated identity states into a more unified sense of self.",
+      "topic": "Somatic Symptom and Dissociative Disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1121",
+      "questionText": "A severe state of depression involving worthlessness and disturbances in sleep, appetite, or other bodily activities is called what?",
+      "options": {
+        "A": "Manic episode",
+        "B": "Hypomanic episode",
+        "C": "Major depressive episode",
+        "D": "Dysthymic episode"
+      },
+      "correctAnswer": "C",
+      "explanation": "A major depressive episode includes severe depressed mood or loss of interest plus cognitive and physical symptoms.",
+      "topic": "Mood Disorders and Suicide",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1122",
+      "questionText": "Which episode is defined by abnormally exaggerated elation, joy, or euphoria with hyperactivity and decreased need for sleep?",
+      "options": {
+        "A": "Panic attack",
+        "B": "Major depressive episode",
+        "C": "Manic episode",
+        "D": "Hypomanic episode"
+      },
+      "correctAnswer": "C",
+      "explanation": "A manic episode involves elevated or irritable mood, increased activity, and symptoms such as reduced need for sleep.",
+      "topic": "Mood Disorders and Suicide",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1123",
+      "questionText": "A less severe version of a manic episode that does not cause marked social or occupational impairment is called what?",
+      "options": {
+        "A": "Hypomanic episode",
+        "B": "Dysthymic episode",
+        "C": "Cyclothymic episode",
+        "D": "Anxious episode"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hypomania resembles mania but is less severe and does not cause marked impairment or psychosis.",
+      "topic": "Mood Disorders and Suicide",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1124",
+      "questionText": "Which disorder involves at least one major depressive episode without a history of manic or hypomanic episodes?",
+      "options": {
+        "A": "Bipolar I Disorder",
+        "B": "Bipolar II Disorder",
+        "C": "Cyclothymic Disorder",
+        "D": "Major Depressive Disorder"
+      },
+      "correctAnswer": "D",
+      "explanation": "Major Depressive Disorder involves depressive episodes without manic or hypomanic episodes.",
+      "topic": "Mood Disorders and Suicide",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1125",
+      "questionText": "Which mood disorder involves alternating major depressive episodes and hypomanic episodes?",
+      "options": {
+        "A": "Bipolar I Disorder",
+        "B": "Bipolar II Disorder",
+        "C": "Major Depressive Disorder",
+        "D": "Cyclothymic Disorder"
+      },
+      "correctAnswer": "B",
+      "explanation": "Bipolar II Disorder involves major depressive episodes and hypomanic episodes, but not full manic episodes.",
+      "topic": "Mood Disorders and Suicide",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1126",
+      "questionText": "A chronic but milder bipolar-related disorder with numerous periods of hypomanic and depressive symptoms for at least two years is called what?",
+      "options": {
+        "A": "Dysthymia",
+        "B": "Bipolar I Disorder",
+        "C": "Bipolar II Disorder",
+        "D": "Cyclothymic Disorder"
+      },
+      "correctAnswer": "D",
+      "explanation": "Cyclothymic Disorder involves chronic fluctuations between hypomanic symptoms and depressive symptoms.",
+      "topic": "Mood Disorders and Suicide",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1127",
+      "questionText": "Which theory says depression stems from developing a sense of powerlessness over important life events?",
+      "options": {
+        "A": "Psychoanalytic theory",
+        "B": "Cognitive theory",
+        "C": "Learned helplessness theory",
+        "D": "Humanistic theory"
+      },
+      "correctAnswer": "C",
+      "explanation": "Learned helplessness theory explains depression as resulting from perceived lack of control over outcomes.",
+      "topic": "Mood Disorders and Suicide",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1128",
+      "questionText": "According to Aaron Beck, depressed people have negative thoughts about themselves, their world, and their future. What is this called?",
+      "options": {
+        "A": "Cognitive triad",
+        "B": "Negative schema",
+        "C": "Attributional style",
+        "D": "Hopelessness theory"
+      },
+      "correctAnswer": "A",
+      "explanation": "Beck's cognitive triad refers to negative views of the self, world, and future.",
+      "topic": "Mood Disorders and Suicide",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1129",
+      "questionText": "Which medication class includes fluoxetine and treats depression by blocking presynaptic reuptake of serotonin?",
+      "options": {
+        "A": "Tricyclics",
+        "B": "MAO inhibitors",
+        "C": "Selective Serotonin Reuptake Inhibitors",
+        "D": "Benzodiazepines"
+      },
+      "correctAnswer": "C",
+      "explanation": "SSRIs increase serotonin availability by inhibiting serotonin reuptake.",
+      "topic": "Mood Disorders and Suicide",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1130",
+      "questionText": "Which treatment for severe chronic depression uses brief electrical current to the brain to produce a temporary seizure?",
+      "options": {
+        "A": "Transcranial magnetic stimulation",
+        "B": "Deep brain stimulation",
+        "C": "Electroconvulsive therapy",
+        "D": "Vagus nerve stimulation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Electroconvulsive therapy uses controlled electrical stimulation and can be effective for severe depression.",
+      "topic": "Mood Disorders and Suicide",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1131",
+      "questionText": "According to the source material, what is the tenth leading cause of death in the United States and is overwhelmingly a white and Native American phenomenon?",
+      "options": {
+        "A": "Homicide",
+        "B": "Accidental death",
+        "C": "Suicide",
+        "D": "Heart disease"
+      },
+      "correctAnswer": "C",
+      "explanation": "The source identifies suicide as the answer to this epidemiological statement.",
+      "topic": "Mood Disorders and Suicide",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1132",
+      "questionText": "Which eating disorder involves recurrent episodes of consuming large amounts of food followed by compensatory behaviors such as vomiting or laxative use?",
+      "options": {
+        "A": "Anorexia Nervosa",
+        "B": "Bulimia Nervosa",
+        "C": "Binge-Eating Disorder",
+        "D": "Obesity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Bulimia Nervosa involves binge eating followed by compensatory behaviors to prevent weight gain.",
+      "topic": "Eating and Sleep-Wake Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1133",
+      "questionText": "Which eating disorder is marked by refusal to maintain minimally normal body weight, intense fear of gaining weight, and distorted body image?",
+      "options": {
+        "A": "Bulimia Nervosa",
+        "B": "Anorexia Nervosa",
+        "C": "Binge-Eating Disorder",
+        "D": "Pica"
+      },
+      "correctAnswer": "B",
+      "explanation": "Anorexia Nervosa involves significantly low weight, fear of weight gain, and body image disturbance.",
+      "topic": "Eating and Sleep-Wake Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1134",
+      "questionText": "Which eating disorder involves recurrent binge eating without the compensatory behaviors seen in bulimia nervosa?",
+      "options": {
+        "A": "Anorexia Nervosa",
+        "B": "Bulimia Nervosa",
+        "C": "Binge-Eating Disorder",
+        "D": "Rumination Disorder"
+      },
+      "correctAnswer": "C",
+      "explanation": "Binge-Eating Disorder involves binge episodes without regular purging or other compensatory behaviors.",
+      "topic": "Eating and Sleep-Wake Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1135",
+      "questionText": "Eating disorders are most prevalent in which cultural context?",
+      "options": {
+        "A": "Western cultures where thinness is equated with success and beauty",
+        "B": "Eastern cultures where plumpness is a sign of health",
+        "C": "Developing countries with food scarcity",
+        "D": "Cultures with no media influence"
+      },
+      "correctAnswer": "A",
+      "explanation": "Eating disorders are more prevalent in cultures that strongly value thinness and appearance ideals.",
+      "topic": "Eating and Sleep-Wake Disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1136",
+      "questionText": "Which treatment has the strongest evidence for eating disorders, especially bulimia?",
+      "options": {
+        "A": "Psychoanalytic therapy",
+        "B": "Antidepressant medication",
+        "C": "Cognitive-behavioral therapy",
+        "D": "Family therapy"
+      },
+      "correctAnswer": "C",
+      "explanation": "CBT targets distorted eating-related thoughts and behaviors and has strong evidence for bulimia.",
+      "topic": "Eating and Sleep-Wake Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1137",
+      "questionText": "Which sleep-wake disorder involves dissatisfaction with sleep quantity or quality and difficulty initiating or maintaining sleep?",
+      "options": {
+        "A": "Hypersomnolence Disorder",
+        "B": "Narcolepsy",
+        "C": "Insomnia Disorder",
+        "D": "Circadian Rhythm Sleep-Wake Disorder"
+      },
+      "correctAnswer": "C",
+      "explanation": "Insomnia Disorder involves persistent difficulty falling asleep, staying asleep, or getting restorative sleep.",
+      "topic": "Eating and Sleep-Wake Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1138",
+      "questionText": "Which sleep disorder involves recurrent periods of an irresistible need to sleep, lapsing into sleep, or napping within the same day?",
+      "options": {
+        "A": "Insomnia Disorder",
+        "B": "Narcolepsy",
+        "C": "Sleep Apnea",
+        "D": "Hypersomnolence Disorder"
+      },
+      "correctAnswer": "B",
+      "explanation": "Narcolepsy is characterized by recurrent irresistible sleep attacks or lapses into sleep.",
+      "topic": "Eating and Sleep-Wake Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1139",
+      "questionText": "In which breathing-related sleep disorder does airflow stop despite continued respiratory system activity?",
+      "options": {
+        "A": "Central sleep apnea",
+        "B": "Sleep-related hypoventilation",
+        "C": "Obstructive sleep apnea hypopnea",
+        "D": "Narcolepsy"
+      },
+      "correctAnswer": "C",
+      "explanation": "Obstructive sleep apnea involves blocked airflow despite continued breathing effort.",
+      "topic": "Eating and Sleep-Wake Disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1140",
+      "questionText": "Abnormal behavioral or physiological events during sleep, such as nightmares and sleepwalking, are called what?",
+      "options": {
+        "A": "Dyssomnias",
+        "B": "Parasomnias",
+        "C": "Insomnias",
+        "D": "Hypersomnias"
+      },
+      "correctAnswer": "B",
+      "explanation": "Parasomnias are unusual behaviors or experiences that occur during sleep or sleep transitions.",
+      "topic": "Eating and Sleep-Wake Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1141",
+      "questionText": "Which subfield of psychology focuses on how psychological factors affect health and illness?",
+      "options": {
+        "A": "Clinical psychology",
+        "B": "Neuropsychology",
+        "C": "Health psychology",
+        "D": "Somatic psychology"
+      },
+      "correctAnswer": "C",
+      "explanation": "Health psychology studies how behavior, emotion, and cognition influence physical health and illness.",
+      "topic": "Health Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1142",
+      "questionText": "The physiological response to a stressor involving reactions in the sympathetic nervous system and endocrine system is called what?",
+      "options": {
+        "A": "General adaptation syndrome",
+        "B": "Fight-or-flight response",
+        "C": "Immune response",
+        "D": "HPA axis activation"
+      },
+      "correctAnswer": "A",
+      "explanation": "General adaptation syndrome describes the body's broad physiological response to stress.",
+      "topic": "Health Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1143",
+      "questionText": "Which body system identifies and eliminates foreign materials such as bacteria and viruses?",
+      "options": {
+        "A": "Cardiovascular system",
+        "B": "Endocrine system",
+        "C": "Nervous system",
+        "D": "Immune system"
+      },
+      "correctAnswer": "D",
+      "explanation": "The immune system protects the body by detecting and fighting foreign antigens.",
+      "topic": "Health Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1144",
+      "questionText": "Which disease occurs when HIV attacks the immune system and leaves the body vulnerable to infections?",
+      "options": {
+        "A": "Cancer",
+        "B": "Coronary heart disease",
+        "C": "Acquired immune deficiency syndrome",
+        "D": "Chronic fatigue syndrome"
+      },
+      "correctAnswer": "C",
+      "explanation": "AIDS results from HIV-related immune system damage, increasing vulnerability to opportunistic infections.",
+      "topic": "Health Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1145",
+      "questionText": "Which field studies psychological and behavioral contributions to the causes and maintenance of cancer?",
+      "options": {
+        "A": "Psycho-oncology",
+        "B": "Health psychology",
+        "C": "Psychoneuroimmunology",
+        "D": "Behavioral medicine"
+      },
+      "correctAnswer": "A",
+      "explanation": "Psycho-oncology focuses on psychological and behavioral aspects of cancer prevention, treatment, and coping.",
+      "topic": "Health Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1146",
+      "questionText": "Which condition is called the silent killer and is a major risk factor for stroke and heart disease?",
+      "options": {
+        "A": "Coronary heart disease",
+        "B": "Hypertension",
+        "C": "Type A behavior pattern",
+        "D": "Chronic pain"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hypertension often has no obvious symptoms but increases risk for cardiovascular disease and stroke.",
+      "topic": "Health Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1147",
+      "questionText": "A behavior pattern involving excessive competitiveness, impatience, and accelerated speech was once considered a heart disease risk factor. What is it called?",
+      "options": {
+        "A": "Type B behavior pattern",
+        "B": "Type A behavior pattern",
+        "C": "Hardy personality",
+        "D": "Hostile personality"
+      },
+      "correctAnswer": "B",
+      "explanation": "Type A behavior includes competitiveness, urgency, and impatience, historically linked to coronary risk.",
+      "topic": "Health Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1148",
+      "questionText": "What is the most common reason people seek medical attention?",
+      "options": {
+        "A": "Headaches",
+        "B": "Back pain",
+        "C": "Pain",
+        "D": "Fatigue"
+      },
+      "correctAnswer": "C",
+      "explanation": "Pain is the most common symptom that leads people to seek medical care.",
+      "topic": "Health Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1149",
+      "questionText": "What process makes patients aware of physiological functions they would not normally notice consciously, such as heart rate or blood pressure?",
+      "options": {
+        "A": "Meditation",
+        "B": "Biofeedback",
+        "C": "Relaxation response",
+        "D": "Progressive muscle relaxation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Biofeedback uses monitoring devices to help people learn voluntary control over physiological processes.",
+      "topic": "Health Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1150",
+      "questionText": "Incongruence between one's experienced or expressed gender and assigned gender is the core feature of what?",
+      "options": {
+        "A": "Transvestic Disorder",
+        "B": "Gender Dysphoria",
+        "C": "Homosexuality",
+        "D": "Paraphilic Disorder"
+      },
+      "correctAnswer": "B",
+      "explanation": "Gender Dysphoria involves distress related to incongruence between experienced gender and assigned gender.",
+      "topic": "Sexual Dysfunctions, Paraphilic Disorders, and Gender Dysphoria",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1151",
+      "questionText": "Which phase of the sexual response cycle involves subjective sexual pleasure and physiological changes in the pelvic region?",
+      "options": {
+        "A": "Desire",
+        "B": "Arousal",
+        "C": "Orgasm",
+        "D": "Resolution"
+      },
+      "correctAnswer": "B",
+      "explanation": "The arousal phase includes sexual excitement and physiological genital or pelvic changes.",
+      "topic": "Sexual Dysfunctions, Paraphilic Disorders, and Gender Dysphoria",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1152",
+      "questionText": "Which sexual dysfunction is characterized by little or no interest in any type of sexual activity?",
+      "options": {
+        "A": "Male Hypoactive Sexual Desire Disorder",
+        "B": "Female Sexual Interest/Arousal Disorder",
+        "C": "Erectile Disorder",
+        "D": "Premature Ejaculation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Male Hypoactive Sexual Desire Disorder involves persistently low or absent sexual desire in males.",
+      "topic": "Sexual Dysfunctions, Paraphilic Disorders, and Gender Dysphoria",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1153",
+      "questionText": "A marked delay, infrequency, or absence of orgasm in females is known as what?",
+      "options": {
+        "A": "Delayed Ejaculation",
+        "B": "Female Orgasmic Disorder",
+        "C": "Genito-Pelvic Pain/Penetration Disorder",
+        "D": "Female Sexual Interest/Arousal Disorder"
+      },
+      "correctAnswer": "B",
+      "explanation": "Female Orgasmic Disorder involves delayed, infrequent, absent, or reduced intensity of orgasm.",
+      "topic": "Sexual Dysfunctions, Paraphilic Disorders, and Gender Dysphoria",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1154",
+      "questionText": "Sexual arousal from exposing one's genitals to an unsuspecting stranger is characteristic of what?",
+      "options": {
+        "A": "Voyeuristic Disorder",
+        "B": "Exhibitionistic Disorder",
+        "C": "Frotteuristic Disorder",
+        "D": "Sexual Masochism Disorder"
+      },
+      "correctAnswer": "B",
+      "explanation": "Exhibitionistic Disorder involves arousal from exposing one's genitals to unsuspecting people.",
+      "topic": "Sexual Dysfunctions, Paraphilic Disorders, and Gender Dysphoria",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1155",
+      "questionText": "Which disorder involves sexual arousal associated with being humiliated, beaten, bound, or otherwise made to suffer?",
+      "options": {
+        "A": "Sexual Sadism Disorder",
+        "B": "Sexual Masochism Disorder",
+        "C": "Frotteuristic Disorder",
+        "D": "Transvestic Disorder"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sexual Masochism Disorder involves arousal from one's own suffering, humiliation, or restraint.",
+      "topic": "Sexual Dysfunctions, Paraphilic Disorders, and Gender Dysphoria",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1156",
+      "questionText": "Which paraphilic disorder involves intense sexually arousing fantasies, urges, or behaviors involving prepubescent children?",
+      "options": {
+        "A": "Frotteuristic Disorder",
+        "B": "Exhibitionistic Disorder",
+        "C": "Voyeuristic Disorder",
+        "D": "Pedophilic Disorder"
+      },
+      "correctAnswer": "D",
+      "explanation": "Pedophilic Disorder involves sexual attraction or behavior involving prepubescent children.",
+      "topic": "Sexual Dysfunctions, Paraphilic Disorders, and Gender Dysphoria",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1157",
+      "questionText": "Treatment for paraphilic disorders that eliminates or modifies patterns of sexual arousal is based on which principles?",
+      "options": {
+        "A": "Psychoanalytic principles",
+        "B": "Humanistic principles",
+        "C": "Behavioral principles",
+        "D": "Psychodynamic principles"
+      },
+      "correctAnswer": "C",
+      "explanation": "Behavioral treatments use learning principles to modify problematic patterns of arousal and behavior.",
+      "topic": "Sexual Dysfunctions, Paraphilic Disorders, and Gender Dysphoria",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1158",
+      "questionText": "What is the process of physically changing one's body to be more consistent with one's gender identity called?",
+      "options": {
+        "A": "Gender confirmation surgery",
+        "B": "Cross-dressing",
+        "C": "Psychotherapy",
+        "D": "Hormone therapy"
+      },
+      "correctAnswer": "A",
+      "explanation": "Gender confirmation surgery refers to surgical procedures that align physical characteristics with gender identity.",
+      "topic": "Sexual Dysfunctions, Paraphilic Disorders, and Gender Dysphoria",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1159",
+      "questionText": "The need for increased amounts of a substance to achieve the desired effect is called what, and a negative physical response when the substance is not taken is called what?",
+      "options": {
+        "A": "Dependence; tolerance",
+        "B": "Tolerance; withdrawal",
+        "C": "Withdrawal; dependence",
+        "D": "Abuse; tolerance"
+      },
+      "correctAnswer": "B",
+      "explanation": "Tolerance means needing more of a substance, while withdrawal refers to negative symptoms after stopping it.",
+      "topic": "Substance-Related, Addictive, and Impulse-Control Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1160",
+      "questionText": "Which class of drugs includes alcohol and benzodiazepines and produces behavioral sedation?",
+      "options": {
+        "A": "Stimulants",
+        "B": "Opiates",
+        "C": "Depressants",
+        "D": "Hallucinogens"
+      },
+      "correctAnswer": "C",
+      "explanation": "Depressants slow central nervous system activity and can produce sedation.",
+      "topic": "Substance-Related, Addictive, and Impulse-Control Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1161",
+      "questionText": "Which neurotransmitter system is stimulated by alcohol and is associated with its anxiety-reducing properties?",
+      "options": {
+        "A": "Dopamine",
+        "B": "Serotonin",
+        "C": "GABA",
+        "D": "Norepinephrine"
+      },
+      "correctAnswer": "C",
+      "explanation": "Alcohol enhances GABA activity, which contributes to its sedating and anxiolytic effects.",
+      "topic": "Substance-Related, Addictive, and Impulse-Control Disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1162",
+      "questionText": "Which class of drugs includes amphetamines and cocaine and makes users more active, alert, and sometimes euphoric?",
+      "options": {
+        "A": "Depressants",
+        "B": "Stimulants",
+        "C": "Opiates",
+        "D": "Hallucinogens"
+      },
+      "correctAnswer": "B",
+      "explanation": "Stimulants increase central nervous system activity, alertness, and energy.",
+      "topic": "Substance-Related, Addictive, and Impulse-Control Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1163",
+      "questionText": "Which class of drugs includes heroin, morphine, and codeine and is primarily used to relieve pain?",
+      "options": {
+        "A": "Stimulants",
+        "B": "Depressants",
+        "C": "Hallucinogens",
+        "D": "Opioids"
+      },
+      "correctAnswer": "D",
+      "explanation": "Opioids are pain-relieving drugs that include morphine, codeine, and heroin.",
+      "topic": "Substance-Related, Addictive, and Impulse-Control Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1164",
+      "questionText": "What is the most routinely used illegal substance?",
+      "options": {
+        "A": "Cocaine",
+        "B": "Heroin",
+        "C": "Cannabis or marijuana",
+        "D": "LSD"
+      },
+      "correctAnswer": "C",
+      "explanation": "Cannabis is identified in the source as the most routinely used illegal substance.",
+      "topic": "Substance-Related, Addictive, and Impulse-Control Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1165",
+      "questionText": "Which theory says that a drug's effects are influenced by what the user expects to experience?",
+      "options": {
+        "A": "Opponent-process theory",
+        "B": "Expectancy effect theory",
+        "C": "Moral weakness theory",
+        "D": "Disease model"
+      },
+      "correctAnswer": "B",
+      "explanation": "Expectancy effects occur when beliefs about a substance influence the user's experience of its effects.",
+      "topic": "Substance-Related, Addictive, and Impulse-Control Disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1166",
+      "questionText": "Which treatment provides a safe drug with a chemical makeup similar to the addictive drug?",
+      "options": {
+        "A": "Antagonist treatment",
+        "B": "Aversive treatment",
+        "C": "Agonist substitution",
+        "D": "Inpatient treatment"
+      },
+      "correctAnswer": "C",
+      "explanation": "Agonist substitution replaces a harmful addictive drug with a safer drug that has similar effects.",
+      "topic": "Substance-Related, Addictive, and Impulse-Control Disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1167",
+      "questionText": "Which disorder involves recurrent failure to control impulses, resulting in frequent and severe aggressive outbursts?",
+      "options": {
+        "A": "Kleptomania",
+        "B": "Pyromania",
+        "C": "Gambling Disorder",
+        "D": "Intermittent Explosive Disorder"
+      },
+      "correctAnswer": "D",
+      "explanation": "Intermittent Explosive Disorder involves repeated aggressive outbursts that are disproportionate to the situation.",
+      "topic": "Substance-Related, Addictive, and Impulse-Control Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1168",
+      "questionText": "An enduring and inflexible pattern of inner experience and behavior that deviates markedly from cultural expectations is called what?",
+      "options": {
+        "A": "Mood disorder",
+        "B": "Personality disorder",
+        "C": "Anxiety disorder",
+        "D": "Psychotic disorder"
+      },
+      "correctAnswer": "B",
+      "explanation": "Personality disorders involve persistent maladaptive patterns of thinking, feeling, and behaving.",
+      "topic": "Personality Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1169",
+      "questionText": "Which cluster of personality disorders is characterized by odd or eccentric behavior?",
+      "options": {
+        "A": "Cluster A",
+        "B": "Cluster B",
+        "C": "Cluster C",
+        "D": "Cluster D"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cluster A personality disorders are described as odd or eccentric.",
+      "topic": "Personality Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1170",
+      "questionText": "A person who is excessively mistrustful and suspicious of others without justification may have which personality disorder?",
+      "options": {
+        "A": "Schizoid Personality Disorder",
+        "B": "Schizotypal Personality Disorder",
+        "C": "Paranoid Personality Disorder",
+        "D": "Avoidant Personality Disorder"
+      },
+      "correctAnswer": "C",
+      "explanation": "Paranoid Personality Disorder involves pervasive distrust and suspiciousness of others.",
+      "topic": "Personality Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1171",
+      "questionText": "Which cluster of personality disorders is characterized by dramatic, emotional, or erratic behavior?",
+      "options": {
+        "A": "Cluster A",
+        "B": "Cluster B",
+        "C": "Cluster C",
+        "D": "Cluster D"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cluster B personality disorders are marked by dramatic, emotional, or erratic patterns.",
+      "topic": "Personality Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1172",
+      "questionText": "A pervasive pattern of disregard for and violation of others' rights, involving deceitfulness, impulsivity, and failure to follow social norms, indicates which personality disorder?",
+      "options": {
+        "A": "Borderline Personality Disorder",
+        "B": "Narcissistic Personality Disorder",
+        "C": "Histrionic Personality Disorder",
+        "D": "Antisocial Personality Disorder"
+      },
+      "correctAnswer": "D",
+      "explanation": "Antisocial Personality Disorder involves violating others' rights and disregarding social norms.",
+      "topic": "Personality Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1173",
+      "questionText": "Instability in relationships, self-image, and emotions, along with marked impulsivity, is central to which personality disorder?",
+      "options": {
+        "A": "Antisocial Personality Disorder",
+        "B": "Borderline Personality Disorder",
+        "C": "Narcissistic Personality Disorder",
+        "D": "Histrionic Personality Disorder"
+      },
+      "correctAnswer": "B",
+      "explanation": "Borderline Personality Disorder is characterized by instability in relationships, identity, emotions, and impulse control.",
+      "topic": "Personality Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1174",
+      "questionText": "A person who is overly dramatic, theatrical, and constantly seeks to be the center of attention may have which personality disorder?",
+      "options": {
+        "A": "Narcissistic Personality Disorder",
+        "B": "Borderline Personality Disorder",
+        "C": "Histrionic Personality Disorder",
+        "D": "Avoidant Personality Disorder"
+      },
+      "correctAnswer": "C",
+      "explanation": "Histrionic Personality Disorder involves excessive emotionality and attention-seeking behavior.",
+      "topic": "Personality Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1175",
+      "questionText": "A pervasive pattern of grandiosity, need for admiration, and lack of empathy is the primary feature of which personality disorder?",
+      "options": {
+        "A": "Histrionic Personality Disorder",
+        "B": "Borderline Personality Disorder",
+        "C": "Antisocial Personality Disorder",
+        "D": "Narcissistic Personality Disorder"
+      },
+      "correctAnswer": "D",
+      "explanation": "Narcissistic Personality Disorder involves grandiosity, admiration-seeking, and reduced empathy.",
+      "topic": "Personality Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1176",
+      "questionText": "Which cluster of personality disorders is characterized by anxious or fearful behavior?",
+      "options": {
+        "A": "Cluster A",
+        "B": "Cluster B",
+        "C": "Cluster C",
+        "D": "Cluster D"
+      },
+      "correctAnswer": "C",
+      "explanation": "Cluster C personality disorders are marked by anxious or fearful patterns.",
+      "topic": "Personality Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1177",
+      "questionText": "A person is extremely sensitive to others' opinions, avoids social situations because of fear of rejection, and has very low self-esteem. Which personality disorder may be present?",
+      "options": {
+        "A": "Dependent Personality Disorder",
+        "B": "Avoidant Personality Disorder",
+        "C": "Obsessive-Compulsive Personality Disorder",
+        "D": "Schizoid Personality Disorder"
+      },
+      "correctAnswer": "B",
+      "explanation": "Avoidant Personality Disorder involves social inhibition, feelings of inadequacy, and hypersensitivity to rejection.",
+      "topic": "Personality Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1178",
+      "questionText": "Which treatment for Borderline Personality Disorder helps people cope with stressors that trigger suicidal behaviors and other maladaptive responses?",
+      "options": {
+        "A": "Cognitive-behavioral therapy",
+        "B": "Dialectical behavior therapy",
+        "C": "Psychoanalytic therapy",
+        "D": "Humanistic therapy"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dialectical behavior therapy teaches emotion regulation, distress tolerance, and safer coping skills.",
+      "topic": "Personality Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1179",
+      "questionText": "Which psychotic disorder may involve disturbances in thinking, perception, speech, emotions, and behavior?",
+      "options": {
+        "A": "Delusional Disorder",
+        "B": "Schizophrenia",
+        "C": "Schizoaffective Disorder",
+        "D": "Brief Psychotic Disorder"
+      },
+      "correctAnswer": "B",
+      "explanation": "Schizophrenia can involve delusions, hallucinations, disorganized speech, negative symptoms, and functional impairment.",
+      "topic": "Schizophrenia Spectrum and Other Psychotic Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1180",
+      "questionText": "Active manifestations of abnormal behavior, such as delusions and hallucinations, are called what symptoms?",
+      "options": {
+        "A": "Negative",
+        "B": "Disorganized",
+        "C": "Positive",
+        "D": "Psychotic"
+      },
+      "correctAnswer": "C",
+      "explanation": "Positive symptoms are added experiences or behaviors, such as hallucinations or delusions.",
+      "topic": "Schizophrenia Spectrum and Other Psychotic Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1181",
+      "questionText": "A belief that most members of a society would consider a misrepresentation of reality is called what?",
+      "options": {
+        "A": "Hallucination",
+        "B": "Delusion",
+        "C": "Negative symptom",
+        "D": "Disorganized thought"
+      },
+      "correctAnswer": "B",
+      "explanation": "A delusion is a fixed false belief that is not consistent with reality or cultural norms.",
+      "topic": "Schizophrenia Spectrum and Other Psychotic Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1182",
+      "questionText": "The absence or insufficiency of normal behavior, such as apathy, poverty of speech, and social withdrawal, is called what?",
+      "options": {
+        "A": "Positive symptoms",
+        "B": "Negative symptoms",
+        "C": "Disorganized symptoms",
+        "D": "Psychotic symptoms"
+      },
+      "correctAnswer": "B",
+      "explanation": "Negative symptoms reflect reductions or losses in normal emotional, social, or motivational functioning.",
+      "topic": "Schizophrenia Spectrum and Other Psychotic Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1183",
+      "questionText": "An inability to initiate and persist in activities is known as what?",
+      "options": {
+        "A": "Alogia",
+        "B": "Anhedonia",
+        "C": "Avolition",
+        "D": "Affective flattening"
+      },
+      "correctAnswer": "C",
+      "explanation": "Avolition is a lack of motivation or inability to start and continue goal-directed activities.",
+      "topic": "Schizophrenia Spectrum and Other Psychotic Disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1184",
+      "questionText": "Jumping from topic to topic and speaking illogically are examples of what?",
+      "options": {
+        "A": "Delusions",
+        "B": "Hallucinations",
+        "C": "Negative symptoms",
+        "D": "Disorganized speech"
+      },
+      "correctAnswer": "D",
+      "explanation": "Disorganized speech involves loose associations, illogical flow, or shifting between unrelated topics.",
+      "topic": "Schizophrenia Spectrum and Other Psychotic Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1185",
+      "questionText": "Which psychotic disorder features a persistent delusion but no other symptoms of schizophrenia?",
+      "options": {
+        "A": "Brief Psychotic Disorder",
+        "B": "Schizoaffective Disorder",
+        "C": "Delusional Disorder",
+        "D": "Schizophreniform Disorder"
+      },
+      "correctAnswer": "C",
+      "explanation": "Delusional Disorder involves one or more delusions without the broader symptom pattern of schizophrenia.",
+      "topic": "Schizophrenia Spectrum and Other Psychotic Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1186",
+      "questionText": "Which neurotransmitter system is most implicated in schizophrenia?",
+      "options": {
+        "A": "Serotonin",
+        "B": "GABA",
+        "C": "Dopamine",
+        "D": "Norepinephrine"
+      },
+      "correctAnswer": "C",
+      "explanation": "Dopamine dysregulation is strongly associated with schizophrenia symptoms, especially positive symptoms.",
+      "topic": "Schizophrenia Spectrum and Other Psychotic Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1187",
+      "questionText": "Which theory says schizophrenia results from genetic vulnerability combined with environmental stressors?",
+      "options": {
+        "A": "Sociogenic theory",
+        "B": "Diathesis-stress theory",
+        "C": "Double-bind theory",
+        "D": "Expressed emotion theory"
+      },
+      "correctAnswer": "B",
+      "explanation": "The diathesis-stress model explains schizophrenia as vulnerability activated or worsened by stress.",
+      "topic": "Schizophrenia Spectrum and Other Psychotic Disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1188",
+      "questionText": "Which psychosocial intervention for schizophrenia teaches family members about the disorder and provides communication and problem-solving skills?",
+      "options": {
+        "A": "Social skills training",
+        "B": "Family therapy",
+        "C": "Assertive community treatment",
+        "D": "Vocational rehabilitation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Family therapy educates relatives and improves communication to reduce relapse and improve support.",
+      "topic": "Schizophrenia Spectrum and Other Psychotic Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1189",
+      "questionText": "Disorders diagnosed first in infancy, childhood, or adolescence are known as what?",
+      "options": {
+        "A": "Neurocognitive Disorders",
+        "B": "Personality Disorders",
+        "C": "Neurodevelopmental Disorders",
+        "D": "Somatic Symptom Disorders"
+      },
+      "correctAnswer": "C",
+      "explanation": "Neurodevelopmental Disorders begin during the developmental period and affect functioning.",
+      "topic": "Neurodevelopmental Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1190",
+      "questionText": "Which developmental disorder involves maladaptive levels of inattention, hyperactivity, and impulsivity?",
+      "options": {
+        "A": "Autism Spectrum Disorder",
+        "B": "Specific Learning Disorder",
+        "C": "Intellectual Disability",
+        "D": "Attention-Deficit/Hyperactivity Disorder"
+      },
+      "correctAnswer": "D",
+      "explanation": "ADHD is characterized by developmentally inappropriate inattention, hyperactivity, and impulsivity.",
+      "topic": "Neurodevelopmental Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1191",
+      "questionText": "Which diagnosis involves a significant discrepancy between academic achievement and expected achievement based on IQ?",
+      "options": {
+        "A": "Intellectual Disability",
+        "B": "Specific Learning Disorder",
+        "C": "Autism Spectrum Disorder",
+        "D": "Communication Disorder"
+      },
+      "correctAnswer": "B",
+      "explanation": "Specific Learning Disorder involves academic skill deficits that are below expectations for age and ability.",
+      "topic": "Neurodevelopmental Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1192",
+      "questionText": "Which neurodevelopmental disorder involves significant impairment in social interaction and communication, along with restricted behavior, interests, or activities?",
+      "options": {
+        "A": "Social Pragmatic Communication Disorder",
+        "B": "Tourette's Disorder",
+        "C": "Autism Spectrum Disorder",
+        "D": "Rett Syndrome"
+      },
+      "correctAnswer": "C",
+      "explanation": "Autism Spectrum Disorder involves social communication deficits and restricted or repetitive behavior patterns.",
+      "topic": "Neurodevelopmental Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1193",
+      "questionText": "Which childhood and adolescent disorder involves below-average intellectual and adaptive functioning?",
+      "options": {
+        "A": "Specific Learning Disorder",
+        "B": "Autism Spectrum Disorder",
+        "C": "Intellectual Disability",
+        "D": "ADHD"
+      },
+      "correctAnswer": "C",
+      "explanation": "Intellectual Disability involves deficits in intellectual functioning and adaptive behavior.",
+      "topic": "Neurodevelopmental Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1194",
+      "questionText": "What is the most common known biological cause of intellectual disability?",
+      "options": {
+        "A": "Fragile X syndrome",
+        "B": "Down syndrome",
+        "C": "Phenylketonuria",
+        "D": "Fetal alcohol syndrome"
+      },
+      "correctAnswer": "B",
+      "explanation": "Down syndrome is identified in the source as the most common known biological cause of intellectual disability.",
+      "topic": "Neurodevelopmental Disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1195",
+      "questionText": "Which genetic disorder can cause intellectual disability but can be managed by diet if detected early?",
+      "options": {
+        "A": "Down syndrome",
+        "B": "Fragile X syndrome",
+        "C": "Phenylketonuria",
+        "D": "Lesch-Nyhan syndrome"
+      },
+      "correctAnswer": "C",
+      "explanation": "Phenylketonuria can cause intellectual disability if untreated but can be managed with dietary control.",
+      "topic": "Neurodevelopmental Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1196",
+      "questionText": "A gradual deterioration of brain functioning that affects memory, judgment, language, and other advanced cognitive processes is called what?",
+      "options": {
+        "A": "Delirium",
+        "B": "Major Neurocognitive Disorder",
+        "C": "Amnestic Disorder",
+        "D": "Mild Neurocognitive Disorder"
+      },
+      "correctAnswer": "B",
+      "explanation": "Major Neurocognitive Disorder involves significant cognitive decline that interferes with independence.",
+      "topic": "Neurocognitive Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1197",
+      "questionText": "Impaired consciousness and cognition developing over several hours or days, producing a state of confusion, is known as what?",
+      "options": {
+        "A": "Dementia",
+        "B": "Delirium",
+        "C": "Amnesia",
+        "D": "Agnosia"
+      },
+      "correctAnswer": "B",
+      "explanation": "Delirium is an acute disturbance in attention, awareness, and cognition.",
+      "topic": "Neurocognitive Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1198",
+      "questionText": "What is the most common cause of major neurocognitive disorder?",
+      "options": {
+        "A": "Vascular disease",
+        "B": "HIV",
+        "C": "Alzheimer's disease",
+        "D": "Head trauma"
+      },
+      "correctAnswer": "C",
+      "explanation": "Alzheimer's disease is the most common cause of major neurocognitive disorder.",
+      "topic": "Neurocognitive Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1199",
+      "questionText": "The inability to recognize and name objects is called what, while inability to recognize familiar faces is called what?",
+      "options": {
+        "A": "Aphasia; agnosia",
+        "B": "Agnosia; facial agnosia",
+        "C": "Facial agnosia; apraxia",
+        "D": "Apraxia; aphasia"
+      },
+      "correctAnswer": "B",
+      "explanation": "Agnosia is impaired object recognition, while facial agnosia is impaired recognition of familiar faces.",
+      "topic": "Neurocognitive Disorders",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1200",
+      "questionText": "Which progressive brain disorder is caused by blockage or damage to blood vessels supplying the brain?",
+      "options": {
+        "A": "Neurocognitive Disorder due to Alzheimer's Disease",
+        "B": "Vascular Neurocognitive Disorder",
+        "C": "Neurocognitive Disorder due to Parkinson's Disease",
+        "D": "Neurocognitive Disorder due to Traumatic Brain Injury"
+      },
+      "correctAnswer": "B",
+      "explanation": "Vascular Neurocognitive Disorder results from reduced or disrupted blood flow to the brain.",
+      "topic": "Neurocognitive Disorders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1201",
+      "questionText": "The deterministic genes for Alzheimer's disease include amyloid precursor protein, presenilin 1, and what?",
+      "options": {
+        "A": "Apolipoprotein E",
+        "B": "Presenilin 2",
+        "C": "Tau protein",
+        "D": "Beta-amyloid"
+      },
+      "correctAnswer": "B",
+      "explanation": "Presenilin 2 is one of the deterministic genes associated with familial Alzheimer's disease.",
+      "topic": "Neurocognitive Disorders",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q1202",
+      "questionText": "What legal procedure allows a person with mental illness to be placed in a hospital, even against their will?",
+      "options": {
+        "A": "Criminal commitment",
+        "B": "Civil commitment",
+        "C": "Competence to stand trial",
+        "D": "Insanity defense"
+      },
+      "correctAnswer": "B",
+      "explanation": "Civil commitment allows involuntary hospitalization when legal criteria such as danger or grave disability are met.",
+      "topic": "Mental Health Services: Legal and Ethical Issues",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1203",
+      "questionText": "Which legal rule says a person is not responsible for a crime if they did not know what they were doing or did not know it was wrong?",
+      "options": {
+        "A": "M'Naghten rule",
+        "B": "Durham rule",
+        "C": "American Law Institute rule",
+        "D": "Diminished capacity"
+      },
+      "correctAnswer": "A",
+      "explanation": "The M'Naghten rule focuses on whether the defendant understood the act or knew it was wrong.",
+      "topic": "Mental Health Services: Legal and Ethical Issues",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1204",
+      "questionText": "Which legal concept means a defendant can understand the charges against them and assist in their own defense?",
+      "options": {
+        "A": "Insanity defense",
+        "B": "Competence to stand trial",
+        "C": "Mens rea",
+        "D": "Actus reus"
+      },
+      "correctAnswer": "B",
+      "explanation": "Competence to stand trial means the defendant can understand proceedings and help with their legal defense.",
+      "topic": "Mental Health Services: Legal and Ethical Issues",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1205",
+      "questionText": "A mental health professional's responsibility to break confidentiality and warn a third party of potential harm from a client is known as what?",
+      "options": {
+        "A": "Right to treatment",
+        "B": "Right to refuse treatment",
+        "C": "Duty to warn",
+        "D": "Patient's rights"
+      },
+      "correctAnswer": "C",
+      "explanation": "Duty to warn requires clinicians to protect identifiable third parties when a client poses a serious threat.",
+      "topic": "Mental Health Services: Legal and Ethical Issues",
+      "difficulty": "easy"
     }
   ]
 }
