@@ -18969,6 +18969,2106 @@
       "explanation": "Life review is reflection on one's life to find meaning, coherence, and significance.",
       "topic": "Death and Bereavement",
       "difficulty": "easy"
+    },
+    {
+      "id": "q1356",
+      "questionText": "Which field of I/O Psychology is most concerned with designing a safer and more efficient workspace to improve the interaction between humans and machines?",
+      "options": {
+        "A": "Personnel Psychology",
+        "B": "Organizational Psychology",
+        "C": "Human Factors/Ergonomics",
+        "D": "Employee Selection"
+      },
+      "correctAnswer": "C",
+      "explanation": "Human factors and ergonomics focus on designing work systems, tools, and environments that fit human abilities and limitations.",
+      "topic": "Introduction to I/O Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1357",
+      "questionText": "The famous Hawthorne Studies, which demonstrated that employee behavior is complex and influenced by interpersonal interactions, led to an increased focus on what area?",
+      "options": {
+        "A": "Job analysis and evaluation",
+        "B": "Employee selection and testing",
+        "C": "Human relations and employee attitudes",
+        "D": "Workplace safety regulations"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Hawthorne Studies showed that social relationships and employee attitudes affect workplace behavior and productivity.",
+      "topic": "Introduction to I/O Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1358",
+      "questionText": "The scientist-practitioner model in I/O Psychology means that psychologists:",
+      "options": {
+        "A": "Only conduct therapy for workers in industrial settings.",
+        "B": "Act as scientists when conducting research and as practitioners when working with organizations.",
+        "C": "Rely solely on intuition rather than empirical data to make decisions.",
+        "D": "Focus exclusively on the broader aspects of running an organization, like marketing."
+      },
+      "correctAnswer": "B",
+      "explanation": "The scientist-practitioner model combines research-based evidence with practical application in organizational settings.",
+      "topic": "Introduction to I/O Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1359",
+      "questionText": "Which historical event provided the first large-scale opportunity for I/O psychologists to apply their knowledge in employee testing and selection?",
+      "options": {
+        "A": "The Great Depression",
+        "B": "The Civil Rights Movement",
+        "C": "World War I",
+        "D": "The Industrial Revolution"
+      },
+      "correctAnswer": "C",
+      "explanation": "World War I created a large need for testing and classifying military recruits, giving I/O psychology an early practical role.",
+      "topic": "History of I/O Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1360",
+      "questionText": "The Army Alpha and Army Beta tests were developed during World War I primarily to measure:",
+      "options": {
+        "A": "Personality traits",
+        "B": "Physical ability",
+        "C": "Mental ability",
+        "D": "Leadership potential"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Army Alpha and Beta tests were designed to assess mental ability among military recruits.",
+      "topic": "History of I/O Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1361",
+      "questionText": "A researcher wants to determine whether a new training program causes an increase in employee performance. Which research method is most appropriate for establishing a cause-and-effect relationship?",
+      "options": {
+        "A": "Archival research",
+        "B": "Survey",
+        "C": "Quasi-experiment",
+        "D": "Experiment"
+      },
+      "correctAnswer": "D",
+      "explanation": "Experiments are best for testing cause and effect because researchers can manipulate variables and control conditions.",
+      "topic": "Research Methods in I/O Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1362",
+      "questionText": "A correlation coefficient of -0.70 between job satisfaction and absenteeism suggests that:",
+      "options": {
+        "A": "As job satisfaction increases, absenteeism tends to increase.",
+        "B": "There is no relationship between job satisfaction and absenteeism.",
+        "C": "As job satisfaction increases, absenteeism tends to decrease.",
+        "D": "Job satisfaction causes absenteeism."
+      },
+      "correctAnswer": "C",
+      "explanation": "A negative correlation means that as one variable increases, the other tends to decrease.",
+      "topic": "Research Methods in I/O Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1363",
+      "questionText": "Obtaining a master's degree in I/O Psychology and then working for a company like Microsoft or FedEx would place you in which employment setting?",
+      "options": {
+        "A": "Public sector",
+        "B": "Consulting",
+        "C": "Private sector",
+        "D": "Education"
+      },
+      "correctAnswer": "C",
+      "explanation": "Working directly for a private company places an I/O psychologist in the private sector.",
+      "topic": "Careers in I/O Psychology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1364",
+      "questionText": "What is the main difference between a Type A and a Type B ethical dilemma?",
+      "options": {
+        "A": "Type A dilemmas are clearer, while Type B dilemmas have a high level of uncertainty.",
+        "B": "Type B dilemmas are clearer, while Type A dilemmas have a high level of uncertainty.",
+        "C": "Type A dilemmas only occur in research, while Type B dilemmas occur in practice.",
+        "D": "Type B dilemmas always involve illegal behavior, while Type A dilemmas are only unethical."
+      },
+      "correctAnswer": "B",
+      "explanation": "Type A dilemmas involve uncertainty about the best ethical action, while Type B dilemmas are clearer but may still be difficult to handle.",
+      "topic": "Ethics in I/O Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1365",
+      "questionText": "A researcher studies the relationship between noise levels and employee performance by comparing the productivity of two existing groups of workers, one in a noisy factory and one in a quiet factory. This is an example of a:",
+      "options": {
+        "A": "Experiment",
+        "B": "Archival study",
+        "C": "Quasi-experiment",
+        "D": "Meta-analysis"
+      },
+      "correctAnswer": "C",
+      "explanation": "A quasi-experiment compares existing groups without random assignment to conditions.",
+      "topic": "Research Methods in I/O Psychology",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1366",
+      "questionText": "What is the primary purpose of a job analysis?",
+      "options": {
+        "A": "To determine an employee's salary",
+        "B": "To gather and analyze information about the work an employee performs",
+        "C": "To write a performance appraisal for an employee",
+        "D": "To recruit new employees"
+      },
+      "correctAnswer": "B",
+      "explanation": "Job analysis identifies the tasks, duties, responsibilities, and requirements of a job.",
+      "topic": "Job Analysis and Evaluation",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1367",
+      "questionText": "The written result of a job analysis is the:",
+      "options": {
+        "A": "Job description",
+        "B": "Performance appraisal",
+        "C": "Employee contract",
+        "D": "Organizational chart"
+      },
+      "correctAnswer": "A",
+      "explanation": "A job description summarizes the duties, responsibilities, and requirements identified through job analysis.",
+      "topic": "Job Analysis and Evaluation",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1368",
+      "questionText": "According to the Peter Principle, organizations tend to promote employees until they reach their highest level of:",
+      "options": {
+        "A": "Competence",
+        "B": "Motivation",
+        "C": "Salary",
+        "D": "Incompetence"
+      },
+      "correctAnswer": "D",
+      "explanation": "The Peter Principle states that employees may be promoted until they reach a role in which they are no longer competent.",
+      "topic": "Job Analysis and Evaluation",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1369",
+      "questionText": "Which section of a job description contains the Knowledge, Skills, Abilities, and Other Characteristics needed for a job?",
+      "options": {
+        "A": "Work Activities",
+        "B": "Job Context",
+        "C": "Job Competencies",
+        "D": "Brief Summary"
+      },
+      "correctAnswer": "C",
+      "explanation": "Job competencies describe the KSAOs required for effective job performance.",
+      "topic": "Job Analysis and Evaluation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1370",
+      "questionText": "A job analyst observes a police officer on patrol to gather information about the job. This method of job analysis is known as:",
+      "options": {
+        "A": "Job participation",
+        "B": "Interview",
+        "C": "Observation",
+        "D": "Task inventory"
+      },
+      "correctAnswer": "C",
+      "explanation": "Observation involves directly watching employees perform their job duties to collect job information.",
+      "topic": "Job Analysis Methods",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1371",
+      "questionText": "The Critical Incident Technique is used to:",
+      "options": {
+        "A": "Determine the monetary worth of a job.",
+        "B": "Discover actual incidents of job behavior that distinguish success from failure.",
+        "C": "Create a list of all tools and equipment used on the job.",
+        "D": "Measure an applicant's personality."
+      },
+      "correctAnswer": "B",
+      "explanation": "The Critical Incident Technique identifies specific effective and ineffective job behaviors.",
+      "topic": "Job Analysis Methods",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1372",
+      "questionText": "The Position Analysis Questionnaire is a structured job analysis method best suited for:",
+      "options": {
+        "A": "Writing detailed job descriptions for training purposes.",
+        "B": "Comparing different jobs and determining salary levels.",
+        "C": "Creating performance appraisal instruments.",
+        "D": "Developing employee selection tests."
+      },
+      "correctAnswer": "B",
+      "explanation": "The PAQ uses standardized worker-oriented dimensions that make it useful for comparing jobs.",
+      "topic": "Job Analysis Methods",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1373",
+      "questionText": "The process of determining the monetary worth of a job is called:",
+      "options": {
+        "A": "Job analysis",
+        "B": "Performance appraisal",
+        "C": "Job evaluation",
+        "D": "Job design"
+      },
+      "correctAnswer": "C",
+      "explanation": "Job evaluation determines the relative value of jobs to support fair compensation decisions.",
+      "topic": "Job Evaluation",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1374",
+      "questionText": "Comparing jobs within an organization to ensure that people in jobs worth the most are paid accordingly is known as:",
+      "options": {
+        "A": "External pay equity",
+        "B": "Internal pay equity",
+        "C": "Comparable worth",
+        "D": "Salary survey"
+      },
+      "correctAnswer": "B",
+      "explanation": "Internal pay equity focuses on fair pay relationships among jobs within the same organization.",
+      "topic": "Job Evaluation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1375",
+      "questionText": "A salary survey is used to determine:",
+      "options": {
+        "A": "Internal pay equity",
+        "B": "The number of applicants for a position",
+        "C": "The job satisfaction of employees",
+        "D": "External pay equity"
+      },
+      "correctAnswer": "D",
+      "explanation": "Salary surveys compare pay rates with other organizations to evaluate external pay equity.",
+      "topic": "Compensation and Job Evaluation",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1376",
+      "questionText": "A group of people for whom protective legislation has been passed, such as women, minorities, or people over 40, is known as a:",
+      "options": {
+        "A": "Union",
+        "B": "Protected class",
+        "C": "BFOQ",
+        "D": "Affirmative action group"
+      },
+      "correctAnswer": "B",
+      "explanation": "A protected class is a legally protected group covered by anti-discrimination laws.",
+      "topic": "Legal Issues in Employee Selection",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1377",
+      "questionText": "A restaurant requires that only female employees can work as waitresses. This requirement would be legal only if gender is a:",
+      "options": {
+        "A": "Protected class",
+        "B": "Affirmative action goal",
+        "C": "Bona Fide Occupational Qualification",
+        "D": "Local law requirement"
+      },
+      "correctAnswer": "C",
+      "explanation": "A BFOQ allows an otherwise protected characteristic to be required only when it is essential to the job.",
+      "topic": "Legal Issues in Employee Selection",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1378",
+      "questionText": "A company's selection process results in a significantly lower percentage of female applicants being hired compared with male applicants. This is an example of:",
+      "options": {
+        "A": "Adverse impact",
+        "B": "A BFOQ",
+        "C": "Quid pro quo harassment",
+        "D": "Affirmative action"
+      },
+      "correctAnswer": "A",
+      "explanation": "Adverse impact occurs when an employment practice disproportionately disadvantages a protected group.",
+      "topic": "Legal Issues in Employee Selection",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1379",
+      "questionText": "The four-fifths rule is used to determine whether a selection practice has:",
+      "options": {
+        "A": "Validity",
+        "B": "Reliability",
+        "C": "Practical significance for adverse impact",
+        "D": "Job relatedness"
+      },
+      "correctAnswer": "C",
+      "explanation": "The four-fifths rule is a guideline for identifying practical evidence of adverse impact in hiring rates.",
+      "topic": "Legal Issues in Employee Selection",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1380",
+      "questionText": "A supervisor tells an employee she must go on a date with him to get a promotion. This is an example of what type of sexual harassment?",
+      "options": {
+        "A": "Hostile environment",
+        "B": "Quid pro quo",
+        "C": "Reasonable accommodation",
+        "D": "BFOQ"
+      },
+      "correctAnswer": "B",
+      "explanation": "Quid pro quo harassment occurs when job benefits are tied to submitting to sexual demands.",
+      "topic": "Legal Issues in Employee Selection",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1381",
+      "questionText": "An organization's formal policy to ensure proportional representation of employees based on variables such as race and sex is called:",
+      "options": {
+        "A": "A consent decree",
+        "B": "The four-fifths rule",
+        "C": "Affirmative action",
+        "D": "Employment-at-will"
+      },
+      "correctAnswer": "C",
+      "explanation": "Affirmative action aims to improve representation of historically underrepresented groups.",
+      "topic": "Legal Issues in Employee Selection",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1382",
+      "questionText": "The Americans with Disabilities Act requires employers to make what for physically and mentally disabled employees?",
+      "options": {
+        "A": "Preferential hiring decisions",
+        "B": "Reasonable accommodations",
+        "C": "Higher salary offers",
+        "D": "Separate work facilities"
+      },
+      "correctAnswer": "B",
+      "explanation": "The ADA requires reasonable accommodations unless they create undue hardship for the employer.",
+      "topic": "Legal Issues in Employee Selection",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1383",
+      "questionText": "According to the Age Discrimination in Employment Act, it is illegal to discriminate against individuals over the age of:",
+      "options": {
+        "A": "30",
+        "B": "40",
+        "C": "50",
+        "D": "65"
+      },
+      "correctAnswer": "B",
+      "explanation": "The ADEA protects workers and applicants who are 40 years of age or older.",
+      "topic": "Legal Issues in Employee Selection",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1384",
+      "questionText": "An employer requires all applicants to have a high school diploma. This requirement has an adverse impact on a protected class. For the requirement to be legal, the employer must prove that it is:",
+      "options": {
+        "A": "A BFOQ",
+        "B": "Job related",
+        "C": "Part of an affirmative action plan",
+        "D": "Followed by all competitors"
+      },
+      "correctAnswer": "B",
+      "explanation": "A selection requirement with adverse impact must be shown to be job related and necessary.",
+      "topic": "Legal Issues in Employee Selection",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1385",
+      "questionText": "The legal process in employment law where a neutral third party helps two sides reach a mutually agreed-upon solution is called:",
+      "options": {
+        "A": "Arbitration",
+        "B": "Litigation",
+        "C": "Grievance system",
+        "D": "Mediation"
+      },
+      "correctAnswer": "D",
+      "explanation": "Mediation uses a neutral third party to help disputing parties reach a voluntary agreement.",
+      "topic": "Legal Issues in Employee Selection",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1386",
+      "questionText": "Attracting people with the right qualifications to apply for a job is known as:",
+      "options": {
+        "A": "Selection",
+        "B": "Placement",
+        "C": "Recruitment",
+        "D": "Job analysis"
+      },
+      "correctAnswer": "C",
+      "explanation": "Recruitment is the process of attracting qualified applicants to an organization.",
+      "topic": "Recruitment and Interviewing",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1387",
+      "questionText": "A newspaper ad for a sales position instructs applicants to send their résumé to a P.O. Box. This type of ad is called a:",
+      "options": {
+        "A": "Apply-in-person ad",
+        "B": "Blind box ad",
+        "C": "Respond-by-calling ad",
+        "D": "Send-résumé ad"
+      },
+      "correctAnswer": "B",
+      "explanation": "A blind box ad hides the employer's identity and directs applicants to a box or similar address.",
+      "topic": "Recruitment and Interviewing",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1388",
+      "questionText": "Which recruitment method is consistently rated by HR professionals as the most effective?",
+      "options": {
+        "A": "Newspaper ads",
+        "B": "Internet job boards",
+        "C": "Employee referrals",
+        "D": "Public employment agencies"
+      },
+      "correctAnswer": "C",
+      "explanation": "Employee referrals are often effective because current employees help identify suitable candidates.",
+      "topic": "Recruitment and Interviewing",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1389",
+      "questionText": "A recruitment method in which job applicants are told both the positive and negative aspects of a job is called a:",
+      "options": {
+        "A": "Realistic Job Preview",
+        "B": "Expectation-Lowering Procedure",
+        "C": "Situational interview",
+        "D": "Unstructured interview"
+      },
+      "correctAnswer": "A",
+      "explanation": "A realistic job preview gives applicants balanced information so they can make informed decisions.",
+      "topic": "Recruitment and Interviewing",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1390",
+      "questionText": "Which type of interview is characterized by job-related questions, the same questions for all applicants, and a standardized scoring key?",
+      "options": {
+        "A": "Unstructured interview",
+        "B": "Panel interview",
+        "C": "Serial interview",
+        "D": "Structured interview"
+      },
+      "correctAnswer": "D",
+      "explanation": "Structured interviews improve consistency by asking standardized, job-related questions and using scoring guides.",
+      "topic": "Recruitment and Interviewing",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1391",
+      "questionText": "An interviewer asks an applicant, \"Tell me about a time you had to deal with an angry customer.\" This is an example of what type of interview question?",
+      "options": {
+        "A": "Future-focused situational",
+        "B": "Past-focused patterned behavior",
+        "C": "Clarifier",
+        "D": "Disqualifier"
+      },
+      "correctAnswer": "B",
+      "explanation": "Past-focused questions ask applicants to describe previous behavior as evidence of future performance.",
+      "topic": "Recruitment and Interviewing",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1392",
+      "questionText": "An interviewer is more impressed with an applicant who interviewed after a series of poorly qualified applicants. This is an example of the:",
+      "options": {
+        "A": "Primacy effect",
+        "B": "Contrast effect",
+        "C": "Negative-information bias",
+        "D": "Halo effect"
+      },
+      "correctAnswer": "B",
+      "explanation": "The contrast effect occurs when an applicant is judged relative to other applicants rather than against objective standards.",
+      "topic": "Recruitment and Interviewing",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1393",
+      "questionText": "The primary purpose of a cover letter is to:",
+      "options": {
+        "A": "List all of an applicant's previous jobs.",
+        "B": "Introduce the applicant and their résumé, and express interest in a position.",
+        "C": "Provide references from previous employers.",
+        "D": "Showcase an applicant's creative writing skills."
+      },
+      "correctAnswer": "B",
+      "explanation": "A cover letter introduces the applicant, highlights fit, and explains interest in the position.",
+      "topic": "Recruitment and Interviewing",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1394",
+      "questionText": "A résumé that organizes jobs based on the skills required to perform them rather than the order in which they were worked is a:",
+      "options": {
+        "A": "Chronological résumé",
+        "B": "Functional résumé",
+        "C": "Psychological résumé",
+        "D": "Academic résumé"
+      },
+      "correctAnswer": "B",
+      "explanation": "A functional résumé emphasizes skills and abilities rather than chronological work history.",
+      "topic": "Recruitment and Interviewing",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1395",
+      "questionText": "During an interview, an applicant smiles, makes eye contact, and has a firm handshake. These are examples of:",
+      "options": {
+        "A": "Verbal cues",
+        "B": "Nonverbal cues",
+        "C": "Organizational-fit questions",
+        "D": "Skill-level determiners"
+      },
+      "correctAnswer": "B",
+      "explanation": "Nonverbal cues include body language, facial expression, eye contact, and gestures.",
+      "topic": "Recruitment and Interviewing",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1396",
+      "questionText": "The intentional placement of untrue information on a résumé is known as:",
+      "options": {
+        "A": "Negligent hiring",
+        "B": "Résumé fraud",
+        "C": "A BFOQ",
+        "D": "Adverse impact"
+      },
+      "correctAnswer": "B",
+      "explanation": "Résumé fraud occurs when applicants intentionally misrepresent credentials, experience, or qualifications.",
+      "topic": "References and Employment Testing",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1397",
+      "questionText": "An organization can be found liable for what if it hires an employee without checking their background and the employee later commits a crime while on the job?",
+      "options": {
+        "A": "Negligent reference",
+        "B": "Résumé fraud",
+        "C": "Negligent hiring",
+        "D": "Defamation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Negligent hiring occurs when an employer fails to use reasonable care in screening an employee.",
+      "topic": "References and Employment Testing",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1398",
+      "questionText": "Which of the following is a primary reason that references and letters of recommendation have low validity in predicting employee performance?",
+      "options": {
+        "A": "They are usually too long.",
+        "B": "Applicants choose their own references, leading to leniency.",
+        "C": "They focus too much on negative information.",
+        "D": "They are too expensive to obtain."
+      },
+      "correctAnswer": "B",
+      "explanation": "References are often lenient because applicants usually select people likely to give favorable comments.",
+      "topic": "References and Employment Testing",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1399",
+      "questionText": "A test that measures how much a person knows about a job, such as a test of electronic principles for an electrician, is a:",
+      "options": {
+        "A": "Cognitive ability test",
+        "B": "Personality inventory",
+        "C": "Job knowledge test",
+        "D": "Integrity test"
+      },
+      "correctAnswer": "C",
+      "explanation": "A job knowledge test measures information or technical knowledge needed for a specific job.",
+      "topic": "Employment Testing",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1400",
+      "questionText": "Tests that measure an applicant's potential to learn or perform a job-related skill are called:",
+      "options": {
+        "A": "Job knowledge tests",
+        "B": "Ability tests",
+        "C": "Work samples",
+        "D": "Integrity tests"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ability tests assess a person's capacity or potential to perform certain job-related tasks.",
+      "topic": "Employment Testing",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1401",
+      "questionText": "Which selection method uses multiple assessment methods and multiple trained assessors who observe applicants performing simulated job tasks?",
+      "options": {
+        "A": "Structured interview",
+        "B": "Assessment center",
+        "C": "Work sample",
+        "D": "Biodata"
+      },
+      "correctAnswer": "B",
+      "explanation": "Assessment centers combine simulations, exercises, and trained raters to evaluate job-related competencies.",
+      "topic": "Employment Testing",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1402",
+      "questionText": "A selection method that considers an applicant's life, school, military, and work experience is called:",
+      "options": {
+        "A": "Biodata",
+        "B": "Graphology",
+        "C": "Integrity test",
+        "D": "Personality inventory"
+      },
+      "correctAnswer": "A",
+      "explanation": "Biodata uses biographical information and life experiences to predict future job behavior.",
+      "topic": "Employment Testing",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1403",
+      "questionText": "An overt integrity test is designed to predict an applicant's tendency to:",
+      "options": {
+        "A": "Perform well under pressure.",
+        "B": "Be a good team player.",
+        "C": "Steal money or merchandise.",
+        "D": "Be a leader."
+      },
+      "correctAnswer": "C",
+      "explanation": "Overt integrity tests directly assess attitudes and behaviors related to theft and dishonesty.",
+      "topic": "Employment Testing",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1404",
+      "questionText": "Research has shown that graphology, or handwriting analysis, is:",
+      "options": {
+        "A": "A highly valid predictor of job performance.",
+        "B": "A moderately valid predictor of job performance.",
+        "C": "Not a useful or valid technique in employee selection.",
+        "D": "A good predictor of personality but not performance."
+      },
+      "correctAnswer": "C",
+      "explanation": "Research generally does not support graphology as a valid employee selection method.",
+      "topic": "Employment Testing",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1405",
+      "questionText": "The Big Five personality dimensions include all of the following except:",
+      "options": {
+        "A": "Openness to experience",
+        "B": "Conscientiousness",
+        "C": "Intelligence",
+        "D": "Agreeableness"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Big Five are openness, conscientiousness, extraversion, agreeableness, and emotional stability or neuroticism.",
+      "topic": "Employment Testing",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1406",
+      "questionText": "The extent to which a test score is stable and free from error is known as its:",
+      "options": {
+        "A": "Validity",
+        "B": "Reliability",
+        "C": "Utility",
+        "D": "Fairness"
+      },
+      "correctAnswer": "B",
+      "explanation": "Reliability refers to the consistency and dependability of test scores.",
+      "topic": "Evaluating Selection Techniques",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1407",
+      "questionText": "A group of applicants takes a test. Three weeks later, they take the same test again, and the scores are correlated. This measures what type of reliability?",
+      "options": {
+        "A": "Alternate-forms",
+        "B": "Internal",
+        "C": "Scorer",
+        "D": "Test-retest"
+      },
+      "correctAnswer": "D",
+      "explanation": "Test-retest reliability measures the stability of scores across time.",
+      "topic": "Evaluating Selection Techniques",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1408",
+      "questionText": "The degree to which inferences from test scores are justified by evidence is called:",
+      "options": {
+        "A": "Reliability",
+        "B": "Validity",
+        "C": "Utility",
+        "D": "Generalizability"
+      },
+      "correctAnswer": "B",
+      "explanation": "Validity concerns whether evidence supports the intended interpretation and use of test scores.",
+      "topic": "Evaluating Selection Techniques",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1409",
+      "questionText": "A test is considered to have what type of validity if its items appear to be job-related to the applicants taking the test?",
+      "options": {
+        "A": "Content",
+        "B": "Criterion",
+        "C": "Construct",
+        "D": "Face"
+      },
+      "correctAnswer": "D",
+      "explanation": "Face validity refers to whether a test appears relevant and appropriate to test takers.",
+      "topic": "Evaluating Selection Techniques",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1410",
+      "questionText": "A test is administered to current employees, and their scores are correlated with their most recent performance appraisals. This is an example of what type of validity design?",
+      "options": {
+        "A": "Predictive",
+        "B": "Content",
+        "C": "Concurrent",
+        "D": "Construct"
+      },
+      "correctAnswer": "C",
+      "explanation": "Concurrent validity uses current employees and compares test scores with current job performance measures.",
+      "topic": "Evaluating Selection Techniques",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1411",
+      "questionText": "The extent to which a test found valid for a job in one location is valid for the same job in a different location is called:",
+      "options": {
+        "A": "Synthetic validity",
+        "B": "Validity generalization",
+        "C": "Concurrent validity",
+        "D": "Content validity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Validity generalization refers to applying validity evidence from one setting to similar jobs or settings.",
+      "topic": "Evaluating Selection Techniques",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1412",
+      "questionText": "The Taylor-Russell tables are used to estimate the:",
+      "options": {
+        "A": "Reliability of a selection test.",
+        "B": "Percentage of future successful employees if a test is used.",
+        "C": "Amount of adverse impact.",
+        "D": "Financial savings from using a test."
+      },
+      "correctAnswer": "B",
+      "explanation": "Taylor-Russell tables estimate expected success rates based on validity, base rate, and selection ratio.",
+      "topic": "Evaluating Selection Techniques",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q1413",
+      "questionText": "An organization hires 10 applicants out of a pool of 100. The selection ratio is:",
+      "options": {
+        "A": ".10",
+        "B": ".90",
+        "C": "10",
+        "D": "100"
+      },
+      "correctAnswer": "A",
+      "explanation": "The selection ratio is the number hired divided by the number of applicants: 10 divided by 100 equals .10.",
+      "topic": "Evaluating Selection Techniques",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1414",
+      "questionText": "The selection approach in which applicants are rank-ordered based on their test scores and selection starts from the top score is called:",
+      "options": {
+        "A": "Passing scores",
+        "B": "Banding",
+        "C": "Rule of three",
+        "D": "Top-down selection"
+      },
+      "correctAnswer": "D",
+      "explanation": "Top-down selection hires applicants starting with the highest scores and moving downward.",
+      "topic": "Evaluating Selection Techniques",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1415",
+      "questionText": "A selection strategy in which an applicant must pass one test before being allowed to take the next is the:",
+      "options": {
+        "A": "Multiple-cutoff approach",
+        "B": "Compensatory approach",
+        "C": "Multiple-hurdle approach",
+        "D": "Top-down approach"
+      },
+      "correctAnswer": "C",
+      "explanation": "In a multiple-hurdle approach, applicants must pass each stage before advancing to the next.",
+      "topic": "Evaluating Selection Techniques",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1416",
+      "questionText": "The most important use of performance evaluation is to:",
+      "options": {
+        "A": "Determine salary increases.",
+        "B": "Make promotion decisions.",
+        "C": "Improve employee performance by providing feedback.",
+        "D": "Conduct personnel research."
+      },
+      "correctAnswer": "C",
+      "explanation": "Performance evaluation is most valuable when it helps employees improve through feedback and development.",
+      "topic": "Evaluating Employee Performance",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1417",
+      "questionText": "A performance appraisal system where an employee receives feedback from supervisors, peers, subordinates, and customers is called:",
+      "options": {
+        "A": "Upward feedback",
+        "B": "Peer appraisal",
+        "C": "360-degree feedback",
+        "D": "Self-appraisal"
+      },
+      "correctAnswer": "C",
+      "explanation": "360-degree feedback gathers performance information from multiple sources around the employee.",
+      "topic": "Evaluating Employee Performance",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1418",
+      "questionText": "Which performance appraisal method involves employees being ranked from best to worst?",
+      "options": {
+        "A": "Graphic rating scale",
+        "B": "Rank order",
+        "C": "Paired comparison",
+        "D": "Forced distribution"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rank order appraisal places employees in sequence from highest to lowest performance.",
+      "topic": "Performance Appraisal Methods",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1419",
+      "questionText": "A supervisor tends to rate all of her employees at the upper end of the scale. This is an example of what type of rating error?",
+      "options": {
+        "A": "Strictness error",
+        "B": "Central tendency error",
+        "C": "Leniency error",
+        "D": "Halo error"
+      },
+      "correctAnswer": "C",
+      "explanation": "Leniency error occurs when a rater gives unusually high ratings to most or all employees.",
+      "topic": "Performance Appraisal Errors",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1420",
+      "questionText": "A rater allows a single attribute or an overall impression of an employee to affect ratings on every dimension. This is known as:",
+      "options": {
+        "A": "Proximity error",
+        "B": "Contrast error",
+        "C": "Halo error",
+        "D": "Recency effect"
+      },
+      "correctAnswer": "C",
+      "explanation": "Halo error occurs when one overall impression influences ratings across multiple performance dimensions.",
+      "topic": "Performance Appraisal Errors",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1421",
+      "questionText": "A performance appraisal method that uses critical incidents to formally provide meaning to the numbers on a rating scale is the:",
+      "options": {
+        "A": "Graphic rating scale",
+        "B": "Behaviorally Anchored Rating Scale",
+        "C": "Forced-choice rating scale",
+        "D": "Behavioral Observation Scale"
+      },
+      "correctAnswer": "B",
+      "explanation": "BARS anchors numerical ratings with specific behavioral examples of performance.",
+      "topic": "Performance Appraisal Methods",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1422",
+      "questionText": "The legal doctrine that allows employers in the private sector to fire an employee without a reason is called:",
+      "options": {
+        "A": "Employment-at-will",
+        "B": "Due process",
+        "C": "Progressive discipline",
+        "D": "Right to work"
+      },
+      "correctAnswer": "A",
+      "explanation": "Employment-at-will generally allows either employer or employee to end employment without cause, unless limited by law or contract.",
+      "topic": "Employee Termination",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1423",
+      "questionText": "For a termination decision to be legally defensible in situations not covered by at-will employment, an organization must be able to show that:",
+      "options": {
+        "A": "The employee was in a probationary period.",
+        "B": "The employee violated a known company rule and progressive discipline was used.",
+        "C": "The employee was not well-liked by coworkers.",
+        "D": "The organization was facing economic difficulties."
+      },
+      "correctAnswer": "B",
+      "explanation": "A defensible termination should be based on known rules, documented violations, and fair disciplinary procedures.",
+      "topic": "Employee Termination",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1424",
+      "questionText": "When communicating appraisal results, it is best to begin the interview with:",
+      "options": {
+        "A": "Discussing salary increases.",
+        "B": "Asking the employee to rate their own performance.",
+        "C": "Going over all the negative feedback first.",
+        "D": "Small talk to help the employee relax."
+      },
+      "correctAnswer": "B",
+      "explanation": "Asking employees to evaluate themselves encourages participation and opens discussion.",
+      "topic": "Performance Appraisal Feedback",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1425",
+      "questionText": "A rating error where the performance of one employee influences the rating of the next employee is known as the:",
+      "options": {
+        "A": "Halo effect",
+        "B": "Primacy effect",
+        "C": "Recency effect",
+        "D": "Contrast error"
+      },
+      "correctAnswer": "D",
+      "explanation": "Contrast error occurs when ratings are influenced by comparison with another employee rather than objective standards.",
+      "topic": "Performance Appraisal Errors",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1426",
+      "questionText": "The first step in developing an employee training system is to:",
+      "options": {
+        "A": "Choose a training method.",
+        "B": "Establish goals and objectives.",
+        "C": "Conduct a needs analysis.",
+        "D": "Evaluate the training results."
+      },
+      "correctAnswer": "C",
+      "explanation": "Needs analysis identifies whether training is needed, who needs it, and what should be trained.",
+      "topic": "Training Systems",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1427",
+      "questionText": "A what type of analysis determines which employees in an organization need training?",
+      "options": {
+        "A": "Organizational",
+        "B": "Task",
+        "C": "Person",
+        "D": "Job"
+      },
+      "correctAnswer": "C",
+      "explanation": "Person analysis identifies which specific employees need training and in what areas.",
+      "topic": "Training Needs Analysis",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1428",
+      "questionText": "Which training method is most effective for teaching skills that require practice, such as interpersonal skills?",
+      "options": {
+        "A": "Lecture",
+        "B": "Case study",
+        "C": "Role-play",
+        "D": "Programmed instruction"
+      },
+      "correctAnswer": "C",
+      "explanation": "Role-play lets trainees practice interpersonal behaviors in realistic situations.",
+      "topic": "Training Methods",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1429",
+      "questionText": "A training technique where employees observe correct behavior, practice that behavior, and then receive feedback is known as:",
+      "options": {
+        "A": "Simulation",
+        "B": "Role-play",
+        "C": "Behavior modeling",
+        "D": "Case study"
+      },
+      "correctAnswer": "C",
+      "explanation": "Behavior modeling teaches by demonstration, practice, and feedback.",
+      "topic": "Training Methods",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1430",
+      "questionText": "The extent to which behavior learned in training will be performed on the job is called:",
+      "options": {
+        "A": "Transfer of training",
+        "B": "Overlearning",
+        "C": "Programmed instruction",
+        "D": "Needs analysis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Transfer of training means applying learned skills and behaviors back on the job.",
+      "topic": "Training Systems",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1431",
+      "questionText": "Presenting training material in small, easily remembered chunks distributed over a period of time is known as:",
+      "options": {
+        "A": "Massed practice",
+        "B": "Overlearning",
+        "C": "Distributed practice",
+        "D": "Programmed instruction"
+      },
+      "correctAnswer": "C",
+      "explanation": "Distributed practice spreads learning over time, which helps retention.",
+      "topic": "Training Methods",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1432",
+      "questionText": "An organization pays its employees based on the number of new skills they master. This is an example of:",
+      "options": {
+        "A": "Merit pay",
+        "B": "Profit sharing",
+        "C": "Gainsharing",
+        "D": "Skill-based pay"
+      },
+      "correctAnswer": "D",
+      "explanation": "Skill-based pay rewards employees for acquiring and demonstrating additional job-related skills.",
+      "topic": "Compensation and Training",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1433",
+      "questionText": "A training program is evaluated by measuring how much employees learned. A test is given before and after the training. This is a what design?",
+      "options": {
+        "A": "Content validity",
+        "B": "Pretest-posttest",
+        "C": "Solomon four-groups",
+        "D": "Archival"
+      },
+      "correctAnswer": "B",
+      "explanation": "A pretest-posttest design measures change by comparing scores before and after training.",
+      "topic": "Training Evaluation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1434",
+      "questionText": "A group of employees who receive training is compared to a similar group that does not receive training. The group not receiving training is the:",
+      "options": {
+        "A": "Experimental group",
+        "B": "Control group",
+        "C": "Nominal group",
+        "D": "Focus group"
+      },
+      "correctAnswer": "B",
+      "explanation": "A control group does not receive the intervention and is used as a comparison group.",
+      "topic": "Training Evaluation",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1435",
+      "questionText": "On-the-job training where a new employee learns from an experienced employee is called:",
+      "options": {
+        "A": "Apprentice training",
+        "B": "Job rotation",
+        "C": "Modeling",
+        "D": "Coaching"
+      },
+      "correctAnswer": "D",
+      "explanation": "Coaching involves guidance and instruction from an experienced employee or supervisor.",
+      "topic": "Training Methods",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1436",
+      "questionText": "The internal force that drives a worker to action is called:",
+      "options": {
+        "A": "Ability",
+        "B": "Skill",
+        "C": "Motivation",
+        "D": "Personality"
+      },
+      "correctAnswer": "C",
+      "explanation": "Motivation is the internal force that directs and energizes behavior toward goals.",
+      "topic": "Employee Motivation",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1437",
+      "questionText": "According to Korman's consistency theory, employees with high self-esteem are more likely to:",
+      "options": {
+        "A": "Perform at levels consistent with their high self-esteem.",
+        "B": "Be extrinsically motivated.",
+        "C": "Set unattainable goals.",
+        "D": "Require constant supervision."
+      },
+      "correctAnswer": "A",
+      "explanation": "Consistency theory suggests people behave in ways consistent with their self-image.",
+      "topic": "Employee Motivation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1438",
+      "questionText": "The idea that if people believe something is true, they will act in a manner consistent with that belief is known as the:",
+      "options": {
+        "A": "Galatea effect",
+        "B": "Golem effect",
+        "C": "Pygmalion effect",
+        "D": "Self-fulfilling prophecy"
+      },
+      "correctAnswer": "D",
+      "explanation": "A self-fulfilling prophecy occurs when expectations influence behavior in ways that make the expectation come true.",
+      "topic": "Employee Motivation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1439",
+      "questionText": "An employee who is motivated by enjoyment of the tasks themselves is said to have:",
+      "options": {
+        "A": "Extrinsic motivation",
+        "B": "A high need for power",
+        "C": "Intrinsic motivation",
+        "D": "A low need for achievement"
+      },
+      "correctAnswer": "C",
+      "explanation": "Intrinsic motivation comes from the inherent enjoyment or satisfaction of the work itself.",
+      "topic": "Employee Motivation",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1440",
+      "questionText": "According to goal-setting theory, for goals to be most effective they should be all of the following except:",
+      "options": {
+        "A": "Specific",
+        "B": "General and vague",
+        "C": "Measurable",
+        "D": "Difficult but attainable"
+      },
+      "correctAnswer": "B",
+      "explanation": "Effective goals are specific, measurable, and challenging but realistic, not vague.",
+      "topic": "Employee Motivation",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1441",
+      "questionText": "Providing employees with specific information about how well they are performing a task is known as:",
+      "options": {
+        "A": "Reinforcement",
+        "B": "Feedback",
+        "C": "Punishment",
+        "D": "Goal setting"
+      },
+      "correctAnswer": "B",
+      "explanation": "Feedback tells employees how well they are doing and helps guide improvement.",
+      "topic": "Employee Motivation",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1442",
+      "questionText": "A type of learning where employees learn to behave in ways that result in favorable outcomes is called:",
+      "options": {
+        "A": "Classical conditioning",
+        "B": "Social learning",
+        "C": "Operant conditioning",
+        "D": "Observational learning"
+      },
+      "correctAnswer": "C",
+      "explanation": "Operant conditioning explains behavior as shaped by rewards and consequences.",
+      "topic": "Employee Motivation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1443",
+      "questionText": "The Premack Principle states that reinforcement is:",
+      "options": {
+        "A": "Universal for all employees.",
+        "B": "Only effective when it is financial.",
+        "C": "Relative, and a more-desired activity can reinforce a less-desired activity.",
+        "D": "Most effective when delayed."
+      },
+      "correctAnswer": "C",
+      "explanation": "The Premack Principle says a preferred activity can reinforce a less preferred behavior.",
+      "topic": "Employee Motivation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1444",
+      "questionText": "A system where employees are paid based on how much they individually produce is called:",
+      "options": {
+        "A": "Merit pay",
+        "B": "Profit sharing",
+        "C": "Pay for performance",
+        "D": "Skill-based pay"
+      },
+      "correctAnswer": "C",
+      "explanation": "Pay for performance links compensation directly to individual output or results.",
+      "topic": "Employee Motivation",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1445",
+      "questionText": "Vroom's expectancy theory of motivation has three components: expectancy, instrumentality, and:",
+      "options": {
+        "A": "Valence",
+        "B": "Value",
+        "C": "Vigor",
+        "D": "Variety"
+      },
+      "correctAnswer": "A",
+      "explanation": "Expectancy theory includes expectancy, instrumentality, and valence.",
+      "topic": "Employee Motivation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1446",
+      "questionText": "The attitude an employee has toward her job is known as:",
+      "options": {
+        "A": "Organizational commitment",
+        "B": "Job satisfaction",
+        "C": "Affective commitment",
+        "D": "Normative commitment"
+      },
+      "correctAnswer": "B",
+      "explanation": "Job satisfaction is an employee's attitude or emotional response toward their job.",
+      "topic": "Employee Satisfaction and Commitment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1447",
+      "questionText": "The extent to which an employee identifies with and is involved with an organization is called:",
+      "options": {
+        "A": "Job satisfaction",
+        "B": "Continuance commitment",
+        "C": "Organizational commitment",
+        "D": "Affective commitment"
+      },
+      "correctAnswer": "C",
+      "explanation": "Organizational commitment reflects identification with and involvement in the organization.",
+      "topic": "Employee Satisfaction and Commitment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1448",
+      "questionText": "An employee feels obligated to remain with an organization because of the time and effort she has already invested. This is an example of:",
+      "options": {
+        "A": "Affective commitment",
+        "B": "Normative commitment",
+        "C": "Continuance commitment",
+        "D": "Overall commitment"
+      },
+      "correctAnswer": "C",
+      "explanation": "Continuance commitment is based on perceived costs of leaving the organization.",
+      "topic": "Employee Satisfaction and Commitment",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1449",
+      "questionText": "The theory that proposes some variability in job satisfaction is due to an individual's personal tendency across situations is the:",
+      "options": {
+        "A": "Discrepancy theory",
+        "B": "Social information processing theory",
+        "C": "Individual difference theory",
+        "D": "Job characteristics theory"
+      },
+      "correctAnswer": "C",
+      "explanation": "Individual difference theory explains job satisfaction partly through stable personal tendencies.",
+      "topic": "Employee Satisfaction and Commitment",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1450",
+      "questionText": "According to job characteristics theory, jobs will be more motivating if they have all of the following characteristics except:",
+      "options": {
+        "A": "Skill variety",
+        "B": "Task significance",
+        "C": "Low autonomy",
+        "D": "Feedback"
+      },
+      "correctAnswer": "C",
+      "explanation": "Job characteristics theory emphasizes high autonomy, not low autonomy, as a motivating feature.",
+      "topic": "Employee Satisfaction and Commitment",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1451",
+      "questionText": "The theory that employees observe the satisfaction levels of other employees and then model those levels is known as:",
+      "options": {
+        "A": "Equity theory",
+        "B": "Social information processing theory",
+        "C": "Discrepancy theory",
+        "D": "Two-factor theory"
+      },
+      "correctAnswer": "B",
+      "explanation": "Social information processing theory states that social cues influence employee attitudes and satisfaction.",
+      "topic": "Employee Satisfaction and Commitment",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1452",
+      "questionText": "The perceived fairness of the actual decisions made in an organization, such as who receives a promotion, is called:",
+      "options": {
+        "A": "Procedural justice",
+        "B": "Interactional justice",
+        "C": "Distributive justice",
+        "D": "Organizational justice"
+      },
+      "correctAnswer": "C",
+      "explanation": "Distributive justice concerns the fairness of outcomes such as pay, promotions, and rewards.",
+      "topic": "Employee Satisfaction and Commitment",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1453",
+      "questionText": "A program in which vacation, sick, and holiday days are combined into one category is called a:",
+      "options": {
+        "A": "Well pay program",
+        "B": "Paid time off program",
+        "C": "Financial bonus program",
+        "D": "Recognition program"
+      },
+      "correctAnswer": "B",
+      "explanation": "Paid time off programs combine different types of leave into one flexible leave bank.",
+      "topic": "Employee Satisfaction and Commitment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1454",
+      "questionText": "The most commonly used standard scale for measuring job satisfaction is the:",
+      "options": {
+        "A": "Minnesota Satisfaction Questionnaire",
+        "B": "Job Descriptive Index",
+        "C": "Faces Scale",
+        "D": "Job in General Scale"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Job Descriptive Index is one of the most widely used measures of job satisfaction.",
+      "topic": "Employee Satisfaction and Commitment",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1455",
+      "questionText": "Behaviors that are not part of an employee's job but make the organization a better place to work, such as helping coworkers, are called:",
+      "options": {
+        "A": "Counterproductive behaviors",
+        "B": "Organizational Citizenship Behaviors",
+        "C": "Prosocial behaviors",
+        "D": "Embeddedness behaviors"
+      },
+      "correctAnswer": "B",
+      "explanation": "Organizational citizenship behaviors are voluntary actions that support coworkers and the organization.",
+      "topic": "Employee Satisfaction and Commitment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1456",
+      "questionText": "Communication from subordinates to superiors is known as:",
+      "options": {
+        "A": "Downward communication",
+        "B": "Upward communication",
+        "C": "Horizontal communication",
+        "D": "Informal communication"
+      },
+      "correctAnswer": "B",
+      "explanation": "Upward communication flows from lower organizational levels to higher levels.",
+      "topic": "Organizational Communication",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1457",
+      "questionText": "The reluctance of an employee to relay bad news to a supervisor is known as the:",
+      "options": {
+        "A": "MUM effect",
+        "B": "Grapevine effect",
+        "C": "Serial communication effect",
+        "D": "Proximity effect"
+      },
+      "correctAnswer": "A",
+      "explanation": "The MUM effect is the tendency to avoid communicating unpleasant or negative information.",
+      "topic": "Organizational Communication",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1458",
+      "questionText": "The unofficial, informal communication network in an organization is the:",
+      "options": {
+        "A": "Intranet",
+        "B": "Bulletin board",
+        "C": "Grapevine",
+        "D": "Policy manual"
+      },
+      "correctAnswer": "C",
+      "explanation": "The grapevine is the informal communication network through which unofficial information spreads.",
+      "topic": "Organizational Communication",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1459",
+      "questionText": "Which grapevine pattern is similar to the children's game of telephone, where a message is passed from one person to the next in a chain?",
+      "options": {
+        "A": "Gossip",
+        "B": "Probability",
+        "C": "Cluster",
+        "D": "Single-strand"
+      },
+      "correctAnswer": "D",
+      "explanation": "In a single-strand grapevine, information passes sequentially from one person to another.",
+      "topic": "Organizational Communication",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1460",
+      "questionText": "Communication inferred from the tone, tempo, and volume of a person's speech is called:",
+      "options": {
+        "A": "Body language",
+        "B": "Artifacts",
+        "C": "Paralanguage",
+        "D": "Proxemics"
+      },
+      "correctAnswer": "C",
+      "explanation": "Paralanguage refers to vocal cues such as tone, pitch, volume, and tempo.",
+      "topic": "Organizational Communication",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1461",
+      "questionText": "In the United States, the interpersonal distance from 18 inches to 4 feet is known as the what zone?",
+      "options": {
+        "A": "Intimacy",
+        "B": "Personal distance",
+        "C": "Social distance",
+        "D": "Public distance"
+      },
+      "correctAnswer": "B",
+      "explanation": "Personal distance typically ranges from about 18 inches to 4 feet in U.S. proxemics.",
+      "topic": "Organizational Communication",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1462",
+      "questionText": "A manager receives more emails and phone calls than she can handle. This is an example of:",
+      "options": {
+        "A": "Communication overload",
+        "B": "A communication barrier",
+        "C": "The MUM effect",
+        "D": "Serial communication"
+      },
+      "correctAnswer": "A",
+      "explanation": "Communication overload occurs when the amount of information exceeds a person's capacity to process it effectively.",
+      "topic": "Organizational Communication",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1463",
+      "questionText": "An employee deals with communication overload by organizing work into an order in which it will be handled. This is called:",
+      "options": {
+        "A": "Omission",
+        "B": "Error",
+        "C": "Queuing",
+        "D": "Escape"
+      },
+      "correctAnswer": "C",
+      "explanation": "Queuing means prioritizing or ordering tasks and messages to manage overload.",
+      "topic": "Organizational Communication",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1464",
+      "questionText": "A person who listens only for words that indicate pleasure and avoids unpleasant topics is using what listening style?",
+      "options": {
+        "A": "Inclusive",
+        "B": "Stylistic",
+        "C": "Technical",
+        "D": "Leisure"
+      },
+      "correctAnswer": "D",
+      "explanation": "A leisure listening style focuses on enjoyable information and avoids unpleasant content.",
+      "topic": "Organizational Communication",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q1465",
+      "questionText": "The Flesch Index and FOG Index are used to measure the what of written material?",
+      "options": {
+        "A": "Accuracy",
+        "B": "Readability",
+        "C": "Length",
+        "D": "Tone"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Flesch and FOG indexes estimate how easy or difficult written material is to read.",
+      "topic": "Organizational Communication",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1466",
+      "questionText": "The idea that people who become leaders possess traits different from those who do not is part of:",
+      "options": {
+        "A": "Leader emergence",
+        "B": "Leader performance",
+        "C": "Situational leadership theory",
+        "D": "Path-goal theory"
+      },
+      "correctAnswer": "A",
+      "explanation": "Leader emergence focuses on why some people are perceived or selected as leaders.",
+      "topic": "Leadership",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1467",
+      "questionText": "According to research, which Big Five personality trait is most associated with leader emergence?",
+      "options": {
+        "A": "Agreeableness",
+        "B": "Neuroticism",
+        "C": "Openness to experience",
+        "D": "Extraversion"
+      },
+      "correctAnswer": "D",
+      "explanation": "Extraversion is strongly associated with being perceived as a leader.",
+      "topic": "Leadership",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1468",
+      "questionText": "A leader who acts in a warm and supportive manner and is concerned for her subordinates has a what orientation?",
+      "options": {
+        "A": "Task",
+        "B": "Person",
+        "C": "Impoverished",
+        "D": "Middle-of-the-road"
+      },
+      "correctAnswer": "B",
+      "explanation": "A person-oriented leader emphasizes employee welfare, support, and relationships.",
+      "topic": "Leadership",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1469",
+      "questionText": "According to Fiedler's contingency model, leadership effectiveness depends on the interaction between the leader's style and the:",
+      "options": {
+        "A": "Leader's intelligence",
+        "B": "Follower's personality",
+        "C": "Favorableness of the situation",
+        "D": "Organization's culture"
+      },
+      "correctAnswer": "C",
+      "explanation": "Fiedler's model states that a leader's effectiveness depends on how well their style fits situational favorableness.",
+      "topic": "Leadership",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1470",
+      "questionText": "A leader who leads through energy and optimism in a climate of despair is using what style according to IMPACT theory?",
+      "options": {
+        "A": "Informational",
+        "B": "Magnetic",
+        "C": "Position",
+        "D": "Tactical"
+      },
+      "correctAnswer": "B",
+      "explanation": "A magnetic leader inspires others through optimism, energy, and personal appeal.",
+      "topic": "Leadership",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1471",
+      "questionText": "According to House's path-goal theory, a leader who shows concern for employees is using what style?",
+      "options": {
+        "A": "Instrumental",
+        "B": "Supportive",
+        "C": "Participative",
+        "D": "Achievement-oriented"
+      },
+      "correctAnswer": "B",
+      "explanation": "Supportive leadership focuses on employee needs, well-being, and encouragement.",
+      "topic": "Leadership",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1472",
+      "questionText": "The leadership theory that focuses on interactions between leaders and subordinates and categorizes subordinates as being in either an in-group or an out-group is:",
+      "options": {
+        "A": "Path-goal theory",
+        "B": "Situational leadership theory",
+        "C": "Leader-Member Exchange theory",
+        "D": "Transformational leadership theory"
+      },
+      "correctAnswer": "C",
+      "explanation": "Leader-Member Exchange theory examines the quality of leader-subordinate relationships.",
+      "topic": "Leadership",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1473",
+      "questionText": "A leader who has power because of her knowledge has what type of power?",
+      "options": {
+        "A": "Legitimate",
+        "B": "Reward",
+        "C": "Coercive",
+        "D": "Expert"
+      },
+      "correctAnswer": "D",
+      "explanation": "Expert power comes from specialized knowledge, skill, or expertise.",
+      "topic": "Leadership",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1474",
+      "questionText": "A visionary leader who focuses on changing the goals, values, and ethics of followers is known as a:",
+      "options": {
+        "A": "Transactional leader",
+        "B": "Transformational leader",
+        "C": "Authentic leader",
+        "D": "Task-oriented leader"
+      },
+      "correctAnswer": "B",
+      "explanation": "Transformational leaders inspire followers to change values, goals, and commitment to a larger vision.",
+      "topic": "Leadership",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1475",
+      "questionText": "Hogan's research on unsuccessful leaders found that one of the main causes of poor leadership is:",
+      "options": {
+        "A": "A lack of training.",
+        "B": "Being too intelligent.",
+        "C": "Having a high need for affiliation.",
+        "D": "Being too person-oriented."
+      },
+      "correctAnswer": "A",
+      "explanation": "Poor leadership is often linked to inadequate preparation, development, or training for leadership responsibilities.",
+      "topic": "Leadership",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q1476",
+      "questionText": "For a collection of people to be considered a group, they must share a common goal, see themselves as a unit, and:",
+      "options": {
+        "A": "Have at least five members.",
+        "B": "Be physically in the same location.",
+        "C": "Provide rewards to members and have corresponding effects.",
+        "D": "Have a designated leader."
+      },
+      "correctAnswer": "C",
+      "explanation": "Groups involve interaction, shared identity, common goals, and mutual influence or rewards among members.",
+      "topic": "Group Behavior and Teams",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1477",
+      "questionText": "The extent to which group members like and trust one another is known as:",
+      "options": {
+        "A": "Group homogeneity",
+        "B": "Group status",
+        "C": "Group cohesiveness",
+        "D": "Group size"
+      },
+      "correctAnswer": "C",
+      "explanation": "Group cohesiveness describes the bond, attraction, and trust among group members.",
+      "topic": "Group Behavior and Teams",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1478",
+      "questionText": "A task for which a group's performance depends on the least effective group member is a what task?",
+      "options": {
+        "A": "Additive",
+        "B": "Disjunctive",
+        "C": "Conjunctive",
+        "D": "Complex"
+      },
+      "correctAnswer": "C",
+      "explanation": "In conjunctive tasks, group success depends on every member performing adequately, especially the weakest member.",
+      "topic": "Group Behavior and Teams",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1479",
+      "questionText": "The negative effects that occur when a person performs a difficult or poorly learned task in the presence of others are called:",
+      "options": {
+        "A": "Social facilitation",
+        "B": "Social inhibition",
+        "C": "Social loafing",
+        "D": "Coaction"
+      },
+      "correctAnswer": "B",
+      "explanation": "Social inhibition occurs when the presence of others worsens performance on difficult or unfamiliar tasks.",
+      "topic": "Group Behavior and Teams",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1480",
+      "questionText": "An individual in a group who exerts less effort than she would if working alone is engaging in:",
+      "options": {
+        "A": "Social inhibition",
+        "B": "Social loafing",
+        "C": "Groupthink",
+        "D": "Coaction"
+      },
+      "correctAnswer": "B",
+      "explanation": "Social loafing is the tendency to reduce individual effort when working in a group.",
+      "topic": "Group Behavior and Teams",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1481",
+      "questionText": "A state of mind in which a group is so concerned about its own cohesiveness that it ignores important information is known as:",
+      "options": {
+        "A": "Group polarization",
+        "B": "Groupthink",
+        "C": "Social loafing",
+        "D": "Individual dominance"
+      },
+      "correctAnswer": "B",
+      "explanation": "Groupthink occurs when desire for agreement prevents critical evaluation of alternatives.",
+      "topic": "Group Behavior and Teams",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1482",
+      "questionText": "Which of the following is not one of Tuckman's stages of team development?",
+      "options": {
+        "A": "Forming",
+        "B": "Storming",
+        "C": "Conforming",
+        "D": "Performing"
+      },
+      "correctAnswer": "C",
+      "explanation": "Tuckman's stages are forming, storming, norming, performing, and later adjourning; conforming is not one of them.",
+      "topic": "Group Behavior and Teams",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1483",
+      "questionText": "Conflict that keeps people from working together and lessens productivity is called:",
+      "options": {
+        "A": "Functional conflict",
+        "B": "Dysfunctional conflict",
+        "C": "Individual-group conflict",
+        "D": "Interpersonal conflict"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dysfunctional conflict harms cooperation, performance, and productivity.",
+      "topic": "Conflict and Negotiation",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1484",
+      "questionText": "A person who handles conflict by ignoring it and hoping it will resolve itself is using what style?",
+      "options": {
+        "A": "Accommodating",
+        "B": "Forcing",
+        "C": "Collaborating",
+        "D": "Avoiding"
+      },
+      "correctAnswer": "D",
+      "explanation": "Avoiding is a conflict style in which a person withdraws or ignores the conflict.",
+      "topic": "Conflict and Negotiation",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1485",
+      "questionText": "In negotiations, the lowest settlement that a person is willing to accept is their:",
+      "options": {
+        "A": "Maximum supportable position",
+        "B": "Best alternative to a negotiated agreement",
+        "C": "Least acceptable result",
+        "D": "Opening offer"
+      },
+      "correctAnswer": "C",
+      "explanation": "The least acceptable result is the minimum outcome a negotiator is willing to accept.",
+      "topic": "Conflict and Negotiation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1486",
+      "questionText": "The process of improving organizational performance by making organization-wide, rather than individual, changes is called:",
+      "options": {
+        "A": "Training and development",
+        "B": "Performance management",
+        "C": "Organization development",
+        "D": "Employee selection"
+      },
+      "correctAnswer": "C",
+      "explanation": "Organization development focuses on planned, organization-wide change to improve effectiveness.",
+      "topic": "Organization Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1487",
+      "questionText": "The first step toward organizational change, where employees look for practices that waste time and are counterproductive, is a:",
+      "options": {
+        "A": "Employee survey",
+        "B": "Sacred cow hunt",
+        "C": "Organizational analysis",
+        "D": "Focus group"
+      },
+      "correctAnswer": "B",
+      "explanation": "A sacred cow hunt identifies outdated or inefficient practices that should be challenged.",
+      "topic": "Organization Development",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q1488",
+      "questionText": "According to Carnall's stages of change, when employees begin to believe that change will actually occur and try to justify their old ways of doing things, they are in the what stage?",
+      "options": {
+        "A": "Denial",
+        "B": "Defense",
+        "C": "Discarding",
+        "D": "Adaptation"
+      },
+      "correctAnswer": "B",
+      "explanation": "In the defense stage, employees recognize change may happen but defend or justify past practices.",
+      "topic": "Organization Development",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q1489",
+      "questionText": "The shared values, beliefs, and traditions that exist among individuals in an organization are its:",
+      "options": {
+        "A": "Mission statement",
+        "B": "Organizational structure",
+        "C": "Organizational culture",
+        "D": "Policy manual"
+      },
+      "correctAnswer": "C",
+      "explanation": "Organizational culture consists of shared assumptions, values, norms, and traditions.",
+      "topic": "Organization Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1490",
+      "questionText": "According to the Vroom-Yetton model, which decision-making strategy should be used when the leader has the necessary information and group acceptance is not important?",
+      "options": {
+        "A": "Autocratic I",
+        "B": "Consultative I",
+        "C": "Group I",
+        "D": "Consultative II"
+      },
+      "correctAnswer": "A",
+      "explanation": "Autocratic I is appropriate when the leader has enough information and does not need group acceptance.",
+      "topic": "Organization Development",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q1491",
+      "questionText": "A work schedule in which employees have some flexibility in the hours they work is called:",
+      "options": {
+        "A": "A compressed workweek",
+        "B": "Job sharing",
+        "C": "Flextime",
+        "D": "Telecommuting"
+      },
+      "correctAnswer": "C",
+      "explanation": "Flextime allows employees flexibility in choosing work hours within organizational limits.",
+      "topic": "Organization Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1492",
+      "questionText": "An employee works four 10-hour days instead of five 8-hour days. This is an example of:",
+      "options": {
+        "A": "Flextime",
+        "B": "Job sharing",
+        "C": "A compressed workweek",
+        "D": "Telecommuting"
+      },
+      "correctAnswer": "C",
+      "explanation": "A compressed workweek fits the usual full-time hours into fewer workdays.",
+      "topic": "Organization Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1493",
+      "questionText": "The process of having certain organizational functions performed by an outside vendor rather than an employee in the organization is:",
+      "options": {
+        "A": "Downsizing",
+        "B": "Outsourcing",
+        "C": "Empowerment",
+        "D": "Telecommuting"
+      },
+      "correctAnswer": "B",
+      "explanation": "Outsourcing transfers certain work functions to external vendors or contractors.",
+      "topic": "Organization Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1494",
+      "questionText": "Programs that provide laid-off employees with emotional counseling, financial counseling, and job search training are called:",
+      "options": {
+        "A": "Employee assistance programs",
+        "B": "Outplacement programs",
+        "C": "Severance packages",
+        "D": "Early retirement programs"
+      },
+      "correctAnswer": "B",
+      "explanation": "Outplacement programs help displaced employees transition to new employment.",
+      "topic": "Organization Development",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1495",
+      "questionText": "Employees who remain with an organization after a downsizing are called:",
+      "options": {
+        "A": "Victims",
+        "B": "Survivors",
+        "C": "Temps",
+        "D": "Consultants"
+      },
+      "correctAnswer": "B",
+      "explanation": "Survivors are employees who remain employed after downsizing affects others.",
+      "topic": "Organization Development",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1496",
+      "questionText": "The psychological and physical reaction to certain life events or situations is known as:",
+      "options": {
+        "A": "Strain",
+        "B": "A stressor",
+        "C": "Stress",
+        "D": "Eustress"
+      },
+      "correctAnswer": "C",
+      "explanation": "Stress is the psychological and physiological response to demands or events.",
+      "topic": "Stress Management",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1497",
+      "questionText": "Stress that results in positive energy and improvements in performance and health is called:",
+      "options": {
+        "A": "Distress",
+        "B": "Eustress",
+        "C": "Strain",
+        "D": "A stressor"
+      },
+      "correctAnswer": "B",
+      "explanation": "Eustress is positive stress that can energize performance and growth.",
+      "topic": "Stress Management",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1498",
+      "questionText": "An individual who is competitive, impatient, and always in a hurry is likely a what personality?",
+      "options": {
+        "A": "Type B",
+        "B": "Neurotic",
+        "C": "Type A",
+        "D": "Hardy"
+      },
+      "correctAnswer": "C",
+      "explanation": "Type A personality is associated with competitiveness, impatience, urgency, and time pressure.",
+      "topic": "Stress Management",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1499",
+      "questionText": "When employees' work expectations and what they think they should be doing do not match the work they actually have to do, they experience:",
+      "options": {
+        "A": "Role ambiguity",
+        "B": "Role overload",
+        "C": "Role conflict",
+        "D": "Role underload"
+      },
+      "correctAnswer": "C",
+      "explanation": "Role conflict occurs when incompatible expectations or demands are placed on an employee.",
+      "topic": "Stress Management",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1500",
+      "questionText": "When an employee's job duties and performance expectations are not clearly defined, they experience:",
+      "options": {
+        "A": "Role conflict",
+        "B": "Role ambiguity",
+        "C": "Role overload",
+        "D": "Role stress"
+      },
+      "correctAnswer": "B",
+      "explanation": "Role ambiguity occurs when employees lack clear information about duties, expectations, or responsibilities.",
+      "topic": "Stress Management",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1501",
+      "questionText": "The psychological state of being overwhelmed by stress, often experienced by highly motivated professionals, is known as:",
+      "options": {
+        "A": "Depression",
+        "B": "Anxiety",
+        "C": "Burnout",
+        "D": "Role conflict"
+      },
+      "correctAnswer": "C",
+      "explanation": "Burnout is a state of emotional exhaustion and reduced effectiveness caused by chronic stress.",
+      "topic": "Stress Management",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1502",
+      "questionText": "A 24-hour cycle of physiological functions maintained by every person is called the:",
+      "options": {
+        "A": "Sleep cycle",
+        "B": "Circadian rhythm",
+        "C": "Work schedule",
+        "D": "Stress cycle"
+      },
+      "correctAnswer": "B",
+      "explanation": "Circadian rhythm is the body's roughly 24-hour biological cycle.",
+      "topic": "Stress Management",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1503",
+      "questionText": "Which type of work shift schedule is generally associated with the fewest negative effects on employees?",
+      "options": {
+        "A": "Rotating shifts",
+        "B": "Swing shifts",
+        "C": "Fixed shifts",
+        "D": "Graveyard shifts"
+      },
+      "correctAnswer": "C",
+      "explanation": "Fixed shifts are generally less disruptive because employees can maintain a more stable routine.",
+      "topic": "Stress Management",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q1504",
+      "questionText": "An employee working more than one job is:",
+      "options": {
+        "A": "Telecommuting",
+        "B": "Job sharing",
+        "C": "Moonlighting",
+        "D": "Outsourcing"
+      },
+      "correctAnswer": "C",
+      "explanation": "Moonlighting means holding an additional job outside one's primary employment.",
+      "topic": "Stress Management",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q1505",
+      "questionText": "According to research, what is the leading cause of workplace violence committed by employees or former employees?",
+      "options": {
+        "A": "Robbery",
+        "B": "An act of anger or vengeance",
+        "C": "An accident",
+        "D": "A dispute with a customer"
+      },
+      "correctAnswer": "B",
+      "explanation": "Employee or former-employee workplace violence is often driven by anger, retaliation, or vengeance.",
+      "topic": "Stress Management",
+      "difficulty": "medium"
     }
   ]
 }
